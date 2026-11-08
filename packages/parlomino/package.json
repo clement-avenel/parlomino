@@ -1,0 +1,31 @@
+{
+  "name": "parlomino",
+  "version": "0.1.0",
+  "description": "An open, composable pictogram language for augmentative and alternative communication (AAC).",
+  "license": "Apache-2.0 AND CC-BY-SA-4.0",
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./global": "./dist/parlomino.global.js",
+    "./package.json": "./package.json"
+  },
+  "types": "./dist/index.d.ts",
+  "jsdelivr": "./dist/parlomino.global.js",
+  "unpkg": "./dist/parlomino.global.js",
+  "files": ["dist", "LICENSE", "LICENSE-PICTOGRAMS"],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "prepack": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "zod": "^4.6.7"
+  },
+  "keywords": ["aac", "pictogram", "pictograms", "accessibility", "augmentative-communication", "svg"],
+  "homepage": "https://clement-avenel.github.io/parlomino/",
+  "repository": { "type": "git", "url": "git+https://github.com/clement-avenel/parlomino.git", "directory": "packages/parlomino" },
+  "bugs": "https://github.com/clement-avenel/parlomino/issues"
+}

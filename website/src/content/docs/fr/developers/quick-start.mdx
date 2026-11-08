@@ -17,9 +17,9 @@ Le moteur est une petite bibliothèque TypeScript, sans DOM ni accès aux fichie
 ## Installation
 
 <Code lang="sh" code={`git clone https://github.com/clement-avenel/parlomino.git
-cd parlomino && npm install && npm run build
+cd parlomino && npm install && npm run bundle
 # puis, dans votre projet :
-npm install ../parlomino/packages/core`} />
+npm install ../parlomino/packages/parlomino`} />
 
 ## Composer un picto
 
@@ -48,6 +48,12 @@ Le moteur ne lève jamais d'exception sur une saisie invalide : il renvoie les p
 La recherche comprend ce que les gens tapent : accents, majuscules, articles, pluriels et conjugaisons.
 
 <DevSample sample="search" />
+
+## L'utiliser depuis un autre langage
+
+`parlomino/global` (`dist/parlomino.global.js`) contient le moteur et la bibliothèque en un seul fichier, qui expose un objet global `Parlomino`
+avec `compose`, `validate`, `search`, `themes`, `jsonSchemas` et `version`.
+Il suffit d'un moteur JavaScript, sans Node, DOM ni accès aux fichiers : chargez le fichier dans le moteur intégré à votre langage, puis appelez `Parlomino.compose(…)`.
 
 ## Pour aller plus loin
 

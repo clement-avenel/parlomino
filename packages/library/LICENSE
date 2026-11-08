@@ -5,11 +5,11 @@ These drawings are licensed under the Creative Commons
 Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-Required attribution: "Parlomino pictograms (parlomino.org), CC BY-SA 4.0".
+Required attribution: "Parlomino pictograms (https://clement-avenel.github.io/parlomino/), CC BY-SA 4.0".
 
 Many pictograms are adapted from OpenMoji (https://openmoji.org), the open-source
 emoji and icon project, licensed under CC BY-SA 4.0: colors were mapped to the
-Parlomino palette and outlines thickened. They are listed in elements.openmoji.json,
+Parlomino palette and outlines thickened. They are listed at https://clement-avenel.github.io/parlomino/credits/ and in packages/library/elements.openmoji.json of the source repository,
 with the author and the original symbol of each one. Changes: colors mapped to the
 Parlomino palette, outlines thickened, body parts recolored in skin tone. This does
 not imply any endorsement by the OpenMoji project. When sharing them, please include

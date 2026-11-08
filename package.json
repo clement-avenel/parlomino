@@ -6,6 +6,7 @@
     "packages/spec",
     "packages/library",
     "packages/core",
+    "packages/parlomino",
     "website"
   ],
   "scripts": {
@@ -17,10 +18,12 @@
     "site": "npm run generate && node --conditions=source website/scripts/hero.ts && npm run build -w @parlomino/website",
     "site:dev": "npm run generate && node --conditions=source website/scripts/hero.ts && npm run dev -w @parlomino/website",
     "import:openmoji": "npm run import:openmoji -w @parlomino/library",
-    "draw": "npm run import:openmoji -w @parlomino/library && npm run draw:characters -w @parlomino/library && npm run generate"
+    "draw": "npm run import:openmoji -w @parlomino/library && npm run draw:characters -w @parlomino/library && npm run generate",
+    "bundle": "npm run build -w parlomino"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
+    "esbuild": "^0.28.2",
     "typescript": "^7.0.2",
     "vitest": "^5.1.0"
   },

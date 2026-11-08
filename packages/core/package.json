@@ -1,5 +1,6 @@
 {
   "name": "@parlomino/core",
+  "private": true,
   "version": "0.1.0",
   "license": "Apache-2.0",
   "type": "module",
@@ -10,7 +11,16 @@
       "default": "./dist/index.js"
     }
   },
-  "files": ["dist"],
-  "dependencies": { "@parlomino/spec": "0.1.0", "@parlomino/library": "0.1.0" },
-  "repository": { "type": "git", "url": "https://github.com/clement-avenel/parlomino", "directory": "packages/core" }
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@parlomino/spec": "0.1.0",
+    "@parlomino/library": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clement-avenel/parlomino",
+    "directory": "packages/core"
+  }
 }

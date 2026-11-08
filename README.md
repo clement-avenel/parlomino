@@ -7,7 +7,7 @@ Pieces snap together like dominoes: a **concept** (apple, eat, child), a **badge
 (plural, negation, very, small…), each in a fixed zone. A **phrase** is a sequence of pictograms.
 
 ```ts
-import { compose, search } from "@parlomino/core";
+import { compose, search } from "parlomino";
 
 compose({ concept: "lex.doctor", modifiers: ["plural"] });
 // → { ok: true, svg: "<svg … aria-label=\"doctor (several)\">…</svg>", label: "doctor (several)" }
@@ -42,14 +42,17 @@ existing AAC approaches (picture exchange, communication books, core vocabulary,
 - **International**: drawings contain no text; labels are per-language data, with English as the fallback.
 - **Accessible**: high-contrast theme, adjustable stroke width, an accessible label in every SVG.
 - **Offline and portable**: pure TypeScript functions, no DOM, no file access.
-  Runs in browsers, Node, mobile apps, or other stacks (e.g. Ruby through `mini_racer`).
+  Runs in browsers, Node, mobile apps, and in any language that can embed a JavaScript engine.
 - **LLM-friendly**: a closed vocabulary of ids, exported JSON Schemas, errors with suggested fixes.
 - **Fast**: a budget of 10 ms per 1000 pictograms, checked in CI (`npm run bench`).
 
 ## Packages
 
+Only `parlomino` is meant to be published. The `@parlomino/*` packages are internal to this repository.
+
 | Package | Role |
 |---|---|
+| [`parlomino`](packages/parlomino) | **The published package**: everything below as one ES module with types, plus a single-file global bundle for other languages |
 | [`@parlomino/spec`](packages/spec) | The format of pictograms and phrases (Zod schemas + JSON Schemas) |
 | [`@parlomino/library`](packages/library) | The drawings (concepts, frames, marks), the lexicon and the palette |
 | [`@parlomino/core`](packages/core) | Validation with suggestions, composition to SVG (pictogram or phrase), search, themes |
@@ -71,6 +74,7 @@ Adding a language means adding its labels, and optionally its rules in `packages
 ```sh
 npm install
 npm test           # regenerates the library and runs the tests
+npm run bundle     # builds the published package (packages/parlomino/dist) and checks it
 npm run draw       # redraws the character poses and re-imports OpenMoji symbols
 npm run site       # documentation site (Astro Starlight) in website/dist, deployed to GitHub Pages
 npm run site:dev   # the same, with live reload

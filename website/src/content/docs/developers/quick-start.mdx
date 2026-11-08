@@ -17,9 +17,9 @@ The engine is a small TypeScript library, with no DOM and no file access: it run
 ## Install
 
 <Code lang="sh" code={`git clone https://github.com/clement-avenel/parlomino.git
-cd parlomino && npm install && npm run build
+cd parlomino && npm install && npm run bundle
 # then, in your project:
-npm install ../parlomino/packages/core`} />
+npm install ../parlomino/packages/parlomino`} />
 
 ## Compose a pictogram
 
@@ -48,6 +48,12 @@ The engine never throws on invalid input: it returns the issues, with a suggesti
 Search understands what people type: accents, case, articles, plurals and conjugations.
 
 <DevSample sample="search" />
+
+## Use it from another language
+
+`parlomino/global` (`dist/parlomino.global.js`) is the engine and the library in one file, exposing a `Parlomino` global
+with `compose`, `validate`, `search`, `themes`, `jsonSchemas` and `version`.
+It only needs a JavaScript engine, without Node, a DOM or file access: load the file in the engine embedded in your language, then call `Parlomino.compose(…)`.
 
 ## Next steps
 

@@ -59,10 +59,9 @@ The spec package exports JSON Schemas, for APIs, forms and LLM tools.
 
 <DevSample sample="schemas" />
 
-## Packages
+## Package
 
-| Package | Role |
+| Import | Content |
 |---|---|
-| `@parlomino/spec` | The format of pictograms and phrases, with JSON Schemas. |
-| `@parlomino/library` | The drawings, the lexicon and the palette. |
-| `@parlomino/core` | Validation, composition to SVG, search and themes. |
+| `parlomino` | The ES module, with its TypeScript types: composition, validation, search, themes, schemas and the library. |
+| `parlomino/global` | The same in one file, exposing a `Parlomino` global, for other languages. |

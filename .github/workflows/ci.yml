@@ -16,5 +16,7 @@ jobs:
         run: npm run draw && git diff --exit-code packages/library
       - name: Performance budget
         run: npm run bench
+      - name: Single-file bundle builds and runs in a bare V8 context
+        run: npm run bundle
       - name: Documentation site builds
         run: npm run site
