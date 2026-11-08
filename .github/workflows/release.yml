@@ -1,0 +1,31 @@
+name: Release
+# Pushing a tag such as v0.2.0 publishes a GitHub Release with the installable package.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: The tag matches the package version
+        run: test "v$(node -p "require('./packages/parlomino/package.json').version")" = "$GITHUB_REF_NAME"
+      - run: npm test
+      - name: Build and pack
+        run: |
+          mkdir release
+          npm pack -w parlomino --pack-destination release
+          cp packages/parlomino/dist/parlomino.global.js release/
+      - name: Publish the GitHub Release
+        run: gh release create "$GITHUB_REF_NAME" release/* --title "$GITHUB_REF_NAME" --generate-notes --verify-tag
+        env:
+          GH_TOKEN: ${{ github.token }}

@@ -10,16 +10,13 @@ import PictoGrid from '../../../../components/PictoGrid.astro';
 
 Le moteur est une petite bibliothèque TypeScript, sans DOM ni accès aux fichiers : il fonctionne dans un navigateur, sous Node, dans une app mobile ou dans d'autres langages. Les résultats affichés sur cette page sont calculés par le moteur au moment de la génération du site.
 
-<Aside type="caution" title="Pas encore sur npm">
-  Les paquets ne sont pas encore publiés sur npm. En attendant, utilisez-les depuis le dépôt GitHub.
+<Aside type="note" title="Installation depuis GitHub">
+  Le paquet est distribué par les [GitHub Releases](https://github.com/clement-avenel/parlomino/releases), pas par le registre npm. Pour changer de version, modifiez-la dans le lien.
 </Aside>
 
 ## Installation
 
-<Code lang="sh" code={`git clone https://github.com/clement-avenel/parlomino.git
-cd parlomino && npm install && npm run bundle
-# puis, dans votre projet :
-npm install ../parlomino/packages/parlomino`} />
+<Code lang="sh" code={`npm install https://github.com/clement-avenel/parlomino/releases/download/v0.1.0/parlomino-0.1.0.tgz`} />
 
 ## Composer un picto
 
@@ -53,7 +50,7 @@ La recherche comprend ce que les gens tapent : accents, majuscules, articles, pl
 
 `parlomino/global` (`dist/parlomino.global.js`) contient le moteur et la bibliothèque en un seul fichier, qui expose un objet global `Parlomino`
 avec `compose`, `validate`, `search`, `themes`, `jsonSchemas` et `version`.
-Il suffit d'un moteur JavaScript, sans Node, DOM ni accès aux fichiers : chargez le fichier dans le moteur intégré à votre langage, puis appelez `Parlomino.compose(…)`.
+Il suffit d'un moteur JavaScript, sans Node, DOM ni accès aux fichiers : [téléchargez-le](https://github.com/clement-avenel/parlomino/releases/download/v0.1.0/parlomino.global.js), chargez-le dans le moteur intégré à votre langage, puis appelez `Parlomino.compose(…)`.
 
 ## Pour aller plus loin
 

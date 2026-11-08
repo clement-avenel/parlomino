@@ -6,7 +6,7 @@ Concepts, badges, frames and modifiers snap together like dominoes. The engine t
 into accessible SVG pictograms, with English and French labels.
 
 ```sh
-npm install parlomino
+npm install https://github.com/clement-avenel/parlomino/releases/download/v0.1.0/parlomino-0.1.0.tgz
 ```
 
 ```ts
