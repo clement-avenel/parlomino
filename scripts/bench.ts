@@ -19,7 +19,7 @@ const byZone = (zone: string) => (Object.keys(MODIFIERS) as Modifier[]).filter((
 const randomPicto = (): PictoInput => {
   const concept = pick(concepts);
   const isEntry = concept.startsWith("lex.");
-  const modifiers = ["concept", "overlay", "indicator", "size"].flatMap((z) => (rand() < 0.3 ? [pick(byZone(z))] : []));
+  const modifiers = ["concept", "overlay", "indicator"].flatMap((z) => (rand() < 0.3 ? [pick(byZone(z))] : []));
   return {
     concept,
     ...(!isEntry && rand() < 0.3 && { badge: pick(badges) }),

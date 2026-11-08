@@ -50,6 +50,76 @@ export const elements: ElementDef[] = [
     "svg": "<path d=\"M24 96 V50 Q24 32 50 32 Q76 32 76 50 V96 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"16\" r=\"12\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M38 15 Q38 3 50 3 Q62 3 62 15 Q56 9 50 10 Q44 9 38 15 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
   },
   {
+    "id": "person.me",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "me",
+        "I"
+      ],
+      "fr": [
+        "moi",
+        "je"
+      ]
+    },
+    "forms": {
+      "en": [
+        "my",
+        "mine",
+        "myself"
+      ],
+      "fr": [
+        "mon",
+        "ma",
+        "mes",
+        "m"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M24 96 V64 Q24 46 50 46 Q76 46 76 64 V96 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"26\" r=\"17\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"40\" y=\"62\" width=\"40\" height=\"16\" rx=\"8\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
+  },
+  {
+    "id": "person.you",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "you"
+      ],
+      "fr": [
+        "toi",
+        "tu"
+      ]
+    },
+    "forms": {
+      "en": [
+        "your",
+        "yours",
+        "yourself"
+      ],
+      "fr": [
+        "ton",
+        "ta",
+        "tes",
+        "te",
+        "t"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M8 74 V48 Q8 34 28 34 Q48 34 48 48 V74 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"28\" cy=\"19\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"-6\" y=\"-26\" width=\"12\" height=\"28\" rx=\"6\" transform=\"translate(80 80) rotate(-50)\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M70 78 Q70 68 80 68 H86 Q97 68 97 80 V86 Q97 98 86 98 H80 Q70 98 70 88 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
+  },
+  {
     "id": "action.eat",
     "kind": "concept",
     "category": "action",
@@ -356,44 +426,6 @@ export const elements: ElementDef[] = [
       "license": "CC-BY-SA-4.0"
     },
     "svg": "<path d=\"M18 50 H82\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "mark.big",
-    "kind": "mark",
-    "labels": {
-      "en": [
-        "big"
-      ],
-      "fr": [
-        "grand"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"38\" cy=\"56\" r=\"30\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"8\"/><circle cx=\"84\" cy=\"80\" r=\"10\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"8\"/>"
-  },
-  {
-    "id": "mark.small",
-    "kind": "mark",
-    "labels": {
-      "en": [
-        "small"
-      ],
-      "fr": [
-        "petit"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"38\" cy=\"56\" r=\"30\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"8\"/><circle cx=\"84\" cy=\"80\" r=\"10\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"8\"/>"
   }
 ];
 

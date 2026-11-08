@@ -33,6 +33,12 @@ describe("search", () => {
     ["bu", "action.drink"],
     ["dort", "action.sleep"],
     ["enfants", "person.child"],
+    ["moi", "person.me"],
+    ["je", "person.me"],
+    ["mon", "person.me"],              // possessive, from `forms`
+    ["toi", "person.you"],
+    ["ton", "person.you"],
+    ["mon ballon", "object.ball"],     // possessive dropped like an article
   ])("fr: %s → %s", (query, id) => {
     expect(first(query, "fr")).toBe(id);
   });
@@ -47,6 +53,9 @@ describe("search", () => {
     ["ate", "action.eat"],
     ["drank", "action.drink"],
     ["slept", "action.sleep"],
+    ["me", "person.me"],
+    ["my", "person.me"],
+    ["your", "person.you"],
   ])("en: %s → %s", (query, id) => {
     expect(first(query)).toBe(id);
   });

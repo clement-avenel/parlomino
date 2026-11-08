@@ -11,6 +11,8 @@ export interface Theme {
   halo: string;
   /** Border of each pictogram card in a phrase. */
   card: string;
+  /** Dashed reference outline used by big and small. */
+  ghost: string;
 }
 
 export const themes = {
@@ -21,6 +23,7 @@ export const themes = {
     negation: "#D62828",
     halo: palette.paper,
     card: "#D1D5DB",
+    ghost: "#9CA3AF",
   },
   /** For low vision: yellow outlines on black, no color-only information. */
   "high-contrast": {
@@ -32,6 +35,7 @@ export const themes = {
     negation: "#FFFFFF",
     halo: "#000000",
     card: "#FFE600",
+    ghost: "#BFBFBF",
   },
 } satisfies Record<string, Theme>;
 

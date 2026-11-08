@@ -17,7 +17,7 @@ export type Category = z.infer<typeof Category>;
  * What a library element is:
  * - concept: a base drawing (child, eat, apple…). Any concept can also be used as a badge.
  * - frame:   a container changing the category of a concept (place, moment…), id `frame.<name>`.
- * - mark:    a small sign drawn for a modifier (very, big…), id `mark.<name>`.
+ * - mark:    a small sign drawn for a modifier (very, a little), id `mark.<name>`.
  */
 export const ElementKind = z.enum(["concept", "frame", "mark"]);
 export type ElementKind = z.infer<typeof ElementKind>;
@@ -74,9 +74,9 @@ export type ElementDef = z.output<typeof ElementDef>;
  *   ┌──────────────────────────┐
  *   │ indicator         badge  │   indicator: very, little
  *   │                          │   badge:     any concept, e.g. `idea.care`
- *   │         concept          │   concept:   plural (drawn twice)
+ *   │         concept          │   concept:   plural (drawn twice), big or small (compared
+ *   │                          │              with a dashed copy of itself)
  *   │                          │
- *   │                    size  │   size:      big, small
  *   └──────────────────────────┘   overlay:   negation (bar across the concept)
  *                                  frame:     the whole outline, e.g. `frame.place`
  */
@@ -85,8 +85,8 @@ export const MODIFIERS = {
   negation: { zone: "overlay", labels: { en: "not", fr: "pas" } },
   very: { zone: "indicator", labels: { en: "very", fr: "très" } },
   little: { zone: "indicator", labels: { en: "a little", fr: "un peu" } },
-  big: { zone: "size", labels: { en: "big", fr: "grand" } },
-  small: { zone: "size", labels: { en: "small", fr: "petit" } },
+  big: { zone: "concept", labels: { en: "big", fr: "grand" } },
+  small: { zone: "concept", labels: { en: "small", fr: "petit" } },
 } as const satisfies Record<string, { zone: string; labels: Record<string, string> }>;
 
 export type Modifier = keyof typeof MODIFIERS;

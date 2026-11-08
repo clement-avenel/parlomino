@@ -63,10 +63,9 @@ describe.each(defaultLibrary.elements.map((e) => [e.id, e] as const))("%s", (_, 
 });
 
 describe("library", () => {
-  it("has a mark for every modifier drawn in a corner zone", () => {
-    for (const [name, m] of Object.entries(MODIFIERS)) {
-      if (m.zone === "indicator" || m.zone === "size") expect(defaultLibrary.get(`mark.${name}`), name).toBeDefined();
-    }
+  it("has a mark for every modifier drawn in a corner zone, and no unused mark", () => {
+    const cornerModifiers = Object.entries(MODIFIERS).filter(([, m]) => m.zone === "indicator").map(([name]) => `mark.${name}`);
+    expect(defaultLibrary.ofKind("mark").map((e) => e.id).sort()).toEqual(cornerModifiers.sort());
   });
 
   it("has well-formed lexicon entries labeled in every required language", () => {

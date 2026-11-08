@@ -18,9 +18,9 @@ The whole system fits in four building blocks and five zones.
 ┌──────────────────────────┐
 │ indicator         badge  │   indicator: very, little
 │                          │   badge:     any concept
-│         concept          │   concept:   plural (the concept is drawn twice)
+│         concept          │   concept:   plural (the concept is drawn twice),
+│                          │              big or small (next to a dashed copy of itself)
 │                          │
-│                    size  │   size:      big, small
 └──────────────────────────┘   overlay:   negation (a bar across the concept)
                                outline:   the frame (place, moment)
 ```
@@ -46,7 +46,8 @@ the engine rejects it with a clear message. This guarantees a readable result, e
 Tense (`past`, `future`) and question apply to the whole phrase; negation applies to the pictogram it crosses.
 
 Possession ("my ball", "your cup") is not a modifier: like in most AAC systems, it is expressed
-with separate pictograms in the phrase ("me", "you"), which are easier for children to understand.
+with separate pictograms in the phrase, which are easier for children to understand:
+`{ "phrase": [{ "concept": "person.me" }, { "concept": "object.ball" }] }` → my ball.
 
 ## Lexicon
 

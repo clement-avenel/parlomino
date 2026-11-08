@@ -43,6 +43,72 @@
     }
   },
   {
+    "id": "person.me",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "me",
+        "I"
+      ],
+      "fr": [
+        "moi",
+        "je"
+      ]
+    },
+    "forms": {
+      "en": [
+        "my",
+        "mine",
+        "myself"
+      ],
+      "fr": [
+        "mon",
+        "ma",
+        "mes",
+        "m"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.you",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "you"
+      ],
+      "fr": [
+        "toi",
+        "tu"
+      ]
+    },
+    "forms": {
+      "en": [
+        "your",
+        "yours",
+        "yourself"
+      ],
+      "fr": [
+        "ton",
+        "ta",
+        "tes",
+        "te",
+        "t"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
     "id": "action.eat",
     "kind": "concept",
     "category": "action",
@@ -318,40 +384,6 @@
       ],
       "fr": [
         "un peu"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    }
-  },
-  {
-    "id": "mark.big",
-    "kind": "mark",
-    "labels": {
-      "en": [
-        "big"
-      ],
-      "fr": [
-        "grand"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    }
-  },
-  {
-    "id": "mark.small",
-    "kind": "mark",
-    "labels": {
-      "en": [
-        "small"
-      ],
-      "fr": [
-        "petit"
       ]
     },
     "tags": [],

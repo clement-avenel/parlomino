@@ -9,7 +9,7 @@ declared in `packages/library/elements.json`. Tests check these rules automatica
 |---|---|---|
 | Concept | `<category>.<name>` (`person`, `action`, `object`, `place`, `idea`) | Base drawing, also usable as a badge |
 | Frame | `frame.<name>` | Outline changing the category. Declares an `inner` box where the concept is drawn |
-| Mark | `mark.<modifier>` | Small sign of a modifier (very, big…), shown in a corner disc |
+| Mark | `mark.<modifier>` | Small sign of a modifier (very, a little), shown in a corner disc |
 
 ## Rules
 
@@ -35,10 +35,12 @@ intellectual disabilities. When a rule below conflicts with aesthetics, the rule
 - **One idea, one silhouette**: the outline alone should be enough to recognize it.
 - **Obvious differences**: two elements that mean different things must not look alike
   (a child has a big head and a small body, an adult a small head and a tall body).
+- **Show, don't symbolize**: when a meaning can be shown with the concept itself, do it.
+  Big and small compare the concept with a dashed copy of itself instead of using an abstract mark.
 - **No computer conventions**: no resize arrows, crosshairs, cursors or interface icons.
 - **Few strokes, few colors**: enforced by a simplicity budget in the tests
   (strokes, colors and minimal stroke width per kind of element).
-- **Modifiers are learned**: "very", "a little", "big"… cannot be fully obvious.
+- **Modifiers are learned**: "very", "a little", "big", "small"… cannot be fully obvious.
   Keep their marks as simple as possible, and expect them to be taught.
 
 ## Testing with children

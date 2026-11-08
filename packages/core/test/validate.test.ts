@@ -36,7 +36,8 @@ describe("validatePicto", () => {
       issues: [{ code: "zone_conflict" }],
     });
     expect(validatePicto({ concept: "object.ball", modifiers: ["big", "small"] })).toMatchObject({ ok: false });
-    expect(validatePicto({ concept: "object.ball", modifiers: ["very", "big", "plural", "negation"] }).ok).toBe(true);
+    expect(validatePicto({ concept: "object.ball", modifiers: ["big", "plural"] })).toMatchObject({ ok: false, issues: [{ code: "zone_conflict" }] });
+    expect(validatePicto({ concept: "object.ball", modifiers: ["very", "big", "negation"] }).ok).toBe(true);
   });
 
   it("rejects duplicate modifiers", () => {

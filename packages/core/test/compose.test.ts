@@ -47,8 +47,22 @@ describe("composePicto", () => {
 
   it("draws one disc per used corner zone", () => {
     const { svg, label } = picto({ concept: "lex.doctor", modifiers: ["very", "small"] });
-    expect(discs(svg)).toBe(3);
+    expect(discs(svg)).toBe(2);
     expect(label).toBe("doctor (very, small)");
+  });
+
+  it.each([
+    ["big", true],
+    ["small", false],
+  ] as const)("compares the concept with a dashed copy of itself for %s", (modifier, solidIsLarger) => {
+    const { svg } = picto({ concept: "object.ball", modifiers: [modifier] });
+    expect(svg).toContain('stroke-dasharray="7 6"');
+    expect(discs(svg)).toBe(0);
+    // Two copies: [solid, ghost] for big, [ghost, solid] for small; compare their scales.
+    const scales = [...svg.matchAll(/scale\(([\d.]+)\)">(<g stroke-dasharray)?/g)].map((m) => ({ scale: Number(m[1]), ghost: Boolean(m[2]) }));
+    const solid = scales.find((s) => !s.ghost)!;
+    const ghost = scales.find((s) => s.ghost)!;
+    expect(solid.scale > ghost.scale).toBe(solidIsLarger);
   });
 
   it("bars the concept for a negation", () => {

@@ -17,7 +17,7 @@ describe("spec", () => {
   });
 
   it("puts every modifier in a known zone", () => {
-    const zones = new Set(["concept", "overlay", "indicator", "size"]);
+    const zones = new Set(["concept", "overlay", "indicator"]);
     for (const [name, m] of Object.entries(MODIFIERS)) expect(zones, name).toContain(m.zone);
   });
 

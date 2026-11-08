@@ -30,7 +30,6 @@ const COMPACT_BOX: Box = { x: 14, y: 16, size: 72 };
 const CORNERS = {
   indicator: { cx: 17, cy: 17 },
   badge: { cx: 83, cy: 17 },
-  size: { cx: 83, cy: 83 },
 } as const;
 const DISC_RADIUS = 15;
 
@@ -104,7 +103,6 @@ function pictoBody(p: ResolvedPicto, ctx: Ctx): string {
   const has = (m: Modifier) => p.modifiers.includes(m);
   const zoneModifier = (zone: string) => p.modifiers.find((m) => MODIFIERS[m].zone === zone);
   const indicator = zoneModifier("indicator");
-  const size = zoneModifier("size");
   const parts: string[] = [];
 
   let box: Box;
@@ -112,14 +110,18 @@ function pictoBody(p: ResolvedPicto, ctx: Ctx): string {
     parts.push(place(drawing(p.frame, ctx), { x: 0, y: 0, size: 100 }));
     box = p.frame.inner!;
   } else {
-    box = p.badge || indicator || size ? COMPACT_BOX : CONCEPT_BOX;
+    box = p.badge || indicator ? COMPACT_BOX : CONCEPT_BOX;
   }
   const negationBox = box;
 
-  if (size === "small") box = { x: box.x + box.size * 0.2, y: box.y + box.size * 0.4, size: box.size * 0.6 };
-
   const concept = drawing(p.concept, ctx);
-  if (has("plural")) {
+  if (has("big") || has("small")) {
+    // The concept compared with a dashed copy of itself: the solid one is the bigger (big) or the smaller (small).
+    const large: Box = { x: box.x, y: box.y, size: box.size * 0.78 };
+    const small: Box = { x: box.x + box.size * 0.6, y: box.y + box.size * 0.6, size: box.size * 0.4 };
+    const ghost = ghostDrawing(p.concept, ctx);
+    parts.push(has("big") ? place(concept, large) + place(ghost, small) : place(ghost, large) + place(concept, small));
+  } else if (has("plural")) {
     const s = box.size * 0.8;
     parts.push(place(concept, { x: box.x + box.size - s, y: box.y, size: s }));
     parts.push(place(concept, { x: box.x, y: box.y + box.size - s, size: s }));
@@ -135,7 +137,6 @@ function pictoBody(p: ResolvedPicto, ctx: Ctx): string {
   }
 
   if (indicator) parts.push(disc(CORNERS.indicator, markDrawing(indicator, ctx), ctx));
-  if (size) parts.push(disc(CORNERS.size, markDrawing(size, ctx), ctx));
   if (p.badge) parts.push(disc(CORNERS.badge, drawing(p.badge, ctx), ctx));
 
   return parts.join("");
@@ -233,6 +234,22 @@ const HEX_TO_PALETTE = new Map(
   Object.entries(palette).map(([name, hex]) => [hex.toUpperCase(), name as PaletteColor]),
 );
 const drawingCache = new WeakMap<Theme, Map<string, string>>();
+
+/** An element as a dashed outline, without fills: the reference size for big and small. */
+function ghostDrawing(element: ElementDef, ctx: Ctx): string {
+  const key = `ghost:${element.id}`;
+  let cache = drawingCache.get(ctx.theme);
+  if (!cache) drawingCache.set(ctx.theme, (cache = new Map()));
+  let out = cache.get(key);
+  if (out === undefined) {
+    const inner = element.svg
+      .replace(/fill="#[0-9a-fA-F]{6}"/g, 'fill="none"')
+      .replace(/stroke="#[0-9a-fA-F]{6}"/g, `stroke="${ctx.theme.ghost}"`);
+    out = `<g stroke-dasharray="7 6">${inner}</g>`;
+    cache.set(key, out);
+  }
+  return out;
+}
 
 /** Recolors and re-strokes an element for a theme. Cached: elements are immutable. */
 function drawing(element: ElementDef, { theme, strokeScale }: Ctx): string {
