@@ -7,7 +7,7 @@ declared in `packages/library/elements.json`. Tests check these rules automatica
 
 | Kind | Id | Role |
 |---|---|---|
-| Concept | `<category>.<name>` (`person`, `action`, `object`, `place`, `idea`) | Base drawing, also usable as a badge |
+| Concept | `<category>.<name>` (`person`, `action`, `feeling`, `object`, `place`, `idea`) | Base drawing, also usable as a badge |
 | Frame | `frame.<name>` | Outline changing the category. Declares an `inner` box where the concept is drawn |
 | Mark | `mark.<modifier>` | Small sign of a modifier (very, a little), shown in a corner disc |
 
@@ -54,6 +54,13 @@ Automatic checks only catch complexity. Whether a pictogram is understood can on
    combinations a few days later. Aim for at least 2 out of 3 correct answers.
 3. **Write results down** next to the element (date, age, number of children, score), so the library
    keeps track of what has been validated.
+
+## Choosing what to draw
+
+New concepts are prioritized from established AAC vocabularies: the most frequent "core" words
+(such as the Universal Core from Project Core: help, stop, look, open, go…) and the immediate needs of
+early vocabularies (eat, drink, toilet, hurt, home…). Very abstract core words (more, want, same…)
+need a careful design with therapists before being drawn.
 
 ## Provenance and licenses
 

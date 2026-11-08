@@ -109,6 +109,76 @@
     }
   },
   {
+    "id": "person.mother",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "mother",
+        "mom",
+        "mum"
+      ],
+      "fr": [
+        "maman",
+        "mère"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.father",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "father",
+        "dad"
+      ],
+      "fr": [
+        "papa",
+        "père"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.baby",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "baby"
+      ],
+      "fr": [
+        "bébé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "babies"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
     "id": "action.eat",
     "kind": "concept",
     "category": "action",
@@ -213,6 +283,397 @@
     }
   },
   {
+    "id": "action.go",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "go",
+        "walk"
+      ],
+      "fr": [
+        "aller",
+        "marcher"
+      ]
+    },
+    "forms": {
+      "en": [
+        "goes",
+        "went",
+        "gone",
+        "going"
+      ],
+      "fr": [
+        "vais",
+        "vas",
+        "va",
+        "allons",
+        "allez",
+        "vont",
+        "allé",
+        "allée",
+        "irai",
+        "ira"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.look",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "look",
+        "see",
+        "watch"
+      ],
+      "fr": [
+        "regarder",
+        "voir"
+      ]
+    },
+    "forms": {
+      "en": [
+        "saw",
+        "seen",
+        "sees"
+      ],
+      "fr": [
+        "vois",
+        "voit",
+        "voyons",
+        "voient",
+        "vu"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.listen",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "listen",
+        "hear"
+      ],
+      "fr": [
+        "écouter",
+        "entendre"
+      ]
+    },
+    "forms": {
+      "en": [
+        "heard"
+      ],
+      "fr": [
+        "entends",
+        "entend",
+        "entendu"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.give",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "give"
+      ],
+      "fr": [
+        "donner"
+      ]
+    },
+    "forms": {
+      "en": [
+        "gives",
+        "gave",
+        "given",
+        "giving"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.help",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "help"
+      ],
+      "fr": [
+        "aider",
+        "aide"
+      ]
+    },
+    "tags": [
+      "need"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.play",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "play"
+      ],
+      "fr": [
+        "jouer"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.open",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "open"
+      ],
+      "fr": [
+        "ouvrir"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "ouvre",
+        "ouvres",
+        "ouvrons",
+        "ouvrez",
+        "ouvrent",
+        "ouvert",
+        "ouverte"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.wash",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "wash"
+      ],
+      "fr": [
+        "laver",
+        "se laver"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "feeling.happy",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "happy",
+        "glad"
+      ],
+      "fr": [
+        "content",
+        "joyeux",
+        "heureux"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "contente",
+        "contents",
+        "contentes",
+        "joyeuse",
+        "heureuse"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "feeling.sad",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "sad"
+      ],
+      "fr": [
+        "triste"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "feeling.angry",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "angry"
+      ],
+      "fr": [
+        "en colère",
+        "fâché"
+      ]
+    },
+    "forms": {
+      "en": [
+        "mad",
+        "cross"
+      ],
+      "fr": [
+        "colère",
+        "fâchée",
+        "fâchés"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "feeling.scared",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "scared",
+        "afraid"
+      ],
+      "fr": [
+        "peur",
+        "effrayé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "fear",
+        "frightened"
+      ],
+      "fr": [
+        "effrayée",
+        "peureux"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "feeling.tired",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "tired",
+        "sleepy"
+      ],
+      "fr": [
+        "fatigué"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "fatiguée",
+        "fatigués",
+        "fatiguées"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "feeling.hurt",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "hurt",
+        "pain"
+      ],
+      "fr": [
+        "mal",
+        "douleur",
+        "bobo"
+      ]
+    },
+    "forms": {
+      "en": [
+        "ouch",
+        "sore"
+      ],
+      "fr": [
+        "aïe",
+        "blessé"
+      ]
+    },
+    "tags": [
+      "need",
+      "health"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
     "id": "object.apple",
     "kind": "concept",
     "category": "object",
@@ -275,6 +736,252 @@
     }
   },
   {
+    "id": "object.book",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "book"
+      ],
+      "fr": [
+        "livre"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.teddy",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "teddy bear",
+        "cuddly toy"
+      ],
+      "fr": [
+        "doudou",
+        "nounours",
+        "peluche"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.shirt",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "clothes",
+        "shirt",
+        "T-shirt"
+      ],
+      "fr": [
+        "vêtements",
+        "habits",
+        "tee-shirt"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "vêtement",
+        "habit"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.shoe",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "shoe",
+        "shoes"
+      ],
+      "fr": [
+        "chaussure",
+        "chaussures"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.banana",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "banana"
+      ],
+      "fr": [
+        "banane"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.bread",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bread"
+      ],
+      "fr": [
+        "pain"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.toothbrush",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "toothbrush"
+      ],
+      "fr": [
+        "brosse à dents"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.chair",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "chair"
+      ],
+      "fr": [
+        "chaise"
+      ]
+    },
+    "tags": [
+      "furniture"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "place.home",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "home",
+        "house"
+      ],
+      "fr": [
+        "maison"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "place.outside",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "outside",
+        "park",
+        "garden"
+      ],
+      "fr": [
+        "dehors",
+        "parc",
+        "jardin"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "place.toilet",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "toilet",
+        "bathroom"
+      ],
+      "fr": [
+        "toilettes",
+        "WC",
+        "pipi"
+      ]
+    },
+    "tags": [
+      "need",
+      "hygiene"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
     "id": "idea.care",
     "kind": "concept",
     "category": "idea",
@@ -309,6 +1016,114 @@
       ]
     },
     "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.day",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "day",
+        "sun"
+      ],
+      "fr": [
+        "jour",
+        "soleil"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.night",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "night",
+        "moon"
+      ],
+      "fr": [
+        "nuit",
+        "lune"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.yes",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "yes"
+      ],
+      "fr": [
+        "oui"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.no",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "no"
+      ],
+      "fr": [
+        "non"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.stop",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "stop"
+      ],
+      "fr": [
+        "stop",
+        "arrêter"
+      ]
+    },
+    "forms": {
+      "en": [
+        "stops",
+        "stopped",
+        "stopping"
+      ]
+    },
+    "tags": [
+      "need"
+    ],
     "source": {
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"

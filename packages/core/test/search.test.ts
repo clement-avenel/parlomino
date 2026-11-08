@@ -39,6 +39,13 @@ describe("search", () => {
     ["toi", "person.you"],
     ["ton", "person.you"],
     ["mon ballon", "object.ball"],     // possessive dropped like an article
+    ["maman", "person.mother"],
+    ["fatiguée", "feeling.tired"],     // feminine, from `forms`
+    ["vais", "action.go"],             // irregular verb
+    ["pipi", "place.toilet"],          // children's word
+    ["les toilettes", "place.toilet"],
+    ["ouvre", "action.open"],
+    ["en colère", "feeling.angry"],    // multi-word label
   ])("fr: %s → %s", (query, id) => {
     expect(first(query, "fr")).toBe(id);
   });
@@ -56,6 +63,9 @@ describe("search", () => {
     ["me", "person.me"],
     ["my", "person.me"],
     ["your", "person.you"],
+    ["went", "action.go"],
+    ["mom", "person.mother"],
+    ["toothbrush", "object.toothbrush"],
   ])("en: %s → %s", (query, id) => {
     expect(first(query)).toBe(id);
   });

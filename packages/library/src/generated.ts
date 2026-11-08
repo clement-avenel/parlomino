@@ -120,6 +120,82 @@ export const elements: ElementDef[] = [
     "svg": "<path d=\"M8 74 V48 Q8 34 28 34 Q48 34 48 48 V74 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"28\" cy=\"19\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"-6\" y=\"-26\" width=\"12\" height=\"28\" rx=\"6\" transform=\"translate(80 80) rotate(-50)\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M70 78 Q70 68 80 68 H86 Q97 68 97 80 V86 Q97 98 86 98 H80 Q70 98 70 88 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
   },
   {
+    "id": "person.mother",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "mother",
+        "mom",
+        "mum"
+      ],
+      "fr": [
+        "maman",
+        "mère"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M30 52 Q24 30 32 14 Q40 2 50 2 Q60 2 68 14 Q76 30 70 52 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M24 96 V58 Q24 40 50 40 Q76 40 76 58 V96 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
+  },
+  {
+    "id": "person.father",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "father",
+        "dad"
+      ],
+      "fr": [
+        "papa",
+        "père"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M22 96 V56 Q22 38 50 38 Q78 38 78 56 V96 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"20\" r=\"14\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M36 18 Q36 4 50 4 Q64 4 64 18 Q57 11 50 12 Q43 11 36 18 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M37 24 Q40 40 50 40 Q60 40 63 24 Q57 30 50 30 Q43 30 37 24 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "person.baby",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "baby"
+      ],
+      "fr": [
+        "bébé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "babies"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M30 94 Q30 70 50 70 Q70 70 70 94 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"42\" r=\"26\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M46 18 Q50 8 58 14\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"50\" cy=\"54\" r=\"7\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
+  },
+  {
     "id": "action.eat",
     "kind": "concept",
     "category": "action",
@@ -230,6 +306,425 @@ export const elements: ElementDef[] = [
     "svg": "<path d=\"M12 86 V56 M88 86 V66\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M12 66 H88 V78 H12 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><ellipse cx=\"26\" cy=\"59\" rx=\"11\" ry=\"6\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M52 14 H68 L52 34 H68\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M74 38 H84 L74 50 H84\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
+    "id": "action.go",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "go",
+        "walk"
+      ],
+      "fr": [
+        "aller",
+        "marcher"
+      ]
+    },
+    "forms": {
+      "en": [
+        "goes",
+        "went",
+        "gone",
+        "going"
+      ],
+      "fr": [
+        "vais",
+        "vas",
+        "va",
+        "allons",
+        "allez",
+        "vont",
+        "allé",
+        "allée",
+        "irai",
+        "ira"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M30 94 L44 60 L62 92\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M26 56 L40 38 L50 38 L64 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M36 34 Q46 28 54 34 L56 62 H38 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"18\" r=\"12\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M70 70 H94 M86 62 L94 70 L86 78\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.look",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "look",
+        "see",
+        "watch"
+      ],
+      "fr": [
+        "regarder",
+        "voir"
+      ]
+    },
+    "forms": {
+      "en": [
+        "saw",
+        "seen",
+        "sees"
+      ],
+      "fr": [
+        "vois",
+        "voit",
+        "voyons",
+        "voient",
+        "vu"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M6 50 Q50 8 94 50 Q50 92 6 50 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"50\" r=\"17\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"50\" r=\"6\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
+  },
+  {
+    "id": "action.listen",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "listen",
+        "hear"
+      ],
+      "fr": [
+        "écouter",
+        "entendre"
+      ]
+    },
+    "forms": {
+      "en": [
+        "heard"
+      ],
+      "fr": [
+        "entends",
+        "entend",
+        "entendu"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M46 40 Q46 10 70 10 Q92 10 92 36 Q92 52 80 60 Q72 66 72 78 Q72 94 56 94 Q46 94 44 84\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M60 40 Q60 26 70 26 Q78 26 78 36 Q78 44 70 48\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M30 34 Q22 50 30 66 M16 26 Q4 50 16 74\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "action.give",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "give"
+      ],
+      "fr": [
+        "donner"
+      ]
+    },
+    "forms": {
+      "en": [
+        "gives",
+        "gave",
+        "given",
+        "giving"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M6 70 Q6 60 18 60 H56 Q72 60 74 72 Q74 82 62 82 H18 Q6 82 6 70 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><circle cx=\"40\" cy=\"40\" r=\"18\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M68 40 H94 M84 30 L94 40 L84 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.help",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "help"
+      ],
+      "fr": [
+        "aider",
+        "aide"
+      ]
+    },
+    "tags": [
+      "need"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M10 72 Q10 62 22 62 H70 Q90 62 92 74 Q92 84 80 84 H22 Q10 84 10 72 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><rect x=\"36\" y=\"34\" width=\"32\" height=\"30\" rx=\"9\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"40\" y=\"8\" width=\"13\" height=\"34\" rx=\"6.5\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M84 50 V18 M76 26 L84 18 L92 26\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.play",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "play"
+      ],
+      "fr": [
+        "jouer"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"10\" y=\"56\" width=\"36\" height=\"36\" rx=\"5\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"54\" y=\"56\" width=\"36\" height=\"36\" rx=\"5\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"32\" y=\"16\" width=\"36\" height=\"36\" rx=\"5\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
+  },
+  {
+    "id": "action.open",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "open"
+      ],
+      "fr": [
+        "ouvrir"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "ouvre",
+        "ouvres",
+        "ouvrons",
+        "ouvrez",
+        "ouvrent",
+        "ouvert",
+        "ouverte"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"14\" y=\"52\" width=\"60\" height=\"40\" rx=\"4\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M14 52 L6 26 L54 16 L62 42 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M86 56 V20 M78 28 L86 20 L94 28\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.wash",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "wash"
+      ],
+      "fr": [
+        "laver",
+        "se laver"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"6\" y=\"10\" width=\"56\" height=\"16\" rx=\"5\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"48\" y=\"18\" width=\"16\" height=\"22\" rx=\"4\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M56 44 Q50 54 56 58 Q62 54 56 44 Z M56 62 Q50 72 56 76 Q62 72 56 62 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M14 84 Q14 76 24 76 H76 Q92 76 92 86 Q92 94 82 94 H24 Q14 94 14 84 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "feeling.happy",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "happy",
+        "glad"
+      ],
+      "fr": [
+        "content",
+        "joyeux",
+        "heureux"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "contente",
+        "contents",
+        "contentes",
+        "joyeuse",
+        "heureuse"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><circle cx=\"35\" cy=\"42\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"65\" cy=\"42\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M28 60 Q50 86 72 60\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "feeling.sad",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "sad"
+      ],
+      "fr": [
+        "triste"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M26 36 L40 30 M74 36 L60 30\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"44\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"65\" cy=\"44\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M32 76 Q50 60 68 76\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M28 54 Q22 64 28 68 Q34 64 28 54 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "feeling.angry",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "angry"
+      ],
+      "fr": [
+        "en colère",
+        "fâché"
+      ]
+    },
+    "forms": {
+      "en": [
+        "mad",
+        "cross"
+      ],
+      "fr": [
+        "colère",
+        "fâchée",
+        "fâchés"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M24 30 L42 40 M76 30 L58 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"36\" cy=\"48\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"64\" cy=\"48\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M34 74 Q50 64 66 74\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "feeling.scared",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "scared",
+        "afraid"
+      ],
+      "fr": [
+        "peur",
+        "effrayé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "fear",
+        "frightened"
+      ],
+      "fr": [
+        "effrayée",
+        "peureux"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M24 30 Q32 22 42 28 M58 28 Q68 22 76 30\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"42\" r=\"7\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"65\" cy=\"42\" r=\"7\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/><ellipse cx=\"50\" cy=\"70\" rx=\"9\" ry=\"12\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
+  },
+  {
+    "id": "feeling.tired",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "tired",
+        "sleepy"
+      ],
+      "fr": [
+        "fatigué"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "fatiguée",
+        "fatigués",
+        "fatiguées"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M27 44 Q35 50 43 44 M57 44 Q65 50 73 44\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"50\" cy=\"70\" rx=\"8\" ry=\"10\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
+  },
+  {
+    "id": "feeling.hurt",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "hurt",
+        "pain"
+      ],
+      "fr": [
+        "mal",
+        "douleur",
+        "bobo"
+      ]
+    },
+    "forms": {
+      "en": [
+        "ouch",
+        "sore"
+      ],
+      "fr": [
+        "aïe",
+        "blessé"
+      ]
+    },
+    "tags": [
+      "need",
+      "health"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"46\" cy=\"56\" r=\"38\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M26 42 L37 48 L26 54 M66 42 L55 48 L66 54\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M30 72 L38 66 L46 72 L54 66 L62 72\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M78 6 L90 18 L80 22 L94 36\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M78 6 L90 18 L80 22 L94 36\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
     "id": "object.apple",
     "kind": "concept",
     "category": "object",
@@ -298,6 +793,274 @@ export const elements: ElementDef[] = [
     "svg": "<circle cx=\"50\" cy=\"52\" r=\"34\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M17 46 Q50 30 83 46 M50 18 Q34 52 50 86\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
   },
   {
+    "id": "object.book",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "book"
+      ],
+      "fr": [
+        "livre"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M50 26 Q32 16 10 20 V80 Q32 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M50 26 Q68 16 90 20 V80 Q68 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M20 38 Q30 36 40 40 M20 52 Q30 50 40 54 M60 40 Q70 36 80 38 M60 54 Q70 50 80 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "object.teddy",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "teddy bear",
+        "cuddly toy"
+      ],
+      "fr": [
+        "doudou",
+        "nounours",
+        "peluche"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"26\" cy=\"18\" r=\"10\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"74\" cy=\"18\" r=\"10\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\"/><ellipse cx=\"50\" cy=\"76\" rx=\"26\" ry=\"20\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"36\" r=\"24\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\"/><ellipse cx=\"50\" cy=\"44\" rx=\"11\" ry=\"8\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M40 30 V31 M60 30 V31\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"7\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "object.shirt",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "clothes",
+        "shirt",
+        "T-shirt"
+      ],
+      "fr": [
+        "vêtements",
+        "habits",
+        "tee-shirt"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "vêtement",
+        "habit"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M36 10 Q50 22 64 10 L92 26 L82 46 L72 40 V92 H28 V40 L18 46 L8 26 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "object.shoe",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "shoe",
+        "shoes"
+      ],
+      "fr": [
+        "chaussure",
+        "chaussures"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M8 74 V40 Q8 30 18 30 H34 Q40 44 54 48 L82 54 Q94 58 94 70 V74 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M6 74 H96 Q96 86 84 86 H16 Q6 86 6 74 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M42 44 L36 54 M52 48 L46 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "object.banana",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "banana"
+      ],
+      "fr": [
+        "banane"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M80 12 Q88 50 62 74 Q38 94 12 82 Q14 76 22 76 Q48 76 62 56 Q74 38 72 14 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M72 14 L74 6 L82 8 L80 12\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "object.bread",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bread"
+      ],
+      "fr": [
+        "pain"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M14 92 V44 Q4 40 6 26 Q10 10 30 10 H70 Q90 10 94 26 Q96 40 86 44 V92 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M24 84 V40 Q16 36 18 28 Q20 20 32 20 H68 Q80 20 82 28 Q84 36 76 40 V84 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "object.toothbrush",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "toothbrush"
+      ],
+      "fr": [
+        "brosse à dents"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"44\" y=\"26\" width=\"12\" height=\"72\" rx=\"6\" transform=\"rotate(35 50 62)\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M60 6 H84 V24 H60 Z\" transform=\"rotate(35 72 15)\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M64 8 V22 M71 8 V22 M78 8 V22\" transform=\"rotate(35 72 15)\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "object.chair",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "chair"
+      ],
+      "fr": [
+        "chaise"
+      ]
+    },
+    "tags": [
+      "furniture"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"26\" y=\"8\" width=\"48\" height=\"46\" rx=\"6\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"5\"/><rect x=\"20\" y=\"54\" width=\"60\" height=\"12\" rx=\"4\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M28 66 V94 M72 66 V94\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"7\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "place.home",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "home",
+        "house"
+      ],
+      "fr": [
+        "maison"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"18\" y=\"44\" width=\"64\" height=\"50\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M8 48 L50 10 L92 48 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><rect x=\"42\" y=\"66\" width=\"18\" height=\"28\" rx=\"2\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"26\" y=\"54\" width=\"12\" height=\"12\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
+  },
+  {
+    "id": "place.outside",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "outside",
+        "park",
+        "garden"
+      ],
+      "fr": [
+        "dehors",
+        "parc",
+        "jardin"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M4 92 H96\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"42\" y=\"56\" width=\"16\" height=\"36\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"38\" r=\"30\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
+  },
+  {
+    "id": "place.toilet",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "toilet",
+        "bathroom"
+      ],
+      "fr": [
+        "toilettes",
+        "WC",
+        "pipi"
+      ]
+    },
+    "tags": [
+      "need",
+      "hygiene"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"14\" y=\"8\" width=\"30\" height=\"44\" rx=\"5\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M14 52 H90 Q90 76 66 80 L70 94 H34 L38 78 Q20 72 14 52 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M18 52 Q52 60 86 52\" fill=\"none\" stroke=\"#7EC8E3\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
+  },
+  {
     "id": "idea.care",
     "kind": "concept",
     "category": "idea",
@@ -339,7 +1102,125 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M50 26 Q32 16 10 20 V80 Q32 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M50 26 Q68 16 90 20 V80 Q68 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M20 38 Q30 36 40 40 M20 52 Q30 50 40 54 M60 40 Q70 36 80 38 M60 54 Q70 50 80 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
+    "svg": "<path d=\"M38 24 Q38 8 50 8 Q62 8 62 24\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"20\" y=\"22\" width=\"60\" height=\"72\" rx=\"16\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M20 48 Q50 60 80 48\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"34\" y=\"64\" width=\"32\" height=\"20\" rx=\"6\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
+  },
+  {
+    "id": "idea.day",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "day",
+        "sun"
+      ],
+      "fr": [
+        "jour",
+        "soleil"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M50 4 V16 M50 84 V96 M4 50 H16 M84 50 H96 M18 18 L26 26 M74 74 L82 82\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"50\" cy=\"50\" r=\"26\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
+  },
+  {
+    "id": "idea.night",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "night",
+        "moon"
+      ],
+      "fr": [
+        "nuit",
+        "lune"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M58 8 Q22 14 20 52 Q22 88 60 92 Q82 92 92 76 Q60 80 50 52 Q44 26 58 8 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M76 18 L79 27 L88 27 L81 33 L84 42 L76 36 L68 42 L71 33 L64 27 L73 27 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "idea.yes",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "yes"
+      ],
+      "fr": [
+        "oui"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M14 52 L38 78 L88 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"20\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 52 L38 78 L88 22\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "idea.no",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "no"
+      ],
+      "fr": [
+        "non"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M20 20 L80 80 M80 20 L20 80\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"20\" stroke-linecap=\"round\"/><path d=\"M20 20 L80 80 M80 20 L20 80\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"10\" stroke-linecap=\"round\"/>"
+  },
+  {
+    "id": "idea.stop",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "stop"
+      ],
+      "fr": [
+        "stop",
+        "arrêter"
+      ]
+    },
+    "forms": {
+      "en": [
+        "stops",
+        "stopped",
+        "stopping"
+      ]
+    },
+    "tags": [
+      "need"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<circle cx=\"50\" cy=\"50\" r=\"46\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\"/><g transform=\"translate(17 15) scale(0.68)\"><path d=\"M34 92 V58 L18 42 Q12 35 18 30 Q24 26 30 32 L36 38 V18 Q36 11 42 11 Q48 11 48 18 V12 Q48 5 54 5 Q60 5 60 12 V16 Q60 9 66 9 Q72 9 72 16 V26 Q72 19 78 19 Q84 19 84 26 V62 Q84 92 58 92 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M48 18 V44 M60 16 V44 M72 26 V46\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/></g>"
   },
   {
     "id": "frame.place",
@@ -562,6 +1443,106 @@ export const lexicon: LexiconEntry[] = [
       "modifiers": [],
       "concept": "action.sleep",
       "frame": "frame.moment"
+    }
+  },
+  {
+    "id": "lex.bathroom",
+    "labels": {
+      "en": [
+        "bathroom"
+      ],
+      "fr": [
+        "salle de bain"
+      ]
+    },
+    "picto": {
+      "modifiers": [],
+      "concept": "action.wash",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.library",
+    "labels": {
+      "en": [
+        "library"
+      ],
+      "fr": [
+        "bibliothèque"
+      ]
+    },
+    "picto": {
+      "modifiers": [],
+      "concept": "object.book",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.playground",
+    "labels": {
+      "en": [
+        "playground"
+      ],
+      "fr": [
+        "aire de jeux",
+        "cour de récréation"
+      ]
+    },
+    "picto": {
+      "modifiers": [],
+      "concept": "action.play",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.playtime",
+    "labels": {
+      "en": [
+        "playtime",
+        "break"
+      ],
+      "fr": [
+        "récréation",
+        "récré",
+        "moment de jeu"
+      ]
+    },
+    "picto": {
+      "modifiers": [],
+      "concept": "action.play",
+      "frame": "frame.moment"
+    }
+  },
+  {
+    "id": "lex.morning",
+    "labels": {
+      "en": [
+        "morning"
+      ],
+      "fr": [
+        "matin"
+      ]
+    },
+    "picto": {
+      "modifiers": [],
+      "concept": "idea.day",
+      "frame": "frame.moment"
+    }
+  },
+  {
+    "id": "lex.dentist",
+    "labels": {
+      "en": [
+        "dentist"
+      ],
+      "fr": [
+        "dentiste"
+      ]
+    },
+    "picto": {
+      "modifiers": [],
+      "concept": "person.adult",
+      "badge": "object.toothbrush"
     }
   }
 ];

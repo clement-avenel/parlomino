@@ -178,14 +178,24 @@ function unknown(path: string, id: string, candidates: readonly Candidate[]): Va
  * `person.doctor` → `lex.doctor`.
  */
 function closest(id: string, candidates: readonly Candidate[]): string | undefined {
-  const name = normalize(id.split(".").pop() ?? id);
+  const [prefix, ...rest] = id.split(".");
+  const name = normalize(rest.join(".") || id);
   let best: string | undefined;
   let bestDistance = Infinity;
+  let bestRank = Infinity;
   for (const c of candidates) {
-    const names = [c.id.split(".").pop() ?? c.id, ...Object.values(c.labels).flat(), ...Object.values(c.forms ?? {}).flat()];
-    for (const n of names) {
+    // Ties are broken by what is most likely meant: same prefix first, then the id itself,
+    // then labels, then inflected forms (so "object.aple" gives "object.apple", not "allé").
+    const samePrefix = c.id.startsWith(`${prefix}.`) ? 0 : 3;
+    const names: [string, number][] = [
+      [c.id.split(".").pop() ?? c.id, 0],
+      ...Object.values(c.labels).flat().map((n): [string, number] => [n, 1]),
+      ...Object.values(c.forms ?? {}).flat().map((n): [string, number] => [n, 2]),
+    ];
+    for (const [n, kind] of names) {
       const d = levenshtein(name, normalize(n));
-      if (d < bestDistance) [best, bestDistance] = [c.id, d];
+      const rank = samePrefix + kind;
+      if (d < bestDistance || (d === bestDistance && rank < bestRank)) [best, bestDistance, bestRank] = [c.id, d, rank];
     }
   }
   return bestDistance <= Math.max(2, Math.floor(name.length / 3)) ? best : undefined;

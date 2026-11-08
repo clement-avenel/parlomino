@@ -124,5 +124,99 @@
       "concept": "action.sleep",
       "frame": "frame.moment"
     }
+  },
+  {
+    "id": "lex.bathroom",
+    "labels": {
+      "en": [
+        "bathroom"
+      ],
+      "fr": [
+        "salle de bain"
+      ]
+    },
+    "picto": {
+      "concept": "action.wash",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.library",
+    "labels": {
+      "en": [
+        "library"
+      ],
+      "fr": [
+        "bibliothèque"
+      ]
+    },
+    "picto": {
+      "concept": "object.book",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.playground",
+    "labels": {
+      "en": [
+        "playground"
+      ],
+      "fr": [
+        "aire de jeux",
+        "cour de récréation"
+      ]
+    },
+    "picto": {
+      "concept": "action.play",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.playtime",
+    "labels": {
+      "en": [
+        "playtime",
+        "break"
+      ],
+      "fr": [
+        "récréation",
+        "récré",
+        "moment de jeu"
+      ]
+    },
+    "picto": {
+      "concept": "action.play",
+      "frame": "frame.moment"
+    }
+  },
+  {
+    "id": "lex.morning",
+    "labels": {
+      "en": [
+        "morning"
+      ],
+      "fr": [
+        "matin"
+      ]
+    },
+    "picto": {
+      "concept": "idea.day",
+      "frame": "frame.moment"
+    }
+  },
+  {
+    "id": "lex.dentist",
+    "labels": {
+      "en": [
+        "dentist"
+      ],
+      "fr": [
+        "dentiste"
+      ]
+    },
+    "picto": {
+      "concept": "person.adult",
+      "badge": "object.toothbrush"
+    }
   }
 ]

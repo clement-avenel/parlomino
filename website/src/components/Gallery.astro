@@ -20,12 +20,20 @@ const pictos: PictoInput[] = [
   { concept: "object.apple", modifiers: ["very", "big"] },
   { concept: "action.sleep", modifiers: ["negation"] },
   { concept: "object.water", modifiers: ["little"] },
+  { concept: "feeling.tired", modifiers: ["very"] },
+  { concept: "lex.dentist" },
+  { concept: "lex.playtime" },
+  { concept: "place.toilet" },
 ];
 const phrases: PhraseInput[] = [
   { phrase: [{ concept: "person.child" }, { concept: "action.eat", modifiers: ["negation"] }, { concept: "object.apple", modifiers: ["plural"] }], tense: "past" },
   { phrase: [{ concept: "person.me" }, { concept: "object.ball" }] },
   { phrase: [{ concept: "person.you" }, { concept: "object.ball", modifiers: ["small"] }] },
   { phrase: [{ concept: "action.drink" }, { concept: "object.water" }], question: true },
+  { phrase: [{ concept: "person.me" }, { concept: "feeling.hurt" }] },
+  { phrase: [{ concept: "action.help" }, { concept: "person.me" }] },
+  { phrase: [{ concept: "action.go" }, { concept: "place.toilet" }], question: true },
+  { phrase: [{ concept: "person.mother" }, { concept: "action.go" }, { concept: "place.home" }], tense: "future" },
   { phrase: [{ concept: "lex.doctor" }, { concept: "action.sleep" }, { concept: "lex.bedroom" }], tense: "future" },
 ];
 ---
