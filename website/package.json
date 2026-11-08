@@ -1,0 +1,21 @@
+{
+  "name": "@parlomino/website",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.42.10",
+    "@fontsource/atkinson-hyperlegible-next": "^5.3.0",
+    "@parlomino/core": "0.1.0",
+    "@parlomino/library": "0.1.0",
+    "@parlomino/spec": "0.1.0",
+    "astro": "^7.3.6",
+    "sharp": "^0.35.3"
+  },
+  "private": true
+}

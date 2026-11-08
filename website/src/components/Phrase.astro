@@ -1,0 +1,26 @@
+---
+// A phrase strip, composed by the engine in the page language.
+import type { PhraseInput } from "@parlomino/spec";
+import type { ThemeName } from "@parlomino/core";
+import { pageLang, phrase } from "../lib/parlomino";
+
+interface Props {
+  phrase: PhraseInput;
+  theme?: ThemeName;
+  /** Numbered markers under the strip: tense, pictograms, question. */
+  numbered?: boolean;
+  caption?: string | false;
+  size?: "small" | "medium" | "large";
+}
+
+const { phrase: input, theme = "default", numbered = false, caption, size = "medium" } = Astro.props;
+const lang = pageLang(Astro.locals);
+const highContrast = theme === "high-contrast";
+const r = phrase(input, lang, highContrast ? { theme, strokeScale: 1.5 } : {});
+const text = caption === undefined ? r.label : caption;
+---
+<figure class:list={["pm-phrase", "not-content", `pm-phrase--${size}`, { "pm-card--dark": highContrast }]}>
+  <Fragment set:html={r.svg} />
+  {numbered && <div class="pm-phrase__numbers" aria-hidden="true"><span>1</span><span>2</span><span>3</span></div>}
+  {text && <figcaption>{text}</figcaption>}
+</figure>

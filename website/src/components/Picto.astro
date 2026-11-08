@@ -1,0 +1,38 @@
+---
+// One pictogram card, composed by the engine in the page language.
+import type { Modifier } from "@parlomino/spec";
+import type { ThemeName } from "@parlomino/core";
+import { Icon } from "@astrojs/starlight/components";
+import { downloadHref, pageLang, picto, ui } from "../lib/parlomino";
+
+interface Props {
+  concept: string;
+  badge?: string;
+  frame?: string;
+  modifiers?: Modifier[];
+  theme?: ThemeName;
+  /** Caption text; defaults to the label computed by the engine. `false` hides it. */
+  caption?: string | false;
+  /** Shows the technical id under the caption. */
+  showId?: string | boolean;
+  /** Adds a download link for the SVG. */
+  download?: boolean;
+}
+
+const { concept, badge, frame, modifiers = [], theme = "default", caption, showId, download } = Astro.props;
+const lang = pageLang(Astro.locals);
+const highContrast = theme === "high-contrast";
+const r = picto({ concept, ...(badge && { badge }), ...(frame && { frame }), modifiers }, lang, highContrast ? { theme, strokeScale: 1.5 } : {});
+const text = caption === undefined ? r.label : caption;
+const id = showId === true ? concept : showId;
+---
+<figure class:list={["pm-card", { "pm-card--dark": highContrast }]}>
+  <Fragment set:html={r.svg} />
+  {(text || id || download) && (
+    <figcaption>
+      {text && <span class="pm-card__label" set:html={text} />}
+      {id && <code class="pm-card__id" set:html={id.replace(".", ".<wbr>")} />}
+      {download && <a class="pm-card__download" href={downloadHref(concept, lang)} download aria-label={`${ui(lang, "download")} : ${r.label}`}><Icon name="download" size="1em" />SVG</a>}
+    </figcaption>
+  )}
+</figure>

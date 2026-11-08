@@ -53,6 +53,7 @@ existing AAC approaches (picture exchange, communication books, core vocabulary,
 | [`@parlomino/spec`](packages/spec) | The format of pictograms and phrases (Zod schemas + JSON Schemas) |
 | [`@parlomino/library`](packages/library) | The drawings (concepts, frames, marks), the lexicon and the palette |
 | [`@parlomino/core`](packages/core) | Validation with suggestions, composition to SVG (pictogram or phrase), search, themes |
+| [`website`](website) | The documentation site, built with Astro Starlight: every pictogram on it is composed by the engine at build time |
 
 ## Languages
 
@@ -70,7 +71,8 @@ Adding a language means adding its labels, and optionally its rules in `packages
 ```sh
 npm install
 npm test           # regenerates the library and runs the tests
-npm run site       # documentation site in site/, one version per language (deployed to GitHub Pages)
+npm run site       # documentation site (Astro Starlight) in website/dist, deployed to GitHub Pages
+npm run site:dev   # the same, with live reload
 npm run bench      # checks the performance budget
 npm run build      # compiles to packages/*/dist
 ```

@@ -1,0 +1,69 @@
+---
+title: Parlomino
+description: An open, composable pictogram language for augmentative and alternative communication (AAC).
+template: splash
+hero:
+  title: Pictograms that snap together
+  tagline: Parlomino is a free pictogram language for people who communicate with pictures. A few simple pieces combine, like dominoes, into an unlimited vocabulary, always drawn in the same easy-to-read way.
+  image:
+    file: ../../assets/hero.svg
+    alt: Four pictograms - a doctor, a kitchen, apples, and "me".
+  actions:
+    - text: Learn to read pictograms
+      link: reading/
+      icon: right-arrow
+    - text: Browse the catalog
+      link: catalog/
+      variant: secondary
+    - text: View on GitHub
+      link: https://github.com/clement-avenel/parlomino
+      icon: external
+      variant: minimal
+---
+
+import { Aside, Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+import Phrase from '../../components/Phrase.astro';
+
+## One pictogram per idea
+
+A phrase is read from left to right. Here: _the child did not eat the apples_.
+
+<Phrase
+  phrase={{
+    phrase: [
+      { concept: 'person.child' },
+      { concept: 'action.eat', modifiers: ['negation'] },
+      { concept: 'object.apple', modifiers: ['plural'] },
+    ],
+    tense: 'past',
+  }}
+  size="large"
+/>
+
+## Principles
+
+<CardGrid>
+  <Card title="Simple for children" icon="heart">
+    Concrete drawings, few strokes, the same place for each element. Every drawing is checked automatically against a simplicity budget.
+  </Card>
+  <Card title="Composable" icon="puzzle">
+    Four building blocks and five zones are enough to read and build any pictogram.
+  </Card>
+  <Card title="Open" icon="open-book">
+    Free to use, share and adapt, including in commercial products. The language will remain open and complete.
+  </Card>
+  <Card title="International" icon="translate">
+    Drawings contain no text. Labels exist per language, starting with English and French.
+  </Card>
+</CardGrid>
+
+<Aside type="note" title="Early version">
+  The drawings are first drafts, being tested with therapists and families. Parlomino is a pictographic code and tools: it is designed to serve existing AAC approaches, not to replace them.
+</Aside>
+
+## Get started
+
+<CardGrid>
+  <LinkCard title="How to read pictograms" description="The five zones, the building blocks and phrases." href="reading/" />
+  <LinkCard title="Use it in your code" description="A TypeScript engine that turns JSON into accessible SVG pictograms." href="developers/quick-start/" />
+</CardGrid>

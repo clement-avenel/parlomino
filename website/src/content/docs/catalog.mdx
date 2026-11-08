@@ -1,0 +1,57 @@
+---
+title: Catalog
+description: Every Parlomino pictogram drawn so far, to look at, print or download.
+---
+
+import { Aside } from '@astrojs/starlight/components';
+import Catalog from '../../components/Catalog.astro';
+
+Every building block drawn so far. Concepts, frames and lexicon entries can be downloaded as SVG.
+
+<Aside type="note" title="Attribution">
+  The pictograms are under the CC BY-SA 4.0 license. When you share or print them, please credit: _“Parlomino pictograms (CC BY-SA 4.0)”_.
+</Aside>
+
+## Concepts
+
+The base drawings. Any concept can also be used as a badge.
+
+### People
+
+<Catalog section="concepts" category="person" />
+
+### Actions
+
+<Catalog section="concepts" category="action" />
+
+### Objects
+
+<Catalog section="concepts" category="object" />
+
+### Ideas
+
+<Catalog section="concepts" category="idea" />
+
+## Frames
+
+A frame changes the category of the concept drawn inside.
+
+<Catalog section="frames" />
+
+## Modifiers
+
+Shown here on an example. Each modifier always has the same place.
+
+<Catalog section="modifiers" names={{ concept: 'the concept itself', overlay: 'over the concept', indicator: 'top left' }} />
+
+## Phrase marks
+
+They apply to the whole phrase.
+
+<Catalog section="phrase-marks" names={{ past: 'past', future: 'future', question: 'question' }} />
+
+## Lexicon
+
+Named combinations, used like a concept: their name stays the same even if their drawing changes.
+
+<Catalog section="lexicon" />

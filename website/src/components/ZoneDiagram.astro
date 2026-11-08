@@ -1,0 +1,18 @@
+---
+// Numbered diagram of the five zones of a pictogram, using the engine's geometry
+// (see packages/core/src/compose.ts). The legend is written in the page content.
+const num = (n: number, x: number, y: number) =>
+  `<circle cx="${x}" cy="${y}" r="6.5" fill="#1F2937"/><text x="${x}" y="${y + 2.8}" font-size="8" font-family="inherit" font-weight="700" fill="#fff" text-anchor="middle">${n}</text>`;
+const dash = `fill="none" stroke="#6B7280" stroke-width="1" stroke-dasharray="3 2"`;
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 116 116" aria-hidden="true">
+<rect x="0" y="0" width="100" height="100" rx="8" fill="#fff" stroke="#1F2937" stroke-width="1.5"/>
+<rect x="14" y="16" width="72" height="72" rx="4" ${dash}/>
+<circle cx="83" cy="17" r="15" ${dash}/><circle cx="17" cy="17" r="15" ${dash}/>
+<path d="M18 20 L82 84" fill="none" stroke="#D62828" stroke-width="1.5" stroke-dasharray="4 3"/>
+${num(1, 34, 72)}${num(2, 83, 17)}${num(3, 17, 17)}${num(4, 56, 58)}${num(5, 50, 100)}
+</svg>`;
+---
+<div class="pm-zones not-content">
+  <div class="pm-zones__diagram" set:html={svg} />
+  <div class="pm-zones__legend"><slot /></div>
+</div>

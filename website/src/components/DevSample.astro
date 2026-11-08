@@ -1,0 +1,42 @@
+---
+// Code samples whose results are computed by the engine at build time,
+// so the documentation can never show an outdated output.
+import { Code } from "@astrojs/starlight/components";
+import { compose, search, validatePicto } from "@parlomino/core";
+
+interface Props { sample: "compose" | "phrase" | "errors" | "search" | "schemas"; }
+const { sample } = Astro.props;
+const show = (v: unknown) => JSON.stringify(v);
+
+const doctor = compose({ concept: "lex.doctor", modifiers: ["plural"] });
+const typo = validatePicto({ concept: "object.aple" });
+const samples: Record<Props["sample"], string> = {
+  compose: `import { compose } from "@parlomino/core";
+
+const result = compose({ concept: "lex.doctor", modifiers: ["plural"] });
+result.ok;    // ${doctor.ok}
+result.label; // ${doctor.ok ? show(doctor.label) : ""}
+result.svg;   // '<svg … role="img" aria-label="…">…</svg>'`,
+  phrase: `const result = compose({
+  phrase: [
+    { concept: "person.child" },
+    { concept: "action.eat", modifiers: ["negation"] },
+    { concept: "object.apple", modifiers: ["plural"] },
+  ],
+  tense: "past",
+});
+result.svg;    // the whole strip
+result.pictos; // [{ svg, label }, …] each pictogram on its own`,
+  errors: `compose({ concept: "object.aple" });
+// ${typo.ok ? "" : show({ ok: false, issues: typo.issues })}`,
+  search: `import { search } from "@parlomino/core";
+
+search("médecins", { lang: "fr" })[0].id; // ${show(search("médecins", { lang: "fr" })[0]?.id)}
+search("the kitchen")[0].id;               // ${show(search("the kitchen")[0]?.id)}
+search("ate")[0].id;                       // ${show(search("ate")[0]?.id)}`,
+  schemas: `import { jsonSchemas } from "@parlomino/spec";
+
+const { picto, phrase } = jsonSchemas(); // JSON Schema (draft 2020-12)`,
+};
+---
+<Code code={samples[sample]} lang="ts" />

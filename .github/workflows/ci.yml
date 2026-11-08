@@ -16,3 +16,5 @@ jobs:
         run: git diff --exit-code packages/library/src/generated.ts
       - name: Performance budget
         run: npm run bench
+      - name: Documentation site builds
+        run: npm run site

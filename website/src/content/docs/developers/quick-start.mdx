@@ -1,0 +1,54 @@
+---
+title: Quick start
+description: Compose Parlomino pictograms and phrases as accessible SVG from TypeScript.
+---
+
+import { Aside, Code, LinkCard } from '@astrojs/starlight/components';
+import DevSample from '../../../components/DevSample.astro';
+import Picto from '../../../components/Picto.astro';
+import PictoGrid from '../../../components/PictoGrid.astro';
+
+The engine is a small TypeScript library, with no DOM and no file access: it runs in browsers, Node, mobile apps and other stacks. The outputs shown on this page are computed by the engine when the site is built.
+
+<Aside type="caution" title="Not on npm yet">
+  The packages are not published on npm yet. Until then, use them from the GitHub repository.
+</Aside>
+
+## Install
+
+<Code lang="sh" code={`git clone https://github.com/clement-avenel/parlomino.git
+cd parlomino && npm install && npm run build
+# then, in your project:
+npm install ../parlomino/packages/core`} />
+
+## Compose a pictogram
+
+Describe a pictogram in JSON, get an accessible SVG and its label.
+
+<DevSample sample="compose" />
+
+<PictoGrid size="small">
+  <Picto concept="lex.doctor" modifiers={['plural']} />
+</PictoGrid>
+
+## Compose a phrase
+
+A phrase is a list of pictograms, with a tense and a question mark for the whole phrase. You get the strip, and each pictogram on its own.
+
+<DevSample sample="phrase" />
+
+## Errors suggest a fix
+
+The engine never throws on invalid input: it returns the issues, with a suggestion when it can. This makes it easy to use from a form, an API or an LLM.
+
+<DevSample sample="errors" />
+
+## Search
+
+Search understands what people type: accents, case, articles, plurals and conjugations.
+
+<DevSample sample="search" />
+
+## Next steps
+
+<LinkCard title="Reference" description="Every field, modifier, option and error code." href="../reference/" />

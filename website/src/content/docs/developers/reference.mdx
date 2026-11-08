@@ -1,0 +1,68 @@
+---
+title: Reference
+description: The Parlomino format, modifiers, options and validation codes.
+---
+
+import DevSample from '../../../components/DevSample.astro';
+
+## Pictogram
+
+| Field | Required | Description |
+|---|---|---|
+| `concept` | yes | A concept (`person.child`) or a lexicon entry (`lex.doctor`). |
+| `badge` | | A concept drawn small in the top-right corner. |
+| `frame` | | A frame around the concept: `frame.place`, `frame.moment`. |
+| `modifiers` | | A list of modifiers, at most one per zone. |
+
+## Phrase
+
+| Field | Required | Description |
+|---|---|---|
+| `phrase` | yes | Pictograms in reading order, 1 to 12. |
+| `tense` | | `"past"` or `"future"`. Omit for present. |
+| `question` | | `true` if the whole phrase is a question. |
+
+## Modifiers
+
+| Modifier | Zone | Drawing |
+|---|---|---|
+| `plural` | concept | The concept is drawn twice. |
+| `big` | concept | The concept next to a smaller dashed copy of itself. |
+| `small` | concept | The concept next to a bigger dashed copy of itself. |
+| `negation` | overlay | A red bar across the concept. |
+| `very` | indicator | A plus sign in the top-left corner. |
+| `little` | indicator | A minus sign in the top-left corner. |
+
+## Options
+
+| Option | Default | Description |
+|---|---|---|
+| `lang` | `"en"` | Language of the labels. Falls back to English. |
+| `theme` | `"default"` | `"default"`, `"high-contrast"`, or a custom theme object. |
+| `strokeScale` | `1` | Multiplies stroke widths, for low vision or small sizes. |
+| `size` | | Rendered size in pixels (height for a phrase). |
+
+## Validation codes
+
+| Code | Meaning |
+|---|---|
+| `invalid_shape` | The JSON does not match the format (unknown key, wrong type…). |
+| `unknown_element` | The id does not exist. A `suggestion` is given when a close match exists. |
+| `wrong_kind` | The element exists but cannot be used there (a frame as a concept…). |
+| `duplicate_modifier` | The same modifier is listed twice. |
+| `zone_conflict` | Two modifiers use the same zone. |
+| `lexicon_conflict` | A lexicon entry already defines this badge or frame. |
+
+## JSON Schemas
+
+The spec package exports JSON Schemas, for APIs, forms and LLM tools.
+
+<DevSample sample="schemas" />
+
+## Packages
+
+| Package | Role |
+|---|---|
+| `@parlomino/spec` | The format of pictograms and phrases, with JSON Schemas. |
+| `@parlomino/library` | The drawings, the lexicon and the palette. |
+| `@parlomino/core` | Validation, composition to SVG, search and themes. |

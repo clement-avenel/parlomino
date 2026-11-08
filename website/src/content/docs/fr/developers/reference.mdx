@@ -1,0 +1,68 @@
+---
+title: Référence
+description: Le format Parlomino, les modificateurs, les options et les codes de validation.
+---
+
+import DevSample from '../../../../components/DevSample.astro';
+
+## Picto
+
+| Champ | Obligatoire | Description |
+|---|---|---|
+| `concept` | oui | Un concept (`person.child`) ou une entrée du lexique (`lex.doctor`). |
+| `badge` | | Un concept dessiné en petit en haut à droite. |
+| `frame` | | Un cadre autour du concept : `frame.place`, `frame.moment`. |
+| `modifiers` | | Une liste de modificateurs, un par zone au maximum. |
+
+## Phrase
+
+| Champ | Obligatoire | Description |
+|---|---|---|
+| `phrase` | oui | Les pictos dans l'ordre de lecture, de 1 à 12. |
+| `tense` | | `"past"` (passé) ou `"future"` (futur). À omettre pour le présent. |
+| `question` | | `true` si toute la phrase est une question. |
+
+## Modificateurs
+
+| Modificateur | Zone | Dessin |
+|---|---|---|
+| `plural` | concept | Le concept est dessiné deux fois. |
+| `big` | concept | Le concept à côté d'une copie plus petite de lui-même, en pointillés. |
+| `small` | concept | Le concept à côté d'une copie plus grande de lui-même, en pointillés. |
+| `negation` | overlay | Une barre rouge en travers du concept. |
+| `very` | indicator | Un signe plus en haut à gauche. |
+| `little` | indicator | Un signe moins en haut à gauche. |
+
+## Options
+
+| Option | Par défaut | Description |
+|---|---|---|
+| `lang` | `"en"` | Langue des libellés. À défaut, l'anglais. |
+| `theme` | `"default"` | `"default"`, `"high-contrast"`, ou un objet de thème personnalisé. |
+| `strokeScale` | `1` | Multiplie l'épaisseur des traits, pour la basse vision ou les petites tailles. |
+| `size` | | Taille d'affichage en pixels (la hauteur, pour une phrase). |
+
+## Codes de validation
+
+| Code | Signification |
+|---|---|
+| `invalid_shape` | Le JSON ne respecte pas le format (clé inconnue, mauvais type…). |
+| `unknown_element` | L'identifiant n'existe pas. Une `suggestion` est donnée quand un élément proche existe. |
+| `wrong_kind` | L'élément existe, mais ne peut pas être utilisé à cet endroit (un cadre comme concept…). |
+| `duplicate_modifier` | Le même modificateur est listé deux fois. |
+| `zone_conflict` | Deux modificateurs utilisent la même zone. |
+| `lexicon_conflict` | Une entrée du lexique définit déjà ce badge ou ce cadre. |
+
+## JSON Schemas
+
+Le paquet spec exporte des JSON Schemas, pour les API, les formulaires et les outils de LLM.
+
+<DevSample sample="schemas" />
+
+## Paquets
+
+| Paquet | Rôle |
+|---|---|
+| `@parlomino/spec` | Le format des pictos et des phrases, avec les JSON Schemas. |
+| `@parlomino/library` | Les dessins, le lexique et la palette. |
+| `@parlomino/core` | La validation, la composition en SVG, la recherche et les thèmes. |

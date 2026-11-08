@@ -1,0 +1,6 @@
+---
+// A responsive grid of pictogram cards.
+interface Props { size?: "small" | "medium"; }
+const { size = "medium" } = Astro.props;
+---
+<div class:list={["pm-grid", `pm-grid--${size}`, "not-content"]}><slot /></div>

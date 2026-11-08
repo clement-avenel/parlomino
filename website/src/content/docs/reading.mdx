@@ -1,0 +1,72 @@
+---
+title: How to read pictograms
+description: The five zones of a Parlomino pictogram, its building blocks, and how to read a phrase.
+sidebar:
+  label: How to read
+---
+
+import { Aside } from '@astrojs/starlight/components';
+import Picto from '../../components/Picto.astro';
+import PictoGrid from '../../components/PictoGrid.astro';
+import Phrase from '../../components/Phrase.astro';
+import ZoneDiagram from '../../components/ZoneDiagram.astro';
+import Equations from '../../components/Equations.astro';
+
+Every pictogram is built the same way. Once you know the five zones, you can read, and build, any pictogram.
+
+## The five zones
+
+Each element always has the same place, and each place holds one thing only.
+
+<ZoneDiagram>
+1. **Concept**: the base drawing, in the middle. Drawn twice for a plural; next to a dashed copy of itself for big or small.
+2. **Badge**: a small concept in the top-right corner, which changes the meaning (adult + care = doctor).
+3. **Intensity**, top left: very or a little.
+4. **Negation**: a red bar across the concept.
+5. **Frame**: the outline changes the category (place, moment).
+</ZoneDiagram>
+
+<Aside type="tip" title="One thing per zone">
+  Two modifiers of the same zone cannot be combined. This is what keeps every pictogram readable.
+</Aside>
+
+### One notion at a time
+
+<PictoGrid>
+  <Picto concept="person.adult" badge="idea.care" />
+  <Picto concept="object.water" modifiers={['very']} />
+  <Picto concept="object.apple" modifiers={['small']} />
+  <Picto concept="action.sleep" modifiers={['negation']} />
+  <Picto concept="lex.mealtime" />
+</PictoGrid>
+
+## Building blocks in action
+
+Badges, frames and modifiers create new meanings from the same few drawings.
+
+<Equations />
+
+## Reading a phrase
+
+<Phrase
+  phrase={{
+    phrase: [{ concept: 'person.child' }, { concept: 'action.drink' }, { concept: 'object.water' }],
+    tense: 'past',
+    question: true,
+  }}
+  numbered
+/>
+
+1. **Tense**: an arrow to the left means past, to the right means future. No arrow means present.
+2. **Pictograms**, read from left to right, one per word or idea.
+3. **Question mark**: the whole phrase is a question.
+
+### Possession
+
+Possession is said with a separate pictogram, like in most AAC systems: _my ball_ = _me_ + _ball_.
+
+<Phrase phrase={{ phrase: [{ concept: 'person.me' }, { concept: 'object.ball' }] }} size="small" />
+
+<Aside>
+  Concepts are meant to be understood at a glance. Modifiers (very, a little, big, small…) and badges are conventions: like in every AAC system, they are learned with a few examples.
+</Aside>

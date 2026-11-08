@@ -1,0 +1,60 @@
+---
+// One section of the catalog, computed from the library so it always lists every drawing.
+import { defaultLibrary } from "@parlomino/library";
+import { MODIFIERS, type Category, type Modifier } from "@parlomino/spec";
+import Picto from "./Picto.astro";
+import Phrase from "./Phrase.astro";
+import PictoGrid from "./PictoGrid.astro";
+import { Icon } from "@astrojs/starlight/components";
+import { downloadHref, label, modifierName, pageLang, rawElement, ui } from "../lib/parlomino";
+
+interface Props {
+  section: "concepts" | "frames" | "modifiers" | "phrase-marks" | "lexicon";
+  /** Concepts only: the category to list. */
+  category?: Category;
+  /** Modifiers only: localized name of each zone. Phrase marks: localized captions. */
+  names?: Record<string, string>;
+}
+const { section, category, names = {} } = Astro.props;
+const lang = pageLang(Astro.locals);
+const concepts = defaultLibrary.ofKind("concept").filter((e) => !category || e.category === category);
+---
+{section === "concepts" && (
+  <PictoGrid>{concepts.map((e) => <Picto concept={e.id} showId download />)}</PictoGrid>
+)}
+{section === "frames" && (
+  <PictoGrid>
+    {defaultLibrary.ofKind("frame").map((e) => (
+      <figure class="pm-card">
+        <Fragment set:html={rawElement(e.id)} />
+        <figcaption>
+          <span class="pm-card__label">{label(e.id, lang)}</span>
+          <code class="pm-card__id" set:html={e.id.replace(".", ".<wbr>")} />
+          <a class="pm-card__download" href={downloadHref(e.id, lang)} download aria-label={`${ui(lang, "download")} : ${label(e.id, lang)}`}><Icon name="download" size="1em" />SVG</a>
+        </figcaption>
+      </figure>
+    ))}
+  </PictoGrid>
+)}
+{section === "modifiers" && (
+  <PictoGrid>
+    {(Object.keys(MODIFIERS) as Modifier[]).map((m) => (
+      <Picto
+        concept={m === "negation" ? "action.sleep" : "object.ball"}
+        modifiers={[m]}
+        caption={`<b>${modifierName(m, lang)}</b> · ${names[MODIFIERS[m].zone] ?? MODIFIERS[m].zone}`}
+        showId={m}
+      />
+    ))}
+  </PictoGrid>
+)}
+{section === "phrase-marks" && (
+  <div class="pm-row not-content">
+    <Phrase phrase={{ phrase: [{ concept: "action.sleep" }], tense: "past" }} caption={names.past ?? "past"} size="small" />
+    <Phrase phrase={{ phrase: [{ concept: "action.sleep" }], tense: "future" }} caption={names.future ?? "future"} size="small" />
+    <Phrase phrase={{ phrase: [{ concept: "action.sleep" }], question: true }} caption={names.question ?? "question"} size="small" />
+  </div>
+)}
+{section === "lexicon" && (
+  <PictoGrid>{defaultLibrary.lexicon.map((e) => <Picto concept={e.id} showId download />)}</PictoGrid>
+)}

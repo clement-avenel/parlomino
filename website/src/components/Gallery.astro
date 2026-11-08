@@ -1,0 +1,36 @@
+---
+// Example pictograms and phrases, in one theme.
+import type { ThemeName } from "@parlomino/core";
+import type { PhraseInput, PictoInput } from "@parlomino/spec";
+import Picto from "./Picto.astro";
+import Phrase from "./Phrase.astro";
+import PictoGrid from "./PictoGrid.astro";
+
+interface Props { theme?: ThemeName; show: "pictos" | "phrases"; }
+const { theme = "default", show } = Astro.props;
+
+const pictos: PictoInput[] = [
+  { concept: "lex.doctor" },
+  { concept: "lex.doctor", modifiers: ["plural"] },
+  { concept: "lex.pupil" },
+  { concept: "lex.kitchen" },
+  { concept: "lex.bedroom" },
+  { concept: "lex.mealtime" },
+  { concept: "object.ball", modifiers: ["small"] },
+  { concept: "object.apple", modifiers: ["very", "big"] },
+  { concept: "action.sleep", modifiers: ["negation"] },
+  { concept: "object.water", modifiers: ["little"] },
+];
+const phrases: PhraseInput[] = [
+  { phrase: [{ concept: "person.child" }, { concept: "action.eat", modifiers: ["negation"] }, { concept: "object.apple", modifiers: ["plural"] }], tense: "past" },
+  { phrase: [{ concept: "person.me" }, { concept: "object.ball" }] },
+  { phrase: [{ concept: "person.you" }, { concept: "object.ball", modifiers: ["small"] }] },
+  { phrase: [{ concept: "action.drink" }, { concept: "object.water" }], question: true },
+  { phrase: [{ concept: "lex.doctor" }, { concept: "action.sleep" }, { concept: "lex.bedroom" }], tense: "future" },
+];
+---
+{show === "pictos" ? (
+  <PictoGrid>{pictos.map((p) => <Picto {...p} theme={theme} />)}</PictoGrid>
+) : (
+  <div class="pm-phrases not-content">{phrases.map((p) => <Phrase phrase={p} theme={theme} />)}</div>
+)}

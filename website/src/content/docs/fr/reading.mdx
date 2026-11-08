@@ -1,0 +1,72 @@
+---
+title: Comment lire les pictos
+description: Les cinq zones d'un picto Parlomino, ses briques, et comment lire une phrase.
+sidebar:
+  label: Comment lire
+---
+
+import { Aside } from '@astrojs/starlight/components';
+import Picto from '../../../components/Picto.astro';
+import PictoGrid from '../../../components/PictoGrid.astro';
+import Phrase from '../../../components/Phrase.astro';
+import ZoneDiagram from '../../../components/ZoneDiagram.astro';
+import Equations from '../../../components/Equations.astro';
+
+Tous les pictos sont construits de la même façon. Une fois les cinq zones connues, on peut lire, et construire, n'importe quel picto.
+
+## Les cinq zones
+
+Chaque élément a toujours la même place, et chaque place ne contient qu'une seule chose.
+
+<ZoneDiagram>
+1. **Concept** : le dessin de base, au centre. Dessiné deux fois pour le pluriel ; à côté d'une copie en pointillés de lui-même pour grand ou petit.
+2. **Badge** : un petit concept en haut à droite, qui change le sens (adulte + soin = médecin).
+3. **Intensité**, en haut à gauche : très ou un peu.
+4. **Négation** : une barre rouge en travers du concept.
+5. **Cadre** : le contour change la catégorie (lieu, moment).
+</ZoneDiagram>
+
+<Aside type="tip" title="Une seule chose par zone">
+  Deux modificateurs de la même zone ne peuvent pas être combinés. C'est ce qui garantit que chaque picto reste lisible.
+</Aside>
+
+### Une notion à la fois
+
+<PictoGrid>
+  <Picto concept="person.adult" badge="idea.care" />
+  <Picto concept="object.water" modifiers={['very']} />
+  <Picto concept="object.apple" modifiers={['small']} />
+  <Picto concept="action.sleep" modifiers={['negation']} />
+  <Picto concept="lex.mealtime" />
+</PictoGrid>
+
+## Les briques en action
+
+Les badges, les cadres et les modificateurs créent de nouveaux sens à partir des mêmes dessins.
+
+<Equations />
+
+## Lire une phrase
+
+<Phrase
+  phrase={{
+    phrase: [{ concept: 'person.child' }, { concept: 'action.drink' }, { concept: 'object.water' }],
+    tense: 'past',
+    question: true,
+  }}
+  numbered
+/>
+
+1. **Temps** : une flèche vers la gauche indique le passé, vers la droite le futur. Pas de flèche : le présent.
+2. **Les pictos**, lus de gauche à droite, un par mot ou par idée.
+3. **Point d'interrogation** : toute la phrase est une question.
+
+### La possession
+
+La possession se dit avec un picto séparé, comme dans la plupart des systèmes de CAA : _mon ballon_ = _moi_ + _ballon_.
+
+<Phrase phrase={{ phrase: [{ concept: 'person.me' }, { concept: 'object.ball' }] }} size="small" />
+
+<Aside>
+  Les concepts doivent se comprendre au premier coup d'œil. Les modificateurs (très, un peu, grand, petit…) et les badges sont des conventions : comme dans tous les systèmes de CAA, ils s'apprennent avec quelques exemples.
+</Aside>

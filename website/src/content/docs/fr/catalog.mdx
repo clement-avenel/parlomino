@@ -1,0 +1,57 @@
+---
+title: Catalogue
+description: Tous les pictos Parlomino dessinés à ce jour, à consulter, imprimer ou télécharger.
+---
+
+import { Aside } from '@astrojs/starlight/components';
+import Catalog from '../../../components/Catalog.astro';
+
+Toutes les briques dessinées à ce jour. Les concepts, les cadres et les entrées du lexique peuvent être téléchargés en SVG.
+
+<Aside type="note" title="Attribution">
+  Les pictos sont sous licence CC BY-SA 4.0. Si vous les partagez ou les imprimez, merci de mentionner : _« Pictogrammes Parlomino (CC BY-SA 4.0) »_.
+</Aside>
+
+## Concepts
+
+Les dessins de base. Chaque concept peut aussi servir de badge.
+
+### Personnes
+
+<Catalog section="concepts" category="person" />
+
+### Actions
+
+<Catalog section="concepts" category="action" />
+
+### Objets
+
+<Catalog section="concepts" category="object" />
+
+### Idées
+
+<Catalog section="concepts" category="idea" />
+
+## Cadres
+
+Un cadre change la catégorie du concept dessiné à l'intérieur.
+
+<Catalog section="frames" />
+
+## Modificateurs
+
+Montrés ici sur un exemple. Chaque modificateur a toujours la même place.
+
+<Catalog section="modifiers" names={{ concept: 'le concept lui-même', overlay: 'par-dessus le concept', indicator: 'en haut à gauche' }} />
+
+## Marques de phrase
+
+Elles s'appliquent à toute la phrase.
+
+<Catalog section="phrase-marks" names={{ past: 'passé', future: 'futur', question: 'question' }} />
+
+## Lexique
+
+Des combinaisons nommées, utilisées comme un concept : leur nom reste le même, même si leur dessin change.
+
+<Catalog section="lexicon" />

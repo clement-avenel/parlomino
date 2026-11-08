@@ -1,0 +1,69 @@
+---
+title: Parlomino
+description: Un langage de pictogrammes ouvert et composable, pour la communication alternative et améliorée (CAA).
+template: splash
+hero:
+  title: Des pictos qui s'assemblent
+  tagline: Parlomino est un langage de pictogrammes libre, pour les personnes qui communiquent avec des images. Quelques pièces simples s'assemblent, comme des dominos, en un vocabulaire illimité, toujours dessiné de la même façon, facile à lire.
+  image:
+    file: ../../../assets/hero.svg
+    alt: Quatre pictos - un médecin, une cuisine, des pommes et « moi ».
+  actions:
+    - text: Apprendre à lire les pictos
+      link: reading/
+      icon: right-arrow
+    - text: Parcourir le catalogue
+      link: catalog/
+      variant: secondary
+    - text: Voir sur GitHub
+      link: https://github.com/clement-avenel/parlomino
+      icon: external
+      variant: minimal
+---
+
+import { Aside, Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+import Phrase from '../../../components/Phrase.astro';
+
+## Un picto par idée
+
+Une phrase se lit de gauche à droite. Ici : _l'enfant n'a pas mangé les pommes_.
+
+<Phrase
+  phrase={{
+    phrase: [
+      { concept: 'person.child' },
+      { concept: 'action.eat', modifiers: ['negation'] },
+      { concept: 'object.apple', modifiers: ['plural'] },
+    ],
+    tense: 'past',
+  }}
+  size="large"
+/>
+
+## Principes
+
+<CardGrid>
+  <Card title="Simple pour les enfants" icon="heart">
+    Des dessins concrets, peu de traits, la même place pour chaque élément. Chaque dessin est vérifié automatiquement par un budget de simplicité.
+  </Card>
+  <Card title="Composable" icon="puzzle">
+    Quatre briques et cinq zones suffisent pour lire et construire n'importe quel picto.
+  </Card>
+  <Card title="Libre" icon="open-book">
+    Libre d'utilisation, de partage et d'adaptation, y compris dans des produits commerciaux. Le langage restera libre et complet.
+  </Card>
+  <Card title="International" icon="translate">
+    Les dessins ne contiennent aucun texte. Les libellés existent par langue, à commencer par l'anglais et le français.
+  </Card>
+</CardGrid>
+
+<Aside type="note" title="Version préliminaire">
+  Les dessins sont des premières versions, en cours de test avec des thérapeutes et des familles. Parlomino est un code pictographique et des outils : il est conçu pour servir les approches de CAA existantes, pas pour les remplacer.
+</Aside>
+
+## Commencer
+
+<CardGrid>
+  <LinkCard title="Comment lire les pictos" description="Les cinq zones, les briques et les phrases." href="reading/" />
+  <LinkCard title="L'utiliser dans votre code" description="Un moteur TypeScript qui transforme du JSON en pictos SVG accessibles." href="developers/quick-start/" />
+</CardGrid>

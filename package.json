@@ -5,7 +5,8 @@
   "workspaces": [
     "packages/spec",
     "packages/library",
-    "packages/core"
+    "packages/core",
+    "website"
   ],
   "scripts": {
     "generate": "node packages/library/scripts/generate.mjs",
@@ -13,7 +14,8 @@
     "typecheck": "npm run generate && tsc -b packages/core",
     "test": "npm run generate && vitest run",
     "bench": "npm run generate && node --conditions=source scripts/bench.ts",
-    "site": "npm run generate && node --conditions=source scripts/site/build.ts"
+    "site": "npm run generate && node --conditions=source website/scripts/hero.ts && npm run build -w @parlomino/website",
+    "site:dev": "npm run generate && node --conditions=source website/scripts/hero.ts && npm run dev -w @parlomino/website"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",

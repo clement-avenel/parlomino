@@ -1,0 +1,228 @@
+/* Parlomino theme for Starlight.
+   Font: Atkinson Hyperlegible Next, designed by the Braille Institute for low-vision readers.
+   Accent: derived from the pictogram blue (#4F86C6), adjusted for WCAG AA contrast in both themes. */
+
+:root {
+  --sl-font: "Atkinson Hyperlegible Next", system-ui, sans-serif;
+  --sl-text-base: 1.0625rem;
+
+  /* Dark theme (Starlight default) */
+  --sl-color-accent-low: #15263d;
+  --sl-color-accent: #4f86c6;
+  --sl-color-accent-high: #c9dcf3;
+
+  --pm-ink: #1f2937;
+  --pm-muted: #6b7280;
+  --pm-card-border: var(--sl-color-gray-5);
+  --pm-radius: 1rem;
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #dce8f6;
+  --sl-color-accent: #2f64a6;
+  --sl-color-accent-high: #1b3a63;
+}
+
+/* ─── Pictogram cards ─────────────────────────────────────────────────────── */
+/* Pictograms always sit on white (or black in high contrast), whatever the site theme. */
+
+.pm-card {
+  margin: 0;
+  padding: 0.75rem;
+  background: #fff;
+  color: var(--pm-ink);
+  border: 1px solid var(--pm-card-border);
+  border-radius: var(--pm-radius);
+  text-align: center;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.06);
+}
+.pm-card > svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.pm-card figcaption {
+  display: grid;
+  gap: 0.125rem;
+  margin-top: 0.5rem;
+  font-size: var(--sl-text-sm);
+  line-height: 1.35;
+}
+.pm-card__id {
+  font-size: var(--sl-text-xs);
+  color: var(--pm-muted);
+  background: none;
+  padding: 0;
+}
+.pm-card__download {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  margin-top: 0.25rem;
+  font-size: var(--sl-text-xs);
+  font-weight: 700;
+  color: #1b3a63;
+  text-decoration: none;
+}
+.pm-card__download:hover {
+  text-decoration: underline;
+}
+.pm-card--dark {
+  background: #000;
+  color: #ffe600;
+  border-color: #3f3f46;
+}
+.pm-card--dark .pm-card__id {
+  color: #bfbfbf;
+}
+.pm-card--result {
+  border-color: var(--sl-color-accent);
+  box-shadow: 0 0 0 1px var(--sl-color-accent);
+}
+.pm-card--word {
+  display: grid;
+  place-items: center;
+  align-self: stretch;
+  font-weight: 700;
+}
+
+/* ─── Layouts ─────────────────────────────────────────────────────────────── */
+
+.pm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr));
+  gap: 1rem;
+  margin-block: 1.25rem;
+}
+
+.pm-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-block: 1.25rem;
+}
+
+.pm-equations {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(22rem, 1fr));
+  gap: 1rem 2rem;
+  margin-block: 1.25rem;
+}
+.pm-equation {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.pm-equation > .pm-card {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 0.5rem;
+}
+.pm-equation__op {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--sl-color-gray-3);
+}
+
+/* ─── Phrases ─────────────────────────────────────────────────────────────── */
+
+.pm-phrase {
+  margin: 1.25rem 0;
+  padding: 0.75rem;
+  background: #fff;
+  color: var(--pm-ink);
+  border: 1px solid var(--pm-card-border);
+  border-radius: var(--pm-radius);
+}
+.pm-phrase--small { max-width: 16rem; }
+.pm-phrase--medium { max-width: 34rem; }
+.pm-phrase--large { max-width: 42rem; }
+.pm-row .pm-phrase { margin: 0; }
+.pm-phrase svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.pm-phrase figcaption {
+  margin-top: 0.5rem;
+  font-size: var(--sl-text-sm);
+  text-align: center;
+}
+.pm-phrase__numbers {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.25rem;
+}
+.pm-phrase__numbers span,
+.pm-zones__legend li::marker {
+  font-weight: 700;
+}
+.pm-phrase__numbers span {
+  display: grid;
+  place-items: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: var(--pm-ink);
+  color: #fff;
+  font-size: var(--sl-text-xs);
+}
+.pm-phrases {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+  gap: 1rem;
+  margin-block: 1.25rem;
+}
+.pm-phrases .pm-phrase {
+  margin: 0;
+  max-width: none;
+}
+
+/* ─── Zone diagram ────────────────────────────────────────────────────────── */
+
+.pm-zones {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem 2.5rem;
+  margin-block: 1.5rem;
+}
+.pm-zones__diagram {
+  flex: none;
+  width: 15rem;
+}
+.pm-zones__diagram svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.pm-zones__legend {
+  flex: 1;
+  min-width: 16rem;
+}
+.pm-zones__legend ol {
+  margin: 0;
+  padding-inline-start: 1.25rem;
+}
+.pm-zones__legend li + li {
+  margin-top: 0.5rem;
+}
+
+/* ─── Home page ───────────────────────────────────────────────────────────── */
+
+.hero img {
+  filter: drop-shadow(0 12px 24px rgb(0 0 0 / 0.08));
+}
+
+@media (max-width: 40rem) {
+  .pm-equations {
+    grid-template-columns: 1fr;
+  }
+  .pm-equation {
+    gap: 0.25rem;
+  }
+  .pm-equation__op {
+    font-size: 1.125rem;
+  }
+}

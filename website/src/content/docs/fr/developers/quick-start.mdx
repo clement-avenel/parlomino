@@ -1,0 +1,54 @@
+---
+title: Démarrage rapide
+description: Composer des pictos et des phrases Parlomino en SVG accessible, depuis TypeScript.
+---
+
+import { Aside, Code, LinkCard } from '@astrojs/starlight/components';
+import DevSample from '../../../../components/DevSample.astro';
+import Picto from '../../../../components/Picto.astro';
+import PictoGrid from '../../../../components/PictoGrid.astro';
+
+Le moteur est une petite bibliothèque TypeScript, sans DOM ni accès aux fichiers : il fonctionne dans un navigateur, sous Node, dans une app mobile ou dans d'autres langages. Les résultats affichés sur cette page sont calculés par le moteur au moment de la génération du site.
+
+<Aside type="caution" title="Pas encore sur npm">
+  Les paquets ne sont pas encore publiés sur npm. En attendant, utilisez-les depuis le dépôt GitHub.
+</Aside>
+
+## Installation
+
+<Code lang="sh" code={`git clone https://github.com/clement-avenel/parlomino.git
+cd parlomino && npm install && npm run build
+# puis, dans votre projet :
+npm install ../parlomino/packages/core`} />
+
+## Composer un picto
+
+Décrivez un picto en JSON, et obtenez un SVG accessible et son libellé.
+
+<DevSample sample="compose" />
+
+<PictoGrid size="small">
+  <Picto concept="lex.doctor" modifiers={['plural']} />
+</PictoGrid>
+
+## Composer une phrase
+
+Une phrase est une liste de pictos, avec un temps et un point d'interrogation pour toute la phrase. Vous obtenez la bande complète, et chaque picto séparément.
+
+<DevSample sample="phrase" />
+
+## Les erreurs proposent une correction
+
+Le moteur ne lève jamais d'exception sur une saisie invalide : il renvoie les problèmes, avec une suggestion quand c'est possible. C'est pratique depuis un formulaire, une API ou un LLM.
+
+<DevSample sample="errors" />
+
+## Recherche
+
+La recherche comprend ce que les gens tapent : accents, majuscules, articles, pluriels et conjugaisons.
+
+<DevSample sample="search" />
+
+## Pour aller plus loin
+
+<LinkCard title="Référence" description="Tous les champs, modificateurs, options et codes d'erreur." href="../reference/" />

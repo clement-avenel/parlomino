@@ -1,0 +1,45 @@
+---
+// "Building blocks in action": every lexicon entry as a visual equation,
+// plus two modifier examples. Computed from the library, so it stays up to date.
+import { defaultLibrary } from "@parlomino/library";
+import { label, modifierName, pageLang, picto, rawElement } from "../lib/parlomino";
+
+const lang = pageLang(Astro.locals);
+type Part = { svg: string; caption: string; result?: boolean } | { word: string };
+const rows: Part[][] = defaultLibrary.lexicon.map((entry) => {
+  const p = entry.picto;
+  return [
+    ...(p.frame ? [{ svg: rawElement(p.frame), caption: label(p.frame, lang) }] : []),
+    { svg: picto({ concept: p.concept }, lang).svg, caption: label(p.concept, lang) },
+    ...(p.badge ? [{ svg: picto({ concept: p.badge }, lang).svg, caption: label(p.badge, lang) }] : []),
+    { svg: picto({ concept: entry.id }, lang).svg, caption: label(entry.id, lang), result: true },
+  ];
+});
+for (const m of ["plural", "big"] as const) {
+  const r = picto({ concept: "object.ball", modifiers: [m] }, lang);
+  rows.push([
+    { svg: picto({ concept: "object.ball" }, lang).svg, caption: label("object.ball", lang) },
+    { word: modifierName(m, lang) },
+    { svg: r.svg, caption: r.label, result: true },
+  ]);
+}
+---
+<div class="pm-equations not-content">
+  {rows.map((row) => (
+    <div class="pm-equation">
+      {row.map((part, i) => (
+        <>
+          {i > 0 && <span class="pm-equation__op" aria-hidden="true">{"result" in part && part.result ? "=" : "+"}</span>}
+          {"word" in part ? (
+            <div class="pm-card pm-card--word">{part.word}</div>
+          ) : (
+            <figure class:list={["pm-card", { "pm-card--result": part.result }]}>
+              <Fragment set:html={part.svg} />
+              <figcaption><span class="pm-card__label">{part.caption}</span></figcaption>
+            </figure>
+          )}
+        </>
+      ))}
+    </div>
+  ))}
+</div>
