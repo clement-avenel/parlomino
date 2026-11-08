@@ -1,6 +1,18 @@
 import { describe, expect, it } from "vitest";
 import { compose, composePhrase, composePicto, themes } from "@parlomino/core";
-import { palette } from "@parlomino/library";
+import { createLibrary, defaultLibrary, palette } from "@parlomino/library";
+
+// A minimal, stable element, so that geometry tests do not depend on how real drawings evolve.
+const square = {
+  id: "object.test-square",
+  kind: "concept" as const,
+  category: "object" as const,
+  labels: { en: ["square"], fr: ["carré"] },
+  tags: [],
+  source: { name: "Parlomino", license: "CC-BY-SA-4.0" as const, modified: false },
+  svg: '<rect x="10" y="10" width="80" height="80" fill="#F2C14E" stroke="#1F2937" stroke-width="4"/>',
+};
+const testLibrary = createLibrary([...defaultLibrary.elements, square], defaultLibrary.lexicon);
 
 function picto(input: unknown, options?: Parameters<typeof composePicto>[1]) {
   const r = composePicto(input, options);
@@ -41,7 +53,7 @@ describe("composePicto", () => {
   });
 
   it("doubles the concept for a plural", () => {
-    expect(groups(picto({ concept: "object.apple", modifiers: ["plural"] }).svg)).toBe(2);
+    expect(groups(picto({ concept: square.id, modifiers: ["plural"] }, { library: testLibrary }).svg)).toBe(2);
   });
 
   it("draws one disc per used corner zone", () => {
@@ -54,7 +66,7 @@ describe("composePicto", () => {
     ["big", true],
     ["small", false],
   ] as const)("compares the concept with a dashed copy of itself for %s", (modifier, solidIsLarger) => {
-    const { svg } = picto({ concept: "object.apple", modifiers: [modifier] });
+    const { svg } = picto({ concept: square.id, modifiers: [modifier] }, { library: testLibrary });
     expect(svg).toContain('stroke-dasharray="7 6"');
     expect(discs(svg)).toBe(0);
     // Two copies: [solid, ghost] for big, [ghost, solid] for small; compare their scales.
@@ -79,7 +91,7 @@ describe("composePicto", () => {
   });
 
   it("scales strokes", () => {
-    expect(picto({ concept: "object.apple" }, { strokeScale: 2 }).svg).toContain('stroke-width="8"');
+    expect(picto({ concept: square.id }, { strokeScale: 2, library: testLibrary }).svg).toContain('stroke-width="8"');
   });
 
   it("is deterministic", () => {

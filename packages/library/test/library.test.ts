@@ -64,6 +64,11 @@ describe.each(defaultLibrary.elements.map((e) => [e.id, e] as const))("%s", (_, 
     expect(ElementDef.safeParse(element).success).toBe(true);
   });
 
+  it("declares every fill and stroke as a palette color or none (never a missing value)", () => {
+    const values = [...element.svg.matchAll(/\b(?:fill|stroke)="([^"]*)"/g)].map((m) => m[1]!);
+    expect(values.filter((v) => v !== "none" && !allowed.has(v.toUpperCase()))).toEqual([]);
+  });
+
   it("only uses palette colors (so themes can recolor it)", () => {
     const colors = element.svg.match(/#[0-9a-fA-F]{3,8}\b/g) ?? [];
     expect(colors.filter((c) => !allowed.has(c.toUpperCase()))).toEqual([]);
@@ -107,6 +112,16 @@ describe("library", () => {
   it("has a mark for every modifier drawn in a corner zone, and no unused mark", () => {
     const cornerModifiers = Object.entries(MODIFIERS).filter(([, m]) => m.zone === "indicator").map(([name]) => `mark.${name}`);
     expect(defaultLibrary.ofKind("mark").map((e) => e.id).sort()).toEqual(cornerModifiers.sort());
+  });
+
+  it.each(REQUIRED_LANGUAGES)("never gives the same main label to two concepts in %s", (lang) => {
+    const seen = new Map<string, string>();
+    for (const e of [...defaultLibrary.ofKind("concept"), ...defaultLibrary.lexicon]) {
+      const word = e.labels[lang]?.[0]?.toLowerCase();
+      if (!word) continue;
+      expect(seen.get(word), `"${word}" is the main label of ${seen.get(word)} and ${e.id}`).toBeUndefined();
+      seen.set(word, e.id);
+    }
   });
 
   it("has well-formed lexicon entries labeled in every required language", () => {

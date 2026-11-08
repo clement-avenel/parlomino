@@ -17,10 +17,20 @@ export const C = {
   water: "#7EC8E3",
   orange: "#F4AA41",
   purple: "#9F86C0",
+  brown: "#A57939",
   darkGray: "#3F3F3F",
   gray: "#9B9B9A",
 };
-const LINE = 3.4; // outline width, close to the imported OpenMoji lines
+// Style aligned on the OpenMoji guidelines (see docs/design-guidelines.md):
+// a 2-unit black outline on a 72-unit grid, thickened ×1.35 like imported drawings → 3.75 on our 100 canvas,
+// round caps and joins, flat palette colors, and artwork kept inside the template frame (4 to 68 of 72).
+const LINE = 3.75;
+/** The OpenMoji template frame, on the 100×100 canvas. */
+export const FRAME = { min: (4 / 72) * 100, max: (68 / 72) * 100 };
+// Current outline width and detail scale, set by character(): a close-up enlarges the drawing,
+// so it draws thinner lines that end up at the same width as everywhere else.
+let line = LINE;
+let detail = 1;
 
 const r = (n) => Math.round(n * 10) / 10;
 
@@ -48,22 +58,22 @@ function joint(from, to, a, b, side) {
 function limb(points, color, width) {
   const d = `M${points.map((p) => `${r(p[0])} ${r(p[1])}`).join(" L")}`;
   return (
-    `<path d="${d}" fill="none" stroke="${C.ink}" stroke-width="${r(width + 2 * LINE)}" stroke-linecap="round" stroke-linejoin="round"/>` +
+    `<path d="${d}" fill="none" stroke="${C.ink}" stroke-width="${r(width + 2 * line)}" stroke-linecap="round" stroke-linejoin="round"/>` +
     `<path d="${d}" fill="none" stroke="${color}" stroke-width="${width}" stroke-linecap="round" stroke-linejoin="round"/>`
   );
 }
 
 const HAIR = {
   short: ({ cx, cy, r: hr }) =>
-    `<path d="M${r(cx - hr)} ${r(cy - 1)} Q${r(cx - hr)} ${r(cy - hr - 3)} ${cx} ${r(cy - hr - 2)} Q${r(cx + hr)} ${r(cy - hr - 3)} ${r(cx + hr)} ${r(cy - 1)} Q${r(cx + hr * 0.5)} ${r(cy - hr * 0.55)} ${cx} ${r(cy - hr * 0.6)} Q${r(cx - hr * 0.5)} ${r(cy - hr * 0.55)} ${r(cx - hr)} ${r(cy - 1)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${LINE}" stroke-linejoin="round"/>`,
+    `<path d="M${r(cx - hr)} ${r(cy - 1)} Q${r(cx - hr)} ${r(cy - hr - 3)} ${cx} ${r(cy - hr - 2)} Q${r(cx + hr)} ${r(cy - hr - 3)} ${r(cx + hr)} ${r(cy - 1)} Q${r(cx + hr * 0.5)} ${r(cy - hr * 0.55)} ${cx} ${r(cy - hr * 0.6)} Q${r(cx - hr * 0.5)} ${r(cy - hr * 0.55)} ${r(cx - hr)} ${r(cy - 1)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${r(line)}" stroke-linejoin="round"/>`,
   long: ({ cx, cy, r: hr }) =>
-    `<path d="M${r(cx - hr - 3)} ${r(cy + hr + 7)} Q${r(cx - hr - 4)} ${r(cy - hr - 4)} ${cx} ${r(cy - hr - 3)} Q${r(cx + hr + 4)} ${r(cy - hr - 4)} ${r(cx + hr + 3)} ${r(cy + hr + 7)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${LINE}" stroke-linejoin="round"/>`,
+    `<path d="M${r(cx - hr - 3)} ${r(cy + hr + 7)} Q${r(cx - hr - 4)} ${r(cy - hr - 4)} ${cx} ${r(cy - hr - 3)} Q${r(cx + hr + 4)} ${r(cy - hr - 4)} ${r(cx + hr + 3)} ${r(cy + hr + 7)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${r(line)}" stroke-linejoin="round"/>`,
   none: () => "",
 };
 // Long hair is drawn behind the head; the fringe in front.
 const FRINGE = {
   long: ({ cx, cy, r: hr }) =>
-    `<path d="M${r(cx - hr + 1)} ${r(cy - 2)} Q${r(cx - hr + 1)} ${r(cy - hr - 1)} ${cx} ${r(cy - hr - 1)} Q${r(cx + hr - 1)} ${r(cy - hr - 1)} ${r(cx + hr - 1)} ${r(cy - 2)} Q${cx} ${r(cy - hr * 0.6)} ${r(cx - hr + 1)} ${r(cy - 2)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${LINE}" stroke-linejoin="round"/>`,
+    `<path d="M${r(cx - hr + 1)} ${r(cy - 2)} Q${r(cx - hr + 1)} ${r(cy - hr - 1)} ${cx} ${r(cy - hr - 1)} Q${r(cx + hr - 1)} ${r(cy - hr - 1)} ${r(cx + hr - 1)} ${r(cy - 2)} Q${cx} ${r(cy - hr * 0.6)} ${r(cx - hr + 1)} ${r(cy - 2)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${r(line)}" stroke-linejoin="round"/>`,
 };
 
 function face({ cx, cy, r: hr }, { eyes = "open", mouth = "smile", look = [0, 0] }) {
@@ -72,13 +82,17 @@ function face({ cx, cy, r: hr }, { eyes = "open", mouth = "smile", look = [0, 0]
   const out = [];
   if (eyes === "open") {
     for (const s of [-1, 1]) out.push(`<circle cx="${r(cx + s * ex + look[0])}" cy="${r(ey)}" r="1.7" fill="${C.ink}" stroke="${C.ink}" stroke-width="1"/>`);
+  } else if (eyes === "happy") {
+    out.push(`<path d="M${r(cx - ex - 2.2)} ${r(ey + 1)} Q${r(cx - ex)} ${r(ey - 2)} ${r(cx - ex + 2.2)} ${r(ey + 1)} M${r(cx + ex - 2.2)} ${r(ey + 1)} Q${r(cx + ex)} ${r(ey - 2)} ${r(cx + ex + 2.2)} ${r(ey + 1)}" fill="none" stroke="${C.ink}" stroke-width="${r(1.8 * detail)}" stroke-linecap="round"/>`);
   } else if (eyes === "closed") {
-    out.push(`<path d="M${r(cx - ex - 2.2)} ${r(ey)} Q${r(cx - ex)} ${r(ey + 2)} ${r(cx - ex + 2.2)} ${r(ey)} M${r(cx + ex - 2.2)} ${r(ey)} Q${r(cx + ex)} ${r(ey + 2)} ${r(cx + ex + 2.2)} ${r(ey)}" fill="none" stroke="${C.ink}" stroke-width="1.8" stroke-linecap="round"/>`);
+    out.push(`<path d="M${r(cx - ex - 2.2)} ${r(ey)} Q${r(cx - ex)} ${r(ey + 2)} ${r(cx - ex + 2.2)} ${r(ey)} M${r(cx + ex - 2.2)} ${r(ey)} Q${r(cx + ex)} ${r(ey + 2)} ${r(cx + ex + 2.2)} ${r(ey)}" fill="none" stroke="${C.ink}" stroke-width="${r(1.8 * detail)}" stroke-linecap="round"/>`);
   }
   const my = cy + hr * 0.45;
-  if (mouth === "smile") out.push(`<path d="M${r(cx - 3.5)} ${r(my)} Q${cx} ${r(my + 3.5)} ${r(cx + 3.5)} ${r(my)}" fill="none" stroke="${C.ink}" stroke-width="1.8" stroke-linecap="round"/>`);
+  if (mouth === "smile") out.push(`<path d="M${r(cx - 3.5)} ${r(my)} Q${cx} ${r(my + 3.5)} ${r(cx + 3.5)} ${r(my)}" fill="none" stroke="${C.ink}" stroke-width="${r(1.8 * detail)}" stroke-linecap="round"/>`);
   if (mouth === "open") out.push(`<ellipse cx="${cx}" cy="${r(my + 1)}" rx="2.8" ry="2.4" fill="${C.ink}" stroke="${C.ink}" stroke-width="1"/>`);
-  if (mouth === "neutral") out.push(`<path d="M${r(cx - 2.5)} ${r(my + 1)} H${r(cx + 2.5)}" fill="none" stroke="${C.ink}" stroke-width="1.8" stroke-linecap="round"/>`);
+  if (mouth === "sad") out.push(`<path d="M${r(cx - 3.5)} ${r(my + 2.5)} Q${cx} ${r(my - 1)} ${r(cx + 3.5)} ${r(my + 2.5)}" fill="none" stroke="${C.ink}" stroke-width="${r(1.8 * detail)}" stroke-linecap="round"/>`);
+  if (mouth === "laugh") out.push(`<path d="M${r(cx - 4.5)} ${r(my - 0.5)} H${r(cx + 4.5)} Q${r(cx + 4.5)} ${r(my + 5.5)} ${cx} ${r(my + 5.5)} Q${r(cx - 4.5)} ${r(my + 5.5)} ${r(cx - 4.5)} ${r(my - 0.5)} Z" fill="${C.ink}" stroke="${C.ink}" stroke-width="1" stroke-linejoin="round"/>`);
+  if (mouth === "neutral") out.push(`<path d="M${r(cx - 2.5)} ${r(my + 1)} H${r(cx + 2.5)}" fill="none" stroke="${C.ink}" stroke-width="${r(1.8 * detail)}" stroke-linecap="round"/>`);
   return out.join("");
 }
 
@@ -92,6 +106,8 @@ function face({ cx, cy, r: hr }, { eyes = "open", mouth = "smile", look = [0, 0]
  */
 export function character({ body = "child", pose = {}, look = {}, outfit = {}, front = "", held = "", back = "", armsBehind = false, bust = false }) {
   const B = BODIES[body];
+  detail = bust ? 1 / closeUpScale(B) : 1;
+  line = LINE * detail;
   const cx = 50;
   const head = { cx, cy: B.head.cy, r: B.head.r };
   const sl = [cx - B.shoulderX, B.shoulderY];
@@ -114,20 +130,20 @@ export function character({ body = "child", pose = {}, look = {}, outfit = {}, f
   const pants = outfit.pants ?? C.darkGray;
   const hair = outfit.hair ?? "short";
 
-  const torso = `<path d="M${r(sl[0] - 1.5)} ${r(B.shoulderY + 3)} Q${r(sl[0] - 1.5)} ${r(B.shoulderY - 3)} ${r(sl[0] + 4)} ${r(B.shoulderY - 3)} H${r(sr[0] - 4)} Q${r(sr[0] + 1.5)} ${r(B.shoulderY - 3)} ${r(sr[0] + 1.5)} ${r(B.shoulderY + 3)} L${r(hr[0] + 4)} ${r(B.hipY + 2)} H${r(hl[0] - 4)} Z" fill="${shirt}" stroke="${C.ink}" stroke-width="${LINE}" stroke-linejoin="round"/>`;
+  const torso = `<path d="M${r(sl[0] - 1.5)} ${r(B.shoulderY + 3)} Q${r(sl[0] - 1.5)} ${r(B.shoulderY - 3)} ${r(sl[0] + 4)} ${r(B.shoulderY - 3)} H${r(sr[0] - 4)} Q${r(sr[0] + 1.5)} ${r(B.shoulderY - 3)} ${r(sr[0] + 1.5)} ${r(B.shoulderY + 3)} L${r(hr[0] + 4)} ${r(B.hipY + 2)} H${r(hl[0] - 4)} Z" fill="${shirt}" stroke="${C.ink}" stroke-width="${r(line)}" stroke-linejoin="round"/>`;
   const legs = limb([hl, kl, flEnd], pants, 6.5) + limb([hr, kr, frEnd], pants, 6.5);
   const shoes = [flEnd, frEnd]
     .map((f, i) => `<ellipse cx="${r(f[0] + (i ? 1.5 : -1.5))}" cy="${r(f[1] + 1)}" rx="5" ry="3" fill="${C.ink}" stroke="${C.ink}" stroke-width="1"/>`)
     .join("");
-  const hands = [hlEnd, hrEnd].map((h) => `<circle cx="${r(h[0])}" cy="${r(h[1])}" r="3.6" fill="${C.skin}" stroke="${C.ink}" stroke-width="2.4"/>`).join("");
+  const hands = [hlEnd, hrEnd].map((h) => `<circle cx="${r(h[0])}" cy="${r(h[1])}" r="3.6" fill="${C.skin}" stroke="${C.ink}" stroke-width="${r(2.4 * detail)}"/>`).join("");
   const arms = limb([sl, el, hlEnd], shirt, 5) + limb([sr, er, hrEnd], shirt, 5);
   const jaw = head.cy + head.r * 0.45 + 3.5;
   const beard = outfit.beard
-    ? `<path d="M${r(cx - head.r + 0.5)} ${r(head.cy + 1)} Q${r(cx - head.r + 1)} ${r(head.cy + head.r + 3)} ${cx} ${r(head.cy + head.r + 3)} Q${r(cx + head.r - 1)} ${r(head.cy + head.r + 3)} ${r(cx + head.r - 0.5)} ${r(head.cy + 1)} Q${r(cx + 5)} ${r(jaw)} ${cx} ${r(jaw)} Q${r(cx - 5)} ${r(jaw)} ${r(cx - head.r + 0.5)} ${r(head.cy + 1)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${LINE}" stroke-linejoin="round"/>`
+    ? `<path d="M${r(cx - head.r + 0.5)} ${r(head.cy + 1)} Q${r(cx - head.r + 1)} ${r(head.cy + head.r + 3)} ${cx} ${r(head.cy + head.r + 3)} Q${r(cx + head.r - 1)} ${r(head.cy + head.r + 3)} ${r(cx + head.r - 0.5)} ${r(head.cy + 1)} Q${r(cx + 5)} ${r(jaw)} ${cx} ${r(jaw)} Q${r(cx - 5)} ${r(jaw)} ${r(cx - head.r + 0.5)} ${r(head.cy + 1)} Z" fill="${C.hair}" stroke="${C.ink}" stroke-width="${r(line)}" stroke-linejoin="round"/>`
     : "";
   const headSvg =
     (hair === "long" ? HAIR.long(head) : "") +
-    `<circle cx="${cx}" cy="${head.cy}" r="${head.r}" fill="${C.skin}" stroke="${C.ink}" stroke-width="${LINE}"/>` +
+    `<circle cx="${cx}" cy="${head.cy}" r="${head.r}" fill="${C.skin}" stroke="${C.ink}" stroke-width="${r(line)}"/>` +
     beard +
     (hair === "long" ? FRINGE.long(head) : HAIR[hair](head)) +
     face(head, look);
@@ -143,10 +159,14 @@ export function character({ body = "child", pose = {}, look = {}, outfit = {}, f
  * Close-up framing, like AAC symbols do for actions of the face and hands: the upper body only,
  * enlarged so that the hands, the mouth and the props are easy to see.
  */
+const closeUpTop = (B) => B.head.cy - B.head.r - 3;
+// Leave room under the hips for the hands, so that nothing touches the frame.
+const closeUpScale = (B) => (FRAME.max - 2 - (FRAME.min + 2)) / (B.hipY + 6 - closeUpTop(B));
+
 function closeUp(drawing, B) {
-  const top = B.head.cy - B.head.r - 4;
-  const k = 94 / (B.hipY + 2 - top);
-  return `<g transform="translate(${r(50 - 50 * k)} ${r(4 - top * k)}) scale(${r(k * 100) / 100})">${drawing}</g>`;
+  const top = closeUpTop(B);
+  const k = closeUpScale(B);
+  return `<g transform="translate(${r(50 - 50 * k)} ${r(FRAME.min + 2 - top * k)}) scale(${r(k * 100) / 100})">${drawing}</g>`;
 }
 
 /** Joints of a body, so that props can be placed relative to them. */

@@ -547,28 +547,99 @@
     }
   },
   {
-    "id": "action.write",
+    "id": "action.phone",
     "kind": "concept",
     "category": "action",
     "labels": {
       "en": [
-        "write"
+        "call",
+        "phone"
       ],
       "fr": [
-        "écrire"
+        "téléphoner",
+        "appeler"
       ]
     },
     "forms": {
       "en": [
-        "wrote",
-        "written",
-        "writes"
+        "calls",
+        "called",
+        "calling"
       ],
       "fr": [
-        "écris",
-        "écrit",
-        "écrivons",
-        "écrivent"
+        "téléphone",
+        "appelle"
+      ]
+    },
+    "tags": [
+      "screen"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.music",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "listen to music"
+      ],
+      "fr": [
+        "écouter de la musique"
+      ]
+    },
+    "tags": [
+      "music"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.medicine",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "take medicine"
+      ],
+      "fr": [
+        "prendre un médicament"
+      ]
+    },
+    "tags": [
+      "health"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.cut",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "cut"
+      ],
+      "fr": [
+        "couper",
+        "découper"
+      ]
+    },
+    "forms": {
+      "en": [
+        "cuts",
+        "cutting"
+      ],
+      "fr": [
+        "coupe",
+        "découpe"
       ]
     },
     "tags": [
@@ -580,33 +651,247 @@
     }
   },
   {
-    "id": "action.draw",
+    "id": "action.paint",
     "kind": "concept",
     "category": "action",
     "labels": {
       "en": [
-        "draw",
         "paint"
       ],
       "fr": [
-        "dessiner",
         "peindre"
       ]
     },
     "forms": {
       "en": [
-        "drew",
-        "drawn",
-        "draws",
-        "drawing"
+        "paints",
+        "painting"
       ],
       "fr": [
-        "dessin"
+        "peins",
+        "peint"
       ]
     },
     "tags": [
       "school",
       "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.cook",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "cook"
+      ],
+      "fr": [
+        "cuisiner",
+        "faire à manger"
+      ]
+    },
+    "forms": {
+      "en": [
+        "cooks",
+        "cooking"
+      ],
+      "fr": [
+        "cuisine",
+        "cuisines"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.cry",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "cry"
+      ],
+      "fr": [
+        "pleurer"
+      ]
+    },
+    "forms": {
+      "en": [
+        "cries",
+        "cried",
+        "crying"
+      ],
+      "fr": [
+        "pleure",
+        "pleures",
+        "pleurent"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.laugh",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "laugh"
+      ],
+      "fr": [
+        "rire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "laughs",
+        "laughed",
+        "laughing"
+      ],
+      "fr": [
+        "ris",
+        "rit",
+        "rigoler"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.want",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "want"
+      ],
+      "fr": [
+        "vouloir",
+        "je veux"
+      ]
+    },
+    "forms": {
+      "en": [
+        "wants",
+        "wanted"
+      ],
+      "fr": [
+        "veux",
+        "veut",
+        "voulons",
+        "voulez",
+        "veulent",
+        "voulu"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.why",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "why"
+      ],
+      "fr": [
+        "pourquoi"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.finished",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "finished",
+        "all done"
+      ],
+      "fr": [
+        "fini",
+        "terminé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "finish",
+        "done",
+        "end"
+      ],
+      "fr": [
+        "finir",
+        "finie",
+        "terminer",
+        "c'est fini"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.open",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "open"
+      ],
+      "fr": [
+        "ouvrir"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "ouvre",
+        "ouvres",
+        "ouvrons",
+        "ouvrez",
+        "ouvrent",
+        "ouvert",
+        "ouverte"
+      ]
+    },
+    "tags": [
+      "core"
     ],
     "source": {
       "name": "Parlomino",
@@ -807,6 +1092,40 @@
     }
   },
   {
+    "id": "action.run",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "run"
+      ],
+      "fr": [
+        "courir"
+      ]
+    },
+    "forms": {
+      "en": [
+        "runs",
+        "ran",
+        "running"
+      ],
+      "fr": [
+        "cours",
+        "court",
+        "courons",
+        "courent",
+        "couru"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
     "id": "action.jump",
     "kind": "concept",
     "category": "action",
@@ -829,6 +1148,39 @@
         "sautes",
         "sautons",
         "sautent"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.throw",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "throw"
+      ],
+      "fr": [
+        "lancer",
+        "jeter"
+      ]
+    },
+    "forms": {
+      "en": [
+        "throws",
+        "threw",
+        "thrown"
+      ],
+      "fr": [
+        "lance",
+        "lances",
+        "jette"
       ]
     },
     "tags": [
@@ -968,6 +1320,177 @@
     }
   },
   {
+    "id": "action.clean",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "clean",
+        "tidy up",
+        "sweep"
+      ],
+      "fr": [
+        "nettoyer",
+        "ranger",
+        "balayer"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "nettoie",
+        "range",
+        "balaie"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.build",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "build"
+      ],
+      "fr": [
+        "construire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "builds",
+        "built"
+      ],
+      "fr": [
+        "construis",
+        "construit"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.swim",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "swim"
+      ],
+      "fr": [
+        "nager"
+      ]
+    },
+    "forms": {
+      "en": [
+        "swims",
+        "swam",
+        "swimming"
+      ],
+      "fr": [
+        "nage",
+        "nages",
+        "nageons",
+        "nagent"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.bath",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "take a bath",
+        "bath"
+      ],
+      "fr": [
+        "prendre un bain",
+        "bain"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.shower",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "take a shower",
+        "shower"
+      ],
+      "fr": [
+        "prendre une douche",
+        "douche"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.wash",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "wash hands",
+        "wash"
+      ],
+      "fr": [
+        "se laver les mains",
+        "laver"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "lave",
+        "laves",
+        "lavons",
+        "lavent"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
     "id": "action.sleep",
     "kind": "concept",
     "category": "action",
@@ -996,6 +1519,365 @@
     },
     "tags": [
       "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.wake-up",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "wake up",
+        "get up"
+      ],
+      "fr": [
+        "se réveiller",
+        "se lever"
+      ]
+    },
+    "forms": {
+      "en": [
+        "woke",
+        "wakes",
+        "waking"
+      ],
+      "fr": [
+        "réveille",
+        "lève",
+        "réveillé"
+      ]
+    },
+    "tags": [
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.stop",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "stop"
+      ],
+      "fr": [
+        "stop",
+        "arrêter"
+      ]
+    },
+    "forms": {
+      "en": [
+        "stops",
+        "stopped",
+        "stopping"
+      ]
+    },
+    "tags": [
+      "need"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.what",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "what"
+      ],
+      "fr": [
+        "quoi",
+        "qu'est-ce que"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.where",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "where"
+      ],
+      "fr": [
+        "où"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.who",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "who"
+      ],
+      "fr": [
+        "qui"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.when",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "when"
+      ],
+      "fr": [
+        "quand"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.in",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "in",
+        "inside"
+      ],
+      "fr": [
+        "dans",
+        "dedans"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.on",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "on",
+        "on top"
+      ],
+      "fr": [
+        "sur",
+        "dessus"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.under",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "under",
+        "below"
+      ],
+      "fr": [
+        "sous",
+        "dessous"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.up",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "up"
+      ],
+      "fr": [
+        "en haut",
+        "monter"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "haut",
+        "monte"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.down",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "down"
+      ],
+      "fr": [
+        "en bas",
+        "descendre"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "bas",
+        "descends",
+        "descend"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.more",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "more",
+        "again"
+      ],
+      "fr": [
+        "encore",
+        "plus"
+      ]
+    },
+    "forms": {
+      "en": [
+        "more please"
+      ],
+      "fr": [
+        "encore une fois",
+        "redonne"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.same",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "same"
+      ],
+      "fr": [
+        "pareil",
+        "même"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "pareille",
+        "pareils",
+        "identique"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.different",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "different"
+      ],
+      "fr": [
+        "différent"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "différente",
+        "différents",
+        "pas pareil"
+      ]
+    },
+    "tags": [
+      "core"
     ],
     "source": {
       "name": "Parlomino",

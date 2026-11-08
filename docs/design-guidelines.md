@@ -11,6 +11,23 @@ Tests check these rules automatically.
 | Adapted from [OpenMoji](https://openmoji.org) (objects, food, animals, places, body, colors…) | `elements.openmoji.json` | Edit the list in `sources/openmoji.mjs`, then `npm run draw` |
 | Drawn by hand (frames, marks, a few concepts) | `elements.json` | Edit the SVG file |
 
+## Style: the OpenMoji guidelines
+
+Most pictograms come from [OpenMoji](https://openmoji.org). Everything drawn for Parlomino follows the same style,
+so that the library looks like one set:
+
+| OpenMoji rule (72-unit grid) | Parlomino (100-unit canvas) |
+|---|---|
+| Artwork inside the template frame, 4 to 68 | Inside 3 to 97, the same tolerance OpenMoji drawings use |
+| Black outline, 2 units, round caps and joins | Ink outline, 3.75 units: 2 × 100/72 × 1.35, the same thickening applied to imported drawings. Close-ups draw thinner lines so that they end up at the same width |
+| Flat colors from the OpenMoji palette, no gradients or shadows | The Parlomino palette, onto which the OpenMoji palette is mapped |
+| Layers: color, skin, hair, line | Fills under, outlines on top |
+| Skin tones as variants | Light skin tone (`#F5C9A0`) by default |
+| — | **No text, letters or numbers**, even drawn as shapes (OpenMoji's stop sign spells "STOP": it is not used) |
+
+Parlomino departs from OpenMoji on purpose in one way: people performing actions are drawn with faces and in close-ups,
+because AAC users need to see the action, not just a small silhouette.
+
 ## What makes a pictogram understandable
 
 These principles come from the best-known AAC symbol sets, which have been tested with users for decades:
@@ -22,7 +39,8 @@ These principles come from the best-known AAC symbol sets, which have been teste
    so the mouth, the hands and the object are big enough to see.
 4. **Real shapes, simplified.** A shoe looks like a shoe, a dog like a dog: recognizable silhouettes,
    flat colors and a dark outline, not geometric abstractions.
-5. **Context when needed.** A table for writing, a chair for sitting, a bed for sleeping.
+5. **Context when needed.** A table for writing, a chair for sitting, a bed for sleeping, a tap and a basin for washing hands.
+6. **One picture per word.** Two concepts never share the same main label; homonyms are made explicit ("orange (color)").
 
 ## Three kinds of elements
 
@@ -35,6 +53,8 @@ These principles come from the best-known AAC symbol sets, which have been teste
 ## Rules
 
 1. **Canvas**: `viewBox="0 0 100 100"`, centered drawing, margin of about 6 units.
+   Nothing may go outside the frame: in a phrase, it would spill onto the neighboring pictogram.
+   For close-ups of the character, keep props between x 18 and 82 in body coordinates.
 2. **Palette only**: only the colors of `palette` (`packages/library/src/index.ts`) are allowed.
    This is what lets themes (high contrast, etc.) recolor the drawing.
 3. **Always outlined**: every shape has a `stroke` (ink `#1F2937`), or is filled with ink. Without it, a shape disappears

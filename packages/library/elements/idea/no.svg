@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <path d="M20 20 L80 80 M80 20 L20 80" fill="none" stroke="#1F2937" stroke-width="20" stroke-linecap="round"/>
-  <path d="M20 20 L80 80 M80 20 L20 80" fill="none" stroke="#E46B4A" stroke-width="10" stroke-linecap="round"/>
+  <!-- Adapted from OpenMoji "cross mark" (274C) by Hilda Kalyoncu, CC BY-SA 4.0 -->
+  <g transform="scale(1.3889)"><g data-layer="color"><path fill="#E46B4A" d="m58.14 21.78-7.76-8.013-14.29 14.22-14.22-14.22-8.013 8.013 14.36 14.22-14.36 14.22 8.014 8.013 14.22-14.22 14.29 14.22 7.76-8.013-14.22-14.22z"/></g><g/><g/><g/><g data-layer="line"><path fill="none" stroke="#1F2937" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.7" d="m58.14 21.78-7.76-8.013-14.29 14.22-14.22-14.22-8.013 8.013 14.35 14.22-14.35 14.22 8.014 8.013 14.22-14.22 14.29 14.22 7.76-8.013-14.22-14.22z"/></g></g>
 </svg>

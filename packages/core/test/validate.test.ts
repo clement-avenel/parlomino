@@ -19,7 +19,7 @@ describe("validatePicto", () => {
   });
 
   it("gives no suggestion when nothing is close", () => {
-    const r = validatePicto({ concept: "object.helicopter" });
+    const r = validatePicto({ concept: "object.spaceship" });
     expect(r.ok).toBe(false);
     if (!r.ok) expect(r.issues[0]?.suggestion).toBeUndefined();
   });

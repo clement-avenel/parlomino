@@ -32,7 +32,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+    "svg": "<g transform=\"translate(-1 0.7) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "person.adult",
@@ -64,7 +64,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+    "svg": "<g transform=\"translate(1 4.3) scale(0.98)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "person.boy",
@@ -94,7 +94,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+    "svg": "<g transform=\"translate(-1 0.7) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "person.girl",
@@ -124,7 +124,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M34 42 Q33 5 50 6 Q67 5 66 42 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M38 20 Q38 8 50 8 Q62 8 62 20 Q50 14.2 38 20 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+    "svg": "<g transform=\"translate(-1 0.7) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><path d=\"M34 42 Q33 5 50 6 Q67 5 66 42 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M38 20 Q38 8 50 8 Q62 8 62 20 Q50 14.2 38 20 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "person.mother",
@@ -149,7 +149,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M36 33 Q35 0 50 1 Q65 0 64 33 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M40 13 Q40 3 50 3 Q60 3 60 13 Q50 8.4 40 13 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+    "svg": "<g transform=\"translate(1 4.3) scale(0.98)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><path d=\"M36 33 Q35 0 50 1 Q65 0 64 33 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M40 13 Q40 3 50 3 Q60 3 60 13 Q50 8.4 40 13 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "person.father",
@@ -173,7 +173,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M39.5 16 Q40 29 50 29 Q60 29 60.5 16 Q55 23.5 50 23.5 Q45 23.5 39.5 16 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+    "svg": "<g transform=\"translate(1 4.3) scale(0.98)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M39.5 16 Q40 29 50 29 Q60 29 60.5 16 Q55 23.5 50 23.5 Q45 23.5 39.5 16 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "person.me",
@@ -210,7 +210,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M94 18 L72 40 M72 28 V40 H84\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M92 12 L74 31 M74 20 V31 H85\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "person.you",
@@ -247,7 +247,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-16 0) scale(1)\"><g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#9F86C0\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#9F86C0\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#9F86C0\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g></g><g transform=\"translate(82 56) rotate(0) scale(0.34) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g/><g/><g data-layer=\"color\"><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M45.6972,55.2881c11.975,0,18.3906-7.1612,18.3906-16.2494S57.812,19.7657,32.9352,22.4215\"/><line x1=\"46.7585\" x2=\"34.7585\" y1=\"55.4945\" y2=\"55.4945\" fill=\"#F5C9A0\" stroke=\"none\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M34.4651,48.5022c-1.9313,0.081-3.4313,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M34.2322,41.5052c-1.9313,0.081-3.4312,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M34.0984,41.5093c-1.9268,0.155-3.3631,1.8426-3.2081,3.7694c0.155,1.9268,1.8426,3.3631,3.7694,3.2081\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M33.7539,34.4677c-1.929,0.1237-3.3925,1.7878-3.2688,3.7168s1.7878,3.3925,3.7168,3.2688\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M43.0582,22.9544c-7.6195-5.8672-10.6867-6.7449-12.0296-5.3546 c-1.3429,1.3904,0.7837,5.6942,2.1741,7.0371\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M11.3816,27.4677c-1.933,0-3.5,1.567-3.5,3.5s1.567,3.5,3.5,3.5\"/><line x1=\"33.7169\" x2=\"11.3816\" y1=\"34.4677\" y2=\"34.4677\" fill=\"#F5C9A0\" stroke=\"none\"/><line x1=\"11.3816\" x2=\"39.1722\" y1=\"27.4677\" y2=\"27.4677\" fill=\"#F5C9A0\" stroke=\"none\"/><line x1=\"33.3283\" x2=\"31.1145\" y1=\"24.5068\" y2=\"22.5488\" fill=\"#F5C9A0\" stroke=\"none\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M38.2972,19.2815c2.1439,1.9526,5.1677,3.3734,9.5218,3.3013\"/><line x1=\"35.9776\" x2=\"38.3577\" y1=\"17.5139\" y2=\"19.3353\" fill=\"#F5C9A0\" stroke=\"none\"/><polygon fill=\"#F5C9A0\" stroke=\"none\" points=\"38.7972,34.5778 36.8296,27.5153 11.0472,27.5153 11.0472,34.4677\"/><rect x=\"29.3693\" y=\"38.9254\" width=\"20.9214\" height=\"12.2262\" transform=\"matrix(-4.495001e-11 1 -1 -4.495001e-11 84.8684 5.2085)\" fill=\"#F5C9A0\" stroke=\"none\"/><polygon fill=\"#F5C9A0\" stroke=\"none\" points=\"36.9379,27.4677 35.9431,24.8121 32.7573,25.3211 35.687,27.4853\"/></g><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M47.6321,55.4945c9.0883,0,16.4558-7.3675,16.4558-16.4558s-7.3675-16.4558-16.4558-16.4558\"/><line x1=\"46.7585\" x2=\"34.7585\" y1=\"55.4945\" y2=\"55.4945\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.4651,48.5022c-1.9313,0.081-3.4313,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.2322,41.5052c-1.9313,0.081-3.4312,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.0984,41.5093c-1.9268,0.155-3.3631,1.8426-3.2081,3.7694c0.155,1.9268,1.8426,3.3631,3.7694,3.2081\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.7539,34.4677c-1.929,0.1237-3.3925,1.7878-3.2688,3.7168s1.7878,3.3925,3.7168,3.2688\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M35.9776,17.5139c-1.3904-1.3429-3.6061-1.3044-4.949,0.086c-1.3429,1.3904-1.3044,3.6061,0.086,4.949\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.3816,27.4677c-1.933,0-3.5,1.567-3.5,3.5s1.567,3.5,3.5,3.5\"/><line x1=\"33.7169\" x2=\"11.3816\" y1=\"34.4677\" y2=\"34.4677\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11.3816\" x2=\"39.1722\" y1=\"27.4677\" y2=\"27.4677\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"33.3283\" x2=\"31.1145\" y1=\"24.5068\" y2=\"22.5488\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M38.2972,19.2815c2.1439,1.9526,5.1677,3.3734,9.5218,3.3013\"/><line x1=\"35.9776\" x2=\"38.3577\" y1=\"17.5139\" y2=\"19.3353\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M47.6473,55.4792c9.0883,0,16.4558-7.3675,16.4558-16.4558s-7.3675-16.4558-16.4558-16.4558\"/><line x1=\"46.7738\" x2=\"34.7738\" y1=\"55.4792\" y2=\"55.4792\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.4804,48.4869c-1.9313,0.081-3.4313,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4312,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.2475,41.49c-1.9313,0.081-3.4312,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.1136,41.494c-1.9268,0.155-3.3631,1.8426-3.2081,3.7694c0.155,1.9268,1.8426,3.3631,3.7694,3.2081\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.7692,34.4524c-1.929,0.1237-3.3925,1.7878-3.2688,3.7168s1.7878,3.3925,3.7168,3.2688\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M35.9928,17.4986c-1.3904-1.3429-3.6061-1.3044-4.949,0.086c-1.3429,1.3904-1.3044,3.6061,0.086,4.949\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.3969,27.4524c-1.933,0-3.5,1.567-3.5,3.5s1.567,3.5,3.5,3.5\"/><line x1=\"33.7321\" x2=\"11.3969\" y1=\"34.4524\" y2=\"34.4524\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11.3969\" x2=\"39.1875\" y1=\"27.4524\" y2=\"27.4524\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"33.3435\" x2=\"31.1298\" y1=\"24.4916\" y2=\"22.5336\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M38.3125,19.2663c2.1439,1.9526,5.1677,3.3734,9.5218,3.3013\"/><line x1=\"35.9928\" x2=\"38.373\" y1=\"17.4986\" y2=\"19.32\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
+    "svg": "<g transform=\"translate(0 16) scale(0.84)\"><g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#9F86C0\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#9F86C0\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#9F86C0\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g></g><g transform=\"translate(84 58) rotate(0) scale(0.32) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g/><g/><g data-layer=\"color\"><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M45.6972,55.2881c11.975,0,18.3906-7.1612,18.3906-16.2494S57.812,19.7657,32.9352,22.4215\"/><line x1=\"46.7585\" x2=\"34.7585\" y1=\"55.4945\" y2=\"55.4945\" fill=\"#F5C9A0\" stroke=\"none\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M34.4651,48.5022c-1.9313,0.081-3.4313,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M34.2322,41.5052c-1.9313,0.081-3.4312,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M34.0984,41.5093c-1.9268,0.155-3.3631,1.8426-3.2081,3.7694c0.155,1.9268,1.8426,3.3631,3.7694,3.2081\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M33.7539,34.4677c-1.929,0.1237-3.3925,1.7878-3.2688,3.7168s1.7878,3.3925,3.7168,3.2688\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M43.0582,22.9544c-7.6195-5.8672-10.6867-6.7449-12.0296-5.3546 c-1.3429,1.3904,0.7837,5.6942,2.1741,7.0371\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M11.3816,27.4677c-1.933,0-3.5,1.567-3.5,3.5s1.567,3.5,3.5,3.5\"/><line x1=\"33.7169\" x2=\"11.3816\" y1=\"34.4677\" y2=\"34.4677\" fill=\"#F5C9A0\" stroke=\"none\"/><line x1=\"11.3816\" x2=\"39.1722\" y1=\"27.4677\" y2=\"27.4677\" fill=\"#F5C9A0\" stroke=\"none\"/><line x1=\"33.3283\" x2=\"31.1145\" y1=\"24.5068\" y2=\"22.5488\" fill=\"#F5C9A0\" stroke=\"none\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M38.2972,19.2815c2.1439,1.9526,5.1677,3.3734,9.5218,3.3013\"/><line x1=\"35.9776\" x2=\"38.3577\" y1=\"17.5139\" y2=\"19.3353\" fill=\"#F5C9A0\" stroke=\"none\"/><polygon fill=\"#F5C9A0\" stroke=\"none\" points=\"38.7972,34.5778 36.8296,27.5153 11.0472,27.5153 11.0472,34.4677\"/><rect x=\"29.3693\" y=\"38.9254\" width=\"20.9214\" height=\"12.2262\" transform=\"matrix(-4.495001e-11 1 -1 -4.495001e-11 84.8684 5.2085)\" fill=\"#F5C9A0\" stroke=\"none\"/><polygon fill=\"#F5C9A0\" stroke=\"none\" points=\"36.9379,27.4677 35.9431,24.8121 32.7573,25.3211 35.687,27.4853\"/></g><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M47.6321,55.4945c9.0883,0,16.4558-7.3675,16.4558-16.4558s-7.3675-16.4558-16.4558-16.4558\"/><line x1=\"46.7585\" x2=\"34.7585\" y1=\"55.4945\" y2=\"55.4945\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.4651,48.5022c-1.9313,0.081-3.4313,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.2322,41.5052c-1.9313,0.081-3.4312,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.0984,41.5093c-1.9268,0.155-3.3631,1.8426-3.2081,3.7694c0.155,1.9268,1.8426,3.3631,3.7694,3.2081\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.7539,34.4677c-1.929,0.1237-3.3925,1.7878-3.2688,3.7168s1.7878,3.3925,3.7168,3.2688\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M35.9776,17.5139c-1.3904-1.3429-3.6061-1.3044-4.949,0.086c-1.3429,1.3904-1.3044,3.6061,0.086,4.949\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.3816,27.4677c-1.933,0-3.5,1.567-3.5,3.5s1.567,3.5,3.5,3.5\"/><line x1=\"33.7169\" x2=\"11.3816\" y1=\"34.4677\" y2=\"34.4677\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11.3816\" x2=\"39.1722\" y1=\"27.4677\" y2=\"27.4677\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"33.3283\" x2=\"31.1145\" y1=\"24.5068\" y2=\"22.5488\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M38.2972,19.2815c2.1439,1.9526,5.1677,3.3734,9.5218,3.3013\"/><line x1=\"35.9776\" x2=\"38.3577\" y1=\"17.5139\" y2=\"19.3353\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M47.6473,55.4792c9.0883,0,16.4558-7.3675,16.4558-16.4558s-7.3675-16.4558-16.4558-16.4558\"/><line x1=\"46.7738\" x2=\"34.7738\" y1=\"55.4792\" y2=\"55.4792\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.4804,48.4869c-1.9313,0.081-3.4313,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4312,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.2475,41.49c-1.9313,0.081-3.4312,1.7123-3.3502,3.6436c0.081,1.9313,1.7123,3.4313,3.6436,3.3502\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.1136,41.494c-1.9268,0.155-3.3631,1.8426-3.2081,3.7694c0.155,1.9268,1.8426,3.3631,3.7694,3.2081\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.7692,34.4524c-1.929,0.1237-3.3925,1.7878-3.2688,3.7168s1.7878,3.3925,3.7168,3.2688\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M35.9928,17.4986c-1.3904-1.3429-3.6061-1.3044-4.949,0.086c-1.3429,1.3904-1.3044,3.6061,0.086,4.949\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.3969,27.4524c-1.933,0-3.5,1.567-3.5,3.5s1.567,3.5,3.5,3.5\"/><line x1=\"33.7321\" x2=\"11.3969\" y1=\"34.4524\" y2=\"34.4524\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11.3969\" x2=\"39.1875\" y1=\"27.4524\" y2=\"27.4524\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"33.3435\" x2=\"31.1298\" y1=\"24.4916\" y2=\"22.5336\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M38.3125,19.2663c2.1439,1.9526,5.1677,3.3734,9.5218,3.3013\"/><line x1=\"35.9928\" x2=\"38.373\" y1=\"17.4986\" y2=\"19.32\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
   },
   {
     "id": "person.friend",
@@ -280,7 +280,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-10 22) scale(0.82)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L69.9 46.9 L73 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L69.9 46.9 L73 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"73\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(28 22) scale(0.82)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M34 42 Q33 5 50 6 Q67 5 66 42 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M38 20 Q38 8 50 8 Q62 8 62 20 Q50 14.2 38 20 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L30.1 46.9 L27 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L30.1 46.9 L27 58\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"27\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
+    "svg": "<g transform=\"translate(-12 2) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L69.9 46.9 L73 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L69.9 46.9 L73 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"73\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(26 2) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><path d=\"M34 42 Q33 5 50 6 Q67 5 66 42 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M38 20 Q38 8 50 8 Q62 8 62 20 Q50 14.2 38 20 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L30.1 46.9 L27 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L30.1 46.9 L27 58\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F4AA41\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"27\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "person.family",
@@ -307,7 +307,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-20 10) scale(0.85)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M36 33 Q35 0 50 1 Q65 0 64 33 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M40 13 Q40 3 50 3 Q60 3 60 13 Q50 8.4 40 13 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(32 10) scale(0.85)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M39.5 16 Q40 29 50 29 Q60 29 60.5 16 Q55 23.5 50 23.5 Q45 23.5 39.5 16 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(19 38) scale(0.62)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
+    "svg": "<g transform=\"translate(-24 4) scale(0.95)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><path d=\"M36 33 Q35 0 50 1 Q65 0 64 33 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M40 13 Q40 3 50 3 Q60 3 60 13 Q50 8.4 40 13 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(29 4) scale(0.95)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M39.5 16 Q40 29 50 29 Q60 29 60.5 16 Q55 23.5 50 23.5 Q45 23.5 39.5 16 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L65.5 45.2 L63 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(16 30) scale(0.72)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "action.eat",
@@ -337,7 +337,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L30.5 47.6 L40 54\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L30.5 47.6 L40 54\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.5 40.7 L56 33\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.5 40.7 L56 33\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(38 56) rotate(0) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" d=\"M45.9934,66H26.2541a2.6628,2.6628,0,0,1-2.6591-2.6592V60.91a1,1,0,0,1,1-1h.0019l23.0576.0429a1,1,0,0,1,.9981,1v2.3877A2.6628,2.6628,0,0,1,45.9934,66Z\"/><path fill=\"#D0CFCE\" d=\"M51.2973,28.8323c5.0582,0,9.1586-2.6112,9.1586-5.8323s-4.1-5.8323-9.1586-5.8323c-4.6982,0-8.5665,1.3551-9.0938,4.257h0l-28.4123-.8108a2,2,0,0,0,0,4l28.4181-.0285h0C42.744,27.4821,46.6047,28.8323,51.2973,28.8323Z\"/><path fill=\"#FFFFFF\" d=\"M47.3323,61.9531h-.0235L24.593,61.91a12.0946,12.0946,0,0,1-7.65-2.74A29.9163,29.9163,0,0,1,6,36a1,1,0,0,1,1-1H65a.9994.9994,0,0,1,1,1A29.9033,29.9033,0,0,1,54.9739,59.2383,12.0993,12.0993,0,0,1,47.3323,61.9531Z\"/><path fill=\"#D0CFCE\" d=\"M65,35H53.595a1,1,0,0,1,1,1A29.9032,29.9032,0,0,1,43.5686,59.2383a12.0867,12.0867,0,0,1-7.1633,2.6942l10.9035.0206h.0235a12.0993,12.0993,0,0,0,7.6416-2.7148A29.9031,29.9031,0,0,0,66,36,.9994.9994,0,0,0,65,35Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.595,60.91a11.0687,11.0687,0,0,1-7.0163-2.5114A28.9413,28.9413,0,0,1,7,36H65A28.9427,28.9427,0,0,1,54.3415,58.4642a11.0741,11.0741,0,0,1-7.0309,2.4889L29.7422,60.92\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.595,60.91v2.4312A1.6587,1.6587,0,0,0,26.2537,65h19.74a1.6587,1.6587,0,0,0,1.6587-1.6587V60.9531\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M51.2973,28.8323c5.0582,0,9.1586-2.6112,9.1586-5.8323s-4.1-5.8323-9.1586-5.8323c-4.6982,0-8.5665,1.3551-9.0938,4.257h0l-28.4123-.8108a2,2,0,0,0,0,4l28.4181-.0285h0C42.744,27.4821,46.6047,28.8323,51.2973,28.8323Z\"/></g></g></g><circle cx=\"40\" cy=\"54\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"56\" cy=\"33\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><g transform=\"translate(56 30) rotate(-40) scale(0.22) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.4573,21.3227c0-5.0582-2.6112-9.1586-5.8323-9.1586s-5.8323,4.1004-5.8323,9.1586c0,4.6982,1.3551,8.5665,4.257,9.0938l0,0\tl-0.8108,28.4123c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.0285-28.4181l0,0C42.1071,29.876,43.4573,26.0153,43.4573,21.3227z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.4573,21.3227c0-5.0582-2.6112-9.1586-5.8323-9.1586s-5.8323,4.1004-5.8323,9.1586c0,4.6982,1.3551,8.5665,4.257,9.0938l0,0\tl-0.8108,28.4123c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.0285-28.4181l0,0C42.1071,29.876,43.4573,26.0153,43.4573,21.3227z\"/></g></g></g></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L29.1 44.7 L38 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L29.1 44.7 L38 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.5 40.5 L57 34\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.5 40.5 L57 34\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(36 51) rotate(0) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" d=\"M45.9934,66H26.2541a2.6628,2.6628,0,0,1-2.6591-2.6592V60.91a1,1,0,0,1,1-1h.0019l23.0576.0429a1,1,0,0,1,.9981,1v2.3877A2.6628,2.6628,0,0,1,45.9934,66Z\"/><path fill=\"#D0CFCE\" d=\"M51.2973,28.8323c5.0582,0,9.1586-2.6112,9.1586-5.8323s-4.1-5.8323-9.1586-5.8323c-4.6982,0-8.5665,1.3551-9.0938,4.257h0l-28.4123-.8108a2,2,0,0,0,0,4l28.4181-.0285h0C42.744,27.4821,46.6047,28.8323,51.2973,28.8323Z\"/><path fill=\"#FFFFFF\" d=\"M47.3323,61.9531h-.0235L24.593,61.91a12.0946,12.0946,0,0,1-7.65-2.74A29.9163,29.9163,0,0,1,6,36a1,1,0,0,1,1-1H65a.9994.9994,0,0,1,1,1A29.9033,29.9033,0,0,1,54.9739,59.2383,12.0993,12.0993,0,0,1,47.3323,61.9531Z\"/><path fill=\"#D0CFCE\" d=\"M65,35H53.595a1,1,0,0,1,1,1A29.9032,29.9032,0,0,1,43.5686,59.2383a12.0867,12.0867,0,0,1-7.1633,2.6942l10.9035.0206h.0235a12.0993,12.0993,0,0,0,7.6416-2.7148A29.9031,29.9031,0,0,0,66,36,.9994.9994,0,0,0,65,35Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.595,60.91a11.0687,11.0687,0,0,1-7.0163-2.5114A28.9413,28.9413,0,0,1,7,36H65A28.9427,28.9427,0,0,1,54.3415,58.4642a11.0741,11.0741,0,0,1-7.0309,2.4889L29.7422,60.92\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.595,60.91v2.4312A1.6587,1.6587,0,0,0,26.2537,65h19.74a1.6587,1.6587,0,0,0,1.6587-1.6587V60.9531\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M51.2973,28.8323c5.0582,0,9.1586-2.6112,9.1586-5.8323s-4.1-5.8323-9.1586-5.8323c-4.6982,0-8.5665,1.3551-9.0938,4.257h0l-28.4123-.8108a2,2,0,0,0,0,4l28.4181-.0285h0C42.744,27.4821,46.6047,28.8323,51.2973,28.8323Z\"/></g></g></g><circle cx=\"38\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"57\" cy=\"34\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(56 30) rotate(-40) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.4573,21.3227c0-5.0582-2.6112-9.1586-5.8323-9.1586s-5.8323,4.1004-5.8323,9.1586c0,4.6982,1.3551,8.5665,4.257,9.0938l0,0\tl-0.8108,28.4123c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.0285-28.4181l0,0C42.1071,29.876,43.4573,26.0153,43.4573,21.3227z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.4573,21.3227c0-5.0582-2.6112-9.1586-5.8323-9.1586s-5.8323,4.1004-5.8323,9.1586c0,4.6982,1.3551,8.5665,4.257,9.0938l0,0\tl-0.8108,28.4123c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.0285-28.4181l0,0C42.1071,29.876,43.4573,26.0153,43.4573,21.3227z\"/></g></g></g></g>"
   },
   {
     "id": "action.drink",
@@ -377,7 +377,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.8 38.5 L59 36\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.8 38.5 L59 36\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"59\" cy=\"36\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><g transform=\"translate(55 30) rotate(-25) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#FFFFFF\" points=\"18.933 21.376 52.9693 21.495 46.9395 65.7271 25.9937 65.5684 18.933 21.376\"/><polygon fill=\"#E46B4A\" points=\"49.9235 50.25 51.9 35.85 20.4 35.85 22.6588 50.25 49.9235 50.25\"/></g><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"49.9235 50.25 51.9 35.85 20.4 35.85 22.6588 50.25 49.9235 50.25\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"54 20.55 47.7 66.45 25.2 66.45 18 20.55\"/><line x1=\"18\" x2=\"54\" y1=\"20.55\" y2=\"20.55\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"36\" x2=\"36\" y1=\"5\" y2=\"17\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g></g></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L48.7 35.7 L60 38\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L48.7 35.7 L60 38\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"60\" cy=\"38\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(56 30) rotate(-25) scale(0.36) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#FFFFFF\" points=\"18.933 21.376 52.9693 21.495 46.9395 65.7271 25.9937 65.5684 18.933 21.376\"/><polygon fill=\"#E46B4A\" points=\"49.9235 50.25 51.9 35.85 20.4 35.85 22.6588 50.25 49.9235 50.25\"/></g><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"49.9235 50.25 51.9 35.85 20.4 35.85 22.6588 50.25 49.9235 50.25\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"54 20.55 47.7 66.45 25.2 66.45 18 20.55\"/><line x1=\"18\" x2=\"54\" y1=\"20.55\" y2=\"20.55\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"36\" x2=\"36\" y1=\"5\" y2=\"17\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g></g></g>"
   },
   {
     "id": "action.brush-teeth",
@@ -407,7 +407,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L52.9 31 L64 34\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L52.9 31 L64 34\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"64\" cy=\"34\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><g transform=\"translate(56 30) rotate(45) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#7EC8E3\" d=\"M17.7061,53.5176a2.6421,2.6421,0,0,1-1.875-.7744l-.043-.042a2.666,2.666,0,0,1-.0117-3.7686L33.4092,32.3584l8.33-5.0088L51.7774,17.2881A2.6926,2.6926,0,0,1,55.59,21.0908L44.794,31.8779l-8.1836,5.14L19.56,52.7637a2.61,2.61,0,0,1-1.85.7529Z\"/><path fill=\"#FFFFFF\" d=\"M42.7,28.6167a1,1,0,0,1-.7031-.2891L37.0205,23.35a.9883.9883,0,0,1-.18-.2412,2.9024,2.9024,0,0,1-.12-2.6718,2.398,2.398,0,0,1,2.2491-1.04,1.2056,1.2056,0,0,0,.8779-.2373.8234.8234,0,0,0,.0879-.5869,2.9549,2.9549,0,0,1,.5859-2.3809,2.8473,2.8473,0,0,1,2.4239-.8486c.7861.0352,1.0175-.34,1.082-.6943a2.8273,2.8273,0,0,1,.9023-2.3028,2.4079,2.4079,0,0,1,2.4268-.1865,1.0052,1.0052,0,0,1,.3584.2276l4.9767,4.9778a1,1,0,0,1,.0137,1.4082l-9.2881,9.541a1.0015,1.0015,0,0,1-.707.3028Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M22.2733,48.8968,18.8813,52.03a1.66,1.66,0,0,1-2.3473.0029l-.0464-.0463a1.66,1.66,0,0,1-.0029-2.3473l17.44-16.4231,8.4353-5.0721,10.125-10.15a1.66,1.66,0,0,1,2.3473-.0029l.0464.0464a1.66,1.66,0,0,1,.0029,2.3472L44.2614,31.0312,36,36.2194,25.2054,46.256\"/><line x1=\"42.9935\" x2=\"44.0706\" y1=\"21.4042\" y2=\"22.4813\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"45.631\" x2=\"46.7081\" y1=\"18.7667\" y2=\"19.8438\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40.919,25.8338l-3.1877-3.1877s-1.1923-2.2415,1.2458-2.2415,1.9419-2.0462,1.9419-2.0462a1.6659,1.6659,0,0,1,1.9763-2.01,1.8756,1.8756,0,0,0,2.144-1.65s-.2173-2.3987,1.98-1.5939l3.1877,3.1877\"/></g></g></g></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L54.9 29.9 L66 33\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L54.9 29.9 L66 33\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"66\" cy=\"33\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(58 29) rotate(45) scale(0.38) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#7EC8E3\" d=\"M17.7061,53.5176a2.6421,2.6421,0,0,1-1.875-.7744l-.043-.042a2.666,2.666,0,0,1-.0117-3.7686L33.4092,32.3584l8.33-5.0088L51.7774,17.2881A2.6926,2.6926,0,0,1,55.59,21.0908L44.794,31.8779l-8.1836,5.14L19.56,52.7637a2.61,2.61,0,0,1-1.85.7529Z\"/><path fill=\"#FFFFFF\" d=\"M42.7,28.6167a1,1,0,0,1-.7031-.2891L37.0205,23.35a.9883.9883,0,0,1-.18-.2412,2.9024,2.9024,0,0,1-.12-2.6718,2.398,2.398,0,0,1,2.2491-1.04,1.2056,1.2056,0,0,0,.8779-.2373.8234.8234,0,0,0,.0879-.5869,2.9549,2.9549,0,0,1,.5859-2.3809,2.8473,2.8473,0,0,1,2.4239-.8486c.7861.0352,1.0175-.34,1.082-.6943a2.8273,2.8273,0,0,1,.9023-2.3028,2.4079,2.4079,0,0,1,2.4268-.1865,1.0052,1.0052,0,0,1,.3584.2276l4.9767,4.9778a1,1,0,0,1,.0137,1.4082l-9.2881,9.541a1.0015,1.0015,0,0,1-.707.3028Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M22.2733,48.8968,18.8813,52.03a1.66,1.66,0,0,1-2.3473.0029l-.0464-.0463a1.66,1.66,0,0,1-.0029-2.3473l17.44-16.4231,8.4353-5.0721,10.125-10.15a1.66,1.66,0,0,1,2.3473-.0029l.0464.0464a1.66,1.66,0,0,1,.0029,2.3472L44.2614,31.0312,36,36.2194,25.2054,46.256\"/><line x1=\"42.9935\" x2=\"44.0706\" y1=\"21.4042\" y2=\"22.4813\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"45.631\" x2=\"46.7081\" y1=\"18.7667\" y2=\"19.8438\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40.919,25.8338l-3.1877-3.1877s-1.1923-2.2415,1.2458-2.2415,1.9419-2.0462,1.9419-2.0462a1.6659,1.6659,0,0,1,1.9763-2.01,1.8756,1.8756,0,0,0,2.144-1.65s-.2173-2.3987,1.98-1.5939l3.1877,3.1877\"/></g></g></g></g>"
   },
   {
     "id": "action.listen",
@@ -441,7 +441,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46.5\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"55.9\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L56.2 29.5 L65 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L56.2 29.5 L65 22\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"65\" cy=\"22\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M76 12 Q82 22 76 32 M83 6 Q92 22 83 38\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"46.5\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"55.9\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L56.2 29.5 L65 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L56.2 29.5 L65 22\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"65\" cy=\"22\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M82 18 Q88 30 82 42 M88 11 Q95 30 88 49\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.look",
@@ -480,7 +480,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46.9\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"56.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M62 26 L72 30\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-dasharray=\"3 4\"/><g transform=\"translate(84 36) rotate(0) scale(0.34) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#6B4F3A\" stroke=\"none\" d=\"M40.203,22c0,0,3.1218-9,11.4467-4c0,0,8.585,0.75,8.9753,3.375c0,0-7.9346,1.625-10.0159,5.625 s3.1218,7-5.3331,15.625c0,0-4.0324,4.375-10.276,4.375c0,0-22,3-25,0\"/><path fill=\"#A57939\" stroke=\"none\" d=\"M10.125,46.875C10.125,46.875,35,24,43,25s2,13.25-5.5,17.625S10.125,46.875,10.125,46.875z\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"32.625\" x2=\"37\" y1=\"55.625\" y2=\"54\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M42.8504,29.4692c-0.7444-0.1428-0.9348,0.5114-0.9348,0.5114h-0.0005c-0.6837,2.166-3.0652,7.1369-10.4871,10.0829 l0.006,0.0082c0,0-0.7619,0.2029-0.443,1.0278c0.2757,0.7122,0.9802,0.5552,1.1667,0.4988 c8.3025-3.3272,10.7819-9.1109,11.4476-11.3398C43.6638,30.0615,43.5899,29.6108,42.8504,29.4692z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M31.625,40.875C31.625,40.875,40,39,43,29\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41,22c0,0,3-9,11-4c0,0,8.25,0.75,8.625,3.375C60.625,21.375,53,23,51,27s3,7-5.125,15.625C45.875,42.625,42,47,36,47l-1,2l2,5 l6,1\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M10.125,46.875C10.125,46.875,35,24,43,25s2,13.25-5.5,17.625S10.125,46.875,10.125,46.875z\"/></g></g></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"46.9\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"56.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M66 31 L74 33\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-dasharray=\"3 4\"/><g transform=\"translate(86 38) rotate(0) scale(0.26) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#6B4F3A\" stroke=\"none\" d=\"M40.203,22c0,0,3.1218-9,11.4467-4c0,0,8.585,0.75,8.9753,3.375c0,0-7.9346,1.625-10.0159,5.625 s3.1218,7-5.3331,15.625c0,0-4.0324,4.375-10.276,4.375c0,0-22,3-25,0\"/><path fill=\"#A57939\" stroke=\"none\" d=\"M10.125,46.875C10.125,46.875,35,24,43,25s2,13.25-5.5,17.625S10.125,46.875,10.125,46.875z\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"32.625\" x2=\"37\" y1=\"55.625\" y2=\"54\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M42.8504,29.4692c-0.7444-0.1428-0.9348,0.5114-0.9348,0.5114h-0.0005c-0.6837,2.166-3.0652,7.1369-10.4871,10.0829 l0.006,0.0082c0,0-0.7619,0.2029-0.443,1.0278c0.2757,0.7122,0.9802,0.5552,1.1667,0.4988 c8.3025-3.3272,10.7819-9.1109,11.4476-11.3398C43.6638,30.0615,43.5899,29.6108,42.8504,29.4692z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M31.625,40.875C31.625,40.875,40,39,43,29\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41,22c0,0,3-9,11-4c0,0,8.25,0.75,8.625,3.375C60.625,21.375,53,23,51,27s3,7-5.125,15.625C45.875,42.625,42,47,36,47l-1,2l2,5 l6,1\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M10.125,46.875C10.125,46.875,35,24,43,25s2,13.25-5.5,17.625S10.125,46.875,10.125,46.875z\"/></g></g></g>"
   },
   {
     "id": "action.talk",
@@ -518,7 +518,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L68.1 32.7 L70 44\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L68.1 32.7 L70 44\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"70\" cy=\"44\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M68 22 L80 16 M70 29 H84 M68 36 L80 42\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L70.7 36.6 L72 48\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L70.7 36.6 L72 48\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"72\" cy=\"48\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M74 30 L86 23 M76 40 H90 M74 50 L86 57\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.sing",
@@ -547,7 +547,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M43.1 22.5 Q45.3 24.5 47.5 22.5 M52.5 22.5 Q54.7 24.5 56.9 22.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L33 31.6 L28 42\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L33 31.6 L28 42\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L67 31.6 L72 42\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L67 31.6 L72 42\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"28\" cy=\"42\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"72\" cy=\"42\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(82 16) rotate(0) scale(0.26) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"26.324,22.8117 51.6188,17.5516 51.5493,12.875 26.105,18.5407\"/><circle cx=\"20.7561\" cy=\"51.59\" r=\"5.7867\" fill=\"#3F3F3F\" stroke=\"none\"/><circle cx=\"46.2061\" cy=\"46.0127\" r=\"5.787\" fill=\"#3F3F3F\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"51.6188,17.5516 26.1735,23.2225 26.105,18.5407 51.5493,12.875\"/><circle cx=\"20.7563\" cy=\"51.5901\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.105\" x2=\"26.5431\" y1=\"18.5407\" y2=\"51.5901\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"46.2063\" cy=\"46.0129\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.555\" x2=\"51.9931\" y1=\"12.9635\" y2=\"46.0129\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><path d=\"M43.1 22.5 Q45.3 24.5 47.5 22.5 M52.5 22.5 Q54.7 24.5 56.9 22.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L31.9 32.7 L30 44\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L31.9 32.7 L30 44\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L68.1 32.7 L70 44\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L68.1 32.7 L70 44\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30\" cy=\"44\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"70\" cy=\"44\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><g transform=\"translate(86 18) rotate(0) scale(0.26) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"26.324,22.8117 51.6188,17.5516 51.5493,12.875 26.105,18.5407\"/><circle cx=\"20.7561\" cy=\"51.59\" r=\"5.7867\" fill=\"#3F3F3F\" stroke=\"none\"/><circle cx=\"46.2061\" cy=\"46.0127\" r=\"5.787\" fill=\"#3F3F3F\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"51.6188,17.5516 26.1735,23.2225 26.105,18.5407 51.5493,12.875\"/><circle cx=\"20.7563\" cy=\"51.5901\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.105\" x2=\"26.5431\" y1=\"18.5407\" y2=\"51.5901\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"46.2063\" cy=\"46.0129\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.555\" x2=\"51.9931\" y1=\"12.9635\" y2=\"46.0129\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
   },
   {
     "id": "action.read",
@@ -583,31 +583,108 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L28.9 43.9 L37 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L28.9 43.9 L37 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.1 43.9 L63 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.1 43.9 L63 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(50 52) rotate(0) scale(0.38) translate(-50 -50)\"><path d=\"M50 26 Q32 16 10 20 V80 Q32 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M50 26 Q68 16 90 20 V80 Q68 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M20 38 Q30 36 40 40 M20 52 Q30 50 40 54 M60 40 Q70 36 80 38 M60 54 Q70 50 80 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"4\" stroke-linecap=\"round\"/></g><circle cx=\"37\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"63\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L28.8 38.3 L35 48\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L28.8 38.3 L35 48\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.2 38.3 L65 48\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.2 38.3 L65 48\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(50 47) rotate(0) scale(0.4) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41,56c0,2.7614-2.2386,5-5,5s-5-2.2386-5-5\"/><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M67.0015,56H4.9985C4.447,56,4,55.553,4,55.0015v-38.003C4,16.447,4.447,16,4.9985,16h62.003C67.553,16,68,16.447,68,16.9985 v38.003C68,55.553,67.553,56,67.0015,56z\"/><path fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M64.0015,51.625H7.9985C7.447,51.625,7,51.178,7,50.6265v-29.253c0-0.5514,0.447-0.9985,0.9985-0.9985h56.003 C64.553,20.375,65,20.822,65,21.3735v29.253C65,51.178,64.553,51.625,64.0015,51.625z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41,56c0,2.7614-2.2386,5-5,5s-5-2.2386-5-5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M67.0015,56H4.9985C4.447,56,4,55.553,4,55.0015v-38.003C4,16.447,4.447,16,4.9985,16h62.003C67.553,16,68,16.447,68,16.9985 v38.003C68,55.553,67.553,56,67.0015,56z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M64.0015,51.625H7.9985C7.447,51.625,7,51.178,7,50.6265v-29.253c0-0.5514,0.447-0.9985,0.9985-0.9985h56.003 C64.553,20.375,65,20.822,65,21.3735v29.253C65,51.178,64.553,51.625,64.0015,51.625z\"/><line x1=\"36\" x2=\"36\" y1=\"17\" y2=\"55\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"27\" y2=\"27\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"33\" y2=\"33\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"39\" y2=\"39\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"45\" y2=\"45\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"27\" y2=\"27\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"33\" y2=\"33\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"39\" y2=\"39\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"45\" y2=\"45\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><circle cx=\"35\" cy=\"48\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"65\" cy=\"48\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g>"
   },
   {
-    "id": "action.write",
+    "id": "action.phone",
     "kind": "concept",
     "category": "action",
     "labels": {
       "en": [
-        "write"
+        "call",
+        "phone"
       ],
       "fr": [
-        "écrire"
+        "téléphoner",
+        "appeler"
       ]
     },
     "forms": {
       "en": [
-        "wrote",
-        "written",
-        "writes"
+        "calls",
+        "called",
+        "calling"
       ],
       "fr": [
-        "écris",
-        "écrit",
-        "écrivons",
-        "écrivent"
+        "téléphone",
+        "appelle"
+      ]
+    },
+    "tags": [
+      "screen"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L53.5 30.6 L64 26\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L53.5 30.6 L64 26\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"64\" cy=\"26\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(63 22) rotate(15) scale(0.26) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M52.5,64.7644h-33c-0.5523,0-1-0.4477-1-1v-56c0-0.5523,0.4477-1,1-1h33c0.5523,0,1,0.4477,1,1v56 C53.5,64.3167,53.0523,64.7644,52.5,64.7644z\"/><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M48.0339,55H23.9661C23.4325,55,23,54.5675,23,54.0339V13.9661C23,13.4325,23.4325,13,23.9661,13h24.0678 C48.5675,13,49,13.4325,49,13.9661v40.0678C49,54.5675,48.5675,55,48.0339,55z\"/><polygon fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"31,10 41,10 41,10 31,10\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M52.5,64.7644h-33c-0.5523,0-1-0.4477-1-1v-56c0-0.5523,0.4477-1,1-1h33c0.5523,0,1,0.4477,1,1v56 C53.5,64.3167,53.0523,64.7644,52.5,64.7644z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M48.0339,55H23.9661C23.4325,55,23,54.5675,23,54.0339V13.9661C23,13.4325,23.4325,13,23.9661,13h24.0678 C48.5675,13,49,13.4325,49,13.9661v40.0678C49,54.5675,48.5675,55,48.0339,55z\"/><circle cx=\"36\" cy=\"60\" r=\"2\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-miterlimit=\"10\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"31,10 41,10 41,10 31,10\"/></g></g></g></g>"
+  },
+  {
+    "id": "action.music",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "listen to music"
+      ],
+      "fr": [
+        "écouter de la musique"
+      ]
+    },
+    "tags": [
+      "music"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><path d=\"M43.1 22.5 Q45.3 24.5 47.5 22.5 M52.5 22.5 Q54.7 24.5 56.9 22.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><path d=\"M36 22 Q36 4 50 4 Q64 4 64 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"32\" y=\"16\" width=\"8\" height=\"13\" rx=\"3\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"2.6\"/><rect x=\"60\" y=\"16\" width=\"8\" height=\"13\" rx=\"3\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"2.6\"/></g><g transform=\"translate(88 22) rotate(0) scale(0.24) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"26.324,22.8117 51.6188,17.5516 51.5493,12.875 26.105,18.5407\"/><circle cx=\"20.7561\" cy=\"51.59\" r=\"5.7867\" fill=\"#3F3F3F\" stroke=\"none\"/><circle cx=\"46.2061\" cy=\"46.0127\" r=\"5.787\" fill=\"#3F3F3F\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"51.6188,17.5516 26.1735,23.2225 26.105,18.5407 51.5493,12.875\"/><circle cx=\"20.7563\" cy=\"51.5901\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.105\" x2=\"26.5431\" y1=\"18.5407\" y2=\"51.5901\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"46.2063\" cy=\"46.0129\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.555\" x2=\"51.9931\" y1=\"12.9635\" y2=\"46.0129\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
+  },
+  {
+    "id": "action.medicine",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "take medicine"
+      ],
+      "fr": [
+        "prendre un médicament"
+      ]
+    },
+    "tags": [
+      "health"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L29.6 46.1 L38 54\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L29.6 46.1 L38 54\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.5 40.5 L57 34\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L47.5 40.5 L57 34\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(36 52) rotate(0) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#FFFFFF\" points=\"18.933 21.376 52.9693 21.495 46.9395 65.7271 25.9937 65.5684 18.933 21.376\"/><polygon fill=\"#E46B4A\" points=\"49.9235 50.25 51.9 35.85 20.4 35.85 22.6588 50.25 49.9235 50.25\"/></g><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"49.9235 50.25 51.9 35.85 20.4 35.85 22.6588 50.25 49.9235 50.25\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"54 20.55 47.7 66.45 25.2 66.45 18 20.55\"/><line x1=\"18\" x2=\"54\" y1=\"20.55\" y2=\"20.55\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"36\" x2=\"36\" y1=\"5\" y2=\"17\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g></g><circle cx=\"38\" cy=\"54\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"57\" cy=\"34\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(55 29) rotate(-30) scale(0.18) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M44.33,44.71L32.52,56.52c-4.53,4.54-11.85,4.7-16.58,0.4901c8.96,0.08,8.4,0.65,24.87-15.82L44.33,44.71z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M40.81,41.19C24.34,57.66,24.9,57.09,15.94,57.01c-0.18-0.16-0.35-0.32-0.52-0.4901 c-2.35-2.35-3.53-5.45-3.53-8.55c0-3.1,1.18-6.2,3.53-8.55l11.81-11.81L40.81,41.19z\"/><path fill=\"#7EC8E3\" stroke=\"none\" d=\"M56.85,15.1c-2.47-2.47-5.75-3.83-9.2599-3.83c-3.51,0-6.8,1.36-9.26,3.83L25.81,27.61l18.52,18.52 l12.51-12.52c2.47-2.46,3.83-5.75,3.83-9.26C60.67,20.85,59.31,17.56,56.85,15.1z M56.14,32.9L44.33,44.71l-3.52-3.52 c0.42-0.42,0.86-0.86,1.31-1.31c15.72-15.72,8.77-25.05,6.21-27.59c2.85,0.18,5.65,1.35,7.81,3.51c2.35,2.35,3.53,5.45,3.53,8.55 C59.67,27.45,58.49,30.55,56.14,32.9z\"/><path fill=\"#7EC8E3\" stroke=\"none\" d=\"M57.55,14.39c-2.65-2.66-6.19-4.1201-9.96-4.1201c-3.78,0-7.32,1.46-9.97,4.1201L24.4,27.61l1.41,1.42 l17.1,17.1l1.42,1.41l13.22-13.22c2.66-2.66,4.12-6.2,4.12-9.97S60.21,17.04,57.55,14.39z M44.33,44.71l-3.52-3.52L27.23,27.61 L39.04,15.8c2.35-2.35,5.45-3.53,8.55-3.53c0.25,0,0.49,0.01,0.74,0.02c2.85,0.18,5.65,1.35,7.81,3.51 c2.35,2.35,3.53,5.45,3.53,8.55c0,3.1-1.18,6.2-3.53,8.55L44.33,44.71z\"/><path fill=\"#4F86C6\" stroke=\"none\" d=\"M59.67,24.35c0,3.1-1.18,6.2-3.53,8.55L44.33,44.71l-3.52-3.52c0.42-0.42,0.86-0.86,1.31-1.31 c15.72-15.72,8.77-25.05,6.21-27.59c2.85,0.18,5.65,1.35,7.81,3.51C58.49,18.15,59.67,21.25,59.67,24.35z\"/><line x1=\"27.2279\" x2=\"26.6579\" y1=\"27.6135\" y2=\"27.0335\" fill=\"none\" stroke=\"none\"/><rect x=\"40.8452\" y=\"39.0132\" width=\"5.8082\" height=\"6.5641\" transform=\"matrix(0.7071 0.7071 -0.7071 0.7071 42.7211 -18.5474)\" fill=\"#4F86C6\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"#1F2937\" stroke=\"none\" d=\"M47.5877,12.2742c3.1001,0,6.2001,1.1759,8.5519,3.5276l0,0c4.7035,4.7035,4.7035,12.4002,0,17.1038 L32.52,56.5251c-2.3518,2.3518-5.4518,3.5277-8.5519,3.5277c-3.1001,0-6.2001-1.1759-8.5519-3.5277l0,0 c-4.7035-4.7035-4.7035-12.4002,0-17.1038l23.6195-23.6195C41.3875,13.45,44.4876,12.2742,47.5877,12.2742 M47.5877,10.2742 c-3.7741,0-7.3135,1.4608-9.9661,4.1134L14.002,38.0071c-5.4953,5.4953-5.4953,14.4369,0,19.9322 c2.6526,2.6526,6.192,4.1135,9.9661,4.1135c3.7741,0,7.3135-1.4608,9.9661-4.1134l23.6196-23.6195 c5.4953-5.4953,5.4953-14.4369,0-19.9322C54.9012,11.735,51.3618,10.2742,47.5877,10.2742L47.5877,10.2742z\"/><line x1=\"28.5625\" x2=\"41.4219\" y1=\"30.4062\" y2=\"43.2656\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g></g>"
+  },
+  {
+    "id": "action.cut",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "cut"
+      ],
+      "fr": [
+        "couper",
+        "découper"
+      ]
+    },
+    "forms": {
+      "en": [
+        "cuts",
+        "cutting"
+      ],
+      "fr": [
+        "coupe",
+        "découpe"
       ]
     },
     "tags": [
@@ -618,31 +695,28 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.1 53 L60 64.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.1 53 L60 64.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"60\" cy=\"64.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><rect x=\"4\" y=\"68\" width=\"92\" height=\"9\" rx=\"2\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M14 77 V98 M86 77 V98\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M30 62 L66 60 L68 69 L28 70 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.6\" stroke-linejoin=\"round\"/><path d=\"M36 66 Q40 63 44 66 T52 66\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(64 58) rotate(-10) scale(0.2) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"14.5943,53.154 18.2544,56.814 12.6242,59.0928\"/><polyline fill=\"#F4AA41\" stroke=\"none\" points=\"18.0381,41.8761 36.8684,23.0457 48.1813,34.3586 29.5108,53.0291\"/><polyline fill=\"#A57939\" stroke=\"none\" points=\"14.4132,52.5663 17.9281,43.3946 27.8278,53.2939 18.6558,56.809\"/><polyline fill=\"#E46B4A\" stroke=\"none\" points=\"42.9209,16.9933 50.4228,9.4913 61.7357,20.8042 54.2975,28.2424\"/><polyline fill=\"#9B9B9A\" stroke=\"none\" points=\"35.6498,24.2643 43.3318,16.5823 54.6447,27.8952 47.0278,35.512\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"18.6304,56.8203 27.8278,53.2939 53.8207,27.301 43.9212,17.4015 17.9281,43.3946 14.3904,52.6032\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"47.3354,13.9873 50.8388,10.4839 60.7383,20.3834 57.2645,23.8572\"/><line x1=\"18.5562\" x2=\"28.4557\" y1=\"42.7665\" y2=\"52.6659\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"14.3979,52.5817 11.9073,59.3148 18.6558,56.809\"/><line x1=\"36.9099\" x2=\"46.4225\" y1=\"25.0073\" y2=\"34.5199\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L29.6 46.1 L38 54\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L29.6 46.1 L38 54\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L70.1 46.6 L60 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L70.1 46.6 L60 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M26 46 H52 V62 H26 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.6\" stroke-linejoin=\"round\"/><circle cx=\"38\" cy=\"54\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"60\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(60 50) rotate(-20) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M24.4876,52.1172c-0.5439,2.6905-0.4393,4.9935,0.3049,6.6602c2.0541,4.6004,7.4659,6.6766,12.0697,4.6202 c2.2292-0.9951,3.9378-2.7983,4.8096-5.0782c0.873-2.2798,0.8058-4.7633-0.1893-6.9926c-1.0976-2.4583-2.4708-4.353-5.0665-5.1028 c-0.3095-0.0891-0.0393-1.1312,0.0839-1.4273l0.8396-2.8127l-7.5987-2.5299C26.3194,47.1831,24.6362,51.3774,24.4876,52.1172z M34.5204,50.1116c1.2255,0.2796,2.2689,1.0194,2.9376,2.0835c0.6685,1.0642,0.8821,2.3254,0.6024,3.5509 c-0.2797,1.2255-1.0195,2.269-2.0837,2.9376c-0.7596,0.4767-1.6194,0.7224-2.494,0.7224c-0.3518,0-0.7059-0.0397-1.0568-0.12 c-1.2255-0.2797-2.2689-1.0194-2.9376-2.0836c-0.6686-1.0642-0.8821-2.3253-0.6024-3.5508 c0.2796-1.2256,1.0195-2.269,2.0837-2.9376C32.0354,50.0453,33.2998,49.8327,34.5204,50.1116z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M37.0087,42.0773l12.1334-30.0448c-2.1868,0.6951-4.5552,1.2401-6.5,3.2139 c-2.4429,2.4793-4.2251,6.3918-4.2251,6.3918s-7.5842,16.5213-7.9522,17.3439C30.4514,39.0121,37.0087,42.0773,37.0087,42.0773z\"/><path fill=\"#9B9B9A\" stroke=\"none\" d=\"M61.0114,24.5002c0,0-15.2911,5.18-14.8124,4.9513c-0.0013-0.0006-0.0027-0.0042-0.0039-0.0047 l-3.9462,1.6485l-5.1362,12.9661l5.7091-2.7443l0.0016-0.0152c-0.1026,0.034,9.4146-5.6414,9.5884-5.731 C56.4362,33.4927,59.4391,29.427,61.0114,24.5002z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M21.8327,32.8842c-4.082-1.8222-10.3997,0.2072-12.2219,4.2873c-1.8223,4.083-0.1787,10.4317,3.9033,12.254 c1.4775,0.6601,3.9424,1.0561,6.3301,0.5737c0.1025-0.0205,3.3664-0.2273,2.9776,0.0254l2.2852-1.0631 c1.1782-2.9712,4.7164-11.342,5.0059-11.9878l-2.738,1.3137l-0.0062,0.0115C27.3511,38.5827,23.8913,33.8042,21.8327,32.8842z M21.5842,43.2347c-0.6457,1.0277-1.6534,1.7422-2.837,2.0124c-0.3389,0.0775-0.6777,0.115-1.0118,0.115 c-2.0731,0-3.9503-1.4297-4.4298-3.5339c-0.2709-1.1836-0.064-2.4015,0.5818-3.4293c0.6457-1.0277,1.6535-1.7422,2.837-2.0123 c1.182-0.2701,2.4008-0.0631,3.4293,0.5819c1.0277,0.6456,1.7422,1.6534,2.0123,2.837 C22.4361,40.989,22.2299,42.207,21.5842,43.2347z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M29.5835,39.6214c3.0581-6.8803,6.6525-14.6439,7.7996-16.8652c2.0717-4.012,5.7336-10.1903,12.5418-11.1943L37.2636,42.1156\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41.4622,50.9758c-1.1378-2.5493-3.3045-4.3145-5.7916-5.0337l1.593-3.8265l-7.6801-2.4942 c-2.5052,5.6398-4.8798,11.2159-5.0918,12.2646c-0.3613,1.7873-0.6165,4.374,0.3383,6.5134 c2.0499,4.5928,7.435,6.6542,12.0278,4.6044C41.4507,60.9539,43.5121,55.5687,41.4622,50.9758z M37.9123,55.712 c-0.5596,2.4517-3.0009,3.9855-5.4525,3.4258c-2.4517-0.5597-3.9856-3.0008-3.4259-5.4525 c0.5597-2.4518,3.0009-3.9856,5.4526-3.4259C36.9382,50.8191,38.472,53.2603,37.9123,55.712z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M26.3726,38.2375c-0.7838-2.3259-2.4964-4.3306-4.9143-5.4099c-4.5928-2.0498-9.9779,0.0115-12.0279,4.6045 c-2.0499,4.5928,0.0116,9.9778,4.6044,12.0277c2.1394,0.955,4.7261,0.6996,6.5134,0.3384 c0.2928-0.0592,0.8983-0.2697,1.7418-0.5971 M18.749,45.256c-2.4518,0.5597-4.893-0.9741-5.4526-3.4259 c-0.5597-2.4517,0.974-4.8928,3.4258-5.4525c2.4517-0.5597,4.8929,0.974,5.4526,3.4257 C22.7344,42.2551,21.2007,44.6963,18.749,45.256z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M46.6251,30.3466l14.2472-5.9816c-1.004,6.8082-7.1823,10.4701-11.1943,12.5418c-1.3118,0.6774-3.3115,1.6931-7.1655,3.463\"/></g></g></g></g>"
   },
   {
-    "id": "action.draw",
+    "id": "action.paint",
     "kind": "concept",
     "category": "action",
     "labels": {
       "en": [
-        "draw",
         "paint"
       ],
       "fr": [
-        "dessiner",
         "peindre"
       ]
     },
     "forms": {
       "en": [
-        "drew",
-        "drawn",
-        "draws",
-        "drawing"
+        "paints",
+        "painting"
       ],
       "fr": [
-        "dessin"
+        "peins",
+        "peint"
       ]
     },
     "tags": [
@@ -654,7 +728,238 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L62.8 52.5 L62 64\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L62.8 52.5 L62 64\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"62\" cy=\"64\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><rect x=\"4\" y=\"68\" width=\"92\" height=\"9\" rx=\"2\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M14 77 V98 M86 77 V98\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M26 58 H70 V70 H26 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.6\" stroke-linejoin=\"round\"/><circle cx=\"38\" cy=\"64\" r=\"4\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"1.6\"/><path d=\"M46 67 L52 61 L58 67 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"1.6\" stroke-linejoin=\"round\"/><g transform=\"translate(66 56) rotate(-10) scale(0.2) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"15.8466,59.4954 23.6833,54.7934 16.8591,47.9691 12.157,55.8059\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"24.5167,55.6267 16.8728,47.9829 16.0257,47.1357 53.2503,9.9112 61.7413,18.4022\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"28.4351,51.7084 20.7912,44.0645 19.9441,43.2174 49.7237,13.4377 58.2147,21.9287\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.99\" points=\"24.5167,55.6267 16.8728,47.9829 16.0257,47.1357 53.2503,9.9112 61.7413,18.4022\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.99\" points=\"15.8466,59.4954 23.6833,54.7934 16.8591,47.9691 12.157,55.8059\"/><line x1=\"19.9938\" x2=\"28.4028\" y1=\"43.267\" y2=\"51.676\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.99\"/><line x1=\"49.7735\" x2=\"58.1823\" y1=\"13.4874\" y2=\"21.8964\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.99\"/></g></g></g>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L29.1 44.8 L36 54\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L29.1 44.8 L36 54\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61.9 29.2 L66 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61.9 29.2 L66 40\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(34 54) rotate(0) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#A57939\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M59,36c-0.25-0.75-0.71-2.1-2-3c-1.56-1.08-3.63-1.01-4-1c-0.76,0.03-1.18,0.16-2,0c-0.58-0.12-1.53-0.3-2-1 c-0.4-0.59-0.15-1.08,0-3c0.12-1.51,0.17-2.27,0-3c-0.37-1.58-1.49-2.56-2-3c-1.05-0.92-2.38-1.56-5-2c-1.82-0.31-4.75-0.6-9,0 c-2.15,0.3-5.46,0.87-8,1.72c-1.77,0.58-3.74,1.41-6,3c-0.02,0.01-0.04,0.02-0.05,0.03c-3.44,2.24-5.39,6.2-5.22,10.31 C14.64,57.13,54.56,59.91,59,41C59.09,40.4,59.79,38.35,59,36z M38.21,30.12c-1.53,0-2.76-1.24-2.76-2.76 c0-1.53,1.23-2.76,2.76-2.76h2.71c1.52,0,2.76,1.23,2.76,2.76c0,0.76-0.31,1.45-0.81,1.95s-1.19,0.81-1.95,0.81H38.21z\"/><circle cx=\"20\" cy=\"33\" r=\"3\" fill=\"#4F86C6\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"25\" cy=\"42\" r=\"3\" fill=\"#6BAF5B\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"35\" cy=\"45\" r=\"3\" fill=\"#F2C14E\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"45\" cy=\"44\" r=\"3\" fill=\"#E46B4A\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M59,36c-0.25-0.75-0.71-2.1-2-3c-1.56-1.08-3.63-1.01-4-1c-0.76,0.03-1.18,0.16-2,0c-0.58-0.12-1.53-0.3-2-1 c-0.4-0.59-0.15-1.08,0-3c0.12-1.51,0.17-2.27,0-3c-0.37-1.58-1.49-2.56-2-3c-1.05-0.92-2.38-1.56-5-2c-1.82-0.31-4.75-0.6-9,0 c-2.15,0.3-5.46,0.87-8,1.72c-1.77,0.58-3.74,1.41-6,3c-0.02,0.01-0.04,0.02-0.05,0.03c-3.44,2.24-5.39,6.2-5.22,10.31 C14.64,57.13,54.56,59.91,59,41C59.09,40.4,59.79,38.35,59,36z M38.21,30.12c-1.53,0-2.76-1.24-2.76-2.76 c0-1.53,1.23-2.76,2.76-2.76h2.71c1.52,0,2.76,1.23,2.76,2.76c0,0.76-0.31,1.45-0.81,1.95s-1.19,0.81-1.95,0.81H38.21z\"/><circle cx=\"20\" cy=\"33\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"25\" cy=\"42\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"35\" cy=\"45\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"45\" cy=\"44\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><circle cx=\"36\" cy=\"54\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"66\" cy=\"40\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(68 36) rotate(0) scale(0.26) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#A57939\" stroke=\"#A57939\" stroke-miterlimit=\"10\" stroke-width=\"2.82\" d=\"M27.4213,52.1412 c-1.1308,3.0553-2.6697,4.5942-5.6852,6.1955s-11.2248-0.0889-9.5042-1.8095c2.3084-2.3084,3.6596-3.1597,3.2026-6.031 c-0.5824-3.6603,4.2087-6.1331,4.2087-6.1331s2.0935-1.1422,4.1931-0.8545c2.2812,0.3125,4.9498,4.9497,4.9498,4.9497 L27.4213,52.1412z\"/><path fill=\"#7EC8E3\" stroke=\"none\" d=\"M45.8565,36.851c-7.0488,6.5155-12.4768,10.4313-15.8703,12.6073l-7.6389-7.6751 c2.1789-3.3949,6.0918-8.8147,12.5932-15.8482c4.7694-5.1598,9.7635-9.9137,13.8015-12.4485 c2.9438-1.8479,6.597-1.5717,8.8659,0.6971l0,0c2.2688,2.2688,2.5449,5.9222,0.697,8.8659 C55.7702,27.0875,51.0162,32.0816,45.8565,36.851\"/><polygon fill=\"#4F86C6\" stroke=\"none\" points=\"26.8108,35.5092 36.0461,44.7445 30.2121,48.8995 22.9382,41.5646\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M45.8565,36.851c-7.0488,6.5155-12.4768,10.4313-15.8703,12.6073l-7.6389-7.6751c2.1789-3.3949,6.0918-8.8147,12.5932-15.8482 c4.7694-5.1598,9.7635-9.9137,13.8015-12.4485c2.9438-1.8479,6.597-1.5717,8.8659,0.6971l0,0 c2.2688,2.2688,2.5449,5.9222,0.697,8.8659C55.7702,27.0875,51.0162,32.0816,45.8565,36.851\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M19.6432,44.3631c0,0-4.7911,2.4728-4.2087,6.1331c0.457,2.8713-0.8942,3.7226-3.2026,6.031 c-1.7206,1.7206,6.4887,3.4108,9.5042,1.8095s4.5544-3.1402,5.6852-6.1955\"/><line x1=\"27.4304\" x2=\"36.5691\" y1=\"35.2569\" y2=\"44.3958\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g></g>"
+  },
+  {
+    "id": "action.cook",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "cook"
+      ],
+      "fr": [
+        "cuisiner",
+        "faire à manger"
+      ]
+    },
+    "forms": {
+      "en": [
+        "cooks",
+        "cooking"
+      ],
+      "fr": [
+        "cuisine",
+        "cuisines"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"24.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L31.2 48.6 L40 56\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L31.2 48.6 L40 56\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L67.3 50.1 L56 48\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L67.3 50.1 L56 48\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"40\" cy=\"56\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"48\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><g transform=\"translate(48 53) rotate(0) scale(0.32) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M7,36c0,16.0166,12.9834,29,29,29s29-12.9834,29-29H7z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M49,36c0,16.0156-4,29-13,29c16.0166,0,29-12.9844,29-29H49z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M7,36c0,16.0166,12.9834,29,29,29s29-12.9834,29-29H7z\"/><line x1=\"7\" x2=\"14\" y1=\"25.1406\" y2=\"32.1406\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M29.043,7.8457c0.1015,1.125,0.5605,2.2236,1.4209,3.084c1.9521,1.9512,1.9521,5.1172,0,7.0703 c-1.9522,1.9531-1.9522,5.1191,0,7.0703c1.9521,1.9512,1.9521,5.1172,0,7.0703\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.5703,7.0361C34.4697,8.4336,34.9316,9.8623,36,10.9297c1.9521,1.9512,1.9521,5.1172,0,7.0703 c-1.9521,1.9531-1.9521,5.1191,0,7.0703c1.9521,1.9512,1.9521,5.1172,0,7.0703\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40.0107,7.2832c-0.0302,1.3164,0.4483,2.6426,1.4532,3.6465c1.9521,1.9512,1.9521,5.1172,0,7.0703 c-1.9522,1.9531-1.9522,5.1191,0,7.0703c1.9521,1.9512,1.9521,5.1172,0,7.0703\"/></g></g></g><g transform=\"translate(56 44) rotate(20) scale(0.24) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.4573,21.3227c0-5.0582-2.6112-9.1586-5.8323-9.1586s-5.8323,4.1004-5.8323,9.1586c0,4.6982,1.3551,8.5665,4.257,9.0938l0,0\tl-0.8108,28.4123c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.0285-28.4181l0,0C42.1071,29.876,43.4573,26.0153,43.4573,21.3227z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.4573,21.3227c0-5.0582-2.6112-9.1586-5.8323-9.1586s-5.8323,4.1004-5.8323,9.1586c0,4.6982,1.3551,8.5665,4.257,9.0938l0,0\tl-0.8108,28.4123c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.0285-28.4181l0,0C42.1071,29.876,43.4573,26.0153,43.4573,21.3227z\"/></g></g></g></g>"
+  },
+  {
+    "id": "action.cry",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "cry"
+      ],
+      "fr": [
+        "pleurer"
+      ]
+    },
+    "forms": {
+      "en": [
+        "cries",
+        "cried",
+        "crying"
+      ],
+      "fr": [
+        "pleure",
+        "pleures",
+        "pleurent"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><path d=\"M43.1 22.5 Q45.3 24.5 47.5 22.5 M52.5 22.5 Q54.7 24.5 56.9 22.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M46.5 30.4 Q50 26.9 53.5 30.4\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M40 38 Q35 47 40 51 Q45 47 40 38 Z M60 38 Q55 47 60 51 Q65 47 60 38 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.laugh",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "laugh"
+      ],
+      "fr": [
+        "rire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "laughs",
+        "laughed",
+        "laughing"
+      ],
+      "fr": [
+        "ris",
+        "rit",
+        "rigoler"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><path d=\"M43.1 23.5 Q45.3 20.5 47.5 23.5 M52.5 23.5 Q54.7 20.5 56.9 23.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M45.5 27.4 H54.5 Q54.5 33.4 50 33.4 Q45.5 33.4 45.5 27.4 Z\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L28.5 40.6 L30 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L28.5 40.6 L30 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 40.6 L70 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 40.6 L70 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"70\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M16 26 L9 20 M16 36 H7 M84 26 L91 20 M84 36 H93\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.want",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "want"
+      ],
+      "fr": [
+        "vouloir",
+        "je veux"
+      ]
+    },
+    "forms": {
+      "en": [
+        "wants",
+        "wanted"
+      ],
+      "fr": [
+        "veux",
+        "veut",
+        "voulons",
+        "voulez",
+        "veulent",
+        "voulu"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"46.7\" cy=\"21.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"56.1\" cy=\"21.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L51.3 35.8 L61.4 30.3\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L51.3 35.8 L61.4 30.3\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L59.6 29 L70 24\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L59.6 29 L70 24\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"61.4\" cy=\"30.3\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"70\" cy=\"24\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><g transform=\"translate(86 16) rotate(0) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g>"
+  },
+  {
+    "id": "idea.why",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "why"
+      ],
+      "fr": [
+        "pourquoi"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"21.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"21.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L34.6 30.6 L28 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L34.6 30.6 L28 40\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L65.4 30.6 L72 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L65.4 30.6 L72 40\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"28\" cy=\"40\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"72\" cy=\"40\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><g transform=\"translate(86 32) scale(0.75)\"><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"0\" cy=\"20\" r=\"6\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\"/></g>"
+  },
+  {
+    "id": "idea.finished",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "finished",
+        "all done"
+      ],
+      "fr": [
+        "fini",
+        "terminé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "finish",
+        "done",
+        "end"
+      ],
+      "fr": [
+        "finir",
+        "finie",
+        "terminer",
+        "c'est fini"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L29.2 44.9 L26 56\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L29.2 44.9 L26 56\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L70.8 44.9 L74 56\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L70.8 44.9 L74 56\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"26\" cy=\"56\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"74\" cy=\"56\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M28 80 H72 Q70 94 50 94 Q30 94 28 80 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.open",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "open"
+      ],
+      "fr": [
+        "ouvrir"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "ouvre",
+        "ouvres",
+        "ouvrons",
+        "ouvrez",
+        "ouvrent",
+        "ouvert",
+        "ouverte"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M30 44 L36 12 H94 L88 44 Z\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><path d=\"M18 56 L30 44 H88 L76 56 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><g transform=\"translate(52 46) rotate(0) scale(0.34) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#6B4F3A\" d=\"M30.5611,10.066a7.5009,7.5009,0,1,0-8.9647,9.7881Z\"/><path fill=\"#6B4F3A\" d=\"M50.4041,19.8542A7.5008,7.5008,0,1,0,41.44,10.0649Z\"/><path fill=\"#A57939\" d=\"M52.5669,42.4826A16.0121,16.0121,0,0,0,47.4524,35.13a15.9551,15.9551,0,1,0-22.8492.0627,15.9518,15.9518,0,0,0-5.0468,7.3114c4.1889.5944,6.8444,4.7164,6.8444,9.638,0,5.33-2.7746,6.3213-2.7746,6.3213a29.5176,29.5176,0,0,0,12.373,2.8993c3.43,0,7.4815-1.2495,12.041-3.2844,0,0-2.41-.6062-2.41-5.9362C45.63,47.1718,48.3181,43.0132,52.5669,42.4826Z\"/><path fill=\"#6B4F3A\" d=\"M36,39.9478c-4.6338,0-8.4033-3.1475-8.4033-7.0166S31.3664,25.9136,36,25.9136s8.4033,3.1484,8.4033,7.0176S40.634,39.9478,36,39.9478Z\"/><path fill=\"#3F3F3F\" d=\"M36,32.7866h-.0059c-.0234,0-.0468-.0009-.0693-.0029h0l-.0019-.001h-.0079a.848.848,0,0,1-.1455-.0273c-.1582-.043-3.8808-1.09-3.8808-3.97,0-1.6407,1.24-2.68,3.3174-2.7793l1.3007-.0079c2.2608.0176,3.6036,1.0586,3.6036,2.7872,0,2.88-3.7227,3.9267-3.8809,3.97a.8573.8573,0,0,1-.1387.0263h-.0039l-.0019.001h0c-.0264.002-.0528.0039-.08.0039H36Z\"/><path fill=\"#6B4F3A\" d=\"M18.5,61.8076c-4.6865,0-8.5-4.3359-8.5-9.666s3.8135-9.665,8.5-9.665,8.5,4.3359,8.5,9.665S23.1867,61.8076,18.5,61.8076Z\"/><path fill=\"#6B4F3A\" d=\"M53.5,61.8076c-4.6865,0-8.5-4.3359-8.5-9.666s3.8135-9.665,8.5-9.665,8.5,4.3359,8.5,9.665S58.1867,61.8076,53.5,61.8076Z\"/></g><g data-layer=\"line\"><path fill=\"#1F2937\" d=\"M30,22.0343a2,2,0,1,0,2-2,2.0007,2.0007,0,0,0-2,2\"/><path fill=\"#1F2937\" d=\"M38,22.0343a2,2,0,1,0,2-2,2.0007,2.0007,0,0,0-2,2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M32.7621,34.1416a4.9971,4.9971,0,0,0,6.4747.0009\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M21,24.0448a15,15,0,1,0,15-15,15.0055,15.0055,0,0,0-15,15\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30.5611,10.066a7.5009,7.5009,0,1,0-8.9647,9.7881\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11,52.142c0,4.7856,3.3619,8.6656,7.5,8.6656s7.5-3.88,7.5-8.6656c0-4.7813-3.3619-8.6656-7.5-8.6656S11,47.3607,11,52.142\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M46,52.142c0,4.7856,3.3619,8.6656,7.5,8.6656s7.5-3.88,7.5-8.6656c0-4.7813-3.3619-8.6656-7.5-8.6656S46,47.3607,46,52.142\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M14.4143,53.4248a4.0015,4.0015,0,0,0,4,4\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M54,57.4248a4.0015,4.0015,0,0,0,4-4\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M28.5,32.931c0,3.3763,3.3619,6.1138,7.5,6.1138s7.5-2.7375,7.5-6.1138c0-3.3732-3.3618-6.1137-7.5-6.1137s-7.5,2.7405-7.5,6.1137\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M50.4041,19.8542A7.5008,7.5008,0,1,0,41.44,10.0649\"/><line x1=\"36\" x2=\"36\" y1=\"32.3325\" y2=\"35.3325\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M36,31.9131s-3.2374-.881-3.2374-3.1277c0-1.5446,1.53-1.8607,2.4865-1.9074l1.2638-.0068c.9127.0072,2.7249.2332,2.7249,1.9142,0,2.2467-3.2373,3.1277-3.2373,3.1277\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M20.2823,43.7251c1.1282-5.2329,5.8479-8.3926,5.8479-8.3926\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M46,35.3325s4.6611,3.1205,5.8264,8.2952\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.9516,41.9494,28.5,48.01a3.22,3.22,0,0,0,4.2578,1.3235h0a3.22,3.22,0,0,0,1.4263-4.3471l-1.0163-1.9848\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M47.4348,41.9494,43.6438,48.01a3.22,3.22,0,0,1-4.2578,1.3235h0A3.22,3.22,0,0,1,37.96,44.9867l1.0163-1.9848\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.2861,58.0782s9.4536,6.5808,23.4278,0\"/></g></g></g><path d=\"M76 56 L88 44 V82 L76 94 Z\" fill=\"#A57939\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><rect x=\"18\" y=\"56\" width=\"58\" height=\"38\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><path d=\"M12 40 V20 M6 26 L12 20 L18 26\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 40 V20 M6 26 L12 20 L18 26\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.play",
@@ -688,7 +993,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L28.7 43.2 L38 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L28.7 43.2 L38 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 43.2 L62 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 43.2 L62 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(50 50) rotate(0) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.26-0.12-0.52-0.24-0.77-0.36c-0.26-0.12-0.51-0.25-0.77-0.38 c-0.23-0.12-0.45-0.24-0.68-0.37c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51 c-0.08-0.05-0.16-0.11-0.2401-0.16c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69 c-0.03-0.02-0.05-0.04-0.08-0.0699c-0.27-0.21-0.53-0.42-0.78-0.64c-0.02-0.01-0.04-0.03-0.0601-0.05 c-0.2599-0.22-0.52-0.45-0.78-0.68c-0.02-0.01-0.03-0.02-0.04-0.04c-0.26-0.25-0.53-0.49-0.78-0.75 c-0.26-0.26-0.51-0.52-0.76-0.78c3.99,2.34,8.6,3.77,13.52,3.95c0.38,0.02,0.76,0.03,1.14,0.03c6.76,0,12.99-2.31,17.92-6.2 c5.99-4.71,10.08-11.73,10.92-19.72c0.11-1.01,0.16-2.04,0.16-3.08c0-2.07-0.22-4.08-0.63-6.02v-0.01 c-1.11-5.25-3.63-9.95-7.15-13.73c1.06,0.63,2.09,1.33,3.06,2.08c0.56,0.44,1.11,0.9,1.64,1.38c0,0,0-0.01,0.01,0 c0.53,0.49,1.04,0.98,1.53,1.5c0.98,1.03,1.9,2.14,2.72,3.31c0.5,0.7,0.97,1.42,1.4,2.17c0.15,0.25,0.29,0.5,0.4301,0.76 c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09 c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68 c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41 c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8 C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11c-0.04,0-0.08-0.01-0.1201-0.01 c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16c-0.47-0.09-0.94-0.19-1.41-0.31 c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M34.2366,28.0728l-6.1555,4.4722c-1.0515,0.7639-1.4914,2.118-1.0898,3.3541l2.3512,7.2362 c0.4016,1.2361,1.5535,2.0729,2.8532,2.0729h7.6086c1.2997,0,2.4515-0.8369,2.8532-2.0729l2.3512-7.2362 c0.4016-1.2361-0.0383-2.5902-1.0898-3.3541l-6.1555-4.4722C36.7119,27.3089,35.2881,27.3089,34.2366,28.0728z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M46.28,10.18l-8.41,4.12c-0.59,0.28-1.23,0.42-1.87,0.41c-0.57-0.0099-1.14-0.14-1.68-0.39l-8.61-4.1 c-0.42-0.2-0.64-0.67-0.56-1.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1C46.91,9.53,46.7,9.98,46.28,10.18z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M30.51,64.48c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23 c-0.23-0.07-0.47-0.14-0.71-0.22c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21 c-0.11-0.03-0.21-0.07-0.32-0.12c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.522-0.2304-1.0333-0.4806-1.5386-0.741 c-0.2299-0.1179-0.4554-0.2423-0.6817-0.3661c-0.2557-0.1407-0.509-0.2849-0.7601-0.4332 c-0.2823-0.1659-0.5635-0.3326-0.8397-0.5077c-0.0818-0.0522-0.1609-0.108-0.2422-0.161 c-3.1296-2.0298-5.849-4.6387-7.9878-7.691c0.19-0.34,0.58-0.55,1.01-0.5l9.34,1.14c0.64,0.08,1.24,0.3,1.76,0.65 c0.49,0.33,0.91,0.76,1.22,1.27l2.82,4.59l2.19,3.58C30.79,63.71,30.76,64.16,30.51,64.48z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M15.16,31.37c-0.14,0.58-0.41,1.13-0.79,1.61l-5.9,7.3c-0.28,0.34-0.73,0.46-1.11,0.33C7.12,39.11,7,37.57,7,36 c0-6.17,1.92-11.89,5.22-16.59c0.42,0.05,0.79,0.35,0.88,0.79l2.08,9.33C15.32,30.14,15.31,30.77,15.16,31.37z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M59.72,52.67c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8c-0.26-0.32-0.29-0.78-0.07-1.15L46.4,55.19 c0.3199-0.52,0.74-0.95,1.24-1.28c0.52-0.34,1.11-0.56,1.74-0.64l9.31-1.14C59.13,52.08,59.53,52.31,59.72,52.67z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.36,0.08-0.75-0.04-1-0.35l-5.25-6.5l-0.73-0.9c-0.78-0.96-1.08-2.23-0.8-3.45 l1.06-4.75v-0.01l1.04-4.69c0.08-0.39,0.39-0.6899,0.77-0.77c0-0.01,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17 c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96 c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96 c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97 c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><line x1=\"36\" x2=\"36\" y1=\"14.7122\" y2=\"27.4999\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.9889\" x2=\"56.8125\" y1=\"33.9902\" y2=\"31.3266\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41.5906\" x2=\"47.6376\" y1=\"44.6172\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"30.394\" x2=\"24.3434\" y1=\"44.6059\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"27.0013\" x2=\"15.1636\" y1=\"34.0188\" y2=\"31.3728\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><circle cx=\"38\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"62\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+    "svg": "<g transform=\"translate(-1 0.7) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L28.7 43.2 L38 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L28.7 43.2 L38 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 43.2 L62 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 43.2 L62 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(50 50) rotate(0) scale(0.34) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.26-0.12-0.52-0.24-0.77-0.36c-0.26-0.12-0.51-0.25-0.77-0.38 c-0.23-0.12-0.45-0.24-0.68-0.37c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51 c-0.08-0.05-0.16-0.11-0.2401-0.16c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69 c-0.03-0.02-0.05-0.04-0.08-0.0699c-0.27-0.21-0.53-0.42-0.78-0.64c-0.02-0.01-0.04-0.03-0.0601-0.05 c-0.2599-0.22-0.52-0.45-0.78-0.68c-0.02-0.01-0.03-0.02-0.04-0.04c-0.26-0.25-0.53-0.49-0.78-0.75 c-0.26-0.26-0.51-0.52-0.76-0.78c3.99,2.34,8.6,3.77,13.52,3.95c0.38,0.02,0.76,0.03,1.14,0.03c6.76,0,12.99-2.31,17.92-6.2 c5.99-4.71,10.08-11.73,10.92-19.72c0.11-1.01,0.16-2.04,0.16-3.08c0-2.07-0.22-4.08-0.63-6.02v-0.01 c-1.11-5.25-3.63-9.95-7.15-13.73c1.06,0.63,2.09,1.33,3.06,2.08c0.56,0.44,1.11,0.9,1.64,1.38c0,0,0-0.01,0.01,0 c0.53,0.49,1.04,0.98,1.53,1.5c0.98,1.03,1.9,2.14,2.72,3.31c0.5,0.7,0.97,1.42,1.4,2.17c0.15,0.25,0.29,0.5,0.4301,0.76 c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09 c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68 c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41 c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8 C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11c-0.04,0-0.08-0.01-0.1201-0.01 c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16c-0.47-0.09-0.94-0.19-1.41-0.31 c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M34.2366,28.0728l-6.1555,4.4722c-1.0515,0.7639-1.4914,2.118-1.0898,3.3541l2.3512,7.2362 c0.4016,1.2361,1.5535,2.0729,2.8532,2.0729h7.6086c1.2997,0,2.4515-0.8369,2.8532-2.0729l2.3512-7.2362 c0.4016-1.2361-0.0383-2.5902-1.0898-3.3541l-6.1555-4.4722C36.7119,27.3089,35.2881,27.3089,34.2366,28.0728z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M46.28,10.18l-8.41,4.12c-0.59,0.28-1.23,0.42-1.87,0.41c-0.57-0.0099-1.14-0.14-1.68-0.39l-8.61-4.1 c-0.42-0.2-0.64-0.67-0.56-1.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1C46.91,9.53,46.7,9.98,46.28,10.18z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M30.51,64.48c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23 c-0.23-0.07-0.47-0.14-0.71-0.22c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21 c-0.11-0.03-0.21-0.07-0.32-0.12c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.522-0.2304-1.0333-0.4806-1.5386-0.741 c-0.2299-0.1179-0.4554-0.2423-0.6817-0.3661c-0.2557-0.1407-0.509-0.2849-0.7601-0.4332 c-0.2823-0.1659-0.5635-0.3326-0.8397-0.5077c-0.0818-0.0522-0.1609-0.108-0.2422-0.161 c-3.1296-2.0298-5.849-4.6387-7.9878-7.691c0.19-0.34,0.58-0.55,1.01-0.5l9.34,1.14c0.64,0.08,1.24,0.3,1.76,0.65 c0.49,0.33,0.91,0.76,1.22,1.27l2.82,4.59l2.19,3.58C30.79,63.71,30.76,64.16,30.51,64.48z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M15.16,31.37c-0.14,0.58-0.41,1.13-0.79,1.61l-5.9,7.3c-0.28,0.34-0.73,0.46-1.11,0.33C7.12,39.11,7,37.57,7,36 c0-6.17,1.92-11.89,5.22-16.59c0.42,0.05,0.79,0.35,0.88,0.79l2.08,9.33C15.32,30.14,15.31,30.77,15.16,31.37z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M59.72,52.67c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8c-0.26-0.32-0.29-0.78-0.07-1.15L46.4,55.19 c0.3199-0.52,0.74-0.95,1.24-1.28c0.52-0.34,1.11-0.56,1.74-0.64l9.31-1.14C59.13,52.08,59.53,52.31,59.72,52.67z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.36,0.08-0.75-0.04-1-0.35l-5.25-6.5l-0.73-0.9c-0.78-0.96-1.08-2.23-0.8-3.45 l1.06-4.75v-0.01l1.04-4.69c0.08-0.39,0.39-0.6899,0.77-0.77c0-0.01,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17 c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96 c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96 c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97 c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><line x1=\"36\" x2=\"36\" y1=\"14.7122\" y2=\"27.4999\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.9889\" x2=\"56.8125\" y1=\"33.9902\" y2=\"31.3266\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41.5906\" x2=\"47.6376\" y1=\"44.6172\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"30.394\" x2=\"24.3434\" y1=\"44.6059\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"27.0013\" x2=\"15.1636\" y1=\"34.0188\" y2=\"31.3728\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><circle cx=\"38\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"62\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "action.give",
@@ -718,7 +1023,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-10 0) scale(1)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"74\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(74 44) rotate(0) scale(0.24) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M51.024,14.0213c-1.6705-3.0089-3.6713-4.5339-5.9477-4.5339c-2.6203,0-5.3416,2.0624-8.0912,6.133 c-0.3517,0.521-0.6812,1.042-0.985,1.5449c-0.3038-0.5029-0.6333-1.0238-0.9857-1.5449c-2.7479-4.0705-5.4701-6.133-8.0904-6.133 c-2.2762,0-4.278,1.5249-5.9476,4.5339c-1.2484,2.252-1.1453,4.0191-0.548,4.9787c1.0765,1.7294,3.8299,2.7454,7.7039,3.4114 C31.1069,22.9241,34.2545,23,35.8658,23h0.0009c0.0453,0,0.0898,0,0.1335,0c0.0445,0,0.0889,0,0.1344,0 c1.6114,0,4.759-0.0759,7.7336-0.5886c3.8731-0.666,6.6256-1.682,7.7039-3.4114C52.1675,18.0404,52.2734,16.2734,51.024,14.0213z\"/><rect x=\"16\" y=\"36\" width=\"39\" height=\"25\" fill=\"#F2C14E\" stroke=\"none\"/><polygon fill=\"#F2C14E\" stroke=\"none\" points=\"53.3905,35.5 17,35.5581 17,41.0581 44.1429,44.9866 55,46.5 55,35.5581\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"29.7143,60 42.2857,60 42.2857,44.2729 29.7143,41.7857\"/><rect x=\"14\" y=\"21\" width=\"44\" height=\"14\" fill=\"#F2C14E\" stroke=\"none\"/><rect x=\"29.7143\" y=\"22\" width=\"12.5714\" height=\"13\" fill=\"#E46B4A\" stroke=\"none\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"42.2857,35.5 29.7143,35.5202 29.7143,42.8737 42.2857,44.7071\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"54.0913\" x2=\"17.3557\" y1=\"21.3571\" y2=\"21.3571\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"17.3557,21.3571 14,21.3571 14,35.5 16.3571,35.5 16.3571,60.6429 55.6429,60.6429 55.6429,35.5 58,35.5 58,21.3571 54.0913,21.3571\"/><line x1=\"16.3571\" x2=\"56.4286\" y1=\"35.5\" y2=\"35.5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M50.9612,18.2506c0.3839-0.9798,0.4917-2.3937-0.4893-4.2293c-1.6091-3.0089-3.5365-4.5339-5.7293-4.5339 c-2.5241,0-5.1454,2.0624-7.794,6.133c-0.3388,0.521-0.6562,1.042-0.9488,1.5449c-0.2926-0.5029-0.61-1.0238-0.9495-1.5449 c-2.647-4.0705-5.2692-6.133-7.7933-6.133c-2.1926,0-4.1209,1.5249-5.7292,4.5339c-0.9019,1.689-0.8835,3.0211-0.5752,3.9863\"/><line x1=\"42.2857\" x2=\"42.2857\" y1=\"60\" y2=\"44.2729\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"29.7143\" x2=\"29.7143\" y1=\"41.7857\" y2=\"60\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"42.2857\" x2=\"42.2857\" y1=\"35\" y2=\"22\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"29.7143\" x2=\"29.7143\" y1=\"22\" y2=\"35\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"42.2857,44.7071 42.2857,35.5 29.7143,35.5202 29.7143,42.8737\"/></g></g></g><path d=\"M70 82 H94 M86 74 L94 82 L86 90\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-10 2) scale(1)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"74\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(70 44) rotate(0) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M51.024,14.0213c-1.6705-3.0089-3.6713-4.5339-5.9477-4.5339c-2.6203,0-5.3416,2.0624-8.0912,6.133 c-0.3517,0.521-0.6812,1.042-0.985,1.5449c-0.3038-0.5029-0.6333-1.0238-0.9857-1.5449c-2.7479-4.0705-5.4701-6.133-8.0904-6.133 c-2.2762,0-4.278,1.5249-5.9476,4.5339c-1.2484,2.252-1.1453,4.0191-0.548,4.9787c1.0765,1.7294,3.8299,2.7454,7.7039,3.4114 C31.1069,22.9241,34.2545,23,35.8658,23h0.0009c0.0453,0,0.0898,0,0.1335,0c0.0445,0,0.0889,0,0.1344,0 c1.6114,0,4.759-0.0759,7.7336-0.5886c3.8731-0.666,6.6256-1.682,7.7039-3.4114C52.1675,18.0404,52.2734,16.2734,51.024,14.0213z\"/><rect x=\"16\" y=\"36\" width=\"39\" height=\"25\" fill=\"#F2C14E\" stroke=\"none\"/><polygon fill=\"#F2C14E\" stroke=\"none\" points=\"53.3905,35.5 17,35.5581 17,41.0581 44.1429,44.9866 55,46.5 55,35.5581\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"29.7143,60 42.2857,60 42.2857,44.2729 29.7143,41.7857\"/><rect x=\"14\" y=\"21\" width=\"44\" height=\"14\" fill=\"#F2C14E\" stroke=\"none\"/><rect x=\"29.7143\" y=\"22\" width=\"12.5714\" height=\"13\" fill=\"#E46B4A\" stroke=\"none\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"42.2857,35.5 29.7143,35.5202 29.7143,42.8737 42.2857,44.7071\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"54.0913\" x2=\"17.3557\" y1=\"21.3571\" y2=\"21.3571\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"17.3557,21.3571 14,21.3571 14,35.5 16.3571,35.5 16.3571,60.6429 55.6429,60.6429 55.6429,35.5 58,35.5 58,21.3571 54.0913,21.3571\"/><line x1=\"16.3571\" x2=\"56.4286\" y1=\"35.5\" y2=\"35.5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M50.9612,18.2506c0.3839-0.9798,0.4917-2.3937-0.4893-4.2293c-1.6091-3.0089-3.5365-4.5339-5.7293-4.5339 c-2.5241,0-5.1454,2.0624-7.794,6.133c-0.3388,0.521-0.6562,1.042-0.9488,1.5449c-0.2926-0.5029-0.61-1.0238-0.9495-1.5449 c-2.647-4.0705-5.2692-6.133-7.7933-6.133c-2.1926,0-4.1209,1.5249-5.7292,4.5339c-0.9019,1.689-0.8835,3.0211-0.5752,3.9863\"/><line x1=\"42.2857\" x2=\"42.2857\" y1=\"60\" y2=\"44.2729\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"29.7143\" x2=\"29.7143\" y1=\"41.7857\" y2=\"60\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"42.2857\" x2=\"42.2857\" y1=\"35\" y2=\"22\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"29.7143\" x2=\"29.7143\" y1=\"22\" y2=\"35\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"42.2857,44.7071 42.2857,35.5 29.7143,35.5202 29.7143,42.8737\"/></g></g></g><path d=\"M70 84 H94 M86 76 L94 84 L86 92\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.take",
@@ -756,7 +1061,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-10 0) scale(1)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"74\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(76 44) rotate(0) scale(0.22) translate(-50 -50)\"><path d=\"M50 32 C30 18 12 34 16 56 C20 80 38 92 50 86 C62 92 80 80 84 56 C88 34 70 18 50 32 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M50 32 Q50 20 56 12\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M54 22 Q66 10 76 16 Q66 28 54 22 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/></g><path d=\"M94 82 H70 M78 74 L70 82 L78 90\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-10 2) scale(1)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.3 38.8 L74 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"74\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(72 44) rotate(0) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g><path d=\"M94 84 H70 M78 76 L70 84 L78 92\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.help",
@@ -780,7 +1085,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-9 13.5) scale(0.9)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L73.6 38.1 L75 51\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L73.6 38.1 L75 51\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"75\" cy=\"51\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(28.5 28.4) scale(0.75)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
+    "svg": "<g transform=\"translate(-8 6) scale(0.95)\"><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44.5 59 L47.9 74.6 L43.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55.5 59 L52.1 74.6 L56.5 89.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"58\" cy=\"90.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M37.5 35 Q37.5 29 43 29 H57 Q62.5 29 62.5 35 L59.5 61 H40.5 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"15\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M39 14 Q39 1 50 2 Q61 1 61 14 Q55.5 9 50 8.4 Q44.5 9 39 14 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"46\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"15.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 20 Q50 23.5 53.5 20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M39 32 L34.5 45.2 L37 58\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L73.6 38.1 L75 51\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M61 32 L73.6 38.1 L75 51\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"37\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"75\" cy=\"51\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(27 22) scale(0.8)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "action.wave",
@@ -814,7 +1119,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-28.3 -3.8) scale(1.567)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.9 29.1 L70 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.9 29.1 L70 22\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"70\" cy=\"22\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M84 6 Q90 14 84 24 M91 2 Q99 14 91 28\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.9 29.1 L70 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.9 29.1 L70 22\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"70\" cy=\"22\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M82 9 Q87 17 82 27 M88 6 Q94 17 88 31\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.go",
@@ -859,7 +1164,43 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-10 0) scale(1)\"><path d=\"M45 63 L40.1 75 L36 86.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L40.1 75 L36 86.9\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L62.3 73.7 L60 86\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L62.3 73.7 L60 86\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"34.5\" cy=\"87.9\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"61.5\" cy=\"87\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L30.2 47.1 L34 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L30.2 47.1 L34 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 41.3 L64 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 41.3 L64 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"34\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"64\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M66 70 H94 M85 61 L94 70 L85 79\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-10 2) scale(1)\"><path d=\"M45 63 L40.1 75 L36 86.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L40.1 75 L36 86.9\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L62.3 73.7 L60 86\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L62.3 73.7 L60 86\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"34.5\" cy=\"87.9\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"61.5\" cy=\"87\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L30.2 47.1 L34 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L30.2 47.1 L34 58\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 41.3 L64 50\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 41.3 L64 50\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"34\" cy=\"58\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"64\" cy=\"50\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M68 72 H95 M86 63 L95 72 L86 81\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.run",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "run"
+      ],
+      "fr": [
+        "courir"
+      ]
+    },
+    "forms": {
+      "en": [
+        "runs",
+        "ran",
+        "running"
+      ],
+      "fr": [
+        "cours",
+        "court",
+        "courons",
+        "courent",
+        "couru"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-4 2) scale(1.05)\"><path d=\"M45 63 L37.2 73.4 L30.2 83.7\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L37.2 73.4 L30.2 83.7\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L67.2 67.5 L68 80\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L67.2 67.5 L68 80\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"28.7\" cy=\"84.7\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"69.5\" cy=\"81\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L30.4 34.5 L30 46\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L30.4 34.5 L30 46\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.4 42.6 L70 54\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.4 42.6 L70 54\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30\" cy=\"46\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"70\" cy=\"54\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M8 40 H20 M7 52 H19 M9 64 H20\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.jump",
@@ -894,7 +1235,42 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(0 -4) scale(1)\"><path d=\"M45 63 L32.6 66.8 L41 76\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L32.6 66.8 L41 76\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L67.4 66.8 L59 76\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L67.4 66.8 L59 76\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"39.5\" cy=\"77\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"60.5\" cy=\"77\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.7 29.6 L32.4 19\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.7 29.6 L32.4 19\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.3 29.6 L67.6 19\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.3 29.6 L67.6 19\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"32.4\" cy=\"19\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"67.6\" cy=\"19\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M34 90 H44 M56 90 H66 M40 96 H60\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<g transform=\"translate(-2 -2) scale(1.04)\"><path d=\"M45 63 L32.6 66.8 L41 76\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L32.6 66.8 L41 76\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L67.4 66.8 L59 76\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L67.4 66.8 L59 76\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"39.5\" cy=\"77\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"60.5\" cy=\"77\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.7 29.6 L32.4 19\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.7 29.6 L32.4 19\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.3 29.6 L67.6 19\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.3 29.6 L67.6 19\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"32.4\" cy=\"19\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"67.6\" cy=\"19\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M32 88 H44 M56 88 H68 M40 94 H60\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.throw",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "throw"
+      ],
+      "fr": [
+        "lancer",
+        "jeter"
+      ]
+    },
+    "forms": {
+      "en": [
+        "throws",
+        "threw",
+        "thrown"
+      ],
+      "fr": [
+        "lance",
+        "lances",
+        "jette"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-1 0.7) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.4 29.7 L72 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.4 29.7 L72 22\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"72\" cy=\"22\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(84 14) rotate(0) scale(0.22) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.26-0.12-0.52-0.24-0.77-0.36c-0.26-0.12-0.51-0.25-0.77-0.38 c-0.23-0.12-0.45-0.24-0.68-0.37c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51 c-0.08-0.05-0.16-0.11-0.2401-0.16c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69 c-0.03-0.02-0.05-0.04-0.08-0.0699c-0.27-0.21-0.53-0.42-0.78-0.64c-0.02-0.01-0.04-0.03-0.0601-0.05 c-0.2599-0.22-0.52-0.45-0.78-0.68c-0.02-0.01-0.03-0.02-0.04-0.04c-0.26-0.25-0.53-0.49-0.78-0.75 c-0.26-0.26-0.51-0.52-0.76-0.78c3.99,2.34,8.6,3.77,13.52,3.95c0.38,0.02,0.76,0.03,1.14,0.03c6.76,0,12.99-2.31,17.92-6.2 c5.99-4.71,10.08-11.73,10.92-19.72c0.11-1.01,0.16-2.04,0.16-3.08c0-2.07-0.22-4.08-0.63-6.02v-0.01 c-1.11-5.25-3.63-9.95-7.15-13.73c1.06,0.63,2.09,1.33,3.06,2.08c0.56,0.44,1.11,0.9,1.64,1.38c0,0,0-0.01,0.01,0 c0.53,0.49,1.04,0.98,1.53,1.5c0.98,1.03,1.9,2.14,2.72,3.31c0.5,0.7,0.97,1.42,1.4,2.17c0.15,0.25,0.29,0.5,0.4301,0.76 c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09 c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68 c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41 c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8 C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11c-0.04,0-0.08-0.01-0.1201-0.01 c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16c-0.47-0.09-0.94-0.19-1.41-0.31 c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M34.2366,28.0728l-6.1555,4.4722c-1.0515,0.7639-1.4914,2.118-1.0898,3.3541l2.3512,7.2362 c0.4016,1.2361,1.5535,2.0729,2.8532,2.0729h7.6086c1.2997,0,2.4515-0.8369,2.8532-2.0729l2.3512-7.2362 c0.4016-1.2361-0.0383-2.5902-1.0898-3.3541l-6.1555-4.4722C36.7119,27.3089,35.2881,27.3089,34.2366,28.0728z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M46.28,10.18l-8.41,4.12c-0.59,0.28-1.23,0.42-1.87,0.41c-0.57-0.0099-1.14-0.14-1.68-0.39l-8.61-4.1 c-0.42-0.2-0.64-0.67-0.56-1.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1C46.91,9.53,46.7,9.98,46.28,10.18z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M30.51,64.48c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23 c-0.23-0.07-0.47-0.14-0.71-0.22c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21 c-0.11-0.03-0.21-0.07-0.32-0.12c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.522-0.2304-1.0333-0.4806-1.5386-0.741 c-0.2299-0.1179-0.4554-0.2423-0.6817-0.3661c-0.2557-0.1407-0.509-0.2849-0.7601-0.4332 c-0.2823-0.1659-0.5635-0.3326-0.8397-0.5077c-0.0818-0.0522-0.1609-0.108-0.2422-0.161 c-3.1296-2.0298-5.849-4.6387-7.9878-7.691c0.19-0.34,0.58-0.55,1.01-0.5l9.34,1.14c0.64,0.08,1.24,0.3,1.76,0.65 c0.49,0.33,0.91,0.76,1.22,1.27l2.82,4.59l2.19,3.58C30.79,63.71,30.76,64.16,30.51,64.48z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M15.16,31.37c-0.14,0.58-0.41,1.13-0.79,1.61l-5.9,7.3c-0.28,0.34-0.73,0.46-1.11,0.33C7.12,39.11,7,37.57,7,36 c0-6.17,1.92-11.89,5.22-16.59c0.42,0.05,0.79,0.35,0.88,0.79l2.08,9.33C15.32,30.14,15.31,30.77,15.16,31.37z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M59.72,52.67c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8c-0.26-0.32-0.29-0.78-0.07-1.15L46.4,55.19 c0.3199-0.52,0.74-0.95,1.24-1.28c0.52-0.34,1.11-0.56,1.74-0.64l9.31-1.14C59.13,52.08,59.53,52.31,59.72,52.67z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.36,0.08-0.75-0.04-1-0.35l-5.25-6.5l-0.73-0.9c-0.78-0.96-1.08-2.23-0.8-3.45 l1.06-4.75v-0.01l1.04-4.69c0.08-0.39,0.39-0.6899,0.77-0.77c0-0.01,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17 c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96 c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96 c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97 c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><line x1=\"36\" x2=\"36\" y1=\"14.7122\" y2=\"27.4999\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.9889\" x2=\"56.8125\" y1=\"33.9902\" y2=\"31.3266\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41.5906\" x2=\"47.6376\" y1=\"44.6172\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"30.394\" x2=\"24.3434\" y1=\"44.6059\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"27.0013\" x2=\"15.1636\" y1=\"34.0188\" y2=\"31.3728\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><path d=\"M70 6 Q76 2 82 4 M64 14 Q68 8 74 8\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
     "id": "action.dance",
@@ -930,7 +1306,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L45.5 76 L38 86\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L45.5 76 L38 86\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L51.7 75.6 L64 78\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L51.7 75.6 L64 78\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"36.5\" cy=\"87\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"65.5\" cy=\"79\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L39.1 29.1 L30 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L39.1 29.1 L30 22\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 40.5 L72 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 40.5 L72 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30\" cy=\"22\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"72\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><g transform=\"translate(82 18) rotate(0) scale(0.22) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"26.324,22.8117 51.6188,17.5516 51.5493,12.875 26.105,18.5407\"/><circle cx=\"20.7561\" cy=\"51.59\" r=\"5.7867\" fill=\"#3F3F3F\" stroke=\"none\"/><circle cx=\"46.2061\" cy=\"46.0127\" r=\"5.787\" fill=\"#3F3F3F\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"51.6188,17.5516 26.1735,23.2225 26.105,18.5407 51.5493,12.875\"/><circle cx=\"20.7563\" cy=\"51.5901\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.105\" x2=\"26.5431\" y1=\"18.5407\" y2=\"51.5901\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"46.2063\" cy=\"46.0129\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.555\" x2=\"51.9931\" y1=\"12.9635\" y2=\"46.0129\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><g transform=\"translate(16 40) rotate(0) scale(0.16) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"26.324,22.8117 51.6188,17.5516 51.5493,12.875 26.105,18.5407\"/><circle cx=\"20.7561\" cy=\"51.59\" r=\"5.7867\" fill=\"#3F3F3F\" stroke=\"none\"/><circle cx=\"46.2061\" cy=\"46.0127\" r=\"5.787\" fill=\"#3F3F3F\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"51.6188,17.5516 26.1735,23.2225 26.105,18.5407 51.5493,12.875\"/><circle cx=\"20.7563\" cy=\"51.5901\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.105\" x2=\"26.5431\" y1=\"18.5407\" y2=\"51.5901\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"46.2063\" cy=\"46.0129\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.555\" x2=\"51.9931\" y1=\"12.9635\" y2=\"46.0129\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
+    "svg": "<g transform=\"translate(-1 0.7) scale(1.02)\"><path d=\"M45 63 L45.5 76 L38 86\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L45.5 76 L38 86\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L51.7 75.6 L64 78\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L51.7 75.6 L64 78\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"36.5\" cy=\"87\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"65.5\" cy=\"79\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L39.1 29.1 L30 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L39.1 29.1 L30 22\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 40.5 L72 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 40.5 L72 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30\" cy=\"22\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"72\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(86 18) rotate(0) scale(0.24) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"26.324,22.8117 51.6188,17.5516 51.5493,12.875 26.105,18.5407\"/><circle cx=\"20.7561\" cy=\"51.59\" r=\"5.7867\" fill=\"#3F3F3F\" stroke=\"none\"/><circle cx=\"46.2061\" cy=\"46.0127\" r=\"5.787\" fill=\"#3F3F3F\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"51.6188,17.5516 26.1735,23.2225 26.105,18.5407 51.5493,12.875\"/><circle cx=\"20.7563\" cy=\"51.5901\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.105\" x2=\"26.5431\" y1=\"18.5407\" y2=\"51.5901\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"46.2063\" cy=\"46.0129\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.555\" x2=\"51.9931\" y1=\"12.9635\" y2=\"46.0129\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><g transform=\"translate(14 46) rotate(0) scale(0.18) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"26.324,22.8117 51.6188,17.5516 51.5493,12.875 26.105,18.5407\"/><circle cx=\"20.7561\" cy=\"51.59\" r=\"5.7867\" fill=\"#3F3F3F\" stroke=\"none\"/><circle cx=\"46.2061\" cy=\"46.0127\" r=\"5.787\" fill=\"#3F3F3F\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"51.6188,17.5516 26.1735,23.2225 26.105,18.5407 51.5493,12.875\"/><circle cx=\"20.7563\" cy=\"51.5901\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.105\" x2=\"26.5431\" y1=\"18.5407\" y2=\"51.5901\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"46.2063\" cy=\"46.0129\" r=\"5.7868\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.555\" x2=\"51.9931\" y1=\"12.9635\" y2=\"46.0129\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
   },
   {
     "id": "action.sit",
@@ -965,7 +1341,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(0 0) scale(1)\"><rect x=\"28\" y=\"30\" width=\"44\" height=\"40\" rx=\"4\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><rect x=\"22\" y=\"62\" width=\"56\" height=\"8\" rx=\"3\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M27 70 V96 M73 70 V96\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M45 63 L41.2 75.4 L38.1 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L41.2 75.4 L38.1 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L58.8 75.4 L61.9 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L58.8 75.4 L61.9 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"36.6\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"63.4\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L39 52.9 L38.1 64.4\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L39 52.9 L38.1 64.4\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61 52.9 L61.9 64.4\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61 52.9 L61.9 64.4\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.1\" cy=\"64.4\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.9\" cy=\"64.4\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
+    "svg": "<g transform=\"translate(1 4.3) scale(0.98)\"><rect x=\"28\" y=\"30\" width=\"44\" height=\"40\" rx=\"4\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><rect x=\"22\" y=\"62\" width=\"56\" height=\"8\" rx=\"3\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><path d=\"M27 70 V89 M73 70 V89\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M45 63 L41.2 75.4 L38.1 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L41.2 75.4 L38.1 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L58.8 75.4 L61.9 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L58.8 75.4 L61.9 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"36.6\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"63.4\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L39 52.9 L38.1 64.4\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L39 52.9 L38.1 64.4\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61 52.9 L61.9 64.4\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61 52.9 L61.9 64.4\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.1\" cy=\"64.4\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.9\" cy=\"64.4\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g>"
   },
   {
     "id": "action.wait",
@@ -999,7 +1375,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"translate(-16 0) scale(1)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(76 56) rotate(0) scale(0.48) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" d=\"m35.498,37.967h1.0165c7.6245,0,13.8146,6.1901,13.8146,13.8146v6.4581h-28.3282v-6.7757c0-7.4492,6.0478-13.4971,13.4971-13.4971Z\"/><path transform=\"translate(71.98 47.7203) rotate(180)\" fill=\"#FFFFFF\" d=\"m35.323,13.7238h1.0165c7.6245,0,13.8146,6.1901,13.8146,13.8146v6.4581h-28.3282v-6.7757c0-7.4492,6.0478-13.4971,13.4971-13.4971Z\"/><path fill=\"#FFFFFF\" d=\"m39.3125,33.6813s-2.8222,2.0175-.1707,4.5474c0,0-2.0336-.5557-6.3872.0707,0,0,2.7562-2.0985-.094-4.7294l6.6519.1114Z\"/><path fill=\"#9B9B9A\" d=\"m40.2139,31.1055c.0039-.002.0068-.002.0107-.002.0049-.0019.0088-.0039.0137-.0058,5.6543-1.4844,7.7617-7.7901,7.7617-11.4161v-1.6816h-24v1.6816c0,3.626,2.1074,9.9317,7.7617,11.4161.0049.0019.0088.0039.0137.0058.0039,0,.0068,0,.0107.002,1.792.4863,3.0996,1.5361,3.7491,2.8945h.9296c.6495-1.3584,1.9571-2.4082,3.7491-2.8945Z\"/><path fill=\"#9B9B9A\" d=\"m47,55c-6.0742,0-11-4.9258-11-11,0,6.0742-4.9258,11-11,11h-1v4h24v-4h-1Z\"/><path fill=\"#A57939\" d=\"m55,11c0,1.1001-.9004,2-2,2H19c-1.0996,0-2-.8999-2-2v-1c0-1.1001.9004-2,2-2h34c1.0996,0,2,.8999,2,2v1Z\"/><path fill=\"#A57939\" d=\"m55,62c0,1.0996-.9004,2-2,2H19c-1.0996,0-2-.9004-2-2v-1c0-1.0996.9004-2,2-2h34c1.0996,0,2,.9004,2,2v1Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m31,34c-7.2725-1.9092-10-9.5454-10-14.3184v-6.6816\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m21,59v-6.6816c0-4.7725,2.7275-12.4092,10-14.3184\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m31,38c1-.2715,2-.8945,2-2,0-1.1045-1-1.7285-2-2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m41,34c7.2725-1.9092,10-9.5454,10-14.3184v-6.6816\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m51,59v-6.6816c0-4.7725-2.7275-12.4092-10-14.3184\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m41,38c-1-.2715-2-.8945-2-2,0-1.1045,1-1.7285,2-2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m25,55c6.0742,0,11-4.9258,11-11,0,6.0742,4.9258,11,11,11\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m55,11c0,1.1001-.9004,2-2,2H19c-1.0996,0-2-.8999-2-2v-1c0-1.1001.9004-2,2-2h34c1.0996,0,2,.8999,2,2v1Z\"/><line x1=\"47\" x2=\"25\" y1=\"18\" y2=\"18\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m55,62c0,1.0996-.9004,2-2,2H19c-1.0996,0-2-.9004-2-2v-1c0-1.0996.9004-2,2-2h34c1.0996,0,2,.9004,2,2v1Z\"/><line x1=\"36\" x2=\"36\" y1=\"39\" y2=\"44\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g></g>"
+    "svg": "<g transform=\"translate(-18 0) scale(1.04)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M47.5 28.9 H52.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(74 56) rotate(0) scale(0.5) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" d=\"m35.498,37.967h1.0165c7.6245,0,13.8146,6.1901,13.8146,13.8146v6.4581h-28.3282v-6.7757c0-7.4492,6.0478-13.4971,13.4971-13.4971Z\"/><path transform=\"translate(71.98 47.7203) rotate(180)\" fill=\"#FFFFFF\" d=\"m35.323,13.7238h1.0165c7.6245,0,13.8146,6.1901,13.8146,13.8146v6.4581h-28.3282v-6.7757c0-7.4492,6.0478-13.4971,13.4971-13.4971Z\"/><path fill=\"#FFFFFF\" d=\"m39.3125,33.6813s-2.8222,2.0175-.1707,4.5474c0,0-2.0336-.5557-6.3872.0707,0,0,2.7562-2.0985-.094-4.7294l6.6519.1114Z\"/><path fill=\"#9B9B9A\" d=\"m40.2139,31.1055c.0039-.002.0068-.002.0107-.002.0049-.0019.0088-.0039.0137-.0058,5.6543-1.4844,7.7617-7.7901,7.7617-11.4161v-1.6816h-24v1.6816c0,3.626,2.1074,9.9317,7.7617,11.4161.0049.0019.0088.0039.0137.0058.0039,0,.0068,0,.0107.002,1.792.4863,3.0996,1.5361,3.7491,2.8945h.9296c.6495-1.3584,1.9571-2.4082,3.7491-2.8945Z\"/><path fill=\"#9B9B9A\" d=\"m47,55c-6.0742,0-11-4.9258-11-11,0,6.0742-4.9258,11-11,11h-1v4h24v-4h-1Z\"/><path fill=\"#A57939\" d=\"m55,11c0,1.1001-.9004,2-2,2H19c-1.0996,0-2-.8999-2-2v-1c0-1.1001.9004-2,2-2h34c1.0996,0,2,.8999,2,2v1Z\"/><path fill=\"#A57939\" d=\"m55,62c0,1.0996-.9004,2-2,2H19c-1.0996,0-2-.9004-2-2v-1c0-1.0996.9004-2,2-2h34c1.0996,0,2,.9004,2,2v1Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m31,34c-7.2725-1.9092-10-9.5454-10-14.3184v-6.6816\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m21,59v-6.6816c0-4.7725,2.7275-12.4092,10-14.3184\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m31,38c1-.2715,2-.8945,2-2,0-1.1045-1-1.7285-2-2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m41,34c7.2725-1.9092,10-9.5454,10-14.3184v-6.6816\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m51,59v-6.6816c0-4.7725-2.7275-12.4092-10-14.3184\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m41,38c-1-.2715-2-.8945-2-2,0-1.1045,1-1.7285,2-2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m25,55c6.0742,0,11-4.9258,11-11,0,6.0742,4.9258,11,11,11\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m55,11c0,1.1001-.9004,2-2,2H19c-1.0996,0-2-.8999-2-2v-1c0-1.1001.9004-2,2-2h34c1.0996,0,2,.8999,2,2v1Z\"/><line x1=\"47\" x2=\"25\" y1=\"18\" y2=\"18\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m55,62c0,1.0996-.9004,2-2,2H19c-1.0996,0-2-.9004-2-2v-1c0-1.0996.9004-2,2-2h34c1.0996,0,2,.9004,2,2v1Z\"/><line x1=\"36\" x2=\"36\" y1=\"39\" y2=\"44\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g></g>"
   },
   {
     "id": "action.dress",
@@ -1030,7 +1406,190 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"13.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L38.2 29.2 L35.5 18\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L38.2 29.2 L35.5 18\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61.8 29.2 L64.5 18\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L61.8 29.2 L64.5 18\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"35.5\" cy=\"18\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"64.5\" cy=\"18\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><g transform=\"translate(50 8) rotate(0) scale(0.3) translate(-50 -50)\"><path d=\"M36 10 Q50 22 64 10 L92 26 L82 46 L72 40 V92 H28 V40 L18 46 L8 26 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/></g>"
+    "svg": "<g transform=\"translate(4 9.6) scale(0.92)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L39.5 29 L38 17.6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L39.5 29 L38 17.6\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.5 29 L62 17.6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L60.5 29 L62 17.6\" fill=\"none\" stroke=\"#F2C14E\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38\" cy=\"17.6\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"62\" cy=\"17.6\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><g transform=\"translate(50 16) rotate(0) scale(0.24) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#4F86C6\" d=\"m23.5126,14.3094l-2.69,1.7114v39.9792h30.3548V16.0208l-2.8717-1.6316-3.2072-.8607.1615-.6129c.2702-1.0254-.2608-2.0923-1.2416-2.4952l-3.458-1.4202c-2.4845-1.0203-5.2265-1.2355-7.8397-.6152l-2.029.4816c-2.057.4883-3.7802,1.8857-4.6828,3.7974l-.3728.7895-2.1235.8558Z\"/><polygon fill=\"#4F86C6\" points=\"61 31.3289 51.1774 28.3289 51.1774 16.0208 64 22.0208 61 31.3289\"/><path fill=\"#7EC8E3\" d=\"m44.8123,11.273s2.5708,1.0866-3.7875,11.1338l-3.2087-5.165,4.5054-4.8457,1.5524-1.7815\"/><path fill=\"#7EC8E3\" d=\"m27.9297,10.6105l2.0075,2.7494,4.5124,4.8532-3.2087,5.165c-7.1583-8.8534-4.7072-11.2827-4.7072-11.2827\"/><polygon fill=\"#4F86C6\" points=\"11 31.3289 20.8226 28.3289 20.8226 16.0208 8 22.0208 11 31.3289\"/></g><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"48.3057 15.2396 51.1774 16.0208 51.1774 56 20.8226 56 20.8226 16.0208 23.5126 15.1598\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"61 31.3289 51.1774 28.3289 51.1774 16.0208 64 22.0208 61 31.3289\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"11 31.3289 20.8226 28.3289 20.8226 16.0208 8 22.0208 11 31.3289\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m42.3216,12.3962l-4.5054,4.8457,3.2087,5.165c7.1583-8.8534,4.7072-11.2827,4.7072-11.2827-10.4429-8.3615-19.6909,0-19.6909,0,0,0-2.4511,2.4293,4.7072,11.2827l3.2087-5.165-4.5124-4.8532\"/><circle fill=\"#1F2937\" cx=\"35.8866\" cy=\"21.6749\" r=\"0.8529\"/><circle fill=\"#1F2937\" cx=\"35.8866\" cy=\"24.9416\" r=\"0.8529\"/><circle fill=\"#1F2937\" cx=\"35.8866\" cy=\"28.2084\" r=\"0.8529\"/></g></g></g>"
+  },
+  {
+    "id": "action.clean",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "clean",
+        "tidy up",
+        "sweep"
+      ],
+      "fr": [
+        "nettoyer",
+        "ranger",
+        "balayer"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "nettoie",
+        "range",
+        "balaie"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-1 0.7) scale(1.02)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L47.5 50.7 L58 46\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L47.5 50.7 L58 46\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L67.5 49.9 L62 60\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L67.5 49.9 L62 60\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"58\" cy=\"46\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"62\" cy=\"60\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><g transform=\"translate(66 58) rotate(-20) scale(0.56) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M20.6736,59.9844c1.2983-1.388,3.5826-3.6053,4.8424-4.9521-1.4537.886-4.2076,3.37-5.6142,4.2624A46.0024,46.0024,0,0,1,14.41,54.5235a23.6424,23.6424,0,0,0,9.05-4.15,29.78,29.78,0,0,1-10.084,2.9036,47.9434,47.9434,0,0,1-3.4267-5.45c7.1521,1.9446,14.9291-.92,19.73-5.92,1.2414.7174,2.835,1.59,4.1359,2.2474a3.2052,3.2052,0,0,1,1.6174,1.9094c1.7464,4.6657.728,8.7784-2.4318,12.475-1.3221,1.5467-3.2938,3.9123-5.0353,4.9607A33.9572,33.9572,0,0,1,20.6736,59.9844Z\"/><path fill=\"#A57939\" d=\"M36.41,39.1206l-2.5918-1.5c.684-1.1936,1.3464-2.3568,2.0156-3.516Q43.0888,21.5374,50.3463,8.9716c.0989-.1713.1948-.3449.3033-.51A1.4973,1.4973,0,0,1,53.234,9.9742c-.81,1.4511-1.6532,2.8832-2.484,4.3224Q44.3857,25.322,38.02,36.347C37.4975,37.2525,36.9705,38.1556,36.41,39.1206Z\"/><path fill=\"#7EC8E3\" d=\"M35.17,44.2183,30.05,41.2608c.5348-.9183,1.0216-1.82,1.5756-2.6789a.9318.9318,0,0,1,1.31-.3181q1.7127.9444,3.3875,1.9568a.9384.9384,0,0,1,.377,1.2973C36.2334,42.4269,35.696,43.3,35.17,44.2183Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M20.6736,59.9844c1.2983-1.388,3.5826-3.6053,4.8424-4.9521-1.4537.886-4.2076,3.37-5.6142,4.2624A46.0024,46.0024,0,0,1,14.41,54.5235a23.6424,23.6424,0,0,0,9.05-4.15,29.78,29.78,0,0,1-10.084,2.9036,47.9434,47.9434,0,0,1-3.4267-5.45c7.1521,1.9446,14.9291-.92,19.73-5.92,1.2414.7174,2.835,1.59,4.1359,2.2474a3.2052,3.2052,0,0,1,1.6174,1.9094c1.7464,4.6657.728,8.7784-2.4318,12.475-1.3221,1.5467-3.2938,3.9123-5.0353,4.9607A33.9572,33.9572,0,0,1,20.6736,59.9844Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M36.41,39.1206l-2.5918-1.5c.684-1.1936,1.3464-2.3568,2.0156-3.516Q43.0888,21.5374,50.3463,8.9716c.0989-.1713.1948-.3449.3033-.51A1.4973,1.4973,0,0,1,53.234,9.9742c-.81,1.4511-1.6532,2.8832-2.484,4.3224Q44.3857,25.322,38.02,36.347C37.4975,37.2525,36.9705,38.1556,36.41,39.1206Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M35.17,44.2183,30.05,41.2608c.5348-.9183,1.0216-1.82,1.5756-2.6789a.9318.9318,0,0,1,1.31-.3181q1.7127.9444,3.3875,1.9568a.9384.9384,0,0,1,.377,1.2973C36.2334,42.4269,35.696,43.3,35.17,44.2183Z\"/><circle fill=\"#1F2937\" cx=\"33.0575\" cy=\"63.3582\" r=\"1.4081\"/><circle fill=\"#1F2937\" cx=\"36.2993\" cy=\"59.2947\" r=\"1.1846\"/><circle fill=\"#1F2937\" cx=\"36.2993\" cy=\"62.2939\" r=\"0.9413\"/></g></g></g></g>"
+  },
+  {
+    "id": "action.build",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "build"
+      ],
+      "fr": [
+        "construire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "builds",
+        "built"
+      ],
+      "fr": [
+        "construis",
+        "construit"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-12 2) scale(1)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"46.5\" cy=\"23.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"55.9\" cy=\"23.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L65.4 30.6 L72 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L65.4 30.6 L72 40\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"72\" cy=\"40\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><rect x=\"64\" y=\"78\" width=\"16\" height=\"16\" rx=\"2\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><rect x=\"80\" y=\"78\" width=\"16\" height=\"16\" rx=\"2\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><rect x=\"72\" y=\"62\" width=\"16\" height=\"16\" rx=\"2\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><rect x=\"66\" y=\"36\" width=\"16\" height=\"16\" rx=\"2\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"3.75\"/>"
+  },
+  {
+    "id": "action.swim",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "swim"
+      ],
+      "fr": [
+        "nager"
+      ]
+    },
+    "forms": {
+      "en": [
+        "swims",
+        "swam",
+        "swimming"
+      ],
+      "fr": [
+        "nage",
+        "nages",
+        "nageons",
+        "nagent"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"45.3\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><circle cx=\"54.7\" cy=\"22.5\" r=\"1.7\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L36.6 29.6 L26 34\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.6 29.6 L26 34\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 41.9 L66 52\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L71.5 41.9 L66 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"26\" cy=\"34\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"66\" cy=\"52\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g><path d=\"M6 70 Q17 62 28 70 T50 70 T72 70 T94 70 V88 Q94 94 88 94 H12 Q6 94 6 88 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.bath",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "take a bath",
+        "bath"
+      ],
+      "fr": [
+        "prendre un bain",
+        "bain"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(10 4) scale(0.8)\"><g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><path d=\"M43.1 23.5 Q45.3 20.5 47.5 23.5 M52.5 23.5 Q54.7 20.5 56.9 23.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L35.7 30 L30 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L35.7 30 L30 40\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L64.3 30 L70 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L64.3 30 L70 40\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30\" cy=\"40\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"70\" cy=\"40\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g></g><path d=\"M4 64 H96 V78 Q96 92 82 92 H18 Q4 92 4 78 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><path d=\"M16 92 L14 95 M84 92 L86 95\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M8 64 Q14 56 22 60 Q28 52 36 58 Q44 52 52 58 Q60 52 68 58 Q76 52 84 60 Q90 56 94 64 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"2.6\" stroke-linejoin=\"round\"/><circle cx=\"20\" cy=\"50\" r=\"5\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"82\" cy=\"46\" r=\"4\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"88\" cy=\"54\" r=\"3\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.4\"/>"
+  },
+  {
+    "id": "action.shower",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "take a shower",
+        "shower"
+      ],
+      "fr": [
+        "prendre une douche",
+        "douche"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(-6 6) scale(0.94)\"><g transform=\"translate(-17.4 -0.5) scale(1.347)\"><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"2.8\" stroke-linejoin=\"round\"/><path d=\"M43.1 22.5 Q45.3 24.5 47.5 22.5 M52.5 22.5 Q54.7 24.5 56.9 22.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M46.5 27.9 Q50 31.4 53.5 27.9\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.3\" stroke-linecap=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L36.3 52.2 L38.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"10.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L63.7 52.2 L61.5 63.5\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"38.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/><circle cx=\"61.5\" cy=\"63.5\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"1.8\"/></g></g><g transform=\"translate(80 14) rotate(0) scale(0.3) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M45.5153,20.1707c0,0,7.116-7.9306,13.3053-7.2782v5.8571c0,0-3.3014-0.9753-8.2012,5.762\"/><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-miterlimit=\"10\" d=\"M23.3045,24.1514c0,0-3.6232,2.4309-3.1341,4.0328l23.497,23.5426 c0,0,0.9153,0.5151,2.0191-1.0588l1.7375-2.5347\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M24,24c0,0,8-6,17-2l3-3l7.1483,6.849l-2.6127,3.0195c0,0,5.1386,9.3265-1.1003,18.7815L24,24z\"/><rect x=\"43.8517\" y=\"19.5368\" width=\"4.4023\" height=\"9.2292\" transform=\"matrix(0.6754 -0.7375 0.7375 0.6754 -2.8614 41.802)\" fill=\"#9B9B9A\" stroke=\"none\"/><path fill=\"#7EC8E3\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M20.7513,41.9211c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655s-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1811,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C21.9313,40.7193,20.7513,41.9211,20.7513,41.9211\"/><path fill=\"#7EC8E3\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M16.3667,53.4705 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655c-1.0453-1.0453-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1812,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C17.5468,52.2687,16.3667,53.4705,16.3667,53.4705\"/><path fill=\"#7EC8E3\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M23.0674,60.1712 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655s-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1811,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C24.2475,58.9694,23.0674,60.1712,23.0674,60.1712\"/><path fill=\"#7EC8E3\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M27.2838,48.4537 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655c-1.0453-1.0453-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1811,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C28.4638,47.2519,27.2838,48.4537,27.2838,48.4537\"/><path fill=\"#7EC8E3\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.8206,54.9905 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655c-1.0453-1.0453-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1812,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C35.0007,53.7887,33.8206,54.9905,33.8206,54.9905\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M48.2977,17.3576c0,0,4.0466-4.7508,10.5228-4.4651v5.8571c0,0-3.1429-0.2857-5.7619,3\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M21.0821,26.6679c0,0-1.6306,1.0684-0.75,2.0833l22.6667,22.6667c0,0,1,1.1667,2.1667-0.75\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M24,24c0,0,8-6,17-2l3-3l7.1483,6.849l-2.6127,3.0195c0,0,5.1386,9.3265-1.1003,18.7815L24,24z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M20.7513,41.9211c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655s-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1811,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C21.9313,40.7193,20.7513,41.9211,20.7513,41.9211\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M16.3667,53.4705 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655c-1.0453-1.0453-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1812,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C17.5468,52.2687,16.3667,53.4705,16.3667,53.4705\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M23.0674,60.1712 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655s-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1811,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C24.2475,58.9694,23.0674,60.1712,23.0674,60.1712\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M27.2838,48.4537 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655c-1.0453-1.0453-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1811,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C28.4638,47.2519,27.2838,48.4537,27.2838,48.4537\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.8206,54.9905 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655c-1.0453-1.0453-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1812,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C35.0007,53.7887,33.8206,54.9905,33.8206,54.9905\"/></g></g></g><path d=\"M70 32 Q67 38 70 40 Q73 38 70 32 Z M80 36 Q77 42 80 44 Q83 42 80 36 Z M62 40 Q59 46 62 48 Q65 46 62 40 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"2\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "action.wash",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "wash hands",
+        "wash"
+      ],
+      "fr": [
+        "se laver les mains",
+        "laver"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "lave",
+        "laves",
+        "lavons",
+        "lavent"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(5 4) scale(0.9)\"><path d=\"M6 14 H44 Q58 14 58 28 V34\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 14 H44 Q58 14 58 28 V34\" fill=\"none\" stroke=\"#9B9B9A\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"24\" y=\"2\" width=\"14\" height=\"8\" rx=\"2\" fill=\"#9B9B9A\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><path d=\"M54 40 Q51 50 57 56 Q63 50 60 40 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"2.6\" stroke-linejoin=\"round\"/><path d=\"M8 82 H92 Q90 99 50 99 Q10 99 8 82 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><g transform=\"translate(40 66) rotate(35) scale(0.46) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g/><g/><g data-layer=\"color\"><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M30.6145,13.7375c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336L23.358,32.641l0.0217,4.3248l0.1759-12.9988 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.1759,12.9988l0.0526,10.0853c0.4248,8.3102,7.7518,13.6293,16.06,13.2046c4.7918-0.2654,9.32-2.2781,12.7278-5.6572 c2.9178-3.0904,10.0855-11.5349,10.0855-11.5349c1.4629-2.1582,0.3282-5.4939-0.8007-4.6726l-9.8756,4.6509l-0.0389-5.3996 l0.0389,5.3996l-0.0389-5.3996l0.0395-21.8505c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.0947,6.9994l-0.1861,10.6365l0.3671-22.1928 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075c-1.9293-0.284-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.2064,24.016\"/></g><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M30.6145,13.7375 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 L23.358,32.641l0.0048,0.9513l0.1928-9.6253c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.1759,12.9988l0.0526,10.0853c0.4248,8.3102,7.7518,13.6293,16.06,13.2046 c4.7918-0.2654,9.32-2.2781,12.7278-5.6572c2.9178-3.0904,10.0855-11.5349,10.0855-11.5349 c1.4629-2.1582,0.3282-5.4939-0.8007-4.6726l-9.8756,4.6509l-0.0389-5.3996l0.0389,5.3996l-0.0389-5.3996l0.0395-21.8505 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.0947,6.9994l-0.1861,10.6365l0.3671-22.1928c0.284-1.9293-1.0499-3.7236-2.9792-4.0075 c-1.9293-0.284-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.1758,20.4538\"/></g></g></g><g transform=\"translate(66 66) rotate(-35) scale(0.46) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g/><g/><g data-layer=\"color\"><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M30.6145,13.7375c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336L23.358,32.641l0.0217,4.3248l0.1759-12.9988 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.1759,12.9988l0.0526,10.0853c0.4248,8.3102,7.7518,13.6293,16.06,13.2046c4.7918-0.2654,9.32-2.2781,12.7278-5.6572 c2.9178-3.0904,10.0855-11.5349,10.0855-11.5349c1.4629-2.1582,0.3282-5.4939-0.8007-4.6726l-9.8756,4.6509l-0.0389-5.3996 l0.0389,5.3996l-0.0389-5.3996l0.0395-21.8505c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.0947,6.9994l-0.1861,10.6365l0.3671-22.1928 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075c-1.9293-0.284-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.2064,24.016\"/></g><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M30.6145,13.7375 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 L23.358,32.641l0.0048,0.9513l0.1928-9.6253c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.1759,12.9988l0.0526,10.0853c0.4248,8.3102,7.7518,13.6293,16.06,13.2046 c4.7918-0.2654,9.32-2.2781,12.7278-5.6572c2.9178-3.0904,10.0855-11.5349,10.0855-11.5349 c1.4629-2.1582,0.3282-5.4939-0.8007-4.6726l-9.8756,4.6509l-0.0389-5.3996l0.0389,5.3996l-0.0389-5.3996l0.0395-21.8505 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.0947,6.9994l-0.1861,10.6365l0.3671-22.1928c0.284-1.9293-1.0499-3.7236-2.9792-4.0075 c-1.9293-0.284-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.1758,20.4538\"/></g></g></g><circle cx=\"22\" cy=\"58\" r=\"5\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.2\"/><circle cx=\"84\" cy=\"56\" r=\"4\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.2\"/><circle cx=\"88\" cy=\"66\" r=\"3\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"2.2\"/></g>"
   },
   {
     "id": "action.sleep",
@@ -1067,54 +1626,35 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<rect x=\"6\" y=\"30\" width=\"12\" height=\"62\" rx=\"4\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M90 64 V92\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"14\" y=\"62\" width=\"80\" height=\"14\" rx=\"4\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><ellipse cx=\"30\" cy=\"54\" rx=\"13\" ry=\"7\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><circle cx=\"32\" cy=\"45\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.4\"/><path d=\"M21 43 Q21 32 32 33 Q42 33 43 42 Q36 38 30 39 Q25 40 21 43 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3\" stroke-linejoin=\"round\"/><path d=\"M28 47 Q30 49 32 47 M35 47 Q37 49 39 47\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40 50 Q44 40 60 42 H90 Q96 42 96 50 V68 H40 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linejoin=\"round\"/><path d=\"M56 8 H68 L56 22 H68 M74 22 H82 L74 32 H82\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+    "svg": "<rect x=\"6\" y=\"30\" width=\"12\" height=\"62\" rx=\"4\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><path d=\"M90 64 V92\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"14\" y=\"62\" width=\"80\" height=\"14\" rx=\"4\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><ellipse cx=\"30\" cy=\"54\" rx=\"13\" ry=\"7\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><circle cx=\"32\" cy=\"45\" r=\"11\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><path d=\"M21 43 Q21 32 32 33 Q42 33 43 42 Q36 38 30 39 Q25 40 21 43 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3\" stroke-linejoin=\"round\"/><path d=\"M28 47 Q30 49 32 47 M35 47 Q37 49 39 47\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M40 50 Q44 40 60 42 H90 Q96 42 96 50 V68 H40 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><path d=\"M56 8 H68 L56 22 H68 M74 22 H82 L74 32 H82\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
   },
   {
-    "id": "action.open",
+    "id": "action.wake-up",
     "kind": "concept",
     "category": "action",
     "labels": {
       "en": [
-        "open"
+        "wake up",
+        "get up"
       ],
       "fr": [
-        "ouvrir"
+        "se réveiller",
+        "se lever"
       ]
     },
     "forms": {
-      "fr": [
-        "ouvre",
-        "ouvres",
-        "ouvrons",
-        "ouvrez",
-        "ouvrent",
-        "ouvert",
-        "ouverte"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<rect x=\"14\" y=\"52\" width=\"60\" height=\"40\" rx=\"4\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M14 52 L6 26 L54 16 L62 42 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M86 56 V20 M78 28 L86 20 L94 28\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "action.wash",
-    "kind": "concept",
-    "category": "action",
-    "labels": {
       "en": [
-        "wash"
+        "woke",
+        "wakes",
+        "waking"
       ],
       "fr": [
-        "laver",
-        "se laver"
+        "réveille",
+        "lève",
+        "réveillé"
       ]
     },
     "tags": [
-      "hygiene",
       "routine"
     ],
     "source": {
@@ -1122,584 +1662,7 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<rect x=\"6\" y=\"10\" width=\"56\" height=\"16\" rx=\"5\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"48\" y=\"18\" width=\"16\" height=\"22\" rx=\"4\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M56 44 Q50 54 56 58 Q62 54 56 44 Z M56 62 Q50 72 56 76 Q62 72 56 62 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M14 84 Q14 76 24 76 H76 Q92 76 92 86 Q92 94 82 94 H24 Q14 94 14 84 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "feeling.happy",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "happy",
-        "glad"
-      ],
-      "fr": [
-        "content",
-        "joyeux",
-        "heureux"
-      ]
-    },
-    "forms": {
-      "fr": [
-        "contente",
-        "contents",
-        "contentes",
-        "joyeuse",
-        "heureuse"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><circle cx=\"35\" cy=\"42\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"65\" cy=\"42\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M28 60 Q50 86 72 60\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "feeling.sad",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "sad"
-      ],
-      "fr": [
-        "triste"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M26 36 L40 30 M74 36 L60 30\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"44\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"65\" cy=\"44\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M32 76 Q50 60 68 76\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M28 54 Q22 64 28 68 Q34 64 28 54 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "feeling.angry",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "angry"
-      ],
-      "fr": [
-        "en colère",
-        "fâché"
-      ]
-    },
-    "forms": {
-      "en": [
-        "mad",
-        "cross"
-      ],
-      "fr": [
-        "colère",
-        "fâchée",
-        "fâchés"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M24 30 L42 40 M76 30 L58 40\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"36\" cy=\"48\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"64\" cy=\"48\" r=\"5\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"4\"/><path d=\"M34 74 Q50 64 66 74\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "feeling.scared",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "scared",
-        "afraid"
-      ],
-      "fr": [
-        "peur",
-        "effrayé"
-      ]
-    },
-    "forms": {
-      "en": [
-        "fear",
-        "frightened"
-      ],
-      "fr": [
-        "effrayée",
-        "peureux"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M24 30 Q32 22 42 28 M58 28 Q68 22 76 30\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"35\" cy=\"42\" r=\"7\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"65\" cy=\"42\" r=\"7\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/><ellipse cx=\"50\" cy=\"70\" rx=\"9\" ry=\"12\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
-  },
-  {
-    "id": "feeling.tired",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "tired",
-        "sleepy"
-      ],
-      "fr": [
-        "fatigué"
-      ]
-    },
-    "forms": {
-      "fr": [
-        "fatiguée",
-        "fatigués",
-        "fatiguées"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"50\" cy=\"52\" r=\"42\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M27 44 Q35 50 43 44 M57 44 Q65 50 73 44\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"50\" cy=\"70\" rx=\"8\" ry=\"10\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
-  },
-  {
-    "id": "feeling.hurt",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "hurt",
-        "pain"
-      ],
-      "fr": [
-        "mal",
-        "douleur",
-        "bobo"
-      ]
-    },
-    "forms": {
-      "en": [
-        "ouch",
-        "sore"
-      ],
-      "fr": [
-        "aïe",
-        "blessé"
-      ]
-    },
-    "tags": [
-      "need",
-      "health"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<circle cx=\"46\" cy=\"56\" r=\"38\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M26 42 L37 48 L26 54 M66 42 L55 48 L66 54\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M30 72 L38 66 L46 72 L54 66 L62 72\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M78 6 L90 18 L80 22 L94 36\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M78 6 L90 18 L80 22 L94 36\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "object.apple",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "apple"
-      ],
-      "fr": [
-        "pomme"
-      ]
-    },
-    "tags": [
-      "food",
-      "fruit"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M50 32 C30 18 12 34 16 56 C20 80 38 92 50 86 C62 92 80 80 84 56 C88 34 70 18 50 32 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M50 32 Q50 20 56 12\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M54 22 Q66 10 76 16 Q66 28 54 22 Z\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "object.water",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "water"
-      ],
-      "fr": [
-        "eau"
-      ]
-    },
-    "tags": [
-      "drink"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M50 10 Q76 46 76 62 A26 26 0 0 1 24 62 Q24 46 50 10 Z\" fill=\"#7EC8E3\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M38 62 Q38 72 46 76\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "object.book",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "book"
-      ],
-      "fr": [
-        "livre"
-      ]
-    },
-    "tags": [
-      "school"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M50 26 Q32 16 10 20 V80 Q32 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M50 26 Q68 16 90 20 V80 Q68 76 50 86 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M20 38 Q30 36 40 40 M20 52 Q30 50 40 54 M60 40 Q70 36 80 38 M60 54 Q70 50 80 52\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "object.shirt",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "clothes",
-        "shirt",
-        "T-shirt"
-      ],
-      "fr": [
-        "vêtements",
-        "habits",
-        "tee-shirt"
-      ]
-    },
-    "forms": {
-      "fr": [
-        "vêtement",
-        "habit"
-      ]
-    },
-    "tags": [
-      "clothes"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M36 10 Q50 22 64 10 L92 26 L82 46 L72 40 V92 H28 V40 L18 46 L8 26 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "object.shoe",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "shoe",
-        "shoes"
-      ],
-      "fr": [
-        "chaussure",
-        "chaussures"
-      ]
-    },
-    "tags": [
-      "clothes"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M8 74 V40 Q8 30 18 30 H34 Q40 44 54 48 L82 54 Q94 58 94 70 V74 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M6 74 H96 Q96 86 84 86 H16 Q6 86 6 74 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M42 44 L36 54 M52 48 L46 58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "object.banana",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "banana"
-      ],
-      "fr": [
-        "banane"
-      ]
-    },
-    "tags": [
-      "food",
-      "fruit"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M80 12 Q88 50 62 74 Q38 94 12 82 Q14 76 22 76 Q48 76 62 56 Q74 38 72 14 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M72 14 L74 6 L82 8 L80 12\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "object.bread",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "bread"
-      ],
-      "fr": [
-        "pain"
-      ]
-    },
-    "tags": [
-      "food"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M14 92 V44 Q4 40 6 26 Q10 10 30 10 H70 Q90 10 94 26 Q96 40 86 44 V92 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M24 84 V40 Q16 36 18 28 Q20 20 32 20 H68 Q80 20 82 28 Q84 36 76 40 V84 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "object.chair",
-    "kind": "concept",
-    "category": "object",
-    "labels": {
-      "en": [
-        "chair"
-      ],
-      "fr": [
-        "chaise"
-      ]
-    },
-    "tags": [
-      "furniture"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<rect x=\"26\" y=\"8\" width=\"48\" height=\"46\" rx=\"6\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"5\"/><rect x=\"20\" y=\"54\" width=\"60\" height=\"12\" rx=\"4\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M28 66 V94 M72 66 V94\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"7\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "place.home",
-    "kind": "concept",
-    "category": "place",
-    "labels": {
-      "en": [
-        "home",
-        "house"
-      ],
-      "fr": [
-        "maison"
-      ]
-    },
-    "tags": [
-      "place"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<rect x=\"18\" y=\"44\" width=\"64\" height=\"50\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M8 48 L50 10 L92 48 Z\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><rect x=\"42\" y=\"66\" width=\"18\" height=\"28\" rx=\"2\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"4\"/><rect x=\"26\" y=\"54\" width=\"12\" height=\"12\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
-  },
-  {
-    "id": "place.outside",
-    "kind": "concept",
-    "category": "place",
-    "labels": {
-      "en": [
-        "outside",
-        "park",
-        "garden"
-      ],
-      "fr": [
-        "dehors",
-        "parc",
-        "jardin"
-      ]
-    },
-    "tags": [
-      "place"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M4 92 H96\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"42\" y=\"56\" width=\"16\" height=\"36\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"38\" r=\"30\" fill=\"#6BAF5B\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
-  },
-  {
-    "id": "place.toilet",
-    "kind": "concept",
-    "category": "place",
-    "labels": {
-      "en": [
-        "toilet",
-        "bathroom"
-      ],
-      "fr": [
-        "toilettes",
-        "WC",
-        "pipi"
-      ]
-    },
-    "tags": [
-      "need",
-      "hygiene"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<rect x=\"14\" y=\"8\" width=\"30\" height=\"44\" rx=\"5\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M14 52 H90 Q90 76 66 80 L70 94 H34 L38 78 Q20 72 14 52 Z\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M18 52 Q52 60 86 52\" fill=\"none\" stroke=\"#7EC8E3\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
-  },
-  {
-    "id": "idea.care",
-    "kind": "concept",
-    "category": "idea",
-    "labels": {
-      "en": [
-        "care",
-        "health"
-      ],
-      "fr": [
-        "soin",
-        "santé"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<g transform=\"rotate(-35 50 50)\"><rect x=\"6\" y=\"32\" width=\"88\" height=\"36\" rx=\"18\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"5\"/><rect x=\"36\" y=\"36\" width=\"28\" height=\"28\" rx=\"5\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"4\"/></g>"
-  },
-  {
-    "id": "idea.school",
-    "kind": "concept",
-    "category": "idea",
-    "labels": {
-      "en": [
-        "school",
-        "learn"
-      ],
-      "fr": [
-        "école",
-        "apprendre"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M38 24 Q38 8 50 8 Q62 8 62 24\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"20\" y=\"22\" width=\"60\" height=\"72\" rx=\"16\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"5\"/><path d=\"M20 48 Q50 60 80 48\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"34\" y=\"64\" width=\"32\" height=\"20\" rx=\"6\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\"/>"
-  },
-  {
-    "id": "idea.day",
-    "kind": "concept",
-    "category": "idea",
-    "labels": {
-      "en": [
-        "day",
-        "sun"
-      ],
-      "fr": [
-        "jour",
-        "soleil"
-      ]
-    },
-    "tags": [
-      "time"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M50 4 V16 M50 84 V96 M4 50 H16 M84 50 H96 M18 18 L26 26 M74 74 L82 82\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"50\" cy=\"50\" r=\"26\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\"/>"
-  },
-  {
-    "id": "idea.night",
-    "kind": "concept",
-    "category": "idea",
-    "labels": {
-      "en": [
-        "night",
-        "moon"
-      ],
-      "fr": [
-        "nuit",
-        "lune"
-      ]
-    },
-    "tags": [
-      "time"
-    ],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M58 8 Q22 14 20 52 Q22 88 60 92 Q82 92 92 76 Q60 80 50 52 Q44 26 58 8 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linejoin=\"round\"/><path d=\"M76 18 L79 27 L88 27 L81 33 L84 42 L76 36 L68 42 L71 33 L64 27 L73 27 Z\" fill=\"#F2C14E\" stroke=\"#1F2937\" stroke-width=\"4\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "idea.yes",
-    "kind": "concept",
-    "category": "idea",
-    "labels": {
-      "en": [
-        "yes"
-      ],
-      "fr": [
-        "oui"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M14 52 L38 78 L88 22\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"20\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 52 L38 78 L88 22\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
-  },
-  {
-    "id": "idea.no",
-    "kind": "concept",
-    "category": "idea",
-    "labels": {
-      "en": [
-        "no"
-      ],
-      "fr": [
-        "non"
-      ]
-    },
-    "tags": [],
-    "source": {
-      "modified": false,
-      "name": "Parlomino",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<path d=\"M20 20 L80 80 M80 20 L20 80\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"20\" stroke-linecap=\"round\"/><path d=\"M20 20 L80 80 M80 20 L20 80\" fill=\"none\" stroke=\"#E46B4A\" stroke-width=\"10\" stroke-linecap=\"round\"/>"
+    "svg": "<rect x=\"6\" y=\"30\" width=\"12\" height=\"62\" rx=\"4\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><path d=\"M90 64 V92\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"14\" y=\"62\" width=\"80\" height=\"14\" rx=\"4\" fill=\"#FFFFFF\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><g transform=\"translate(12 -2) scale(0.76)\"><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M45 63 L48 75.7 L44 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M55 63 L52 75.7 L56 87.5\" fill=\"none\" stroke=\"#3F3F3F\" stroke-width=\"6.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"42.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><ellipse cx=\"57.5\" cy=\"88.5\" rx=\"5\" ry=\"3\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M39 44 Q39 38 44.5 38 H55.5 Q61 38 61 44 L59 65 H41 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><circle cx=\"50\" cy=\"22\" r=\"13\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"3.8\"/><path d=\"M37 21 Q37 6 50 7 Q63 6 63 21 Q56.5 14.9 50 14.2 Q43.5 14.9 37 21 Z\" fill=\"#6B4F3A\" stroke=\"#1F2937\" stroke-width=\"3.8\" stroke-linejoin=\"round\"/><path d=\"M43.1 23.5 Q45.3 20.5 47.5 23.5 M52.5 23.5 Q54.7 20.5 56.9 23.5\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><ellipse cx=\"50\" cy=\"28.9\" rx=\"2.8\" ry=\"2.4\" fill=\"#1F2937\" stroke=\"#1F2937\" stroke-width=\"1\"/><path d=\"M40.5 41 L35.8 29.9 L30.8 19.6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M40.5 41 L35.8 29.9 L30.8 19.6\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L64.2 29.9 L69.2 19.6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"12.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M59.5 41 L64.2 29.9 L69.2 19.6\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30.8\" cy=\"19.6\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/><circle cx=\"69.2\" cy=\"19.6\" r=\"3.6\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"2.4\"/></g><path d=\"M20 52 H96 V68 H20 Z\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><g transform=\"translate(86 14) rotate(0) scale(0.24) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#F2C14E\" stroke=\"none\" points=\"66,36 55.3235,41.1816 61.9819,51.0063 50.1418,50.1424 51.0056,61.9823 41.1813,55.3236 36,66 30.8184,55.3235 20.9937,61.9819 21.8576,50.1418 10.0177,51.0056 16.6764,41.1813 6,36 16.6765,30.8184 10.0181,20.9937 21.8582,21.8576 20.9944,10.0177 30.8187,16.6764 36,6 41.1816,16.6765 51.0063,10.0181 50.1424,21.8582 61.9823,20.9944 55.3236,30.8187\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"35.95\" r=\"19.8276\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"66,36 55.3235,41.1816 61.9819,51.0063 50.1418,50.1424 51.0056,61.9823 41.1813,55.3236 36,66 30.8184,55.3235 20.9937,61.9819 21.8576,50.1418 10.0177,51.0056 16.6764,41.1813 6,36 16.6765,30.8184 10.0181,20.9937 21.8582,21.8576 20.9944,10.0177 30.8187,16.6764 36,6 41.1816,16.6765 51.0063,10.0181 50.1424,21.8582 61.9823,20.9944 55.3236,30.8187\"/></g></g></g>"
   },
   {
     "id": "idea.stop",
@@ -1729,7 +1692,328 @@ export const elements: ElementDef[] = [
       "name": "Parlomino",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<circle cx=\"50\" cy=\"50\" r=\"46\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"5\"/><g transform=\"translate(17 15) scale(0.68)\"><path d=\"M34 92 V58 L18 42 Q12 35 18 30 Q24 26 30 32 L36 38 V18 Q36 11 42 11 Q48 11 48 18 V12 Q48 5 54 5 Q60 5 60 12 V16 Q60 9 66 9 Q72 9 72 16 V26 Q72 19 78 19 Q84 19 84 26 V62 Q84 92 58 92 Z\" fill=\"#F5C9A0\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M48 18 V44 M60 16 V44 M72 26 V46\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/></g>"
+    "svg": "<circle cx=\"50\" cy=\"50\" r=\"42\" fill=\"#E46B4A\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><g transform=\"translate(50 50) rotate(0) scale(0.64) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g/><g/><g data-layer=\"color\"><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M30.6145,13.7375c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336L23.358,32.641l0.0217,4.3248l0.1759-12.9988 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.1759,12.9988l0.0526,10.0853c0.4248,8.3102,7.7518,13.6293,16.06,13.2046c4.7918-0.2654,9.32-2.2781,12.7278-5.6572 c2.9178-3.0904,10.0855-11.5349,10.0855-11.5349c1.4629-2.1582,0.3282-5.4939-0.8007-4.6726l-9.8756,4.6509l-0.0389-5.3996 l0.0389,5.3996l-0.0389-5.3996l0.0395-21.8505c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.0947,6.9994l-0.1861,10.6365l0.3671-22.1928 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075c-1.9293-0.284-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.2064,24.016\"/></g><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M30.6145,13.7375 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 L23.358,32.641l0.0048,0.9513l0.1928-9.6253c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792 c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.1759,12.9988l0.0526,10.0853c0.4248,8.3102,7.7518,13.6293,16.06,13.2046 c4.7918-0.2654,9.32-2.2781,12.7278-5.6572c2.9178-3.0904,10.0855-11.5349,10.0855-11.5349 c1.4629-2.1582,0.3282-5.4939-0.8007-4.6726l-9.8756,4.6509l-0.0389-5.3996l0.0389,5.3996l-0.0389-5.3996l0.0395-21.8505 c0.284-1.9293-1.0499-3.7236-2.9792-4.0075s-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336 l-0.0947,6.9994l-0.1861,10.6365l0.3671-22.1928c0.284-1.9293-1.0499-3.7236-2.9792-4.0075 c-1.9293-0.284-3.7236,1.0498-4.0075,2.9792c-0.0455,0.3093-0.0498,0.6232-0.0126,0.9336l-0.1758,20.4538\"/></g></g></g>"
+  },
+  {
+    "id": "idea.what",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "what"
+      ],
+      "fr": [
+        "quoi",
+        "qu'est-ce que"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(30 52) scale(1)\"><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"0\" cy=\"20\" r=\"6\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\"/></g><g transform=\"translate(70 56) rotate(0) scale(0.46) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F4AA41\" d=\"m34.3223,64.1641c-.1755,0-.3479-.0462-.5-.1338l-22.6894-13.3321c-.3095-.1787-.5001-.5089-.5-.8662l-.251-27.414c0-.3573.1905-.6875.5-.8662l24.1904-14.3318c.3096-.1777.6904-.1777,1,0l22.6905,13.0818c.4784.2759.6426.8874.3666,1.3659-.0875.1517-.2133.2777-.3647.3655l-23.1923,14.0001-.2501,27.1327c-.0015.5514-.4486.9977-1,.9981Z\"/><polygon fill=\"#F4AA41\" points=\"36 64.5715 60.7589 50.4641 60.413 21.988 35.5724 36.0333 36 64.5715\"/><path fill=\"#D0CFCE\" d=\"m44.4415,37.9783c-.7769-.442-1.2545-1.2692-1.249-2.163v-4.1719l-22.8806-15.5295c.692-.4567,6.2179-3.6331,6.5605-3.7231l26.1492,13.0017c.3095.1787.5001.5089.5.8662v6.0244c-.0018,1.1714-.6264,2.2536-1.64,2.8409l-4.9444,2.8544c-.771.4505-1.7251.4505-2.4961,0h.0004Z\"/><path fill=\"#D0CFCE\" d=\"m44.8377,59.475v-3.336c.0017-1.0607.5674-2.0405,1.4853-2.5722l6.0733-3.5068c.8836-.5099,2.0133-.207,2.5232.6766.162.2808.2473.5992.2473.9234,0,0-.0232,1.6053-.3301,1.8473-2.0407,1.6093-9.9991,6.2783-9.999,5.9677Z\"/><path fill=\"#3F3F3F\" d=\"m44.4274,45.9464v.8683c0,.8266.67,1.4967,1.4967,1.4967.2628,0,.5209-.0692.7485-.2006l6.8048-3.76c.7054-.4073,1.14-1.1599,1.14-1.9745v-1.1184c0-.7976-.6466-1.4442-1.4442-1.4442-.2535,0-.5025.0667-.7221.1935l-6.7455,3.7252c-.7909.4567-1.2781,1.3006-1.2781,2.2139Z\"/><polygon fill=\"#FFFFFF\" points=\"31.083 38.917 22.785 34.264 22.785 41.706 31.083 46.359 31.083 38.917\"/></g><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"61.262 21.168 35.572 6.336 9.882 21.168 9.882 50.832 35.572 65.664 61.262 50.832 61.262 21.168\"/><line x1=\"35.5724\" x2=\"35.5724\" y1=\"36.0333\" y2=\"65.6642\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"35.6301\" x2=\"9.9401\" y1=\"36.0333\" y2=\"21.2012\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"52.5169\" x2=\"61.2624\" y1=\"26.2504\" y2=\"21.2012\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"35.5724\" x2=\"44.1879\" y1=\"36.0333\" y2=\"31.0591\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m26.884,11.4565l25.6375,14.8018v6.0248c0,.8146-.4346,1.5672-1.14,1.9745l-4.9439,2.8543c-.7158.4133-1.6312.1681-2.0446-.5477-.1314-.2276-.2006-.4857-.2006-.7485v-4.7486l-25.5689-14.8183\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"31.083 38.917 22.785 34.264 22.785 41.706 31.083 46.359 31.083 38.917\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m54.1667,54.6663v-3.0063c0-.4679-.3793-.8472-.8472-.8472-.1487,0-.2948.0391-.4236.1135l-6.073,3.5062c-.6098.3519-.9854,1.0025-.9853,1.7065v3.3361\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m44.4274,45.9464v.8683c0,.8266.67,1.4967,1.4967,1.4967.2628,0,.5209-.0692.7485-.2006l6.8048-3.76c.7054-.4073,1.14-1.1599,1.14-1.9745v-1.1184c0-.7976-.6466-1.4442-1.4442-1.4442-.2535,0-.5025.0667-.7221.1935l-6.7455,3.7252c-.7909.4567-1.2781,1.3006-1.2781,2.2139Z\"/></g></g></g>"
+  },
+  {
+    "id": "idea.where",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "where"
+      ],
+      "fr": [
+        "où"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(30 52) scale(1)\"><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"0\" cy=\"20\" r=\"6\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\"/></g><g transform=\"translate(70 52) rotate(0) scale(0.5) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M35.9717,9.7197c-6.4217,0-11.6459,5.2242-11.6459,11.6459S29.55,33.0115,35.9717,33.0115 c6.4216,0,11.6459-5.2242,11.6459-11.6459S42.3933,9.7197,35.9717,9.7197z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M39.1689,32.3818c1.7258-0.6456,3.289-0.8166,4.8143-2.212c2.1013-1.9223,3.9035-5.3398,3.9035-8.0238 c0-2.4449-0.578-5.3031-2.3421-7.6335c-1.6276-2.15-4.3608-3.8416-6.3757-4.554c0,0,3.5175,5.6512,3.5175,11.3739 S39.1689,32.3818,39.1689,32.3818z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M35.837,63.4888l2.8467-7.6704c0,0-0.8248-19.5768-0.3788-19.6775h-5.1693 c0.4459,0.1007-0.2244,19.5589-0.2244,19.5589L35.837,63.4888z\"/><path fill=\"#9B9B9A\" stroke=\"none\" d=\"M35.9556,62.7376l2.649-7.0773c0,0,0.1045-19.0577,0.0622-19.5266l-2.9331,0.0072L35.9556,62.7376z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"35.9715\" cy=\"21.3656\" r=\"11.8084\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"38.5196,37.0981 38.5196,55.7135 35.9356,64.2191 32.9209,55.7135 32.9209,37.0981\"/></g></g></g>"
+  },
+  {
+    "id": "idea.who",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "who"
+      ],
+      "fr": [
+        "qui"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(30 52) scale(1)\"><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"0\" cy=\"20\" r=\"6\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\"/></g><g transform=\"translate(70 54) rotate(0) scale(0.5) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M58,61c0,0,0-3-1-7c-1.2109-4.8457-4-8-10-8c-5,0-15,0-22,0c-6,0-8.7891,3.1543-10,8c-1,4-1,7-1,7H58z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M26,26c0,3.7246,0.5391,7.8086,2,10c1.8613,2.793,5.0176,4,8,4c3.0957,0,6.1367-1.207,8-4 c1.46-2.1914,2-6.2754,2-10c0-2.7935-1-12-10-12S26,21.3442,26,26z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M58,60c0,0,0-2-1-6 c-1.2109-4.8457-4-8-10-8c-5,0-15,0-22,0c-6,0-8.7891,3.1543-10,8c-1,4-1,6-1,6\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M26,26c0,3.7246,0.5391,7.8086,2,10 c1.8613,2.793,5.0176,4,8,4c3.0957,0,6.1367-1.207,8-4c1.46-2.1914,2-6.2754,2-10c0-2.7935-1-12-10-12S26,21.3442,26,26z\"/></g></g></g>"
+  },
+  {
+    "id": "idea.when",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "when"
+      ],
+      "fr": [
+        "quand"
+      ]
+    },
+    "tags": [
+      "core",
+      "question"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(30 52) scale(1)\"><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M-11 -14 Q-11 -28 0 -28 Q12 -28 12 -16 Q12 -7 0 -1 V6\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"0\" cy=\"20\" r=\"6\" fill=\"#4F86C6\" stroke=\"#1F2937\" stroke-width=\"3.75\"/></g><g transform=\"translate(70 54) rotate(0) scale(0.48) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><line x1=\"50.258\" x2=\"53.1419\" y1=\"55.036\" y2=\"59.8645\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"21.7419\" x2=\"18.858\" y1=\"55.036\" y2=\"59.8645\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M46.1859,14.7917c2.2534-4.6476,4.2653-4.0842,6.1673-4.3168c1.2869-0.1573,6.4609,3.1641,6.4609,6.5799 s-2.2433,4.739-3.5597,5.4867\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M25.8141,14.7917c-2.2533-4.6476-4.2652-4.0842-6.1672-4.3168c-1.287-0.1573-6.461,3.1641-6.461,6.5799 s2.2433,4.739,3.5597,5.4867\"/><circle cx=\"36\" cy=\"36.2941\" r=\"23\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"36.0257\" x2=\"36.0257\" y1=\"18.9893\" y2=\"35.9893\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"35.9742\" x2=\"29.9742\" y1=\"35.9349\" y2=\"46.3272\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.81\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"50.258\" x2=\"53.1419\" y1=\"55.036\" y2=\"59.8645\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"21.7419\" x2=\"18.858\" y1=\"55.036\" y2=\"59.8645\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M48.8497,12.5761c0.9692-0.8502,2.2395-1.3655,3.6301-1.3655c3.0417,0,5.5076,2.4657,5.5076,5.5075 c0,1.1088-0.3277,2.1411-0.8914,3.0052\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M23.1504,12.5761c-0.9693-0.8502-2.2396-1.3655-3.6302-1.3655c-3.0417,0-5.5075,2.4657-5.5075,5.5075 c0,1.1088,0.3276,2.1411,0.8914,3.0052\"/><circle cx=\"36\" cy=\"36.2941\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"36.0257\" x2=\"36.0257\" y1=\"18.9893\" y2=\"35.9893\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"35.9742\" x2=\"29.9742\" y1=\"35.9349\" y2=\"46.3272\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.81\"/></g></g></g>"
+  },
+  {
+    "id": "idea.in",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "in",
+        "inside"
+      ],
+      "fr": [
+        "dans",
+        "dedans"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M20 50 L30 40 H90 L80 50 Z\" fill=\"#A57939\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><g transform=\"translate(52 48) rotate(0) scale(0.34) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.26-0.12-0.52-0.24-0.77-0.36c-0.26-0.12-0.51-0.25-0.77-0.38 c-0.23-0.12-0.45-0.24-0.68-0.37c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51 c-0.08-0.05-0.16-0.11-0.2401-0.16c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69 c-0.03-0.02-0.05-0.04-0.08-0.0699c-0.27-0.21-0.53-0.42-0.78-0.64c-0.02-0.01-0.04-0.03-0.0601-0.05 c-0.2599-0.22-0.52-0.45-0.78-0.68c-0.02-0.01-0.03-0.02-0.04-0.04c-0.26-0.25-0.53-0.49-0.78-0.75 c-0.26-0.26-0.51-0.52-0.76-0.78c3.99,2.34,8.6,3.77,13.52,3.95c0.38,0.02,0.76,0.03,1.14,0.03c6.76,0,12.99-2.31,17.92-6.2 c5.99-4.71,10.08-11.73,10.92-19.72c0.11-1.01,0.16-2.04,0.16-3.08c0-2.07-0.22-4.08-0.63-6.02v-0.01 c-1.11-5.25-3.63-9.95-7.15-13.73c1.06,0.63,2.09,1.33,3.06,2.08c0.56,0.44,1.11,0.9,1.64,1.38c0,0,0-0.01,0.01,0 c0.53,0.49,1.04,0.98,1.53,1.5c0.98,1.03,1.9,2.14,2.72,3.31c0.5,0.7,0.97,1.42,1.4,2.17c0.15,0.25,0.29,0.5,0.4301,0.76 c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09 c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68 c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41 c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8 C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11c-0.04,0-0.08-0.01-0.1201-0.01 c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16c-0.47-0.09-0.94-0.19-1.41-0.31 c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M34.2366,28.0728l-6.1555,4.4722c-1.0515,0.7639-1.4914,2.118-1.0898,3.3541l2.3512,7.2362 c0.4016,1.2361,1.5535,2.0729,2.8532,2.0729h7.6086c1.2997,0,2.4515-0.8369,2.8532-2.0729l2.3512-7.2362 c0.4016-1.2361-0.0383-2.5902-1.0898-3.3541l-6.1555-4.4722C36.7119,27.3089,35.2881,27.3089,34.2366,28.0728z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M46.28,10.18l-8.41,4.12c-0.59,0.28-1.23,0.42-1.87,0.41c-0.57-0.0099-1.14-0.14-1.68-0.39l-8.61-4.1 c-0.42-0.2-0.64-0.67-0.56-1.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1C46.91,9.53,46.7,9.98,46.28,10.18z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M30.51,64.48c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23 c-0.23-0.07-0.47-0.14-0.71-0.22c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21 c-0.11-0.03-0.21-0.07-0.32-0.12c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.522-0.2304-1.0333-0.4806-1.5386-0.741 c-0.2299-0.1179-0.4554-0.2423-0.6817-0.3661c-0.2557-0.1407-0.509-0.2849-0.7601-0.4332 c-0.2823-0.1659-0.5635-0.3326-0.8397-0.5077c-0.0818-0.0522-0.1609-0.108-0.2422-0.161 c-3.1296-2.0298-5.849-4.6387-7.9878-7.691c0.19-0.34,0.58-0.55,1.01-0.5l9.34,1.14c0.64,0.08,1.24,0.3,1.76,0.65 c0.49,0.33,0.91,0.76,1.22,1.27l2.82,4.59l2.19,3.58C30.79,63.71,30.76,64.16,30.51,64.48z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M15.16,31.37c-0.14,0.58-0.41,1.13-0.79,1.61l-5.9,7.3c-0.28,0.34-0.73,0.46-1.11,0.33C7.12,39.11,7,37.57,7,36 c0-6.17,1.92-11.89,5.22-16.59c0.42,0.05,0.79,0.35,0.88,0.79l2.08,9.33C15.32,30.14,15.31,30.77,15.16,31.37z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M59.72,52.67c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8c-0.26-0.32-0.29-0.78-0.07-1.15L46.4,55.19 c0.3199-0.52,0.74-0.95,1.24-1.28c0.52-0.34,1.11-0.56,1.74-0.64l9.31-1.14C59.13,52.08,59.53,52.31,59.72,52.67z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.36,0.08-0.75-0.04-1-0.35l-5.25-6.5l-0.73-0.9c-0.78-0.96-1.08-2.23-0.8-3.45 l1.06-4.75v-0.01l1.04-4.69c0.08-0.39,0.39-0.6899,0.77-0.77c0-0.01,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17 c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96 c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96 c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97 c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><line x1=\"36\" x2=\"36\" y1=\"14.7122\" y2=\"27.4999\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.9889\" x2=\"56.8125\" y1=\"33.9902\" y2=\"31.3266\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41.5906\" x2=\"47.6376\" y1=\"44.6172\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"30.394\" x2=\"24.3434\" y1=\"44.6059\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"27.0013\" x2=\"15.1636\" y1=\"34.0188\" y2=\"31.3728\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g><path d=\"M20 50 L28 42 H88 L80 50 Z\" fill=\"#A57939\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><path d=\"M80 50 L88 42 V82 L80 90 Z\" fill=\"#A57939\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><rect x=\"20\" y=\"50\" width=\"60\" height=\"40\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "idea.on",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "on",
+        "on top"
+      ],
+      "fr": [
+        "sur",
+        "dessus"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M20 56 L28 48 H88 L80 56 Z\" fill=\"#A57939\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><path d=\"M80 56 L88 48 V84 L80 92 Z\" fill=\"#A57939\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><rect x=\"20\" y=\"56\" width=\"60\" height=\"36\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\" stroke-linejoin=\"round\"/><g transform=\"translate(54 30) rotate(0) scale(0.36) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.26-0.12-0.52-0.24-0.77-0.36c-0.26-0.12-0.51-0.25-0.77-0.38 c-0.23-0.12-0.45-0.24-0.68-0.37c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51 c-0.08-0.05-0.16-0.11-0.2401-0.16c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69 c-0.03-0.02-0.05-0.04-0.08-0.0699c-0.27-0.21-0.53-0.42-0.78-0.64c-0.02-0.01-0.04-0.03-0.0601-0.05 c-0.2599-0.22-0.52-0.45-0.78-0.68c-0.02-0.01-0.03-0.02-0.04-0.04c-0.26-0.25-0.53-0.49-0.78-0.75 c-0.26-0.26-0.51-0.52-0.76-0.78c3.99,2.34,8.6,3.77,13.52,3.95c0.38,0.02,0.76,0.03,1.14,0.03c6.76,0,12.99-2.31,17.92-6.2 c5.99-4.71,10.08-11.73,10.92-19.72c0.11-1.01,0.16-2.04,0.16-3.08c0-2.07-0.22-4.08-0.63-6.02v-0.01 c-1.11-5.25-3.63-9.95-7.15-13.73c1.06,0.63,2.09,1.33,3.06,2.08c0.56,0.44,1.11,0.9,1.64,1.38c0,0,0-0.01,0.01,0 c0.53,0.49,1.04,0.98,1.53,1.5c0.98,1.03,1.9,2.14,2.72,3.31c0.5,0.7,0.97,1.42,1.4,2.17c0.15,0.25,0.29,0.5,0.4301,0.76 c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09 c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68 c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41 c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8 C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11c-0.04,0-0.08-0.01-0.1201-0.01 c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16c-0.47-0.09-0.94-0.19-1.41-0.31 c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M34.2366,28.0728l-6.1555,4.4722c-1.0515,0.7639-1.4914,2.118-1.0898,3.3541l2.3512,7.2362 c0.4016,1.2361,1.5535,2.0729,2.8532,2.0729h7.6086c1.2997,0,2.4515-0.8369,2.8532-2.0729l2.3512-7.2362 c0.4016-1.2361-0.0383-2.5902-1.0898-3.3541l-6.1555-4.4722C36.7119,27.3089,35.2881,27.3089,34.2366,28.0728z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M46.28,10.18l-8.41,4.12c-0.59,0.28-1.23,0.42-1.87,0.41c-0.57-0.0099-1.14-0.14-1.68-0.39l-8.61-4.1 c-0.42-0.2-0.64-0.67-0.56-1.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1C46.91,9.53,46.7,9.98,46.28,10.18z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M30.51,64.48c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23 c-0.23-0.07-0.47-0.14-0.71-0.22c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21 c-0.11-0.03-0.21-0.07-0.32-0.12c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.522-0.2304-1.0333-0.4806-1.5386-0.741 c-0.2299-0.1179-0.4554-0.2423-0.6817-0.3661c-0.2557-0.1407-0.509-0.2849-0.7601-0.4332 c-0.2823-0.1659-0.5635-0.3326-0.8397-0.5077c-0.0818-0.0522-0.1609-0.108-0.2422-0.161 c-3.1296-2.0298-5.849-4.6387-7.9878-7.691c0.19-0.34,0.58-0.55,1.01-0.5l9.34,1.14c0.64,0.08,1.24,0.3,1.76,0.65 c0.49,0.33,0.91,0.76,1.22,1.27l2.82,4.59l2.19,3.58C30.79,63.71,30.76,64.16,30.51,64.48z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M15.16,31.37c-0.14,0.58-0.41,1.13-0.79,1.61l-5.9,7.3c-0.28,0.34-0.73,0.46-1.11,0.33C7.12,39.11,7,37.57,7,36 c0-6.17,1.92-11.89,5.22-16.59c0.42,0.05,0.79,0.35,0.88,0.79l2.08,9.33C15.32,30.14,15.31,30.77,15.16,31.37z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M59.72,52.67c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8c-0.26-0.32-0.29-0.78-0.07-1.15L46.4,55.19 c0.3199-0.52,0.74-0.95,1.24-1.28c0.52-0.34,1.11-0.56,1.74-0.64l9.31-1.14C59.13,52.08,59.53,52.31,59.72,52.67z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.36,0.08-0.75-0.04-1-0.35l-5.25-6.5l-0.73-0.9c-0.78-0.96-1.08-2.23-0.8-3.45 l1.06-4.75v-0.01l1.04-4.69c0.08-0.39,0.39-0.6899,0.77-0.77c0-0.01,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17 c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96 c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96 c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97 c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><line x1=\"36\" x2=\"36\" y1=\"14.7122\" y2=\"27.4999\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.9889\" x2=\"56.8125\" y1=\"33.9902\" y2=\"31.3266\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41.5906\" x2=\"47.6376\" y1=\"44.6172\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"30.394\" x2=\"24.3434\" y1=\"44.6059\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"27.0013\" x2=\"15.1636\" y1=\"34.0188\" y2=\"31.3728\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
+  },
+  {
+    "id": "idea.under",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "under",
+        "below"
+      ],
+      "fr": [
+        "sous",
+        "dessous"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<rect x=\"4\" y=\"34\" width=\"92\" height=\"9\" rx=\"2\" fill=\"#F4AA41\" stroke=\"#1F2937\" stroke-width=\"3.75\"/><path d=\"M14 43 V94 M86 43 V94\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"5\" stroke-linecap=\"round\"/><g transform=\"translate(50 78) rotate(0) scale(0.34) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01 c-4.24,6.03-10.73,10.37-18.24,11.8C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11 c-0.04,0-0.08-0.01-0.1201-0.01c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16 c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.26-0.12-0.52-0.24-0.77-0.36c-0.26-0.12-0.51-0.25-0.77-0.38 c-0.23-0.12-0.45-0.24-0.68-0.37c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51 c-0.08-0.05-0.16-0.11-0.2401-0.16c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69 c-0.03-0.02-0.05-0.04-0.08-0.0699c-0.27-0.21-0.53-0.42-0.78-0.64c-0.02-0.01-0.04-0.03-0.0601-0.05 c-0.2599-0.22-0.52-0.45-0.78-0.68c-0.02-0.01-0.03-0.02-0.04-0.04c-0.26-0.25-0.53-0.49-0.78-0.75 c-0.26-0.26-0.51-0.52-0.76-0.78c3.99,2.34,8.6,3.77,13.52,3.95c0.38,0.02,0.76,0.03,1.14,0.03c6.76,0,12.99-2.31,17.92-6.2 c5.99-4.71,10.08-11.73,10.92-19.72c0.11-1.01,0.16-2.04,0.16-3.08c0-2.07-0.22-4.08-0.63-6.02v-0.01 c-1.11-5.25-3.63-9.95-7.15-13.73c1.06,0.63,2.09,1.33,3.06,2.08c0.56,0.44,1.11,0.9,1.64,1.38c0,0,0-0.01,0.01,0 c0.53,0.49,1.04,0.98,1.53,1.5c0.98,1.03,1.9,2.14,2.72,3.31c0.5,0.7,0.97,1.42,1.4,2.17c0.15,0.25,0.29,0.5,0.4301,0.76 c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09 c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68 c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41 c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.71,4.39-2.42,8.45-4.89,11.94c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8 C39.7,64.82,37.87,65,36,65c-0.5,0-1-0.01-1.49-0.04h-0.07c-0.47-0.03-0.94-0.06-1.41-0.11c-0.04,0-0.08-0.01-0.1201-0.01 c-0.39-0.04-0.78-0.09-1.17-0.15c-0.11-0.02-0.23-0.03-0.34-0.05c-0.3-0.05-0.59-0.1-0.89-0.16c-0.47-0.09-0.94-0.19-1.41-0.31 c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23c-0.23-0.07-0.47-0.14-0.71-0.22 c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21c-0.11-0.03-0.21-0.07-0.32-0.12 c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.52-0.23-1.03-0.48-1.54-0.74c-0.23-0.12-0.45-0.24-0.68-0.37 c-0.26-0.14-0.51-0.28-0.76-0.43c-0.28-0.17-0.56-0.33-0.84-0.51c-0.08-0.05-0.16-0.11-0.2401-0.16 c-0.39-0.25-0.78-0.52-1.15-0.79c-0.32-0.22-0.63-0.46-0.93-0.69c-0.03-0.02-0.05-0.04-0.08-0.0699 c-0.27-0.21-0.53-0.42-0.78-0.64c-0.13-0.1-0.26-0.21-0.38-0.32c-0.1-0.09-0.19-0.17-0.29-0.26c-0.02-0.01-0.03-0.02-0.04-0.03 c-0.03-0.03-0.06-0.06-0.09-0.08c-0.02-0.01-0.03-0.03-0.04-0.04c-0.02-0.01-0.03-0.02-0.04-0.04c-0.13-0.11-0.25-0.22-0.37-0.34 c-0.13-0.12-0.25-0.23-0.36-0.35c-0.02-0.02-0.04-0.04-0.05-0.06c-0.1-0.1-0.2-0.19-0.3-0.28 c-0.1517-0.1517-0.2917-0.3225-0.4401-0.4795c-0.0066-0.0068-0.0134-0.0137-0.02-0.0205 c0.0008,0.0004,0.0015,0.0009,0.0023,0.0013c-0.3342-0.3544-0.6707-0.7049-0.9923-1.0813c-0.24-0.28-0.48-0.57-0.71-0.87 c-0.3199-0.41-0.6299-0.82-0.93-1.25c-2.46-3.51-4.16-7.59-4.87-12.01C7.12,39.11,7,37.57,7,36c0-6.17,1.92-11.89,5.22-16.59 C15.41,14.83,19.9,11.22,25.15,9.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1c2.52,1,4.86,2.36,6.97,4.02 c0.56,0.43,1.11,0.89,1.64,1.38h0.01c0.53,0.48,1.04,0.98,1.53,1.5c0.75,0.77,1.44,1.58,2.09,2.44c0.21,0.28,0.43,0.57,0.63,0.86 v0.01c0,0,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92 c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85 c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15 c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06 c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M34.2366,28.0728l-6.1555,4.4722c-1.0515,0.7639-1.4914,2.118-1.0898,3.3541l2.3512,7.2362 c0.4016,1.2361,1.5535,2.0729,2.8532,2.0729h7.6086c1.2997,0,2.4515-0.8369,2.8532-2.0729l2.3512-7.2362 c0.4016-1.2361-0.0383-2.5902-1.0898-3.3541l-6.1555-4.4722C36.7119,27.3089,35.2881,27.3089,34.2366,28.0728z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M46.28,10.18l-8.41,4.12c-0.59,0.28-1.23,0.42-1.87,0.41c-0.57-0.0099-1.14-0.14-1.68-0.39l-8.61-4.1 c-0.42-0.2-0.64-0.67-0.56-1.11C28.5,7.74,32.16,7,36,7c3.83,0,7.49,0.74,10.83,2.1C46.91,9.53,46.7,9.98,46.28,10.18z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M30.51,64.48c-0.47-0.09-0.94-0.19-1.41-0.31c-0.19-0.04-0.39-0.09-0.58-0.14c-0.26-0.07-0.52-0.15-0.78-0.23 c-0.23-0.07-0.47-0.14-0.71-0.22c-0.2401-0.0699-0.47-0.15-0.7-0.24c-0.19-0.07-0.38-0.14-0.57-0.21 c-0.11-0.03-0.21-0.07-0.32-0.12c-0.39-0.16-0.78-0.32-1.16-0.4901c-0.522-0.2304-1.0333-0.4806-1.5386-0.741 c-0.2299-0.1179-0.4554-0.2423-0.6817-0.3661c-0.2557-0.1407-0.509-0.2849-0.7601-0.4332 c-0.2823-0.1659-0.5635-0.3326-0.8397-0.5077c-0.0818-0.0522-0.1609-0.108-0.2422-0.161 c-3.1296-2.0298-5.849-4.6387-7.9878-7.691c0.19-0.34,0.58-0.55,1.01-0.5l9.34,1.14c0.64,0.08,1.24,0.3,1.76,0.65 c0.49,0.33,0.91,0.76,1.22,1.27l2.82,4.59l2.19,3.58C30.79,63.71,30.76,64.16,30.51,64.48z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M15.16,31.37c-0.14,0.58-0.41,1.13-0.79,1.61l-5.9,7.3c-0.28,0.34-0.73,0.46-1.11,0.33C7.12,39.11,7,37.57,7,36 c0-6.17,1.92-11.89,5.22-16.59c0.42,0.05,0.79,0.35,0.88,0.79l2.08,9.33C15.32,30.14,15.31,30.77,15.16,31.37z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M59.72,52.67c0,0,0,0,0,0.01c-4.24,6.03-10.73,10.37-18.24,11.8c-0.26-0.32-0.29-0.78-0.07-1.15L46.4,55.19 c0.3199-0.52,0.74-0.95,1.24-1.28c0.52-0.34,1.11-0.56,1.74-0.64l9.31-1.14C59.13,52.08,59.53,52.31,59.72,52.67z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M65,36c0,1.61-0.13,3.19-0.39,4.73c-0.36,0.08-0.75-0.04-1-0.35l-5.25-6.5l-0.73-0.9c-0.78-0.96-1.08-2.23-0.8-3.45 l1.06-4.75v-0.01l1.04-4.69c0.08-0.39,0.39-0.6899,0.77-0.77c0-0.01,0-0.01,0.01,0c0.5,0.69,0.97,1.42,1.39,2.17 c0.15,0.25,0.29,0.5,0.4301,0.76c0.17,0.31,0.33,0.61,0.47,0.92c0.11,0.21,0.21,0.42,0.31,0.64c0.16,0.32,0.3,0.64,0.43,0.96 c0.16,0.36,0.3,0.72,0.43,1.09c0.11,0.28,0.21,0.56,0.3,0.85c0.08,0.23,0.16,0.47,0.2401,0.72c0.1,0.32,0.19,0.64,0.28,0.96 c0.06,0.23,0.12,0.45,0.17,0.68c0.1801,0.71,0.33,1.42,0.44,2.15c0.04,0.21,0.07,0.42,0.1,0.64c0.05,0.32,0.09,0.65,0.12,0.97 c0.02,0.14,0.04,0.28,0.05,0.41c0.03,0.35,0.06,0.7,0.07,1.06c0.02,0.15,0.03,0.29,0.03,0.44C64.99,35.15,65,35.57,65,36z\"/><line x1=\"36\" x2=\"36\" y1=\"14.7122\" y2=\"27.4999\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.9889\" x2=\"56.8125\" y1=\"33.9902\" y2=\"31.3266\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41.5906\" x2=\"47.6376\" y1=\"44.6172\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"30.394\" x2=\"24.3434\" y1=\"44.6059\" y2=\"53.9126\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"27.0013\" x2=\"15.1636\" y1=\"34.0188\" y2=\"31.3728\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g></g>"
+  },
+  {
+    "id": "idea.up",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "up"
+      ],
+      "fr": [
+        "en haut",
+        "monter"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "haut",
+        "monte"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M50 90 V14 M28 36 L50 14 L72 36\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M50 90 V14 M28 36 L50 14 L72 36\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "idea.down",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "down"
+      ],
+      "fr": [
+        "en bas",
+        "descendre"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "bas",
+        "descends",
+        "descend"
+      ]
+    },
+    "tags": [
+      "core",
+      "position"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<path d=\"M50 10 V86 M28 64 L50 86 L72 64\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M50 10 V86 M28 64 L50 86 L72 64\" fill=\"none\" stroke=\"#4F86C6\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+    "id": "idea.more",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "more",
+        "again"
+      ],
+      "fr": [
+        "encore",
+        "plus"
+      ]
+    },
+    "forms": {
+      "en": [
+        "more please"
+      ],
+      "fr": [
+        "encore une fois",
+        "redonne"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(14 50) rotate(0) scale(0.26) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g><path d=\"M30 50 H46 M39 43 L46 50 L39 57\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M30 50 H46 M39 43 L46 50 L39 57\" fill=\"none\" stroke=\"#6BAF5B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(74 34) rotate(0) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g><g transform=\"translate(62 64) rotate(0) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g><g transform=\"translate(86 64) rotate(0) scale(0.28) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g>"
+  },
+  {
+    "id": "idea.same",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "same"
+      ],
+      "fr": [
+        "pareil",
+        "même"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "pareille",
+        "pareils",
+        "identique"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(20 50) rotate(0) scale(0.36) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g><path d=\"M42 42 H58 M42 58 H58\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(80 50) rotate(0) scale(0.36) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g>"
+  },
+  {
+    "id": "idea.different",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "different"
+      ],
+      "fr": [
+        "différent"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "différente",
+        "différents",
+        "pas pareil"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": false,
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(20 50) rotate(0) scale(0.36) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g></g><path d=\"M42 42 H58 M42 58 H58 M56 34 L44 66\" fill=\"none\" stroke=\"#1F2937\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g transform=\"translate(80 50) rotate(0) scale(0.36) translate(-50 -50)\"><g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" stroke=\"#F2C14E\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.01\" d=\"m50.46,50.44c-10.9856,12.9865-25.1263,11.6682-34.8931,6.8853-.3134-.1535-.4574-.5248-.5316-.8658h0c-.1926-.8861.4504-1.7241,1.3547-1.7915,5.1942-.3873,12.9572-2.15,21.7079-9.6086,1.1118-.9477,2.1264-2.0092,3.023-3.1625,4.8861-6.2847,9.1044-14.3883,9.3487-20.9704.0191-.5158.4228-.9361.9386-.9522,3.1225-.0975,2.6958-.2368,2.9494.3666,4.1634,9.9069,2.5163,22.0073-3.8909,30.0972l-.0068.0019Z\"/><path fill=\"#F2C14E\" stroke=\"#F2C14E\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.01\" d=\"m53.21,19.66c3.7161-1.2359,6.0438,20.6414-1.9939,30.488-11.8,11.01-23.6641,12.652-36.2541,5.914,25.96,5.489,39.47-15.38,38.25-36.4l-.002-.002Z\"/></g><g data-layer=\"line\"><line x1=\"52.09\" x2=\"51.52\" y1=\"15.49\" y2=\"11.2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m25.79,56.55c16.7-2.905,24.45-11.14,26.67-27.09\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m47.54,54.03c-8.106,7.212-23.05,9.45-32.43,2.757l-.4132-1.901c18.42-2.206,32.78-13.96,35.36-35.55,1.105-.0041,4.645-.3957,4.645-.3957,5.599,15.1,1.754,27.15-7.164,35.08l.0022.0097Z\"/></g></g></g>"
   },
   {
     "id": "frame.place",
@@ -3629,8 +3913,8 @@ export const elements: ElementDef[] = [
     "category": "object",
     "labels": {
       "en": [
-        "paint",
-        "painting"
+        "paints",
+        "paint box"
       ],
       "fr": [
         "peinture"
@@ -4117,7 +4401,7 @@ export const elements: ElementDef[] = [
       "url": "https://openmoji.org/library/emoji-1F453/",
       "license": "CC-BY-SA-4.0"
     },
-    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.5891,34.151 c1.0309-0.1557,2.3936-0.355,3.1719,3.5553c0.5088,2.5561,2.4518,2.3815,3.5921,4.0059c2.3054,3.2843,7.0505,5.5111,11.3652,5.5111 c6.9036,0,12.5-5.5964,12.5-12.5l0.105-4.9141l1.895,0.0501v-4.1273c0,0-18.9318-16.1788-29.4804,5.3212h-2.9812h-0.4615H34.314 c-10.5486-21.5-29.4804-5.3212-29.4804-5.3212v4.1273l1.895-0.0501l0.105,4.9141c0,6.9036,5.5964,12.5,12.5,12.5 c4.3147,0,9.1189-2.1861,11.3652-5.5111\"/><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.5891,34.151 c1.0309-0.1557,2.3936-0.355,3.1719,3.5553c0.5088,2.5561,2.4518,2.3815,3.5921,4.0059c2.3054,3.2843,7.0505,5.5111,11.3652,5.5111\"/><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.7915,33.8289 c-6.7199-0.9921-2.7978,3.4384-3.0884,3.9105c-1.3989,2.2732-2.5354,2.0263-3.6757,3.6507 c-2.3054,3.2843-7.0505,5.5111-11.3652,5.5111\"/><circle cx=\"19.7664\" cy=\"33.5577\" r=\"9.5798\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/><circle cx=\"55.2856\" cy=\"33.5577\" r=\"9.5798\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30.6989,41.7122c-2.2463,3.325-7.0505,5.5111-11.3652,5.5111c-6.9036,0-12.5-5.5964-12.5-12.5l-0.105-4.9141l-1.895,0.0501 v-4.1273c0,0,18.9318-16.1788,29.4804,5.3212h2.9812h0.4615h2.9812c10.5486-21.5,29.4804-5.3212,29.4804-5.3212v4.1273 l-1.895-0.0501l-0.105,4.9141c0,6.9036-5.5964,12.5-12.5,12.5c-4.3147,0-9.1189-2.1861-11.3652-5.5111\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.761,37.7063c0-1.6569,1.3431-3,3-3c1.6569,0,3,1.3431,3,3\"/><circle cx=\"19.7664\" cy=\"33.5577\" r=\"9.5798\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/><circle cx=\"55.2856\" cy=\"33.5577\" r=\"9.5798\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/></g></g>"
+    "svg": "<g transform=\"translate(4.999999999999999 4.999999999999999) scale(1.2500)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.5891,34.151 c1.0309-0.1557,2.3936-0.355,3.1719,3.5553c0.5088,2.5561,2.4518,2.3815,3.5921,4.0059c2.3054,3.2843,7.0505,5.5111,11.3652,5.5111 c6.9036,0,12.5-5.5964,12.5-12.5l0.105-4.9141l1.895,0.0501v-4.1273c0,0-18.9318-16.1788-29.4804,5.3212h-2.9812h-0.4615H34.314 c-10.5486-21.5-29.4804-5.3212-29.4804-5.3212v4.1273l1.895-0.0501l0.105,4.9141c0,6.9036,5.5964,12.5,12.5,12.5 c4.3147,0,9.1189-2.1861,11.3652-5.5111\"/><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.5891,34.151 c1.0309-0.1557,2.3936-0.355,3.1719,3.5553c0.5088,2.5561,2.4518,2.3815,3.5921,4.0059c2.3054,3.2843,7.0505,5.5111,11.3652,5.5111\"/><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.7915,33.8289 c-6.7199-0.9921-2.7978,3.4384-3.0884,3.9105c-1.3989,2.2732-2.5354,2.0263-3.6757,3.6507 c-2.3054,3.2843-7.0505,5.5111-11.3652,5.5111\"/><circle cx=\"19.7664\" cy=\"33.5577\" r=\"9.5798\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/><circle cx=\"55.2856\" cy=\"33.5577\" r=\"9.5798\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30.6989,41.7122c-2.2463,3.325-7.0505,5.5111-11.3652,5.5111c-6.9036,0-12.5-5.5964-12.5-12.5l-0.105-4.9141l-1.895,0.0501 v-4.1273c0,0,18.9318-16.1788,29.4804,5.3212h2.9812h0.4615h2.9812c10.5486-21.5,29.4804-5.3212,29.4804-5.3212v4.1273 l-1.895-0.0501l-0.105,4.9141c0,6.9036-5.5964,12.5-12.5,12.5c-4.3147,0-9.1189-2.1861-11.3652-5.5111\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.761,37.7063c0-1.6569,1.3431-3,3-3c1.6569,0,3,1.3431,3,3\"/><circle cx=\"19.7664\" cy=\"33.5577\" r=\"9.5798\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/><circle cx=\"55.2856\" cy=\"33.5577\" r=\"9.5798\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.49\"/></g></g>"
   },
   {
     "id": "object.cap",
@@ -4792,6 +5076,261 @@ export const elements: ElementDef[] = [
     "svg": "<g transform=\"scale(1.3889)\"><g/><g/><g data-layer=\"color\"><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M63.1103,54.1648c-10.9692,9.4397-26.3611,11.6803-46.4096,11.5634c0,0-3.7408,1.1495-4.5981-3.5655 c0,0-0.7696-20.8863,3.809-35.5476c0,0-0.1948-5.9814,0.0293-9.8976c0.0389-0.6722,0.3312-1.2957,0.828-1.7535 c5.7574-5.319,8.3487-6.0983,8.3487-6.0983l8.3682-1.4808c1.3249,0.906,4.2279,4.1792,3.7505,9.995l0.1071-0.3994l3.2148,0.9012 c1.1226,0.3416,1.8585,1.525,1.8412,2.6546c-0.0098,1.169-2.8056,2.0457-2.8056,2.0457c-6.1178,1.3834-6.1178,1.3834-6.1178,1.3834 c-1.8314,2.8738-5.5937,3.1758-7.279,3.0979c-0.0877-0.2435-0.5927-0.0195-0.1933,0c0.5942,1.5002,1.2893,5.1144,1.9225,11.807 l0.1753,1.8606c0.0487,0.5261,0.3166,4.7286,0.3847,7.4757c1.812-4.413,6.6361-12.5609,15.7348-13.8468 c13.4631-1.9192,20.1654,8.4948,20.1654,8.4948s0.2338,0.2728,0.526,0.7696C66.9778,47.0728,66.1595,51.5345,63.1103,54.1648z\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M26.5081,26.81c-0.41-0.02-0.74-0.06-0.94-0.09l0.64-0.49C26.3181,26.37,26.4181,26.56,26.5081,26.81z\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M26.5081,26.81c-0.41-0.02-0.74-0.06-0.94-0.09l0.64-0.49C26.3181,26.37,26.4181,26.56,26.5081,26.81z\"/></g><g data-layer=\"color\"><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M21.9216,26.23c0,0,5.3444-4.9857,1.6152-6.3791l12.7609-0.4198l0.6708-1.142l0.2196-1.8442 c1.0717,0.1781,3.365,0.9463,3.6416,1.0119c0,0,2.4043,1.8731,0.4487,4.0933l-7.7788,2.2345 C33.4996,23.7845,28.7764,27.5881,21.9216,26.23z\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M21.9216,26.23c0.7946,9.2179,2.5603,25.6411,2.0697,27.7452c-0.0446,0.6989,0.6552,0.8094,1.0129,0.2954 c0.8285-0.6666,2.7669-2.5969,3.8182-5.1942c0-5.762-0.6668-12.458-2.2191-22.2629C26.0331,25.229,23.664,25.2485,21.9216,26.23z\"/><path fill=\"#F5C9A0\" stroke=\"none\" d=\"M48.1988,34.0995c0,0,10.2391,6.9729,3.106,16.4198c0,0,2.1324,8.5167,0.1552,9.8508 c-1.9772,1.3341,20.619-5.5453,12.1362-18.5633C63.5963,41.8069,58.4379,34.2341,48.1988,34.0995z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M27.4684,40.5519c-0.4282-4.2794-1.1326-12.7197-1.9548-13.7543c0,0,5.2009,1.1102,7.8117-2.9736\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.5031,53.0878c0,0,10.8019,2.7012,19.2868-4.3269\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M27.7195,50.6312c0,0,2.8688-14.4737,16.3682-16.3928s20.2138,8.5143,20.2138,8.5143s0.2302,0.2755,0.5269,0.7704 c2.0724,3.4564,1.2505,7.9342-1.8035,10.5637C52.0326,63.551,36.5991,65.7993,16.5066,65.6836c0,0-3.7502,1.1456-4.6096-3.574 c0,0-0.7689-20.9388,3.8178-35.6261c0,0-0.1965-6.0013,0.0307-9.9287c0.0388-0.67,0.3337-1.2971,0.827-1.7521 c5.7789-5.3313,8.3742-6.1149,8.3742-6.1149l8.3881-1.4838c1.436,0.9837,4.7256,4.7388,3.5707,11.4953\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M25.5888,19.2948c0,0,1.8163,2.5911,3.6325-0.2835V16l-0.46-1.6583l-0.3606-0.278\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M29.5442,19.2948c0,0,1.8163,2.5911,3.6325-0.2835V16l-0.8731-2.1254\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M36.8203,19.0113c-1.9616,1.8889-3.3207,0-3.3207,0\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M20.301,16.4465c0.5038,0.4387,1.1429,1.2206,1.2784,2.4327c0.0322,0.2877,0.131,0.5691,0.3359,0.7736 c0.595,0.5939,1.9586,1.5167,3.3223-0.6415V16l-0.6351-1.2677\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40.3564,18.289c1.9261,0.5697,2.2618,3.4266-0.7028,4.0993c-6.3283,1.4358-6.3283,1.4358-6.3283,1.4358\"/></g></g>"
   },
   {
+    "id": "feeling.happy",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "happy",
+        "glad"
+      ],
+      "fr": [
+        "content",
+        "joyeux",
+        "heureux"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "contente",
+        "contents",
+        "contentes",
+        "joyeuse",
+        "heureuse"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F600/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"#F2C14E\"/><path fill=\"#FFFFFF\" d=\"M50.595,41.64c0.012,1.5397-0.2838,3.0662-0.87,4.49c-12.49,3.03-25.43,0.34-27.49-0.13 c-0.5588-1.3852-0.8407-2.8664-0.83-4.36h0.11c0,0,14.8,3.59,28.89,0.07L50.595,41.64z\"/><path fill=\"#E46B4A\" d=\"M49.7251,46.13c-1.79,4.27-6.35,7.23-13.69,7.23c-7.41,0-12.03-3.03-13.8-7.36 C24.2951,46.47,37.235,49.16,49.7251,46.13z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M50.595,41.64 c0.012,1.5397-0.2838,3.0662-0.87,4.49c-12.49,3.03-25.43,0.34-27.49-0.13c-0.5588-1.3852-0.8407-2.8664-0.83-4.36h0.11 c0,0,14.8,3.59,28.89,0.07L50.595,41.64z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M49.7251,46.13 c-1.79,4.27-6.35,7.23-13.69,7.23c-7.41,0-12.03-3.03-13.8-7.36C24.2951,46.47,37.235,49.16,49.7251,46.13z\"/><path fill=\"#1F2937\" d=\"M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31\"/><path fill=\"#1F2937\" d=\"M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31\"/></g></g>"
+  },
+  {
+    "id": "feeling.sad",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "sad"
+      ],
+      "fr": [
+        "triste"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "tristes"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Mariella Steeb",
+      "url": "https://openmoji.org/library/emoji-2639/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M36,13c-12.6823,0-23,10.3177-23,23c0,12.6822,10.3177,23,23,23c12.6822,0,23-10.3178,23-23 C59,23.3177,48.6822,13,36,13z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M26.5,48c1.8768-3.8326,5.8239-6.1965,10-6c3.8343,0.1804,7.2926,2.4926,9,6\"/><path fill=\"#1F2937\" d=\"M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31\"/><path fill=\"#1F2937\" d=\"M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31\"/></g></g>"
+  },
+  {
+    "id": "feeling.angry",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "angry"
+      ],
+      "fr": [
+        "en colère",
+        "fâché"
+      ]
+    },
+    "forms": {
+      "en": [
+        "mad",
+        "cross"
+      ],
+      "fr": [
+        "colère",
+        "fâchée",
+        "fâchés"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Mariella Steeb",
+      "url": "https://openmoji.org/library/emoji-1F620/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M36,13c-12.6823,0-23,10.3177-23,23c0,12.6822,10.3177,23,23,23c12.6822,0,23-10.3178,23-23 C59,23.3177,48.6822,13,36,13z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#1F2937\" d=\"M30,32.9252c0,1.6567-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6553,1.3447-3,3-3C28.6552,29.9252,30,31.27,30,32.9252\"/><path fill=\"#1F2937\" d=\"M48,32.9252c0,1.6567-1.3447,3-3,3s-3-1.3433-3-3c0-1.6553,1.3447-3,3-3S48,31.27,48,32.9252\"/><line x1=\"23\" x2=\"30\" y1=\"24\" y2=\"28\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"49\" x2=\"42\" y1=\"24\" y2=\"28\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M29.5,43c1.2841-0.6376,3.9847-1.0308,6.8421-0.9981c2.6235,0.03,4.9897,0.4146,6.1579,0.9981\"/></g></g>"
+  },
+  {
+    "id": "feeling.scared",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "scared",
+        "afraid"
+      ],
+      "fr": [
+        "peur",
+        "effrayé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "fear",
+        "frightened"
+      ],
+      "fr": [
+        "effrayée",
+        "peureux"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F628/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g><path fill=\"#1F2937\" d=\"M42.8472,45.6583c0-2.592-3.834-4.694-6.869-4.694s-6.869,2.101-6.869,4.694,3.659.9248,6.694.9248S42.8472,48.25,42.8472,45.6583Z\"/></g><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M35.9772,12.9583a23,23,0,1,0,23,23A23.026,23.026,0,0,0,35.9772,12.9583Z\"/><path fill=\"#7EC8E3\" d=\"M35.9772,24.7689A23.0392,23.0392,0,0,1,58.2053,41.8636a23,23,0,1,0-44.4561,0A23.0389,23.0389,0,0,1,35.9772,24.7689Z\"/><path fill=\"#1F2937\" d=\"M42.8472,45.6583c0-2.592-3.834-4.694-6.869-4.694s-6.869,2.101-6.869,4.694,3.659.9248,6.694.9248S42.8472,48.25,42.8472,45.6583Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M29.3564,22.669a8.44,8.44,0,0,0-9.0659,4.4981\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M51.664,27.1671a8.44,8.44,0,0,0-9.0659-4.4981\"/><circle cx=\"35.9772\" cy=\"35.9583\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M42.8472,45.6583c0-2.592-3.834-4.694-6.869-4.694s-6.869,2.101-6.869,4.694,3.659.9248,6.694.9248S42.8472,48.25,42.8472,45.6583Z\"/><path fill=\"#1F2937\" d=\"M29.9772,32.9583a3,3,0,1,1-3-3,3.0011,3.0011,0,0,1,3,3\"/><path fill=\"#1F2937\" d=\"M47.9772,32.9583a3,3,0,1,1-3-3,3.0011,3.0011,0,0,1,3,3\"/></g></g>"
+  },
+  {
+    "id": "feeling.tired",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "tired",
+        "sleepy"
+      ],
+      "fr": [
+        "fatigué"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "fatiguée",
+        "fatigués",
+        "fatiguées"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F971/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g><path fill=\"#1F2937\" d=\"M35.9772,30.4187A10.9345,10.9345,0,0,0,25.0986,43.074a2.5,2.5,0,0,1,1.3786-.4414,2.5356,2.5356,0,0,1,2.3448,1.4746,39.3435,39.3435,0,0,1,2.6435-5.2178,3.39,3.39,0,0,1,2.6651-1.9629,2.4872,2.4872,0,0,1,1.4521.4073c1.2295-1.5811,2.6338-1.69,3.6338-1.1846a3.3452,3.3452,0,0,1,1.7051,2.76,2.554,2.554,0,0,1,.83.2011,2.3206,2.3206,0,0,1,1.4755,2.2735,5.8368,5.8368,0,0,1-.6005,2.5029,2.6279,2.6279,0,0,1,.6005.77,4.0262,4.0262,0,0,1-.12,3.6875l-.8525,1.6123c-.0711.2164-.1292.4324-.19.6486a11.01,11.01,0,0,0-6.0874-20.1867Z\"/></g><g data-layer=\"color\"><circle cx=\"36.0043\" cy=\"35.3184\" r=\"23.9004\" fill=\"#F2C14E\"/><path fill=\"#F2C14E\" d=\"M35.6039,66.3682c-.0225,0-.0459-.001-.0684-.003l-9.6992-.6992a.95.95,0,0,1-.8633-1.1338c.5381-2.6924.9893-4.709,1.23-5.792l.001-.0019c-.1533-.3145-.3066-.6406-.46-.9658-.1963-.418-.3925-.836-.59-1.23-.2061-.4112-.6358-1.2686-1.2969-8.64-.2021-2.0176-.1514-3.48.7246-4.5029a2.4611,2.4611,0,0,1,1.9219-.9326,2.5354,2.5354,0,0,1,2.3447,1.4746,39.3438,39.3438,0,0,1,2.6436-5.2178,3.39,3.39,0,0,1,2.665-1.9629,2.4882,2.4882,0,0,1,1.4522.4072c1.23-1.581,2.6338-1.69,3.6338-1.1845a3.345,3.345,0,0,1,1.705,2.76,2.5531,2.5531,0,0,1,.83.2012,2.32,2.32,0,0,1,1.4756,2.2735,5.8357,5.8357,0,0,1-.6006,2.5029,2.6265,2.6265,0,0,1,.6006.77,4.0262,4.0262,0,0,1-.12,3.6875l-.8526,1.6123c-.2158.6582-.3769,1.3184-.5332,1.959l-.122.498a21.71,21.71,0,0,1-2.39,6.5274,5.8081,5.8081,0,0,1-1.625,1.9775c-.0683.0664-.1338.1279-.1953.1865a1.7238,1.7238,0,0,0-.29.3076l-.0723.4434a36.5458,36.5458,0,0,0-.5019,3.7861.95.95,0,0,1-.9483.8907Z\"/><path fill=\"#1F2937\" d=\"M35.9772,30.4187A10.9345,10.9345,0,0,0,25.0986,43.074a2.5,2.5,0,0,1,1.3786-.4414,2.5356,2.5356,0,0,1,2.3448,1.4746,39.3435,39.3435,0,0,1,2.6435-5.2178,3.39,3.39,0,0,1,2.6651-1.9629,2.4872,2.4872,0,0,1,1.4521.4073c1.2295-1.5811,2.6338-1.69,3.6338-1.1846a3.3452,3.3452,0,0,1,1.7051,2.76,2.554,2.554,0,0,1,.83.2011,2.3206,2.3206,0,0,1,1.4755,2.2735,5.8368,5.8368,0,0,1-.6005,2.5029,2.6279,2.6279,0,0,1,.6005.77,4.0262,4.0262,0,0,1-.12,3.6875l-.8525,1.6123c-.0711.2164-.1292.4324-.19.6486a11.01,11.01,0,0,0-6.0874-20.1867Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M42.8042,57.3184a22.9792,22.9792,0,1,0-28.8-15.2,23.7912,23.7912,0,0,0,7.1,10.8\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M23.1042,26.0684c4.4-.1,7.9-1.4,8.8-3.1\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.9042,26.0684c-4.4-.1-7.9-1.4-8.8-3.1\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M25.9042,64.7184c.6-3,1.1-5.2,1.3-6.1-.4-.8-.8-1.7-1.2-2.5-.2-.4-.6-1.6-1.2-8.3-.2-2-.1-3.1.5-3.8a1.5628,1.5628,0,0,1,1.2-.6c1.3,0,1.7,1.2,2,2.4l.1.3.2.6a39.4783,39.4783,0,0,1,3.5-7.5c1.8-3,3.5-.6,3.5-.6,2.2-4.1,5-.8,4,1.3a1.9811,1.9811,0,0,1,1.6-.1,1.4158,1.4158,0,0,1,.9,1.4,5.2848,5.2848,0,0,1-.9,2.8,2.1889,2.1889,0,0,1,1,.9,3.0777,3.0777,0,0,1-.1,2.8l-.9,1.7c-.3.9-.5,1.8-.7,2.6a20.7835,20.7835,0,0,1-2.3,6.3,4.7436,4.7436,0,0,1-1.4,1.7c-.4.4-.7.6-.8,1a42.7765,42.7765,0,0,0-.6,4.4\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M26.2418,43.4453a10.001,10.001,0,1,1,15.0545,6.31\"/></g></g>"
+  },
+  {
+    "id": "feeling.hurt",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "hurt",
+        "pain"
+      ],
+      "fr": [
+        "mal",
+        "douleur",
+        "bobo"
+      ]
+    },
+    "forms": {
+      "en": [
+        "ouch",
+        "sore"
+      ],
+      "fr": [
+        "aïe",
+        "blessé"
+      ]
+    },
+    "tags": [
+      "need",
+      "health"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F915/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"36\" cy=\"36\" r=\"24\" fill=\"#F2C14E\"/><path fill=\"#FFFFFF\" d=\"M37.9763,26.7191c6.7831,0.247,13.8395,0.8443,19.6935,2.1435l0.2159,0.0451 C54.8961,19.6755,46.2274,13,36,13c-12.7031,0-23,10.2969-23,23c0,2.8816,0.5299,5.6395,1.4977,8.1814l-0.0013-0.0023 c0,0,3.79-3.84,9.95-8.55c1.21-0.93,2.52-1.89,3.91-2.86C31.2463,30.7291,34.4864,28.6491,37.9763,26.7191\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M44.9164,27.1091c0.56,0.97,1.38,1.78,2.38,2.34c1.29,0.89,2.87,1.27,4.43,1.07\"/><path fill=\"#1F2937\" d=\"M48,35c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,33.3448,48,35\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.1081,46.8878c0,0,5.7328-1.0685,11.6633,2.0944\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M14.4963,44.1791c0,0,3.79-3.84,9.95-8.55c1.21-0.93,2.52-1.89,3.91-2.86c2.89-2.04,6.13-4.12,9.62-6.05\"/><path fill=\"#1F2937\" d=\"M28.7005,32.5324c-0.1125,0.0787-0.2327,0.158-0.3442,0.2367c-1.39,0.97-2.7,1.93-3.91,2.86 c-0.104,0.0795-0.2018,0.1566-0.3044,0.2357C24.5153,37.0969,25.6472,38,27,38c1.6552,0,3-1.3432,3-3 C30,33.9766,29.4842,33.074,28.7005,32.5324z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M57.6698,28.8626c-15.9396-3.5376-41.9481-1.9371-41.9481-1.9371\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M19.3657,20.2796c0,0,21.5837-1.5544,34.954,1.9832\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M57.8857,28.9077C54.8961,19.6755,46.2274,13,36,13c-12.7031,0-23,10.2969-23,23c0,2.8816,0.5299,5.6395,1.4977,8.1814\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M16.0847,47.5135C20.0633,54.3807,27.4919,59,35.9999,59c12.7022,0,23-10.2978,23-23c0-1.243-0.0986-2.4629-0.2884-3.6525\"/></g></g>"
+  },
+  {
+    "id": "idea.yes",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "yes"
+      ],
+      "fr": [
+        "oui"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Hilda Kalyoncu",
+      "url": "https://openmoji.org/library/emoji-2705/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#6BAF5B\" stroke=\"none\" d=\"M53.1887,52.843H20.5794c-0.3752,0-0.6794-0.2955-0.6794-0.66v-31.68c0-0.3645,0.3042-0.66,0.6794-0.66 h21.5062h1.2918h2.0097h6.6745h1.1271c0.3752,0,0.6794,0.2955,0.6794,0.66v31.68C53.8681,52.5475,53.5639,52.843,53.1887,52.843z\"/><path fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30.66,30.538c-1.85-2.61-6.18-0.11-4.32,2.52c3.19,4.51,5.87,9.25,7.91,14.38c0.84,2.09,4.23,2.65,4.83,0 c2.83-12.6,8.21-27.17,20.68-33c2.91-1.36,0.38-5.67-2.52-4.32c-11.43,5.35-17.68,17.36-21.23,29.25 C34.45,36.318,32.68,33.378,30.66,30.538z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M53,22.642v30.476c0,0.3645-0.2955,0.66-0.66,0.66H20.66c-0.3645,0-0.66-0.2955-0.66-0.66v-31.68c0-0.3645,0.2955-0.66,0.66-0.66 h20.0814h0.5672\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30.66,30.538c-1.85-2.61-6.18-0.11-4.32,2.52c3.19,4.51,5.87,9.25,7.91,14.38c0.84,2.09,4.23,2.65,4.83,0 c2.83-12.6,8.21-27.17,20.68-33c2.91-1.36,0.38-5.67-2.52-4.32c-11.43,5.35-17.68,17.36-21.23,29.25 C34.45,36.318,32.68,33.378,30.66,30.538z\"/></g></g>"
+  },
+  {
+    "id": "idea.no",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "no"
+      ],
+      "fr": [
+        "non"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Hilda Kalyoncu",
+      "url": "https://openmoji.org/library/emoji-274C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"m58.14 21.78-7.76-8.013-14.29 14.22-14.22-14.22-8.013 8.013 14.36 14.22-14.36 14.22 8.014 8.013 14.22-14.22 14.29 14.22 7.76-8.013-14.22-14.22z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m58.14 21.78-7.76-8.013-14.29 14.22-14.22-14.22-8.013 8.013 14.35 14.22-14.35 14.22 8.014 8.013 14.22-14.22 14.29 14.22 7.76-8.013-14.22-14.22z\"/></g></g>"
+  },
+  {
     "id": "feeling.surprised",
     "kind": "concept",
     "category": "feeling",
@@ -4877,75 +5416,6 @@ export const elements: ElementDef[] = [
       "license": "CC-BY-SA-4.0"
     },
     "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"#F2C14E\"/><path fill=\"#E46B4A\" d=\"M26.4992,27.4384c-1.2653-3.3541-6.441-3.5687-6.1168,1.3178c0.0431,0.6485,0.281,1.2724,0.6414,1.8135 l5.3179,6.4224l0,0l5.2212-6.266c0.5796-0.6964,0.9224-1.5779,0.905-2.4853c-0.0863-4.3523-5.0509-4.0351-6.1274-0.8036\"/><path fill=\"#E46B4A\" d=\"M45.8012,27.4384c-1.2547-3.3541-6.3873-3.5687-6.0658,1.3178c0.0428,0.6485,0.2787,1.2724,0.6361,1.8135 l5.2737,6.4224l0,0l5.1777-6.266c0.5747-0.6964,0.9147-1.5779,0.8974-2.4853c-0.0856-4.3523-5.0089-4.0351-6.0763-0.8036\"/><path fill=\"#FFFFFF\" d=\"M48.5859,42.6735c0,5.6296-4.1784,10.1046-12.5541,10.1046c-8.3738,0-12.6069-4.4888-12.6069-10.1047 C23.4249,42.6734,36.4503,45.7045,48.5859,42.6735z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M48.5859,42.6735c0,5.6296-4.1784,10.1046-12.5541,10.1046c-8.3738,0-12.6069-4.4888-12.6069-10.1047 C23.4249,42.6734,36.4503,45.7045,48.5859,42.6735z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M26.4992,27.4384c-1.2653-3.3541-6.441-3.5687-6.1168,1.3178c0.0431,0.6485,0.281,1.2724,0.6414,1.8135l5.3179,6.4224l0,0 l5.2212-6.266c0.5796-0.6964,0.9224-1.5779,0.905-2.4853c-0.0863-4.3523-5.0509-4.0351-6.1274-0.8036 z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M45.8012,27.4384c-1.2547-3.3541-6.3873-3.5687-6.0658,1.3178c0.0428,0.6485,0.2787,1.2724,0.6361,1.8135l5.2737,6.4224l0,0 l5.1777-6.266c0.5747-0.6964,0.9147-1.5779,0.8974-2.4853c-0.0856-4.3523-5.0089-4.0351-6.0763-0.8036 z\"/></g></g>"
-  },
-  {
-    "id": "feeling.laugh",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "laugh",
-        "funny"
-      ],
-      "fr": [
-        "rire",
-        "drôle"
-      ]
-    },
-    "forms": {
-      "en": [
-        "laughing"
-      ],
-      "fr": [
-        "rigoler",
-        "rit"
-      ]
-    },
-    "tags": [
-      "feeling"
-    ],
-    "source": {
-      "modified": true,
-      "name": "OpenMoji",
-      "author": "Emily Jäger",
-      "url": "https://openmoji.org/library/emoji-1F606/",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"#F2C14E\"/><path fill=\"#FFFFFF\" d=\"M50.595,41.64a11.5554,11.5554,0,0,1-.87,4.49c-12.49,3.03-25.43.34-27.49-.13a11.4347,11.4347,0,0,1-.83-4.36h.11s14.8,3.59,28.89.07Z\"/><path fill=\"#E46B4A\" d=\"M49.7251,46.13c-1.79,4.27-6.35,7.23-13.69,7.23-7.41,0-12.03-3.03-13.8-7.36C24.2951,46.47,37.235,49.16,49.7251,46.13Z\"/></g><g/><g/><g/><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"25.168 27.413 31.755 31.427 25.168 35.165\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"46.832 27.413 40.245 31.427 46.832 35.165\"/><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M50.595,41.64a11.5554,11.5554,0,0,1-.87,4.49c-12.49,3.03-25.43.34-27.49-.13a11.4347,11.4347,0,0,1-.83-4.36h.11s14.8,3.59,28.89.07Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M49.7251,46.13c-1.79,4.27-6.35,7.23-13.69,7.23-7.41,0-12.03-3.03-13.8-7.36C24.2951,46.47,37.235,49.16,49.7251,46.13Z\"/></g></g>"
-  },
-  {
-    "id": "feeling.cry",
-    "kind": "concept",
-    "category": "feeling",
-    "labels": {
-      "en": [
-        "cry"
-      ],
-      "fr": [
-        "pleurer"
-      ]
-    },
-    "forms": {
-      "en": [
-        "crying",
-        "cried"
-      ],
-      "fr": [
-        "pleure",
-        "pleures"
-      ]
-    },
-    "tags": [
-      "feeling"
-    ],
-    "source": {
-      "modified": true,
-      "name": "OpenMoji",
-      "author": "Carlin MacKenzie",
-      "url": "https://openmoji.org/library/emoji-1F62D/",
-      "license": "CC-BY-SA-4.0"
-    },
-    "svg": "<g transform=\"scale(1.3889)\"><g><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m52,52.38c.8775-1.631,1-5.38,1-7.38,0-4-4-11-4-11\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m44,36s3,6.728,3,10c0,3.065-1,8-1,10\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m20,52.4c-.8775-1.631-1-5.4-1-7.4,0-4,4-11,4-11\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m28,36s-3,6.728-3,10c0,3.065,1,8,1,10\"/></g><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"m36.2,13.32c-12.57,0-22.8,10.23-22.8,22.8s10.23,22.8,22.8,22.8,22.8-10.23,22.8-22.8-10.23-22.8-22.8-22.8Z\"/><path fill=\"#1F2937\" fill-rule=\"evenodd\" d=\"m35.93,51.58c-2.461,0-4.742-2.368-4.742-4.987s2.444-4.66,4.905-4.66,4.701,2.205,4.701,4.823-2.403,4.823-4.864,4.823v.001Z\"/><path fill=\"#FFFFFF\" d=\"m31.37,45.29c2.025,1.288,7.318,1.288,9.26,0l-4.63-4.005-4.63,4.005Z\"/><path fill=\"#7EC8E3\" d=\"m29.7,32.02c-5.762,9.541-3.86,14.27-3.696,23.98,0,1.803-5.146-2.412-6-4-2.17-5.92-.3989-13.81,2.5-19.18,2.887-1.622,6.992-2.084,7.196-.8031v.0031Z\"/><path fill=\"#7EC8E3\" d=\"m42.3,32.4c5.762,9.541,3.86,13.27,3.696,22.98,0,1.803,5.396-2.412,6.25-4,2.17-5.92.1489-12.81-2.75-18.18-2.887-1.622-6.992-2.084-7.196-.8031v.0031Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m40.5,32.82c.4132-.344,2.246-1.792,4.909-1.636,2.161.1259,3.61,1.233,4.091,1.636\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m22.5,32.82c.4132-.344,2.246-1.792,4.909-1.636,2.161.1259,3.61,1.233,4.091,1.636\"/><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"36\" cy=\"46.6\" r=\"4.759\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
   },
   {
     "id": "feeling.cold",
@@ -5082,9 +5552,11 @@ export const elements: ElementDef[] = [
     "category": "color",
     "labels": {
       "en": [
+        "orange (color)",
         "orange"
       ],
       "fr": [
+        "orange (couleur)",
         "orange"
       ]
     },
@@ -5428,28 +5900,21 @@ export const elements: ElementDef[] = [
     "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#F2C14E\" stroke=\"none\" points=\"26.1808,20.1808 38.75,32.75 51.3192,45.3192 29.7894,54.2798 8.2597,63.2403 17.2202,41.7106\"/><polygon fill=\"#F2C14E\" stroke=\"none\" points=\"40,35 25.6924,20.6692 16.3914,42.5394 7.0905,64.4095\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"15.2238,45.2849 26.2858,56.3469 20.7548,58.5984 12.9576,50.8012\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"17.3429,55.2475 20.7548,58.5984 26.2858,56.3469 21.4849,51.546\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"20.8045,32.1625 27.5011,38.8591 39.2002,50.5583 32.9273,53.4217 24.7555,45.2498 18.1504,38.6447\"/><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"26.5369,47.0312 32.9273,53.4216 39.2003,50.5582 31.3616,42.7197\"/><ellipse cx=\"30.2951\" cy=\"14.4579\" rx=\"2\" ry=\"1.9708\" fill=\"#9F86C0\" stroke=\"none\"/><ellipse cx=\"60.2951\" cy=\"18.4579\" rx=\"2\" ry=\"1.9708\" fill=\"#F2C14E\" stroke=\"none\"/><ellipse cx=\"57.2951\" cy=\"39.4579\" rx=\"2\" ry=\"1.9708\" fill=\"#E46B4A\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"50.6626,45.6395 50.8308,45.8076 28.9606,55.1086 7.0904,64.4096 16.3914,42.5394 25.6923,20.6692\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"25.801,20.7779 38.2616,33.2384 50.6626,45.6395\"/><line x1=\"25.6923\" x2=\"25.801\" y1=\"20.6692\" y2=\"20.7779\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M46.4905,7.3671c0.2347,0.4487,0.4027,0.943,0.4897,1.473c0.451,2.7473-1.447,5.4141-4.2392,5.9565\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M42.9327,14.7763c-0.5049,0.0384-1.0133,0.1573-1.509,0.364c-2.5697,1.0713-3.828,4.093-2.8105,6.7492\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M61.7928,26.7168c-0.0987,0.4967-0.2778,0.987-0.5425,1.4544c-1.372,2.4225-4.5229,3.309-7.0378,1.98\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M54.3745,30.2558c-0.4173-0.2868-0.8878-0.513-1.4036-0.663c-2.6733-0.7775-5.5486,0.7867-6.4223,3.4936\"/></g></g>"
   },
   {
-    "id": "idea.wait",
+    "id": "object.hourglass",
     "kind": "concept",
-    "category": "idea",
+    "category": "object",
     "labels": {
       "en": [
-        "wait"
+        "hourglass",
+        "timer"
       ],
       "fr": [
-        "attendre"
-      ]
-    },
-    "forms": {
-      "en": [
-        "waiting"
-      ],
-      "fr": [
-        "attends",
-        "attend"
+        "sablier",
+        "minuteur"
       ]
     },
     "tags": [
-      "core"
+      "time"
     ],
     "source": {
       "modified": true,
@@ -5459,6 +5924,2383 @@ export const elements: ElementDef[] = [
       "license": "CC-BY-SA-4.0"
     },
     "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" d=\"m35.498,37.967h1.0165c7.6245,0,13.8146,6.1901,13.8146,13.8146v6.4581h-28.3282v-6.7757c0-7.4492,6.0478-13.4971,13.4971-13.4971Z\"/><path transform=\"translate(71.98 47.7203) rotate(180)\" fill=\"#FFFFFF\" d=\"m35.323,13.7238h1.0165c7.6245,0,13.8146,6.1901,13.8146,13.8146v6.4581h-28.3282v-6.7757c0-7.4492,6.0478-13.4971,13.4971-13.4971Z\"/><path fill=\"#FFFFFF\" d=\"m39.3125,33.6813s-2.8222,2.0175-.1707,4.5474c0,0-2.0336-.5557-6.3872.0707,0,0,2.7562-2.0985-.094-4.7294l6.6519.1114Z\"/><path fill=\"#9B9B9A\" d=\"m40.2139,31.1055c.0039-.002.0068-.002.0107-.002.0049-.0019.0088-.0039.0137-.0058,5.6543-1.4844,7.7617-7.7901,7.7617-11.4161v-1.6816h-24v1.6816c0,3.626,2.1074,9.9317,7.7617,11.4161.0049.0019.0088.0039.0137.0058.0039,0,.0068,0,.0107.002,1.792.4863,3.0996,1.5361,3.7491,2.8945h.9296c.6495-1.3584,1.9571-2.4082,3.7491-2.8945Z\"/><path fill=\"#9B9B9A\" d=\"m47,55c-6.0742,0-11-4.9258-11-11,0,6.0742-4.9258,11-11,11h-1v4h24v-4h-1Z\"/><path fill=\"#A57939\" d=\"m55,11c0,1.1001-.9004,2-2,2H19c-1.0996,0-2-.8999-2-2v-1c0-1.1001.9004-2,2-2h34c1.0996,0,2,.8999,2,2v1Z\"/><path fill=\"#A57939\" d=\"m55,62c0,1.0996-.9004,2-2,2H19c-1.0996,0-2-.9004-2-2v-1c0-1.0996.9004-2,2-2h34c1.0996,0,2,.9004,2,2v1Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m31,34c-7.2725-1.9092-10-9.5454-10-14.3184v-6.6816\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m21,59v-6.6816c0-4.7725,2.7275-12.4092,10-14.3184\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m31,38c1-.2715,2-.8945,2-2,0-1.1045-1-1.7285-2-2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m41,34c7.2725-1.9092,10-9.5454,10-14.3184v-6.6816\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m51,59v-6.6816c0-4.7725-2.7275-12.4092-10-14.3184\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m41,38c-1-.2715-2-.8945-2-2,0-1.1045,1-1.7285,2-2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m25,55c6.0742,0,11-4.9258,11-11,0,6.0742,4.9258,11,11,11\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m55,11c0,1.1001-.9004,2-2,2H19c-1.0996,0-2-.8999-2-2v-1c0-1.1001.9004-2,2-2h34c1.0996,0,2,.8999,2,2v1Z\"/><line x1=\"47\" x2=\"25\" y1=\"18\" y2=\"18\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m55,62c0,1.0996-.9004,2-2,2H19c-1.0996,0-2-.9004-2-2v-1c0-1.0996.9004-2,2-2h34c1.0996,0,2,.9004,2,2v1Z\"/><line x1=\"36\" x2=\"36\" y1=\"39\" y2=\"44\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.apple",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "apple"
+      ],
+      "fr": [
+        "pomme"
+      ]
+    },
+    "forms": {
+      "en": [
+        "apples"
+      ],
+      "fr": [
+        "pommes"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F34E/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M53.88,21.51a11.4166,11.4166,0,0,0-10.7373.5044c-.0352.0156-.0723.0332-.1084.0517a22.914,22.914,0,0,1-7.5674,1.8765,15.9071,15.9071,0,0,1-6.6377-1.85l-.1416-.0757a11.41,11.41,0,0,0-10.7637-.5064C10.7,25.1406,8.1008,36.69,12.1291,47.2539c2.373,6.2324,6.6846,11.08,11.5352,12.9658a10.9829,10.9829,0,0,0,9.1337-.2656,11.3772,11.3772,0,0,0,1.5323-.9316,2.7261,2.7261,0,0,1,3.1582,0,11.1728,11.1728,0,0,0,1.5312.9326,10.4646,10.4646,0,0,0,4.7354,1.1269,12.0778,12.0778,0,0,0,4.3828-.8593c4.8515-1.8858,9.165-6.7334,11.539-12.9678C63.7072,36.6846,61.1076,25.1353,53.88,21.51Z\"/><path fill=\"#F4AA41\" d=\"M48.9988,21.4048a1.0736,1.0736,0,0,0-.2454.0094l.0377-.2266C48.8666,21.2632,48.9328,21.3293,48.9988,21.4048Z\"/><path fill=\"#E46B4A\" d=\"M53.883,21.5112a10.367,10.367,0,0,0-4.9023-1.1064,1,1,0,0,0-.6954,1.7c9.4434,9.6245,6.3877,19.16,3.7266,23.9878-3.8916,7.0586-10.8437,11.4658-14.457,10.68a1,1,0,0,0-.6719,1.8652,15.5133,15.5133,0,0,0,7.1689,1.8984,12.8953,12.8953,0,0,0,4.629-.8632c4.66-1.7764,8.6679-6.3038,10.9951-12.4219C63.7111,36.6826,61.1135,25.1357,53.883,21.5112Z\"/><path fill=\"#6BAF5B\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g><g data-layer=\"line\"><g><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.046 20.733 35.046 15.272 30.702 10.929\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M57.3335,25.7657c3.6482,4.9493,4.3968,13.296,1.4093,21.1329-3.8569,10.1286-12.4875,15.573-19.2735,12.1633a10.24,10.24,0,0,1-1.3942-.849,3.7126,3.7126,0,0,0-4.3311-.0009,10.27,10.27,0,0,1-1.396.85c-6.7971,3.41-15.4276-2.0347-19.2846-12.1633-3.8569-10.1174-1.4756-21.0845,5.31-24.4942a10.42,10.42,0,0,1,9.838.4919s.0559.0336.1677.09a16.8628,16.8628,0,0,0,7.0878,1.9564,13.2712,13.2712,0,0,0,2.2487-.2145,18.6342,18.6342,0,0,0,2.126-.4632\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.0445,17.3947c3.9562,1.3292,6.8444,5.8193,6.8444,5.8193s-5.0135,1.8354-8.97.5062c-3.9508-1.3274-6.8444-5.8193-6.8444-5.8193S44.0937,16.0673,48.0445,17.3947Z\"/></g></g></g>"
+  },
+  {
+    "id": "object.banana",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "banana"
+      ],
+      "fr": [
+        "banane"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F34C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" stroke=\"#F2C14E\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.01\" d=\"m50.46,50.44c-10.9856,12.9865-25.1263,11.6682-34.8931,6.8853-.3134-.1535-.4574-.5248-.5316-.8658h0c-.1926-.8861.4504-1.7241,1.3547-1.7915,5.1942-.3873,12.9572-2.15,21.7079-9.6086,1.1118-.9477,2.1264-2.0092,3.023-3.1625,4.8861-6.2847,9.1044-14.3883,9.3487-20.9704.0191-.5158.4228-.9361.9386-.9522,3.1225-.0975,2.6958-.2368,2.9494.3666,4.1634,9.9069,2.5163,22.0073-3.8909,30.0972l-.0068.0019Z\"/><path fill=\"#F2C14E\" stroke=\"#F2C14E\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.01\" d=\"m53.21,19.66c3.7161-1.2359,6.0438,20.6414-1.9939,30.488-11.8,11.01-23.6641,12.652-36.2541,5.914,25.96,5.489,39.47-15.38,38.25-36.4l-.002-.002Z\"/></g><g data-layer=\"line\"><line x1=\"52.09\" x2=\"51.52\" y1=\"15.49\" y2=\"11.2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m25.79,56.55c16.7-2.905,24.45-11.14,26.67-27.09\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m47.54,54.03c-8.106,7.212-23.05,9.45-32.43,2.757l-.4132-1.901c18.42-2.206,32.78-13.96,35.36-35.55,1.105-.0041,4.645-.3957,4.645-.3957,5.599,15.1,1.754,27.15-7.164,35.08l.0022.0097Z\"/></g></g>"
+  },
+  {
+    "id": "object.bread",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bread"
+      ],
+      "fr": [
+        "pain"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F35E/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" stroke=\"none\" d=\"M33,17h29c2.7617,0,5,2.2393,5,5c0,1.6357-0.7969,3.0752-2.0117,3.9873 c-0.1074,0.0625-0.207,0.1348-0.2988,0.2168C64.2695,26.5703,64,27.1025,64,27.7031V53c0,1.1045-0.8955,2-2,2H33 c1.1045,0,2-0.8955,2-2V27.7031c0-0.6006,0.2695-1.1328,0.6895-1.499c0.0918-0.082,0.1914-0.1543,0.2988-0.2168 C37.2031,25.0752,38,23.6357,38,22C38,19.2393,35.7617,17,33,17z\"/><path fill=\"#F2C14E\" stroke=\"none\" d=\"M33,17c2.7617,0,5,2.2393,5,5c0,1.6357-0.7969,3.0752-2.0117,3.9873 c-0.1074,0.0625-0.207,0.1348-0.2988,0.2168C35.2695,26.5703,35,27.1025,35,27.7031V53c0,1.1045-0.8955,2-2,2H10 c-1.1045,0-2-0.8955-2-2V27.7031c0-0.6006-0.2695-1.1328-0.6895-1.499c-0.0917-0.082-0.1914-0.1543-0.2988-0.2168 C5.7969,25.0752,5,23.6357,5,22c0-2.7607,2.2383-5,5-5H33z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33,17c2.7617,0,5,2.2393,5,5c0,1.6357-0.7969,3.0752-2.0117,3.9873c-0.1074,0.0625-0.207,0.1348-0.2988,0.2168 C35.2695,26.5703,35,27.1025,35,27.7031V53c0,1.1045-0.8955,2-2,2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M10,17h52c2.7617,0,5,2.2393,5,5c0,1.6357-0.7969,3.0752-2.0117,3.9873c-0.1074,0.0625-0.207,0.1348-0.2988,0.2168 C64.2695,26.5703,64,27.1025,64,27.7031V53c0,1.1045-0.8955,2-2,2H10c-1.1045,0-2-0.8955-2-2V27.7031 c0-0.6006-0.2695-1.1328-0.6895-1.499c-0.0917-0.082-0.1914-0.1543-0.2988-0.2168C5.7969,25.0752,5,23.6357,5,22 C5,19.2393,7.2383,17,10,17z\"/></g></g>"
+  },
+  {
+    "id": "object.water",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "water"
+      ],
+      "fr": [
+        "eau"
+      ]
+    },
+    "tags": [
+      "drink"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-1F4A7/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#7EC8E3\" stroke=\"none\" d=\"M56.0001,46.7065c0,11.7749-8.9543,21.2965-20,21.2965s-20-9.5455-20-21.3204 c0,0-0.2191-14.3086,16.6559-40.1878c0,0,3.1666-5.3703,6.3541-0.3523C55.8851,32.0216,56.0001,46.7065,56.0001,46.7065\"/><path fill=\"#4F86C6\" stroke=\"none\" d=\"M36,3.9991C48.875,14.375,55.875,44.8744,55.875,44.8744c0,15.0006-8.8293,23.1265-19.875,23.1265 C36,68.0009,58,49.8744,36,3.9991\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M56.0001,46.7065c0,11.7749-8.9543,21.2965-20,21.2965s-20-9.5455-20-21.3204c0,0-0.2191-14.3086,16.6559-40.1878 c0,0,3.1666-5.3703,6.3541-0.3523C55.8851,32.0216,56.0001,46.7065,56.0001,46.7065\"/></g></g>"
+  },
+  {
+    "id": "object.book",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "book"
+      ],
+      "fr": [
+        "livre"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F4D6/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41,56c0,2.7614-2.2386,5-5,5s-5-2.2386-5-5\"/><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M67.0015,56H4.9985C4.447,56,4,55.553,4,55.0015v-38.003C4,16.447,4.447,16,4.9985,16h62.003C67.553,16,68,16.447,68,16.9985 v38.003C68,55.553,67.553,56,67.0015,56z\"/><path fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M64.0015,51.625H7.9985C7.447,51.625,7,51.178,7,50.6265v-29.253c0-0.5514,0.447-0.9985,0.9985-0.9985h56.003 C64.553,20.375,65,20.822,65,21.3735v29.253C65,51.178,64.553,51.625,64.0015,51.625z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41,56c0,2.7614-2.2386,5-5,5s-5-2.2386-5-5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M67.0015,56H4.9985C4.447,56,4,55.553,4,55.0015v-38.003C4,16.447,4.447,16,4.9985,16h62.003C67.553,16,68,16.447,68,16.9985 v38.003C68,55.553,67.553,56,67.0015,56z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M64.0015,51.625H7.9985C7.447,51.625,7,51.178,7,50.6265v-29.253c0-0.5514,0.447-0.9985,0.9985-0.9985h56.003 C64.553,20.375,65,20.822,65,21.3735v29.253C65,51.178,64.553,51.625,64.0015,51.625z\"/><line x1=\"36\" x2=\"36\" y1=\"17\" y2=\"55\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"27\" y2=\"27\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"33\" y2=\"33\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"39\" y2=\"39\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"11\" x2=\"31\" y1=\"45\" y2=\"45\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"27\" y2=\"27\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"33\" y2=\"33\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"39\" y2=\"39\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"41\" x2=\"61\" y1=\"45\" y2=\"45\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.shirt",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "clothes",
+        "shirt",
+        "T-shirt"
+      ],
+      "fr": [
+        "vêtements",
+        "habits",
+        "tee-shirt"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "vêtement",
+        "habit"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F455/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#4F86C6\" d=\"m23.5126,14.3094l-2.69,1.7114v39.9792h30.3548V16.0208l-2.8717-1.6316-3.2072-.8607.1615-.6129c.2702-1.0254-.2608-2.0923-1.2416-2.4952l-3.458-1.4202c-2.4845-1.0203-5.2265-1.2355-7.8397-.6152l-2.029.4816c-2.057.4883-3.7802,1.8857-4.6828,3.7974l-.3728.7895-2.1235.8558Z\"/><polygon fill=\"#4F86C6\" points=\"61 31.3289 51.1774 28.3289 51.1774 16.0208 64 22.0208 61 31.3289\"/><path fill=\"#7EC8E3\" d=\"m44.8123,11.273s2.5708,1.0866-3.7875,11.1338l-3.2087-5.165,4.5054-4.8457,1.5524-1.7815\"/><path fill=\"#7EC8E3\" d=\"m27.9297,10.6105l2.0075,2.7494,4.5124,4.8532-3.2087,5.165c-7.1583-8.8534-4.7072-11.2827-4.7072-11.2827\"/><polygon fill=\"#4F86C6\" points=\"11 31.3289 20.8226 28.3289 20.8226 16.0208 8 22.0208 11 31.3289\"/></g><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"48.3057 15.2396 51.1774 16.0208 51.1774 56 20.8226 56 20.8226 16.0208 23.5126 15.1598\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"61 31.3289 51.1774 28.3289 51.1774 16.0208 64 22.0208 61 31.3289\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"11 31.3289 20.8226 28.3289 20.8226 16.0208 8 22.0208 11 31.3289\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m42.3216,12.3962l-4.5054,4.8457,3.2087,5.165c7.1583-8.8534,4.7072-11.2827,4.7072-11.2827-10.4429-8.3615-19.6909,0-19.6909,0,0,0-2.4511,2.4293,4.7072,11.2827l3.2087-5.165-4.5124-4.8532\"/><circle fill=\"#1F2937\" cx=\"35.8866\" cy=\"21.6749\" r=\"0.8529\"/><circle fill=\"#1F2937\" cx=\"35.8866\" cy=\"24.9416\" r=\"0.8529\"/><circle fill=\"#1F2937\" cx=\"35.8866\" cy=\"28.2084\" r=\"0.8529\"/></g></g>"
+  },
+  {
+    "id": "object.shoe",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "shoe",
+        "shoes"
+      ],
+      "fr": [
+        "chaussure",
+        "chaussures"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F45F/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M7,52.0608c-2.2485-1.8528-3-8.2556-3-11.3966c0-2.7896,1.1307-10.3151,2.9588-12.1432c0,0,2.6586-1.1324,4.0412,0 c4.5288,3.7092,13.6575,12.2147,25.0042,0c0,0,17.5773,8.3421,22.3198,9.5458c8.1427,2.0668,8.4167,4.1197,8.4167,6.8223 c0,8.6515-10.0838,7.5391-16.8102,7.1718C46.2237,51.8584,11.1297,52.2863,7,52.0608\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M7,45.8841c0,0,16.134-1.5287,25.4956,1.0426s28.3456,0.2299,28.3456,0.2299l5.2681-0.0261 c0,0-0.9366,5.7896-5.523,5.7896S6,51.1287,6,51.1287S2.6177,46.4381,7,45.8841z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M7,52.0608c-2.2485-1.8528-3-8.2556-3-11.3966c0-2.7896,1.1307-10.3151,2.9588-12.1432c0,0,2.6586-1.1324,4.0412,0 c4.5288,3.7092,13.6575,12.2147,25.0042,0c0,0,17.5773,8.3421,22.3198,9.5458c8.1427,2.0668,8.4167,4.1197,8.4167,6.8223 c0,8.6515-10.0838,7.5391-16.8102,7.1718C46.2237,51.8584,11.1297,52.2863,7,52.0608\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M8,46.8163c0,0,15.134-2.4608,24.4956,0.1105s28.3456,1.2299,28.3456,1.2299\"/><line x1=\"40.4419\" x2=\"35.3703\" y1=\"35.9583\" y2=\"41.8963\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"45.5264\" x2=\"41.9942\" y1=\"37.7606\" y2=\"41.8963\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M7,52.0608c-2.2485-1.8528-3-8.2556-3-11.3966c0-2.7896,1.1307-10.3151,2.9588-12.1432c0,0,2.6586-1.1324,4.0412,0 c4.5288,3.7092,13.6575,12.2147,25.0042,0c0,0,17.5773,8.3421,22.3198,9.5458c8.1427,2.0668,8.4167,4.1197,8.4167,6.8223 c0,8.6515-10.0838,7.5391-16.8102,7.1718C46.2237,51.8584,11.1297,52.2863,7,52.0608\"/></g></g>"
+  },
+  {
+    "id": "object.chair",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "chair"
+      ],
+      "fr": [
+        "chaise"
+      ]
+    },
+    "tags": [
+      "furniture"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1FA91/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#A57939\" d=\"M17.5,8.5c4,11,10,31,5,49l-2,8h2s7-16,7-21h19l3,21h2v-21s1.2367-2.0532,0-7c-1-4-1.75-4.03-3-4-5.2545.125-21,1-21,1s-2.4645-22.4645-6-26C20.5,5.5,17.5,8.5,17.5,8.5Z\"/><path fill=\"#F2C14E\" d=\"M24.587,44H54s.5339-1.07-1-7.2056c-1-4-.1437-3.53-8.5718-3.265S29.5,34.5,29.5,34.5s-1.8546-15.2833-4.5637-23.0281C24.3662,9.8423,21.8424,5.4021,18,8a2.4561,2.4561,0,0,0,0,1C23.8665,25.8218,24.587,44,24.587,44Z\"/><path fill=\"#F2C14E\" d=\"M44.587,44H54c.231-3.732-.22-7.161-2-10l-7.5718-.4708S49,42,44.587,44Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M17.7592,8.2729a.4635.4635,0,0,0-.1517.5236C21.6062,19.8566,27.4554,39.6606,22.5,57.5l-1.7193,6.8773A.9035.9035,0,0,0,21.6572,65.5h1.1593a1.0322,1.0322,0,0,0,.9533-.6248c1.2445-2.9041,5.3848-15.1432,5.7137-19.9245a.4736.4736,0,0,1,.47-.4507H48.09a.4722.4722,0,0,1,.4675.4055L50.3743,64.62a1.0252,1.0252,0,0,0,1.0149.88h1.1757a.9352.9352,0,0,0,.9351-.9351V44.615a.4933.4933,0,0,1,.0506-.2126c.22-.46,1.0317-2.573-.0506-6.9024-1-4-1.75-4.03-3-4-4.7344.1127-17.986.8342-20.5627.9759a.4654.4654,0,0,1-.4876-.4177C29.083,30.8967,26.7417,11.7417,23.5,8.5A4.0406,4.0406,0,0,0,17.7592,8.2729Z\"/><line x1=\"30\" x2=\"24.5\" y1=\"44.5\" y2=\"44.5\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54\" x2=\"47\" y1=\"44.5\" y2=\"44.5\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "place.home",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "home",
+        "house"
+      ],
+      "fr": [
+        "maison"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3E0/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><rect x=\"19\" y=\"32\" width=\"34\" height=\"24\" fill=\"#FFFFFF\" stroke=\"none\"/><rect x=\"25\" y=\"40\" width=\"9\" height=\"16\" fill=\"#A57939\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"40\" y=\"40\" width=\"8\" height=\"7\" fill=\"#7EC8E3\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"#E46B4A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"53,32 19,32.0003 19,31 35,15 53,31\"/><polygon fill=\"#E46B4A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"29,21 24,26 24,17 29,17\"/></g><g/><g/><g/><g data-layer=\"line\"><rect x=\"25\" y=\"40\" width=\"9\" height=\"16\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"40\" y=\"40\" width=\"8\" height=\"7\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"53,32 19,32.0003 19,31 35,15 53,31\"/><rect x=\"19\" y=\"32\" width=\"34\" height=\"24\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"29,21 24,26 24,17 29,17\"/></g></g>"
+  },
+  {
+    "id": "place.outside",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "outside",
+        "park",
+        "garden",
+        "tree"
+      ],
+      "fr": [
+        "dehors",
+        "parc",
+        "jardin",
+        "arbre"
+      ]
+    },
+    "tags": [
+      "place",
+      "nature"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Hilda Kalyoncu",
+      "url": "https://openmoji.org/library/emoji-1F333/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#6BAF5B\" d=\"m51.5605,17.7304c-.5093.0029-1.018.0333-1.524.091l-.673.072-.317-.6c-2.673-5.047-8.5-8.308-14.854-8.308-9.026,0-16.369,6.4-16.369,14.268.0014.5162.0348,1.0319.1,1.544l.1.824-.792.251c-4.015,1.272-6.608,4.186-6.608,7.421,0,4.445,4.851,8.061,10.813,8.061,2.3045.0227,4.5747-.5593,6.584-1.688l.591-.341.189.151.344.275c2.714,2.167,7.082,3.462,11.683,3.462,7.762,0,14.32-3.691,14.32-8.061-.0013-.2702-.0274-.5396-.078-.805l-.138-.751-.022-.117.842-.266c4.022-1.271,6.622-4.185,6.622-7.425.001-4.439-4.851-8.058-10.813-8.058Z\"/><path fill=\"#6BAF5B\" d=\"m39.4685,27.9974s4.917,7.331,15.443,5.488l.6272,1.7053-.8266,2.6189c-2.5901,3.1871-5.0927,4.6512-9.1032,5.5357l-7.9389.0438-7.2116-1.9327-1.846-2.126c5.1993-1.8606,9.2206-6.0585,10.856-11.333Z\"/></g><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.7895 63.9434 35.7895 52.7764 28.1585 45.2604\"/><line x1=\"35.7895\" x2=\"40.1575\" y1=\"52.7764\" y2=\"48.2304\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m63.3745,25.7734c0-5-5.289-9.061-11.813-9.061-.5451.0044-1.0895.0378-1.631.1-2.763-5.216-8.762-8.839-15.738-8.839-9.593,0-17.369,6.836-17.369,15.268.0017.5574.0378,1.1141.108,1.667-4.288,1.359-7.306,4.595-7.306,8.374,0,5,5.289,9.061,11.813,9.061,2.4798.021,4.922-.6072,7.084-1.822,2.791,2.229,7.257,3.681,12.307,3.681,8.461,0,15.32-4.057,15.32-9.061-.0014-.3308-.0329-.6609-.094-.986,4.293-1.36,7.319-4.598,7.319-8.382Z\"/></g></g>"
+  },
+  {
+    "id": "place.toilet",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "toilet",
+        "bathroom"
+      ],
+      "fr": [
+        "toilettes",
+        "WC",
+        "pipi"
+      ]
+    },
+    "tags": [
+      "need",
+      "hygiene"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F6BD/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><line x1=\"34.6169\" x2=\"43.91\" y1=\"59.3493\" y2=\"59.3493\" fill=\"#D0CFCE\" stroke=\"#D0CFCE\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"35.9912\" x2=\"41.8941\" y1=\"30.0551\" y2=\"30.0551\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"15.653\" x2=\"15.653\" y1=\"30.7881\" y2=\"35.6273\" fill=\"#D0CFCE\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><rect x=\"35.264\" y=\"31.0531\" width=\"11.3187\" height=\"28.2774\" fill=\"#D0CFCE\"/><path fill=\"#D0CFCE\" stroke=\"#D0CFCE\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m42.0698,59.2955h6.9469c-2.6901-9.2639-1.7826-17.3885-1.7826-17.3885,0,0,.1739-4.8033,3.4783-5.8033,0,0,3.7391-1.087,5-1.8261v-17.3846h-13.6041v14.1367l-.0385,28.2658Z\"/><path fill=\"#9B9B9A\" d=\"m15.5848,36c-.3215-5.6425.6741-5.1006.6741-5.1006l26.8505-.04-.0014,3.0626c-.0005,1.1479-.5209,2.0779-1.1625,2.0779H15.5848Z\"/><path fill=\"#D0CFCE\" d=\"m15.661,35.5399s-.201,5.0192,4.9803,8.9725l2.9011,1.7458s-.8331,7.4562-.9581,11.4135c0,0,.0723,1.5872,3.2907,1.7079h9.6223s1.9343.0514,2.4769-1.4407v-11.8464s2.8109-2.3107,3.4363-3.3459c0,0,2.8044-3.9765,1.6135-7.0315,0,0-.93-.1194-4.1375-.1263l-18.8161-.0401-4.4094-.0088Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m15.661,35.5399s-.201,5.0192,4.9803,8.9725l2.9011,1.7458s-.9857,7.4544-.9581,11.4135c.0065.9269.0723,1.5872,3.2907,1.7079h9.6223s2.4297.1463,2.4769-1.4407c.0894-3.0038,0-11.8463,0-11.8463,0,0,2.8109-2.3107,3.4363-3.3459,0,0,2.8044-3.9765,1.6135-7.0315,0,0-.93-.1194-4.1375-.1263l-18.8161-.0401-4.4094-.0089Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m38.1354,30.0615h-21.6403s-.9323.0764-.8214,1.6588\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m42.0698,59.2955h6.9469c-2.6901-9.2639-1.7826-17.3885-1.7826-17.3885,0,0,.1739-4.8033,3.4783-5.8033,0,0,3.7391-1.087,5-1.8261v-17.3846h-13.6041v14.1367\"/><line x1=\"42\" x2=\"55.9655\" y1=\"12.875\" y2=\"12.875\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "idea.care",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "care",
+        "health"
+      ],
+      "fr": [
+        "soin",
+        "santé"
+      ]
+    },
+    "tags": [
+      "health"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1FA79/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><rect x=\"25\" y=\"27\" width=\"22\" height=\"19\" transform=\"rotate(-45 36 36.5)\" fill=\"#F7A8C0\"/><rect x=\"19.0557\" y=\"38.5157\" width=\"10.8571\" height=\"19\" transform=\"rotate(-45 24.484 48.016)\" fill=\"#F7A8C0\"/><rect x=\"12.1053\" y=\"41.3947\" rx=\"8.8214\" ry=\"8.8214\" width=\"19\" height=\"19\" transform=\"rotate(-45 21.605 50.895)\" fill=\"#F7A8C0\"/><rect x=\"42.0872\" y=\"15.4843\" width=\"10.8571\" height=\"19\" transform=\"rotate(135 47.516 24.984)\" fill=\"#F7A8C0\"/><rect x=\"40.8947\" y=\"12.6053\" rx=\"9.5\" ry=\"9.5\" width=\"19\" height=\"19\" transform=\"rotate(135 50.395 22.105)\" fill=\"#F7A8C0\"/><circle cx=\"19.9739\" cy=\"44.465\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"22.6609\" cy=\"47.152\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"25.348\" cy=\"49.8391\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"28.035\" cy=\"52.5261\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"17.095\" cy=\"47.344\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"19.782\" cy=\"50.031\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"22.469\" cy=\"52.718\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"25.156\" cy=\"55.405\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"46.844\" cy=\"17.595\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"49.531\" cy=\"20.282\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"52.218\" cy=\"22.969\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"54.905\" cy=\"25.656\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"43.965\" cy=\"20.4739\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"46.652\" cy=\"23.1609\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"49.3391\" cy=\"25.848\" r=\"0.6786\" fill=\"#F7A8C0\"/><circle cx=\"52.0261\" cy=\"28.535\" r=\"0.6786\" fill=\"#F7A8C0\"/></g><g data-layer=\"line\"><line x1=\"43.6771\" x2=\"14.8878\" y1=\"15.3878\" y2=\"44.1771\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"21.6053\" x2=\"35.0403\" y1=\"37.4596\" y2=\"50.8947\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M57.1122,28.8228a9.5,9.5,0,0,0-13.435-13.435\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M28.3228,57.6122a9.5,9.5,0,0,1-13.435-13.435\"/><line x1=\"36.9596\" x2=\"50.3947\" y1=\"22.1053\" y2=\"35.5404\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"28.3229\" x2=\"57.1122\" y1=\"57.6122\" y2=\"28.8228\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle fill=\"#1F2937\" cx=\"19.9739\" cy=\"44.465\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"22.6609\" cy=\"47.152\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"25.348\" cy=\"49.8391\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"28.035\" cy=\"52.5261\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"17.095\" cy=\"47.344\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"19.782\" cy=\"50.031\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"22.469\" cy=\"52.718\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"25.156\" cy=\"55.405\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"46.844\" cy=\"17.595\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"49.531\" cy=\"20.282\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"52.218\" cy=\"22.969\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"54.905\" cy=\"25.656\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"43.965\" cy=\"20.4739\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"46.652\" cy=\"23.1609\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"49.3391\" cy=\"25.848\" r=\"0.6786\"/><circle fill=\"#1F2937\" cx=\"52.0261\" cy=\"28.535\" r=\"0.6786\"/></g></g>"
+  },
+  {
+    "id": "idea.school",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "school",
+        "learn"
+      ],
+      "fr": [
+        "école",
+        "apprendre"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F392/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M56,31.0833c0-11.0457-8.9543-20-20-20s-20,8.9543-20,20v33.875h40V31.0833z\"/><path fill=\"#E46B4A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M51.6465,52.9649v7.6214H20.3535v-7.492v1.9266v-24.416c0-8.6413,7.0052-15.6465,15.6465-15.6465s15.6465,7.0052,15.6465,15.6465 v24.416\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M56,31.0833c0-11.0457-8.9543-20-20-20s-20,8.9543-20,20v33.875h40V31.0833z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M51.6465,52.9649v7.6214H20.3535v-7.492v1.9266v-24.416c0-8.6413,7.0052-15.6465,15.6465-15.6465s15.6465,7.0052,15.6465,15.6465 v24.416\"/><line x1=\"23.9041\" x2=\"46.898\" y1=\"49.4554\" y2=\"49.4554\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M31,9c0-2.7614,2.2386-5,5-5s5,2.2386,5,5\"/></g></g>"
+  },
+  {
+    "id": "idea.day",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "day",
+        "sun",
+        "sunny"
+      ],
+      "fr": [
+        "jour",
+        "soleil"
+      ]
+    },
+    "tags": [
+      "time",
+      "weather"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-2600/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#F2C14E\" stroke=\"none\" points=\"66,36 55.3235,41.1816 61.9819,51.0063 50.1418,50.1424 51.0056,61.9823 41.1813,55.3236 36,66 30.8184,55.3235 20.9937,61.9819 21.8576,50.1418 10.0177,51.0056 16.6764,41.1813 6,36 16.6765,30.8184 10.0181,20.9937 21.8582,21.8576 20.9944,10.0177 30.8187,16.6764 36,6 41.1816,16.6765 51.0063,10.0181 50.1424,21.8582 61.9823,20.9944 55.3236,30.8187\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"35.95\" r=\"19.8276\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"66,36 55.3235,41.1816 61.9819,51.0063 50.1418,50.1424 51.0056,61.9823 41.1813,55.3236 36,66 30.8184,55.3235 20.9937,61.9819 21.8576,50.1418 10.0177,51.0056 16.6764,41.1813 6,36 16.6765,30.8184 10.0181,20.9937 21.8582,21.8576 20.9944,10.0177 30.8187,16.6764 36,6 41.1816,16.6765 51.0063,10.0181 50.1424,21.8582 61.9823,20.9944 55.3236,30.8187\"/></g></g>"
+  },
+  {
+    "id": "idea.night",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "night",
+        "moon"
+      ],
+      "fr": [
+        "nuit",
+        "lune"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-1F319/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" stroke=\"none\" d=\"M7.3634,42.4095c4.5525,6.1703,11.874,10.1726,20.1303,10.1726c13.8071,0,25-11.1929,25-25 c0-8.5226-4.2646-16.0492-10.7763-20.5621c13.0383,2.8385,22.7812,14.4426,22.7812,28.3317c0,16.0163-12.9837,29-29,29 C21.9109,64.3517,10.5097,55.0229,7.3634,42.4095z\"/><path fill=\"#F2C14E\" stroke=\"none\" d=\"M45.8373,9.2108c8.25,4.25,16.1946,11.8724,16.1946,24.6742c0,15.4494-12.5242,27.9735-27.9735,27.9735 c-9.2431,0-19.7524-4.8353-24.294-15.5436c0,0,4.3805,18.6568,25.7189,18.665c19.327,0.0074,28.0419-20.6218,28.0419-20.6218 C70.033,12.3815,45.8373,9.2108,45.8373,9.2108z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M7.3634,42.4095c4.5525,6.1703,11.874,10.1726,20.1303,10.1726c13.8071,0,25-11.1929,25-25 c0-8.5226-4.2646-16.0492-10.7763-20.5621c13.0383,2.8385,22.7812,14.4426,22.7812,28.3317c0,16.0163-12.9837,29-29,29 C21.9109,64.3517,10.5097,55.0229,7.3634,42.4095z\"/></g></g>"
+  },
+  {
+    "id": "object.lemon",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "lemon"
+      ],
+      "fr": [
+        "citron"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F34B/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"m16.0302,55.9368c-1.5967-1.6729-1.9362-4.0928-1.0184-6.0812-4.2565-8.3473-1.6753-20.2596,6.9544-28.8894,8.6297-8.6298,20.542-11.211,28.8894-6.9545,2.026-.9351,4.4999-.5649,6.1752,1.1104,1.6753,1.6753,2.0455,4.1493,1.1104,6.1752,4.2661,8.3571,1.6753,20.2596-6.9545,28.8894s-20.5323,11.2207-28.8894,6.9544c-2.026.9351-4.5.5649-6.1753-1.1103-.031-.031-.0616-.0624-.0918-.094\"/><path fill=\"#F4AA41\" d=\"m50.5556,50.0124c-8.631,8.631-20.5347,11.2212-28.8945,6.9571,34.6828,0,36.3371-35.1456,36.3371-35.1456,4.2734,8.3505,1.179,19.5576-7.4426,28.1885Z\"/><path fill=\"#F4AA41\" d=\"m30.4541,59.9883c-3.2764,0-10.4541-2.9883-10.4541-2.9883l-2.5-1.0303h4.1611c13.9883,0,24.1807-5.7363,30.2949-17.0479,4.5869-8.4883,5.0391-17.0591,5.043-17.1445l.1768-3.7549,1.7129,3.3462c4.4639,8.7231,1.4707,20.2446-7.626,29.3511h0c-6,6-13.6895,9.2686-20.8086,9.2686Zm-3.5254-2.3028c7.4531,1.3506,16.2686-1.7285,22.9199-8.3799,7.0859-7.0947,10.2578-16.001,8.5996-23.3125-1.6289,8.8477-7.9189,29.0635-31.5195,31.6924Z\"/><path fill=\"#F4AA41\" d=\"m56.9613,14.9006s1.8262,4.8233.9674,7.234l-4.1007-4.1006,3.1333-3.1334\"/><path fill=\"#F4AA41\" d=\"m16.8259,56.2078s4.3959,1.9419,6.6375.7073l-4.7058-3.3893-1.9317,2.682\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m16.0302,55.9368c-1.5967-1.6729-1.9362-4.0928-1.0184-6.0812-4.2565-8.3473-1.6753-20.2596,6.9544-28.8894,8.6297-8.6298,20.542-11.211,28.8894-6.9545,2.026-.9351,4.4999-.5649,6.1752,1.1104,1.6753,1.6753,2.0455,4.1493,1.1104,6.1752,4.2661,8.3571,1.6753,20.2596-6.9545,28.8894s-20.5323,11.2207-28.8894,6.9544c-2.026.9351-4.5.5649-6.1753-1.1103-.031-.031-.0616-.0624-.0918-.094\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m16.0302,55.9368c-1.5967-1.6729-1.9362-4.0928-1.0184-6.0812-4.2565-8.3473-1.6753-20.2596,6.9544-28.8894,8.6297-8.6298,20.542-11.211,28.8894-6.9545,2.026-.9351,4.4999-.5649,6.1752,1.1104,1.6753,1.6753,2.0455,4.1493,1.1104,6.1752,4.2661,8.3571,1.6753,20.2596-6.9545,28.8894s-20.5323,11.2207-28.8894,6.9544c-2.026.9351-4.5.5649-6.1753-1.1103-.031-.031-.0616-.0624-.0918-.094\"/></g></g>"
+  },
+  {
+    "id": "object.peach",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "peach"
+      ],
+      "fr": [
+        "pêche"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F351/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#6BAF5B\" stroke=\"#6BAF5B\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M58.6128,14.8309 c0,0-3.7211,6.9524-9.3761,9.375c-4.4396,1.9049-10.0808,1.0073-12.2962,0.5447c-2.2244,0.4174-7.8826,1.1998-12.2826-0.7952 c-5.6044-2.5373-9.183-9.5641-9.183-9.5641s7.6302-1.9423,13.2346,0.5949c1.2046,0.5423,2.307,1.2836,3.3085,2.1239 c3.786,3.1849,4.8131,3.5598,9.9995,0.1019c1.0184-0.8197,2.1358-1.5384,3.3511-2.056 C51.0237,12.7335,58.6128,14.8309,58.6128,14.8309z\"/><path fill=\"#F7A8C0\" stroke=\"#F7A8C0\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M60.72,39.78C60.41,52.47,49.28,62.43,36.71,63.98c-0.05,0.01-0.1,0.01-0.15,0.02h-0.11c-0.21,0-0.41-0.01-0.63-0.02 c-11.34-2.56-22.28-12.53-23.42-24.2c0-1.76,0.19-3.49,0.55-5.15c0.64-2.99,1.85-5.78,3.49-8.25c2.64-2.89,6.55-4.71,10.92-4.71 c2.27,0,4.4,0.48,6.31,1.35c1.29,0.59,2.73,0.7401,4.09,0.44c0.45-0.09,0.9-0.24,1.33-0.44c1.9-0.87,4.04-1.35,6.3-1.35 c4.88,0,9.2,2.27,11.8,5.76c0.29,0.37,0.54,0.75,0.78,1.14c0.4901,0.93,0.91,1.89,1.28,2.88c0.01,0.02,0.02,0.03,0.02,0.05 c0.12,0.32,0.23,0.65,0.33,0.98c0.09,0.29,0.1801,0.58,0.26,0.87c0.07,0.26,0.14,0.51,0.2,0.77c0.37,1.56,0.59,3.18,0.65,4.83 C60.72,39.23,60.72,39.5,60.72,39.78z\"/><path fill=\"#F7A8C0\" stroke=\"#F7A8C0\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.76,23.46 c1.05-0.2,2.05-0.36,2.99-0.46c-1.72,0.3-3.29,0.57-3.63,0.6C37.34,23.55,37.55,23.5,37.76,23.46z\"/><path fill=\"#F7A8C0\" stroke=\"#F7A8C0\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M60.72,39.78 C60.41,52.47,49.28,62.43,36.71,63.98C56.9236,59.261,68.1247,20.0555,40.75,23c2.16-0.37,4.57-0.77,5.09-0.77 c4.61,0,8.72,2.03,11.35,5.2c0.29,0.37,0.54,0.75,0.78,1.14c0.4901,0.93,0.91,1.89,1.28,2.88c0.01,0.02,0.02,0.03,0.02,0.05 c0.12,0.32,0.23,0.65,0.33,0.98c0.09,0.29,0.1801,0.58,0.26,0.87c0.07,0.26,0.14,0.51,0.2,0.77c0.39,1.56,0.62,3.17,0.65,4.83 C60.72,39.23,60.72,39.5,60.72,39.78z\"/><path fill=\"none\" stroke=\"#F7A8C0\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.7192,36.595c-0.7182-3.444-3.4067-5.5325-3.4067-5.5325\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41.9611,17.325c1.0056-0.8284,2.1179-1.5632,3.3207-2.0925c5.6325-2.4789,13.2481-0.4519,13.2481-0.4519\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M58.5299,14.7806c0,0-1.0994,2.1043-3.0227,4.4128\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M31.6404,16.8304c-1.0056-0.8284-2.1179-1.5632-3.3207-2.0925c-5.6325-2.4789-13.2481-0.4519-13.2481-0.4519\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M15.0716,14.286c0,0,1.0245,1.961,2.8257,4.1736\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M36.4451,15.3662c-0.3203-2.3302-1.1526-5.6407-3.3079-7.9037\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M60.72,39.78C60.41,52.47,49.28,62.43,36.71,63.98c-0.05,0.01-0.1,0.01-0.15,0.02h-0.11c-0.21,0-0.42,0.03-0.63-0.02 c-11.34-2.56-22.28-12.53-23.42-24.2c-0.17-1.75,0.19-3.49,0.55-5.15c0.64-2.99,1.85-5.78,3.49-8.25 c2.64-2.89,6.55-4.71,10.92-4.71c2.27,0,4.4,0.48,6.31,1.35c1.29,0.59,2.73,0.7401,4.09,0.44c0.45-0.09,0.9-0.24,1.33-0.44 c1.9-0.87,4.04-1.35,6.3-1.35c4.88,0,9.2,2.27,11.8,5.76c0.29,0.37,0.54,0.75,0.78,1.14c0.4901,0.93,0.91,1.89,1.28,2.88 c0.01,0.02,0.02,0.03,0.02,0.05c0.12,0.32,0.23,0.65,0.33,0.98c0.09,0.29,0.1801,0.58,0.26,0.87c0.07,0.26,0.14,0.51,0.2,0.77 c0.39,1.56,0.62,3.17,0.65,4.83C60.72,39.23,60.72,39.5,60.72,39.78z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40.9874,52.864c2.0414-7.1668,3.244-17.6158-3.7374-24.614\"/></g></g>"
+  },
+  {
+    "id": "object.kiwi",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "kiwi"
+      ],
+      "fr": [
+        "kiwi"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F95D/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"36.1375\" cy=\"35.7625\" r=\"25.0125\" fill=\"#6BAF5B\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#6BAF5B\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.3152,26.3316l2.3679-2.1883c1.156-1.0683,3.0228-0.1693,2.9083,1.4006l-0.2345,3.2157 c-0.0658,0.9029,0.5736,1.7048,1.4686,1.8415l3.1872,0.4869c1.5559,0.2377,2.017,2.2578,0.7183,3.147l-2.6603,1.8216 c-0.747,0.5115-0.9752,1.5114-0.5241,2.2963l1.6065,2.7955c0.7843,1.3647-0.5076,2.9846-2.0126,2.5237l-3.0829-0.9442 c-0.8657-0.2651-1.7897,0.1799-2.1221,1.022l-1.184,2.999c-0.578,1.464-2.65,1.464-3.228,0l-1.184-2.999 c-0.3324-0.8421-1.2565-1.2871-2.1221-1.022l-3.0829,0.9442c-1.505,0.4609-2.7969-1.159-2.0126-2.5237l1.6065-2.7955 c0.4511-0.785,0.2229-1.7848-0.5241-2.2963l-2.6603-1.8216c-1.2987-0.8893-0.8377-2.9093,0.7183-3.147l3.1872-0.4869 c0.895-0.1367,1.5344-0.9386,1.4685-1.8415l-0.2345-3.2157c-0.1145-1.5698,1.7523-2.4688,2.9083-1.4006l2.3679,2.1883 C35.6247,26.9461,36.6503,26.9461,37.3152,26.3316z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36.1375\" cy=\"35.7625\" r=\"25.0125\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.3152,26.3316l2.3679-2.1883c1.156-1.0683,3.0228-0.1693,2.9083,1.4006l-0.2345,3.2157 c-0.0658,0.9029,0.5736,1.7048,1.4686,1.8415l3.1872,0.4869c1.5559,0.2377,2.017,2.2578,0.7183,3.147l-2.6603,1.8216 c-0.747,0.5115-0.9752,1.5114-0.5241,2.2963l1.6065,2.7955c0.7843,1.3647-0.5076,2.9846-2.0126,2.5237l-3.0829-0.9442 c-0.8657-0.2651-1.7897,0.1799-2.1221,1.022l-1.184,2.999c-0.578,1.464-2.65,1.464-3.228,0l-1.184-2.999 c-0.3324-0.8421-1.2565-1.2871-2.1221-1.022l-3.0829,0.9442c-1.505,0.4609-2.7969-1.159-2.0126-2.5237l1.6065-2.7955 c0.4511-0.785,0.2229-1.7848-0.5241-2.2963l-2.6603-1.8216c-1.2987-0.8893-0.8377-2.9093,0.7183-3.147l3.1872-0.4869 c0.895-0.1367,1.5344-0.9386,1.4685-1.8415l-0.2345-3.2157c-0.1145-1.5698,1.7523-2.4688,2.9083-1.4006l2.3679,2.1883 C35.6247,26.9461,36.6503,26.9461,37.3152,26.3316z\"/><ellipse cx=\"24.191\" cy=\"25.1298\" rx=\"0.9136\" ry=\"1.8273\" transform=\"matrix(0.6637 -0.748 0.748 0.6637 -10.6616 26.5469)\" fill=\"#1F2937\" stroke=\"none\"/><ellipse cx=\"36.0391\" cy=\"19.0522\" rx=\"0.9136\" ry=\"1.8273\" fill=\"#1F2937\" stroke=\"none\"/><ellipse cx=\"48.0686\" cy=\"25.2399\" rx=\"1.8273\" ry=\"0.9136\" transform=\"matrix(0.7071 -0.7071 0.7071 0.7071 -3.7684 41.3823)\" fill=\"#1F2937\" stroke=\"none\"/><ellipse cx=\"50.8083\" cy=\"38.1005\" rx=\"0.9136\" ry=\"1.8273\" transform=\"matrix(0.1109 -0.9938 0.9938 0.1109 7.3099 84.3716)\" fill=\"#1F2937\" stroke=\"none\"/><ellipse cx=\"21.4727\" cy=\"37.9896\" rx=\"1.8273\" ry=\"0.9136\" fill=\"#1F2937\" stroke=\"none\"/><ellipse cx=\"29.3792\" cy=\"48.7042\" rx=\"1.8273\" ry=\"0.9136\" transform=\"matrix(0.5 -0.866 0.866 0.5 -27.4894 49.7953)\" fill=\"#1F2937\" stroke=\"none\"/><ellipse cx=\"43.0534\" cy=\"48.7368\" rx=\"0.9136\" ry=\"1.8273\" transform=\"matrix(0.882 -0.4712 0.4712 0.882 -17.8857 26.0367)\" fill=\"#1F2937\" stroke=\"none\"/></g></g>"
+  },
+  {
+    "id": "object.salad",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "salad"
+      ],
+      "fr": [
+        "salade"
+      ]
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ricarda Krejci",
+      "url": "https://openmoji.org/library/emoji-1F957/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#6BAF5B\" stroke=\"#6BAF5B\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M57.4,40.6l5-.8-.3-1a2.948,2.948,0,0,0,2.1-3.7,3.0871,3.0871,0,0,0-1.7-2,5.0751,5.0751,0,0,0,1.2637-3.1343A4.9061,4.9061,0,0,0,63.1,27.3,5.0971,5.0971,0,0,0,57.4,25a2.9614,2.9614,0,0,0-3.3-3.7,4.9778,4.9778,0,0,0-8.5-4.4,3.1021,3.1021,0,0,0-2.1-2.2,3.4405,3.4405,0,0,0-2.6.5,4.9559,4.9559,0,0,0-4.7-3.4,4.8455,4.8455,0,0,0-4.8,3.8,2.8031,2.8031,0,0,0-2.9-.8,3.0871,3.0871,0,0,0-2,1.7,4.9736,4.9736,0,0,0-5.8-.6,5.0971,5.0971,0,0,0-2.3,5.7,2.9614,2.9614,0,0,0-3.7,3.3,4.9778,4.9778,0,0,0-4.4,8.5,2.99,2.99,0,0,0-.1,5.8v1l3.1.7\"/><circle cx=\"21.6972\" cy=\"34.3002\" r=\"5.9998\" fill=\"#E46B4A\"/><circle cx=\"36.6972\" cy=\"33.3002\" r=\"5.9998\" fill=\"#E46B4A\"/><circle cx=\"51.6972\" cy=\"33.3002\" r=\"5.9998\" fill=\"#E46B4A\"/><path fill=\"#FFFFFF\" d=\"M65,35A29,29,0,0,1,7,35Z\"/><path fill=\"#D0CFCE\" d=\"M49,35c0,16-4,29-13,29A29.0208,29.0208,0,0,0,65,35Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M50.2693,28.2022a5.1615,5.1615,0,0,1,2.9807.0393,5.83,5.83,0,0,1,2.56,1.689\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M33.2771,29.2289a5.8288,5.8288,0,0,1,2.8281-1.1871,5.16,5.16,0,0,1,2.9367.5118\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M17.5841,30.9305a5.8307,5.8307,0,0,1,2.56-1.689,5.1611,5.1611,0,0,1,2.9806-.0393\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M63.6508,30.9359A4.9051,4.9051,0,0,0,63.1,27.4a5.0971,5.0971,0,0,0-5.7-2.3,2.9614,2.9614,0,0,0-3.3-3.7A4.9778,4.9778,0,0,0,45.6,17a3.1021,3.1021,0,0,0-2.1-2.2,3.4405,3.4405,0,0,0-2.6.5,4.9559,4.9559,0,0,0-4.7-3.4,4.8455,4.8455,0,0,0-4.8,3.8,2.8031,2.8031,0,0,0-2.9-.8,3.0871,3.0871,0,0,0-2,1.7,4.9736,4.9736,0,0,0-5.8-.6,5.0971,5.0971,0,0,0-2.3,5.7A2.9614,2.9614,0,0,0,14.7,25a5.0362,5.0362,0,0,0-5.3,2.4,4.7548,4.7548,0,0,0-.6441,2.8857\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M65,35A29,29,0,0,1,7,35Z\"/></g></g>"
+  },
+  {
+    "id": "object.honey",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "honey"
+      ],
+      "fr": [
+        "miel"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F36F/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polyline fill=\"#F4AA41\" stroke=\"none\" points=\"55,17 55,11 17,11 17,17\"/><path fill=\"#F4AA41\" stroke=\"none\" d=\"M45,60c8.2842,0,15-6.7158,15-15V22c0-2.7612-2.2383-5-5-5H17c-2.7617,0-5,2.2388-5,5v23 c0,8.2842,6.7158,15,15,15H45z\"/><path fill=\"#F2C14E\" stroke=\"none\" d=\"M35,17v14c0,2.7617,2.2393,5,5,5c2.7617,0,5-2.2383,5-5v11c0,1.6563,1.3428,3,3,3c1.6572,0,3-1.3437,3-3V23 c0,1.6567,1.3428,3,3,3c1.6563,0,3-1.3433,3-3v-5.5781C56.3867,17.1538,55.7119,17,55,17H35h-2v-6h22v6\"/></g><g/><g/><g/><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"55,17 55,11 17,11 17,17\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M51,42c0,1.6563-1.3428,3-3,3c-1.6572,0-3-1.3437-3-3\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M51,23c0,1.6567,1.3428,3,3,3c1.6563,0,3-1.3433,3-3v-5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M45,31c0,2.7617-2.2383,5-5,5c-2.7607,0-5-2.2383-5-5\"/><line x1=\"45\" x2=\"45\" y1=\"42\" y2=\"31\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51\" x2=\"51\" y1=\"42\" y2=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"35\" x2=\"35\" y1=\"31\" y2=\"17\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"33\" x2=\"33\" y1=\"17\" y2=\"11\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M45,60c8.2842,0,15-6.7158,15-15V22c0-2.7612-2.2383-5-5-5H17c-2.7617,0-5,2.2388-5,5v23c0,8.2842,6.7158,15,15,15H45z\"/></g></g>"
+  },
+  {
+    "id": "object.butter",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "butter"
+      ],
+      "fr": [
+        "beurre"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Evelyn Soos",
+      "url": "https://openmoji.org/library/emoji-1F9C8/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M19,33a3.416,3.416,0,0,0-3.3141,2.9835l-1.3718,13.033A2.65,2.65,0,0,0,17,52H55a2.65,2.65,0,0,0,2.6859-2.9835l-1.3718-13.033A3.416,3.416,0,0,0,53,33Z\"/><polyline fill=\"#FFFFFF\" points=\"12.251 52 60.189 52 58 56 13.616 56 12.251 52\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M19,33a3.416,3.416,0,0,0-3.3141,2.9835l-1.3718,13.033A2.65,2.65,0,0,0,17,52H55a2.65,2.65,0,0,0,2.6859-2.9835l-1.3718-13.033A3.416,3.416,0,0,0,53,33Z\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"11.38 52 14.448 52 36 52\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M36,56H15a2.4394,2.4394,0,0,1-1.82-.5833l-.2389-.2381L9.0074,47.17,4.88,47.1514\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"60.62 52 57.552 52 36 52\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M36,56H57a2.4394,2.4394,0,0,0,1.82-.5833l.2389-.2381,3.934-8.0083,4.1271-.0189\"/></g></g>"
+  },
+  {
+    "id": "object.pancakes",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "pancakes"
+      ],
+      "fr": [
+        "crêpes",
+        "pancakes"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "crêpe"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ricarda Krejci",
+      "url": "https://openmoji.org/library/emoji-1F95E/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><ellipse cx=\"35.7188\" cy=\"41.8594\" rx=\"24.2813\" ry=\"10.9844\" fill=\"#D0CFCE\"/><ellipse cx=\"35.7188\" cy=\"29.7187\" rx=\"19.6563\" ry=\"8.0938\" fill=\"#F2C14E\"/><ellipse cx=\"35.7188\" cy=\"25.0938\" rx=\"19.6563\" ry=\"8.0938\" fill=\"#F2C14E\"/><ellipse cx=\"35.7188\" cy=\"31.0312\" rx=\"19.6563\" ry=\"8.0938\" fill=\"#F2C14E\" stroke=\"#F2C14E\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><ellipse cx=\"35.7188\" cy=\"40.125\" rx=\"19.6563\" ry=\"8.0938\" fill=\"#F2C14E\" stroke=\"#F2C14E\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><ellipse cx=\"35.7188\" cy=\"35.5\" rx=\"19.6563\" ry=\"8.0938\" fill=\"#F2C14E\" stroke=\"#F2C14E\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#F2C14E\" d=\"M38.6094,25.0937c-4.1508,0-7.5156,1.8119-7.5156,4.0469,0,1.6833,1.9094,3.1258,4.625,3.7357v4.3581a1.7344,1.7344,0,0,0,3.4687,0v2.3125a1.7344,1.7344,0,0,0,3.4687,0V36.0781a1.7344,1.7344,0,0,0,3.4688,0V29.1406C46.125,26.9056,42.76,25.0937,38.6094,25.0937ZM42.65,32.5491l.0061-.002v.0623C42.6562,32.5888,42.6508,32.57,42.65,32.5491Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M35.4059,34.3427q-.5911-.0037-1.1735-.0217c-10.1615-.3129-18.17-3.8068-18.17-8.071,0-4.47,8.8-8.0938,19.6563-8.0938S55.375,21.78,55.375,26.25c0,2.884-3.6633,5.4157-9.1784,6.8492\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M36.875,38.9687c-10.8558,0-20.8125-3.6236-20.8125-8.0937\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M55.375,30.875c0,2.3681-2.47,4.4987-6.4069,5.9788-.6809.256-2.08.7438-2.8431.9587\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M55.375,35.5c0,4.47-8.8,8.0938-19.6562,8.0938S16.0625,39.97,16.0625,35.5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M55.375,40.125c0,4.47-8.8,8.0938-19.6562,8.0938S16.0625,44.5951,16.0625,40.125\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M58.8438,43.0156C58.8438,49.0821,48.49,54,35.7188,54S12.5937,49.0821,12.5937,43.0156\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M38.6094,25.0937c-4.1508,0-7.5156,1.8119-7.5156,4.0469,0,1.6833,1.9094,3.1258,4.625,3.7357v4.3581a1.7344,1.7344,0,0,0,3.4687,0v2.3125a1.7344,1.7344,0,0,0,3.4687,0V36.0781a1.7344,1.7344,0,0,0,3.4688,0V29.1406C46.125,26.9056,42.76,25.0937,38.6094,25.0937Z\"/></g></g>"
+  },
+  {
+    "id": "object.noodles",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "noodles",
+        "hot meal"
+      ],
+      "fr": [
+        "nouilles",
+        "plat chaud"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Hend Hourani",
+      "url": "https://openmoji.org/library/emoji-1F35C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"m62.92,35.0029c.0686-1.0352-.7149-1.9301-1.7502-1.9988-.0413-.0027-.0826-.0041-.124-.0041H11.0529c-1.0895-.002-1.9743.8795-1.9764,1.969-.0001.0542.002.1083.0064.1623.857,9.7287,7.53,17.9843,16.7945,21.7238v5.4866c.0335.9444.8226,1.6848,1.7672,1.6583h16.7108c.9445.0264,1.7335-.714,1.767-1.6583v-4.8424c9.712-3.3783,16.0713-12.1093,16.7976-22.4964Z\"/></g><g data-layer=\"line\"><line x1=\"61.4336\" x2=\"17.4336\" y1=\"21\" y2=\"21\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"61.4336\" x2=\"17.4336\" y1=\"13\" y2=\"13\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"34.2773\" x2=\"34.4336\" y1=\"10.8125\" y2=\"33\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.49\"/><line x1=\"28.2773\" x2=\"28.4336\" y1=\"10.8125\" y2=\"33\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.49\"/><line x1=\"22.2773\" x2=\"22.4336\" y1=\"10.8125\" y2=\"33\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.49\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m62.92,35.0029c.0686-1.0352-.7149-1.9301-1.7502-1.9988-.0413-.0027-.0826-.0041-.124-.0041H11.0529c-1.0895-.002-1.9743.8795-1.9764,1.969-.0001.0542.002.1083.0064.1623.857,9.7287,7.53,17.9843,16.7945,21.7238v5.4866c.0335.9444.8226,1.6848,1.7672,1.6583h16.7108c.9445.0264,1.7335-.714,1.767-1.6583v-4.8424c9.712-3.3783,16.0713-12.1093,16.7976-22.4964Z\"/></g><g><line x1=\"34.2773\" x2=\"34.4336\" y1=\"10.8125\" y2=\"33\" fill=\"none\" stroke=\"#F2C14E\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.49\"/><line x1=\"28.2773\" x2=\"28.4336\" y1=\"10.8125\" y2=\"33\" fill=\"none\" stroke=\"#F2C14E\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.49\"/><line x1=\"22.2773\" x2=\"22.4336\" y1=\"10.8125\" y2=\"33\" fill=\"none\" stroke=\"#F2C14E\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.49\"/></g></g>"
+  },
+  {
+    "id": "object.chicken-leg",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "chicken (meat)",
+        "meat"
+      ],
+      "fr": [
+        "poulet",
+        "viande"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F357/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M33.4932,61c1.0449,0,1.9629-0.5352,2.5-1.3457C36.5303,60.4648,37.4482,61,38.4922,61\tc1.6572,0,3.001-1.3437,3.001-2.999c0-1.6572-1.3438-3.001-3-3.001v-6h-5v6c-1.6573,0-3.001,1.3438-3,3\tC30.4932,59.6582,31.8359,61,33.4932,61z\"/><path fill=\"#F4AA41\" stroke=\"none\" d=\"M40.877,12.7861c-0.7774-1.9394-2.667-3.3144-4.8838-3.3144s-4.1065,1.375-4.8838,3.3144 C24.6924,21.0107,24.3203,32.4092,29.9932,41c0,2.291,0,4.3369,0,5c0,1.6563,1.3437,3,3,3c1.6562,0,4.3437,0,6,0 c1.6562,0,3-1.3437,3-3c0-0.6631,0-2.709,0-5.001C47.666,32.4092,47.2949,21.0107,40.877,12.7861z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.4932,61c1.0449,0,1.9629-0.5352,2.5-1.3457C36.5303,60.4648,37.4482,61,38.4922,61c1.6572,0,3.001-1.3437,3.001-2.999 c0-1.6572-1.3438-3.001-3-3.001v-6h-5v6c-1.6573,0-3.001,1.3438-3,3C30.4932,59.6582,31.8359,61,33.4932,61z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40.877,12.7861c-0.7774-1.9394-2.667-3.3144-4.8838-3.3144s-4.1065,1.375-4.8838,3.3144 C24.6924,21.0107,24.3203,32.4092,29.9932,41c0,2.291,0,4.3369,0,5c0,1.6563,1.3437,3,3,3c1.6562,0,4.3437,0,6,0 c1.6562,0,3-1.3437,3-3c0-0.6631,0-2.709,0-5.001C47.666,32.4092,47.2949,21.0107,40.877,12.7861z\"/></g></g>"
+  },
+  {
+    "id": "object.fried-egg",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "fried egg"
+      ],
+      "fr": [
+        "œuf au plat"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F373/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"none\" d=\"M61.8789,5.8789L50.1348,17.8623c1.4922,1.166,2.8369,2.5098,4.0019,4.0029l11.9844-11.7441 c1.1719-1.1719,1.1719-3.0713,0-4.2432C64.9492,4.707,63.0508,4.707,61.8789,5.8789z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M54.1367,21.8652c-1.164-1.4931-2.5097-2.8369-4.0019-4.0029C46.2344,14.8193,41.3311,13,36,13 c-12.7031,0-23,10.2979-23,23s10.2969,23,23,23s23-10.2979,23-23C59,30.6689,57.1816,25.7656,54.1367,21.8652z\"/><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M47.2246,37.5498c-0.0723-0.0352-0.1435-0.0703-0.2168-0.1016c-0.6338-0.3359-1.0566-1.0869-1.0566-1.8535 c-0.0039-0.0888-0.0205-0.1748-0.0264-0.2636c-0.0146-0.2247-0.0361-0.4473-0.0654-0.668 c-0.0196-0.1377-0.0391-0.2744-0.0625-0.4102c-0.043-0.2402-0.0957-0.4756-0.1543-0.709 c-0.0274-0.1064-0.0528-0.2138-0.0821-0.3183c-0.0869-0.3008-0.1884-0.5938-0.3017-0.8828 c-0.0127-0.0313-0.0225-0.0645-0.0352-0.0957c-0.7256-1.791-1.956-3.3213-3.5146-4.42c-0.4551-0.373-0.7666-0.9658-0.7666-1.5937 C40.5732,23.8359,38.5,22,36,22c-2.2852,0-4.2129,1.5342-4.8086,3.6279c-0.0508,0.1778-0.1182,0.4092-0.1338,0.5957 c-0.0488,0.5918-0.2763,1.1143-0.6826,1.4795c-0.1133,0.0762-0.2187,0.1641-0.3291,0.2451 c-0.0127,0.0088-0.0264,0.0166-0.0381,0.0254c-0.0176,0.0127-0.0322,0.0274-0.0488,0.0401 c-0.209,0.1572-0.4111,0.3203-0.6065,0.4931c-0.0254,0.0215-0.0498,0.045-0.0752,0.0674 c-0.1982,0.1787-0.3906,0.3643-0.5752,0.5586c-0.0126,0.0127-0.0244,0.0274-0.0361,0.0401c-1.6748,1.788-2.707,4.1845-2.707,6.8271 c0,5.5225,4.4765,10,10,10c0.3183,0,0.6348-0.0176,0.9453-0.0479c0.2617-0.0244,0.5176-0.0654,0.7725-0.1103 c0.0341-0.0059,0.0703-0.0088,0.1045-0.0156c0.6933-0.128,1.3613-0.3223,1.996-0.585c0.5977-0.1641,1.253-0.0478,1.7637,0.3555 c0.0606,0.0478,0.125,0.0918,0.1807,0.1474l-0.0088,0.0108C42.5898,46.5273,43.7383,47,45,47c2.7617,0,5-2.2393,5-5 C50,40.042,48.8633,38.3682,47.2246,37.5498z\"/><circle cx=\"36\" cy=\"35.875\" r=\"5\" fill=\"#F2C14E\" stroke=\"none\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M61.8789,5.8789L50.1348,17.8623c1.4922,1.166,2.8369,2.5098,4.0019,4.0029l11.9844-11.7441c1.1719-1.1719,1.1719-3.0713,0-4.2432\tC64.9492,4.707,63.0508,4.707,61.8789,5.8789z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M54.1367,21.8652c-1.164-1.4931-2.5097-2.8369-4.0019-4.0029C46.2344,14.8193,41.3311,13,36,13c-12.7031,0-23,10.2979-23,23\ts10.2969,23,23,23s23-10.2979,23-23C59,30.6689,57.1816,25.7656,54.1367,21.8652z\"/><circle cx=\"36\" cy=\"35.875\" r=\"5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M47.2246,37.5498c-0.0723-0.0352-0.1435-0.0703-0.2168-0.1016c-0.6338-0.3359-1.0566-1.0869-1.0566-1.8535\tc0-0.0009-0.0117-0.0224-0.0147-0.0293c-0.1377-3.1992-1.7715-6.0068-4.2275-7.7383c-0.4551-0.373-0.7666-0.9658-0.7666-1.5937\tC40.5732,23.8359,38.5,22,36,22c-2.2852,0-4.2129,1.5342-4.8086,3.6279c-0.0508,0.1778-0.1182,0.4092-0.1338,0.5957\tc-0.0488,0.5918-0.2763,1.1143-0.6826,1.4795C27.7109,29.5,25.959,32.5449,25.959,36c0,5.5225,4.4765,10,10,10\tc1.3525,0,2.6406-0.2715,3.8183-0.7588c0.5977-0.1641,1.253-0.0478,1.7637,0.3555c0.0606,0.0478,0.125,0.0918,0.1807,0.1474\tl-0.0088,0.0108C42.5898,46.5273,43.7383,47,45,47c2.7617,0,5-2.2393,5-5C50,40.042,48.8633,38.3682,47.2246,37.5498z\"/></g></g>"
+  },
+  {
+    "id": "object.doughnut",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "doughnut"
+      ],
+      "fr": [
+        "beignet",
+        "donut"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F369/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" stroke=\"none\" d=\"M36,7C19.9834,7,7,19.9839,7,36c0,16.0156,12.9834,29,29,29s29-12.9844,29-29C65,19.9839,52.0166,7,36,7z M36,46c-5.5225,0-10-4.4775-10-10s4.4775-10,10-10c5.5225,0,10,4.4775,10,10S41.5225,46,36,46z\"/><path fill=\"none\" stroke=\"none\" d=\"M36,46c5.5225,0,10-4.4775,10-10s-4.4775-10-10-10c-5.5225,0-10,4.4775-10,10 c0,2.7266,1.0947,5.1963,2.8652,7h0.4786h-0.4786C30.6797,44.8496,33.2041,46,36,46z\"/><path fill=\"none\" stroke=\"none\" d=\"M46,36c0-5.5225-4.4775-10-10-10c-5.5225,0-10,4.4775-10,10c0,2.7266,1.0947,5.1963,2.8652,7 c1.8145,1.8496,4.3389,3,7.1348,3C41.5225,46,46,41.5225,46,36z\"/><path fill=\"#F2C14E\" stroke=\"none\" d=\"M36,7C19.9834,7,7,19.9839,7,36c0,1.7061,0.1563,3.375,0.4385,5H10c2.7607,0,5,2.2383,5,5s2.2393,5,5,5 c2.7607,0,5-2.2383,5-5c0-1.6562,1.3428-3,3-3h0.8652C27.0947,41.1963,26,38.7266,26,36c0-5.5225,4.4775-10,10-10 c5.5225,0,10,4.4775,10,10s-4.4775,10-10,10c2.7607,0,5,2.2383,5,5s2.2393,5,5,5c2.7607,0,5-2.2383,5-5c0-1.6562,1.3428-3,3-3 c1.6572,0,3,1.3438,3,3c0,1.2217,0.8418,2.3213,1.8945,2.7891C62.7168,48.877,65,42.707,65,36C65,19.9839,52.0166,7,36,7z\"/><circle cx=\"14\" cy=\"31\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"20\" cy=\"39\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"52\" cy=\"40\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"58\" cy=\"32\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"50\" cy=\"25\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"42\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"33\" cy=\"20\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"21\" cy=\"20\" r=\"2\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"14\" cy=\"31\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"20\" cy=\"39\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"52\" cy=\"40\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"58\" cy=\"32\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"50\" cy=\"25\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"42\" cy=\"14\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"33\" cy=\"20\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"21\" cy=\"20\" r=\"2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"36\" cy=\"36\" r=\"29\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"36\" cy=\"36\" r=\"10\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M8,41h2c2.7607,0,5,2.2383,5,5s2.2393,5,5,5c2.7607,0,5-2.2383,5-5c0-1.6562,1.3428-3,3-3h0.667\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M58.8252,53.7607C57.752,53.3047,57,52.2393,57,51c0-1.6562-1.3428-3-3-3c-1.6572,0-3,1.3438-3,3c0,2.7617-2.2393,5-5,5 c-2.7607,0-5-2.2383-5-5s-2.2393-5-5-5\"/></g></g>"
+  },
+  {
+    "id": "object.popcorn",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "popcorn"
+      ],
+      "fr": [
+        "pop-corn"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F37F/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#E46B4A\" stroke=\"none\" points=\"22,27 50,27 47,60 25,60\"/><path fill=\"#F2C14E\" stroke=\"none\" d=\"M50.6719,27.2432l2.8594-1.5469l-0.5284-0.8711C54.167,24.4131,55.001,23.3037,55,21.999 c-0.001-1.4336-1.0107-2.6308-2.3574-2.9258c0.5947-1.1328,0.4306-2.5586-0.5205-3.5078 c-0.8487-0.8496-2.0791-1.0732-3.1397-0.6914c-0.0849-0.9385-0.6035-1.8232-1.4804-2.3291c-0.7989-0.4609-1.7178-0.5-2.5225-0.207 c-0.0859-1.2432-0.9326-2.3516-2.2002-2.6904c-0.9639-0.2588-1.9395-0.0098-2.6602,0.5732C39.7725,10.0811,39.3965,10,39,10 c-0.2432,0-0.4766,0.0371-0.7031,0.0918C37.7461,9.4297,36.9277,9,36,9c-0.9277,0-1.7471,0.4297-2.2969,1.0918 C33.4766,10.0371,33.2432,10,33,10c-0.3955,0-0.7705,0.0811-1.1162,0.2197c-0.7207-0.582-1.6963-0.831-2.6592-0.5722 c-1.4824,0.3974-2.3916,1.8388-2.1797,3.3213c-0.9385-0.8829-2.3711-1.1006-3.5439-0.4239 c-0.8203,0.4737-1.3194,1.2774-1.4531,2.1465c-0.7842-0.0137-1.5713,0.2754-2.169,0.8731 c-0.9512,0.9511-1.1172,2.3779-0.5244,3.5087C18.0088,19.3701,17,20.5654,17.001,21.999c0.001,1.3106,0.8408,2.4239,2.0127,2.833 l-0.2949,0.9424l3.0937,1.9375\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M53.0029,24.8252C54.167,24.4131,55.001,23.3037,55,21.999c-0.001-1.4336-1.0107-2.6308-2.3574-2.9258 c0.5947-1.1328,0.4306-2.5586-0.5205-3.5078c-0.8487-0.8496-2.0791-1.0732-3.1397-0.6914 c-0.0849-0.9385-0.6035-1.8232-1.4804-2.3291c-0.7989-0.4609-1.7178-0.5-2.5225-0.207c-0.0859-1.2432-0.9326-2.3516-2.2002-2.6904 c-0.9639-0.2588-1.9395-0.0098-2.6602,0.5732C39.7725,10.0811,39.3965,10,39,10c-0.2432,0-0.4766,0.0371-0.7031,0.0918 C37.7461,9.4297,36.9277,9,36,9c-0.9277,0-1.7471,0.4297-2.2969,1.0918C33.4766,10.0371,33.2432,10,33,10 c-0.3955,0-0.7705,0.0811-1.1162,0.2197c-0.7207-0.582-1.6963-0.831-2.6592-0.5722c-1.4824,0.3974-2.3916,1.8388-2.1797,3.3213 c-0.9385-0.8829-2.3711-1.1006-3.5439-0.4239c-0.8203,0.4737-1.3194,1.2774-1.4531,2.1465 c-0.7842-0.0137-1.5713,0.2754-2.169,0.8731c-0.9512,0.9511-1.1172,2.3779-0.5244,3.5087C18.0088,19.3701,17,20.5654,17.001,21.999 c0.001,1.3106,0.8408,2.4239,2.0127,2.833\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"22,27 50,27 47,60 25,60\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M26,21c0-1.6572,1.3438-3,3-3\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34,18c0-1.6572,1.3428-3,3-3\"/></g></g>"
+  },
+  {
+    "id": "object.hot-drink",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "hot drink",
+        "coffee",
+        "hot chocolate"
+      ],
+      "fr": [
+        "boisson chaude",
+        "café",
+        "chocolat chaud"
+      ]
+    },
+    "tags": [
+      "drink"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Alexander Müller",
+      "url": "https://openmoji.org/library/emoji-2615/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" fill-rule=\"evenodd\" d=\"m36,52c9.9411,0,18-8.0589,18-18H18c0,9.9411,8.0589,18,18,18Z\"/><path fill=\"#FFFFFF\" d=\"m16.5086,49.9385h41.8588c.69,0,1.0356.8343.5477,1.3222l-3.4059,3.1559c-.3985.3985-.9389.6223-1.5025.6223H20.73c-.661,0-1.2877-.2941-1.7102-.8025l-2.9687-3.3231c-.322-.3875-.0464-.9748.4574-.9748Z\"/><path fill=\"#D0CFCE\" fill-rule=\"evenodd\" d=\"m48.6162,50.6071c.3634-.0085.8242-.035.3004.786-.6808,1.067-1.109,1.7206-1.8992,2.6872-.1829.2652-.4863.1697-.8084.1697h8.4206c.2789,0,1.8401-1.7679,2.9604-2.7771.4262-.6415.9505-.7229.1803-.7229,0,0-8.5204-.1429-9.1541-.1429Z\"/><path fill=\"#D0CFCE\" fill-rule=\"evenodd\" d=\"m46.5067,49.5237c5.5804-3.5502,7.7456-7.7841,7.7456-14.75h-8.5c-.466,6.9489-1.0169,10.097-4.7056,14.75h5.46Z\"/><path fill=\"#D0CFCE\" d=\"m55.0324,34.751l-2.8466,9.3477s7.7321,1.3848,7.9244-3.9622c.1827-5.0781-5.0778-5.3855-5.0778-5.3855Z\"/><path fill=\"#D0CFCE\" fill-rule=\"evenodd\" stroke=\"#D0CFCE\" stroke-miterlimit=\"10\" stroke-width=\"4.05\" d=\"m39.5295,21.1886c.0038-.0038.0076-.0076.0114-.0114,1.9526-1.9526,1.9526-5.1184,0-7.0711-1.9526-1.9526-5.1184-1.9526-7.071,0,1.1715-1.1715,3.071-1.1715,4.2426,0,1.1716,1.1716,1.1716,3.0711,0,4.2427l-3.4534,3.4534c-.0038.0038-.0076.0076-.0114.0114-1.9526,1.9526-1.9526,5.1184,0,7.071,1.9526,1.9526,5.1184,1.9526,7.0711,0-1.1716,1.1716-3.0711,1.1716-4.2427,0s-1.1716-3.071,0-4.2426c0,0,3.4534-3.4534,3.4534-3.4534Z\"/><path fill=\"#D0CFCE\" fill-rule=\"evenodd\" stroke=\"#D0CFCE\" stroke-miterlimit=\"10\" stroke-width=\"2.02\" d=\"m33.0109,14.6184c-.2916.2935-.766.2951-1.0596.0034s-.2951-.766-.0034-1.0596\"/><path fill=\"#D0CFCE\" fill-rule=\"evenodd\" stroke=\"#D0CFCE\" stroke-miterlimit=\"10\" stroke-width=\"2.02\" d=\"m40.8723,29.4025c.294-.2912.2963-.7656.0051-1.0596s-.7656-.2963-1.0596-.0051\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m24,47.4166c-3.6825-3.2959-6-8.0856-6-13.4166h36c0,5.331-2.3175,10.1207-6,13.4166\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-width=\"2.7\" d=\"m51,45h4.5c3.0376,0,5.5-2.4624,5.5-5.5s-2.4624-5.5-5.5-5.5h-2.5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m16.5086,49.9385h41.8588c.69,0,1.0356.8343.5477,1.3222l-3.4059,3.1559c-.3985.3985-.9389.6223-1.5025.6223H20.73c-.661,0-1.2877-.2941-1.7102-.8025l-2.9687-3.3231c-.322-.3875-.0464-.9748.4574-.9748Z\"/></g></g>"
+  },
+  {
+    "id": "object.tea",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "tea"
+      ],
+      "fr": [
+        "thé",
+        "tisane"
+      ]
+    },
+    "tags": [
+      "drink"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-1F375/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" d=\"m19.9055,55.7995h32.1874c10.7962-6.4914,15.9071-19.5078,15.9071-35.0476l-39.3658-.4358h-6.9242l-17.71.4358c0,15.5398,5.1109,28.5562,15.9055,35.0476Z\"/><rect x=\"18.3238\" y=\"29.4186\" width=\"14.019\" height=\"17.5238\" fill=\"#6BAF5B\"/><polygon fill=\"#6BAF5B\" points=\"31 30 21 47 23 46.9424 32.3429 46.9424 32 30 31 30\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m19.5,20.3161H4c0,15.5398,5.1109,28.5562,15.9055,35.0476h32.1874c10.7962-6.4914,15.9071-19.5078,15.9071-35.0476H31.5\"/><line x1=\"25.5\" x2=\"25.3334\" y1=\"20.5\" y2=\"31.4186\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"18.3238\" y=\"29.4186\" width=\"14.019\" height=\"17.5238\" fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.notebook",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "notebook"
+      ],
+      "fr": [
+        "cahier"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F4D3/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#FFFFFF\" stroke=\"none\" points=\"11,57.6968 60,57.6968 60,11.9092 15.9985,11.9092 11.9985,15.9092\"/><path fill=\"#9B9B9A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M55.0015,60.9092h-43.003c-0.5514,0-0.9985-0.447-0.9985-0.9985v-43.003c0-0.5514,0.447-0.9985,0.9985-0.9985h43.003 c0.5514,0,0.9985,0.447,0.9985,0.9985v43.003C56,60.4621,55.553,60.9092,55.0015,60.9092z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11,16.9092l4.9985-5h43.003c0.5514,0,0.9985,0.447,0.9985,0.9985v43.003c0,0.5514-0.447,0.9985-0.9985,0.9985\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M55.0015,60.9092h-43.003c-0.5514,0-0.9985-0.447-0.9985-0.9985v-43.003c0-0.5514,0.447-0.9985,0.9985-0.9985h43.003 c0.5514,0,0.9985,0.447,0.9985,0.9985v43.003C56,60.4621,55.553,60.9092,55.0015,60.9092z\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"47.3583,29.7985 43.3583,29.7985 43.3583,36.7985 47.3583,36.7985\"/><line x1=\"43.3583\" x2=\"46.3583\" y1=\"33.2985\" y2=\"33.2985\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"19.6417,36.7985 19.6417,29.7985 24.6417,36.7985 24.6417,29.7985\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30.8583,36.7985L30.8583,36.7985c-1.3807,0-2.5-1.1193-2.5-2.5v-2c0-1.3807,1.1193-2.5,2.5-2.5l0,0c1.3807,0,2.5,1.1193,2.5,2.5 v2C33.3583,35.6792,32.239,36.7985,30.8583,36.7985z\"/><line x1=\"36.3583\" x2=\"40.3583\" y1=\"29.8286\" y2=\"29.8286\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"38.3583\" x2=\"38.3583\" y1=\"29.8286\" y2=\"36.8286\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.paper",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "paper",
+        "sheet"
+      ],
+      "fr": [
+        "feuille",
+        "papier"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F4C4/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polyline fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,10.9583 55.9577,31.0626 55.9577,60.9583 16.0423,60.9583 16.0423,10.9583 36,10.9583\"/></g><g/><g/><g/><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,10.9583 55.9577,31.0626 55.9577,60.9583 16.0423,60.9583 16.0423,10.9583 36,10.9583\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,10.9583 35.9577,31.0626 49.1463,31.0626\"/></g></g>"
+  },
+  {
+    "id": "object.camera",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "camera",
+        "photo"
+      ],
+      "fr": [
+        "appareil photo",
+        "photo"
+      ]
+    },
+    "tags": [
+      "screen"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F4F7/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#3F3F3F\" d=\"m33.8525,28.0066c-5.2851,0-9.5842,4.2991-9.5842,9.5842s4.2991,9.5842,9.5842,9.5842,9.5842-4.2991,9.5842-9.5842-4.2991-9.5842-9.5842-9.5842Zm0,14.5841c-2.7572,0-5-2.2428-5-5s2.2428-5,5-5,5,2.2428,5,5-2.2428,5-5,5Z\"/><circle cx=\"33.8525\" cy=\"37.5908\" r=\"4.9999\" fill=\"#D0CFCE\"/><path fill=\"#FFFFFF\" d=\"m57.9309,22.9178H15.2697c-1.1816,0-3.1441,1.9245-3.1441,3.0622l.4567,7.2175h8.0465l4.1493.1888c-.0121.0215,3.277-5.7956,9.0743-5.7956,4.1504,0,8.7433,5.0107,8.7387,5.0002l3.3923.2991,13.3036.2302.0374-7.1402c0-1.1377-.2119-3.0622-1.3935-3.0622Z\"/><path fill=\"#F2C14E\" d=\"m27.8182,19.1835c-.0174.2605-.3503-2.1627-.3503-2.1627h-9.0351s-.2818,2.5039-.3056,2.4387v3.3291l9.691-.1182s0-3.4869,0-3.4869Z\"/><path fill=\"#9B9B9A\" d=\"m56.7227,51.768c.1326-.0026,2.6017-1.0404,2.6017-1.1745l-.0374-17.4733-9.7776-.2263-2.383-.6966h-3.6908c.0046.0105.0097.024.0144.0346,0,0,0,.0002,0,.0003.2194.3912-.6648.7965-.4939,1.2153.0112.0275.2962,7.996.1552,8.1433-.4261.4452-2.2637,3.2105-3.0595,3.8446-2.3873,1.9024-4.5862,2.0301-4.6733,2.0385-.3453.0332-1.9984.113-2.1133.0988-.1099-.0138-2.3397-.3828-4.2028-1.3936-1.7796-.9656-3.1984-2.5751-3.2099-2.5883-.5522-.6344-.9877-1.9761-1.0001-2-.119-.2288-1.0291-2.1258-.8403-4.7821.0819-1.1522,1.348-4.4997,1.348-4.4997l-4.7313-.1117c.1805,0-7.9089.3934-7.9089.3934l.1028,16.6105s.0008,1.4067.7237,2.1654c.8471.8893,1.6866.4014,1.6944.4014,0,0,41.4675.0002,41.4818,0Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m15.2697,22.9178c-1.7365,0-3.1441,1.371-3.1441,3.0622v23.2213c0,1.6912,1.4076,3.0623,3.1441,3.0623h41.6606c1.7365,0,3.1441-1.3711,3.1441-3.0623v-23.2213c0-1.6912-1.4076-3.0622-3.1441-3.0622,0,0-41.6606,0-41.6606,0Z\"/><line x1=\"47.1521\" x2=\"59.6177\" y1=\"33.1975\" y2=\"33.1975\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"12.5823\" x2=\"20.6288\" y1=\"33.1975\" y2=\"33.1975\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><circle cx=\"33.8524\" cy=\"37.5907\" r=\"10\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><circle cx=\"33.8524\" cy=\"37.5907\" r=\"5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m27.831,19.1198v-1.0782c0-.5638-.4692-1.0208-1.048-1.0208h-7.6766c-.5787,0-1.048.457-1.048,1.0208v1.0782\"/></g></g>"
+  },
+  {
+    "id": "object.bag",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bag"
+      ],
+      "fr": [
+        "sac"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F45C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#6B4F3A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"61,60.9583 11,60.9583 13,28.5 59,28.5\"/><rect x=\"21.9545\" y=\"31.943\" width=\"9.2099\" height=\"9.2099\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"42.8843\" y=\"31.943\" width=\"9.2099\" height=\"9.2099\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"61,60.9583 11,60.9583 13,28.5 59,28.5\"/><rect x=\"21.9545\" y=\"31.943\" width=\"9.2099\" height=\"9.2099\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"42.8843\" y=\"31.943\" width=\"9.2099\" height=\"9.2099\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M24.5192,25.1873c0-8.5667,1.31-15.5115,11.4851-15.5115s11.4851,6.9447,11.4851,15.5115\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"61,60.9583 11,60.9583 13,28.5 59,28.5\"/></g></g>"
+  },
+  {
+    "id": "object.money",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "money",
+        "coin"
+      ],
+      "fr": [
+        "argent",
+        "pièce"
+      ]
+    },
+    "tags": [
+      "shop"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1FA99/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"translate(6 6) scale(1.2222)\"><g data-layer=\"color\"><ellipse cx=\"34.1528\" cy=\"34.6346\" rx=\"29.0327\" ry=\"22.118\" transform=\"translate(-14.2455 39.4907) rotate(-51.131)\" fill=\"#F2C14E\"/><path fill=\"#FFFFFF\" d=\"M52.1386,12.03a18.6978,18.6978,0,0,0-13.3-3.8592A17.98,17.98,0,0,1,48.9161,12.03c9.5107,7.6656,9.0636,24-.9986,36.4842-6.14,7.6178-14.44,12.034-22.14,12.5837,8.5313.6389,18.354-3.8885,25.3623-12.5837C61.2023,36.03,61.6494,19.6954,52.1386,12.03Z\"/><path fill=\"#F2C14E\" d=\"M55.3488,13.082c-.4942-.3984-1.0176-.7812-1.5577-1.1377a.9281.9281,0,0,0-.1108-.045,1.03,1.03,0,0,0-.5558-.1024.9231.9231,0,0,0-.5263.2355.9427.9427,0,0,0-.0942.0682c-.0189.0205-.0247.047-.0417.0686s-.0414.0338-.0569.0573a.9449.9449,0,0,0-.0443.1094,1.0267,1.0267,0,0,0-.1021.5619.9782.9782,0,0,0,.0434.183.8341.8341,0,0,0,.1891.3358.9413.9413,0,0,0,.07.0971C60.84,21.15,59.9767,36.25,50.5968,47.8887c-9.7021,12.0351-24.97,15.88-34.0342,8.5732a.9608.9608,0,0,0-.1862-.0967c-.019-.01-.0363-.02-.0557-.0289a.97.97,0,0,0-.3-.0741c-.027-.0026-.0525-.0064-.08-.0068a.9161.9161,0,0,0-.5906.1954.94.94,0,0,0-.0972.058c-.0193.0174-.0268.0415-.0444.06-.0158.0171-.0375.0251-.0523.0435a.9354.9354,0,0,0-.0473.091.9593.9593,0,0,0-.1171.2256.9341.9341,0,0,0-.024.097.9719.9719,0,0,0-.0255.2966c.0017.02.0056.0386.0084.0585a.9646.9646,0,0,0,.0962.312c.0079.0157.0178.0295.0266.0447a.9534.9534,0,0,0,.109.1832,20.0687,20.0687,0,0,0,2.2862,2.1582A21.13,21.13,0,0,0,30.91,64.6338c8.59,0,17.8906-4.48,24.5283-12.7149C65.882,38.9619,65.841,21.539,55.3488,13.082Z\"/><path fill=\"#F2C14E\" d=\"M20.6524,44.72c.0722-.2316.6087-2.2138.6809-2.4455,5.9173.1054,6.209-.0917,7.0882-3.008,1.661-5.5087,2.1449-6.4941,3.8058-12.0028.5824-1.9314.4791-2.3538-2.29-2.882L28.25,24.0707c.063-.2034.4414-2.0746.5044-2.278a94.249,94.249,0,0,0,12.214-.7883l-5.4991,19c-.8584,2.9659-.7526,3.2031,4.9288,4.3013-.0656.2347-.5987,2.2183-.6642,2.453Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M53.2375,12.777q.7611.5013,1.4822,1.0818c10.08,8.1245,10.0527,24.8829-.061,37.4308S28.1748,67.4234,18.0948,59.2988a19.09,19.09,0,0,1-2.172-2.05\"/><ellipse cx=\"34.1528\" cy=\"34.6346\" rx=\"29.0327\" ry=\"22.118\" transform=\"translate(-14.2455 39.4907) rotate(-51.131)\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"51.3734\" x2=\"54.6587\" y1=\"48.5146\" y2=\"51.2896\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"47.9155\" x2=\"50.8122\" y1=\"52.2602\" y2=\"55.3725\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.2573\" x2=\"46.6351\" y1=\"55.3041\" y2=\"58.6263\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"40.2427\" x2=\"42.1155\" y1=\"57.9819\" y2=\"61.3263\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54.0356\" x2=\"57.5245\" y1=\"44.7745\" y2=\"47.1887\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M20.6524,44.72c.0722-.2316.6087-2.2138.6809-2.4455,5.9173.1054,6.209-.0917,7.0882-3.008,1.661-5.5087,2.1449-6.4941,3.8058-12.0028.5824-1.9314.4791-2.3538-2.29-2.882L28.25,24.0707c.063-.2034.4414-2.0746.5044-2.278a94.249,94.249,0,0,0,12.214-.7883l-5.4991,19c-.8584,2.9659-.7526,3.2031,4.9288,4.3013-.0656.2347-.5987,2.2183-.6642,2.453Z\"/></g></g>"
+  },
+  {
+    "id": "object.clock",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "clock",
+        "time",
+        "alarm"
+      ],
+      "fr": [
+        "horloge",
+        "heure",
+        "réveil"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Rana Cakir",
+      "url": "https://openmoji.org/library/emoji-23F0/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><line x1=\"50.258\" x2=\"53.1419\" y1=\"55.036\" y2=\"59.8645\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"21.7419\" x2=\"18.858\" y1=\"55.036\" y2=\"59.8645\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M46.1859,14.7917c2.2534-4.6476,4.2653-4.0842,6.1673-4.3168c1.2869-0.1573,6.4609,3.1641,6.4609,6.5799 s-2.2433,4.739-3.5597,5.4867\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M25.8141,14.7917c-2.2533-4.6476-4.2652-4.0842-6.1672-4.3168c-1.287-0.1573-6.461,3.1641-6.461,6.5799 s2.2433,4.739,3.5597,5.4867\"/><circle cx=\"36\" cy=\"36.2941\" r=\"23\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"36.0257\" x2=\"36.0257\" y1=\"18.9893\" y2=\"35.9893\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"35.9742\" x2=\"29.9742\" y1=\"35.9349\" y2=\"46.3272\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.81\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"50.258\" x2=\"53.1419\" y1=\"55.036\" y2=\"59.8645\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"21.7419\" x2=\"18.858\" y1=\"55.036\" y2=\"59.8645\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M48.8497,12.5761c0.9692-0.8502,2.2395-1.3655,3.6301-1.3655c3.0417,0,5.5076,2.4657,5.5076,5.5075 c0,1.1088-0.3277,2.1411-0.8914,3.0052\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M23.1504,12.5761c-0.9693-0.8502-2.2396-1.3655-3.6302-1.3655c-3.0417,0-5.5075,2.4657-5.5075,5.5075 c0,1.1088,0.3276,2.1411,0.8914,3.0052\"/><circle cx=\"36\" cy=\"36.2941\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"36.0257\" x2=\"36.0257\" y1=\"18.9893\" y2=\"35.9893\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"35.9742\" x2=\"29.9742\" y1=\"35.9349\" y2=\"46.3272\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.81\"/></g></g>"
+  },
+  {
+    "id": "object.calendar",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "calendar",
+        "date"
+      ],
+      "fr": [
+        "calendrier",
+        "date"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F4C5/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" d=\"m12,28.1224l-.003,31.9694,31.6594-.0054,16.0898-12.0482c-.0072-.0488.2538-3.9464.2538-3.9464l-.003-16-47.997.0306Z\"/><path fill=\"#E46B4A\" d=\"m12.1937,28.2921l47.8033-.2003.003-16.4694s-6.5361.0002-5.9834.0002h-3.5569l.0526,5.272c1.7272.4562,2.1504,3.0869,2.1504,3.0874-.0225,2.1919-2.6783,2.5299-2.6907,2.5274-1.8479-.3787-2.4888-1.2828-2.4683-2.8021.0144-1.0682.046-1.3296.8087-2.0781.5122-.5019.6338-.6085,1.3107-.7802l-.0279-5.2264h-3.5395c.261,0-20.6026,0-20.0498,0h-3.6621l.071,5.2264c1.7272.4562,2.2925.8529,2.2752,2.7188-.0205,2.1929-2.706,3.2811-2.7187,3.2811-2.2051-.0215-2.9918-1.0379-2.9713-3.243.0098-1.0683.8766-1.8637,1.6393-2.6122.5122-.5019.6989-.822,1.3758-.9937l-.2395-4.3774h-3.7434c.2142,0-6.0322-.0002-6.0322-.0002l.1937,16.6697Z\"/><path fill=\"#D0CFCE\" d=\"m59.997,48.0382h-16.8586s-.8989,6.1042-.9709,5.6225v5.4255l1.4889,1.0002,16.3406-12.0482Z\"/></g><g data-layer=\"line\"><circle cx=\"22.0016\" cy=\"19.8486\" r=\"3.0001\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"26.0057\" x2=\"46.0558\" y1=\"12.1224\" y2=\"12.1224\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"54.0163 12.1224 60 12.1224 60 28.1224 12 28.1224 12 12.1224 18.0318 12.1224\"/><line x1=\"22.0151\" x2=\"22.0151\" y1=\"8.6884\" y2=\"18.9976\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><circle cx=\"50.0032\" cy=\"19.8474\" r=\"3.0001\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"50.0158\" x2=\"50.0158\" y1=\"8.6884\" y2=\"18.9976\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m34.3355,38.092c.5248-2.5644,2.7937-4.4936,5.5134-4.4936h0c1.5539,0,2.9609.63,3.9793,1.6484,1.5843,1.5842,1.438,4.2167-.0484,5.8928l-9.5586,10.7799h4.7601\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"23.2764 37.3982 28.3485 33.5984 28.3485 51.9195\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"11.997 28.0918 11.997 60.0918 43.6564 60.0864 59.997 48.0382 59.997 28.0918\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"59.7462 48.0382 43.1384 48.0382 43.1384 53.5175\"/></g></g>"
+  },
+  {
+    "id": "object.light",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "light",
+        "lamp"
+      ],
+      "fr": [
+        "lumière",
+        "lampe"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F4A1/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" d=\"m35.71,64.65c4.779,0,7.509-2.244,8.156-5.151h-16.31c.647,2.907,3.376,5.151,8.155,5.151h-.001Z\"/><path fill=\"#F2C14E\" d=\"m45.2028,10.655s-12.23-3.457-18.2,1.269c-5.969,4.726-6.401,15.6-6.401,15.6.5848,2.213,4.226,8.493,4.226,8.493.54.9111,2.253,7.481,3.249,11.36h15.92c.8662-2.845,4.35-13.15,4.805-14.21.584-1.363,1.58-4.016,2.083-5.017,1.21-2.409,1.1663-4.533.5378-7.027-1.3571-5.385-2.4738-6.7228-6.221-10.47l.0012.002Z\"/><path fill=\"#FFFFFF\" d=\"m35.71,7.202c-8.532,0-16.5,6.752-16.5,15.28,0,1.079-.2641,4.491,1.217,4.491,0,0,2.393-7.825,8.362-12.55,5.969-4.725,15.52-3.725,15.52-3.725-.6645-2.045-5.55-3.499-8.596-3.499l-.003.003Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m52.55,23.75c0,3.985-1.785,5.908-3.754,10.5-.5028,1.172-4.211,13.38-4.211,13.38h-17.17s-2.981-11.67-3.546-12.62c-2.37-3.998-4.419-6.91-4.419-11.26,0-9.141,7.41-16.55,16.55-16.55s16.55,7.41,16.55,16.55Z\"/><line x1=\"36\" x2=\"36\" y1=\"47.22\" y2=\"35.28\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"41.97\" x2=\"30.03\" y1=\"35.28\" y2=\"35.28\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.29\" d=\"m44.16,58.79c0,3.24-3.651,5.867-8.155,5.867s-8.155-2.627-8.155-5.867h16.31Z\"/><line x1=\"27.99\" x2=\"44.01\" y1=\"54.98\" y2=\"51.51\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.65\"/><line x1=\"38.2\" x2=\"43.98\" y1=\"56.07\" y2=\"54.89\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"28.02\" x2=\"33.8\" y1=\"51.6\" y2=\"50.42\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.door",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "door"
+      ],
+      "fr": [
+        "porte"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F6AA/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><rect x=\"18\" y=\"9\" width=\"36\" height=\"54\" fill=\"#A57939\" stroke=\"none\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"24\" y=\"14.0943\" width=\"24\" height=\"16.3019\" fill=\"#6B4F3A\" stroke=\"none\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"24\" y=\"45.6792\" width=\"24\" height=\"11.2075\" fill=\"#6B4F3A\" stroke=\"none\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g/><g/><g/><g data-layer=\"line\"><rect x=\"18\" y=\"9\" width=\"36\" height=\"54\" fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><ellipse cx=\"49\" cy=\"36.5094\" rx=\"2.5\" ry=\"2.0377\" fill=\"#1F2937\" stroke=\"none\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M49.5,41.6038h-1c-0.5523,0-1-0.4477-1-1v-6.1509c0-0.5523,0.4477-1,1-1h1c0.5523,0,1,0.4477,1,1v6.1509 C50.5,41.1561,50.0523,41.6038,49.5,41.6038z\"/><rect x=\"24\" y=\"14.0943\" width=\"24\" height=\"16.3019\" fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"24\" y=\"45.6792\" width=\"24\" height=\"11.2075\" fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.window",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "window"
+      ],
+      "fr": [
+        "fenêtre"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1FA9F/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g><line x1=\"35.9004\" x2=\"35.9004\" y1=\"14.7127\" y2=\"57.1676\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.73\"/><line x1=\"14.7206\" x2=\"57.2826\" y1=\"35.9583\" y2=\"35.9583\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.73\"/></g><g data-layer=\"color\"><rect x=\"14.513\" y=\"14.6126\" rx=\"0.7841\" width=\"42.7749\" height=\"42.7749\" fill=\"#7EC8E3\"/><polygon fill=\"#FFFFFF\" points=\"14.535 26.666 26.588 14.613 55.23 14.613 14.514 55.477 14.535 26.666\"/><path fill=\"#A57939\" d=\"M60.94,62H11.0176a1.06,1.06,0,0,1-1.06-1.06V11.0179a1.06,1.06,0,0,1,1.06-1.06H60.94a1.06,1.06,0,0,1,1.06,1.06V60.94A1.06,1.06,0,0,1,60.94,62ZM16.5733,56.3877H55.228a1.06,1.06,0,0,0,1.06-1.06V16.6722a1.06,1.06,0,0,0-1.06-1.06H16.5733a1.06,1.06,0,0,0-1.06,1.06V55.3278A1.06,1.06,0,0,0,16.5733,56.3877Z\"/><line x1=\"35.9004\" x2=\"35.9004\" y1=\"14.6126\" y2=\"57.3874\" fill=\"none\" stroke=\"#A57939\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.73\"/><line x1=\"14.513\" x2=\"57.2879\" y1=\"35.9583\" y2=\"35.9583\" fill=\"none\" stroke=\"#A57939\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.73\"/></g><g data-layer=\"line\"><line x1=\"61\" x2=\"10.9583\" y1=\"61\" y2=\"61\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"10.958 57.168 10.958 10.958 61 10.958 61 57.168\"/></g></g>"
+  },
+  {
+    "id": "object.sofa",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "sofa",
+        "living room"
+      ],
+      "fr": [
+        "canapé",
+        "salon"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F6CB/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><rect x=\"6.833\" y=\"55.62\" width=\"5.422\" height=\"7.064\" fill=\"#A57939\" stroke-width=\"1.41\"/><rect x=\"51.82\" y=\"55.62\" width=\"5.422\" height=\"7.064\" fill=\"#A57939\" stroke-width=\"1.41\"/><path fill=\"#7EC8E3\" d=\"m12.54 28.49h38.94l0.243 26.82-38.96-0.2078z\"/><rect x=\"12.62\" y=\"46.36\" width=\"39.1\" height=\"8.952\" fill=\"#4F86C6\" stroke-width=\"1.22\"/><path transform=\"rotate(90 56.28 44.95)\" fill=\"#4F86C6\" d=\"m45.93 43.3h20.69l0.01452 6.212-20.71-0.1735z\"/><path transform=\"rotate(90 7.178 44.95)\" fill=\"#4F86C6\" d=\"m-1.848 39.65 19.39-0.1405-0.01452 7.167h-21.36z\"/><polyline fill=\"#A57939\" points=\"52.74 57.65 52.74 62.46 56.17 62.46 56.17 57.65\"/><polyline fill=\"#A57939\" points=\"7.444 57.61 7.444 62.46 10.87 62.46 10.87 57.61\"/><path fill=\"#F2C14E\" d=\"m34.46 9.549v8.465s6.279 3.422 12.56 0v-8.465c1e-4 0-6.279-3.782-12.56 0z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m12.61 36.87v-8.385h38.94v8.274c2.138-2.907 3.386-2.824 6.768-2.824v21.36h-52.47v-21.36c3.594-0.509 4.265 0.6135 6.768 2.935z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m7.833 58.61v3.852h3.422v-3.852\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m52.82 58.61v3.852h3.422v-3.852\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m34.53 9.549v8.465c4.382 2.115 8.559 2.125 12.56 0v-8.465c-4.033-2.29-8.197-2.384-12.56 0z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m12.7 46.42h38.86\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m51.56 54.6-0.0113-17.84\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m12.61 36.87 0.01095 18.44\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m47.09 13.7s15.18-2.847 15.56 19.74c0.0985 5.856 0 23.43 0 23.43\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m58.92 59.61h7.546\"/></g></g>"
+  },
+  {
+    "id": "object.mirror",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "mirror"
+      ],
+      "fr": [
+        "miroir"
+      ]
+    },
+    "tags": [
+      "home",
+      "hygiene"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1FA9E/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g><line x1=\"39.843\" x2=\"43.4774\" y1=\"24.5524\" y2=\"29.6505\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"34.8239\" x2=\"42.8042\" y1=\"25.2117\" y2=\"36.4059\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M35.8447,61.958c-3.7715,0-7.0723-2.167-8.0274-5.27A4.387,4.387,0,0,0,25.19,54.3721V57.27a.9994.9994,0,0,1-1,1H20.7617a.9993.9993,0,0,1-1-1V51.916c-2.4375-.7646-4.1787-3.7558-4.1787-7.4189a9.83,9.83,0,0,1,1.1728-4.7617,11.4276,11.4276,0,0,0-.0039-7.5469,9.8345,9.8345,0,0,1-1.1689-4.7549c0-2.9346,1.1484-5.5518,2.997-6.83a4.4373,4.4373,0,0,1,1.1817-.5869V14.3115a.9994.9994,0,0,1,1-1H24.19a1,1,0,0,1,1,1v3.2256a4.4515,4.4515,0,0,0,2.6494-2.374c.9326-3.0381,4.2334-5.2051,8.0049-5.2051,3.874,0,7.2685,2.3164,8.1064,5.5195A4.2416,4.2416,0,0,0,46.499,17.6V14.3115a1,1,0,0,1,1-1h3.4287a1,1,0,0,1,1,1v5.7276a4.4646,4.4646,0,0,1,1.0225.5048,1.1831,1.1831,0,0,1,.207.1456,8.3647,8.3647,0,0,1,2.8769,6.7441,9.9323,9.9323,0,0,1-1.08,4.5937.8654.8654,0,0,1-.0323.1045,11.4664,11.4664,0,0,0-.0078,7.6465.9736.9736,0,0,1,.0449.1338,9.9375,9.9375,0,0,1,1.0752,4.585,8.3669,8.3669,0,0,1-2.8711,6.7392,1.03,1.03,0,0,1-.1816.128,4.411,4.411,0,0,1-1.0537.5263V57.27a.9994.9994,0,0,1-1,1H47.499a.9994.9994,0,0,1-1-1v-2.959a4.2432,4.2432,0,0,0-2.5479,2.128C43.1132,59.6416,39.7187,61.958,35.8447,61.958Z\"/><path fill=\"#7EC8E3\" d=\"M36,55.93c-8.044,0-14.5879-8.87-14.5879-19.7735S27.956,16.3838,36,16.3838s14.5879,8.87,14.5879,19.7724S44.0439,55.93,36,55.93Z\"/><line x1=\"39.843\" x2=\"43.4774\" y1=\"24.5524\" y2=\"29.6505\" fill=\"none\" stroke=\"#FFFFFF\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"34.8239\" x2=\"42.8042\" y1=\"25.2117\" y2=\"36.4059\" fill=\"none\" stroke=\"#FFFFFF\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g><g data-layer=\"line\"><ellipse cx=\"36\" cy=\"36.1564\" rx=\"13.5878\" ry=\"18.773\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.1909,18.8628V14.3115H20.762v6.5222\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M44.9041,17.9478a4.572,4.572,0,0,1-1.9029-2.1506c-.684-2.7619-3.628-4.8389-7.1565-4.8389-3.409,0-6.2643,1.9414-7.0712,4.5635A4.8632,4.8632,0,0,1,26.7079,17.9\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M50.9275,20.8392V14.3115H47.4986V18.89\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M53.2382,49.8211a8.028,8.028,0,0,0,1.7963-5.3245,8.7693,8.7693,0,0,0-1.05-4.2829l.0073-.0506a12.3867,12.3867,0,0,1,0-8.3983l-.0071-.0489a8.7692,8.7692,0,0,0,1.05-4.2824,8.0279,8.0279,0,0,0-1.7962-5.3245\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M47.4986,53.0217v4.2474h3.4289V51.0908\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M26.7061,54.0136a4.872,4.872,0,0,1,2.0674,2.3812c.8069,2.6221,3.6622,4.5635,7.0712,4.5635,3.5285,0,6.4725-2.077,7.1565-4.8389A4.5494,4.5494,0,0,1,44.83,54.0135\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M20.762,51.0963v6.1728h3.4289v-4.22\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M18.482,21.9973a7.9338,7.9338,0,0,0-1.8994,5.4362,8.7366,8.7366,0,0,0,1.079,4.3308v.0005a12.3867,12.3867,0,0,1,0,8.3983l0,.0023a8.7366,8.7366,0,0,0-1.0793,4.3312,7.9289,7.9289,0,0,0,1.9,5.4372\"/></g></g>"
+  },
+  {
+    "id": "object.basket",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "basket"
+      ],
+      "fr": [
+        "panier"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Tonia Reinhardt",
+      "url": "https://openmoji.org/library/emoji-1F9FA/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#A57939\" points=\"36 35.129 17.213 35.084 22.09 58.34 36 58.34 49.91 58.34 54.787 35.084 36 35.129\"/><polygon fill=\"#A57939\" points=\"15.092 27.478 15.092 35.15 56.608 35.15 57.357 27.478 15.092 27.478\"/><path fill=\"#A57939\" d=\"M31.6746,32.2975,22.4853,17.56c-1.1159-1.79-.83-3.9827.638-4.8982h0c1.4682-.9156,3.5631-.207,4.6791,1.5827L38.9357,32.2975Z\"/></g><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"36 35.129 17.213 35.084 22.09 58.34 36 58.34 49.91 58.34 54.787 35.084 36 35.129\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M31.6746,32.2975,22.4853,17.56c-1.1159-1.79-.83-3.9827.638-4.8982h0c1.4682-.9156,3.5631-.207,4.6791,1.5827L38.9357,32.2975Z\"/><g><line x1=\"39.1761\" x2=\"47.8885\" y1=\"37.7919\" y2=\"47.3696\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"28.9154\" x2=\"44.7347\" y1=\"37.6497\" y2=\"55.2642\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"23.845\" x2=\"36.383\" y1=\"41.5015\" y2=\"55.6997\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"25.2828\" x2=\"26.6673\" y1=\"54.0989\" y2=\"55.4775\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"24.5639\" x2=\"32.5746\" y1=\"46.4652\" y2=\"37.7919\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"26.8759\" x2=\"43.3942\" y1=\"55.3523\" y2=\"37.7919\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"36.383\" x2=\"48.4451\" y1=\"55.6997\" y2=\"43.2164\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"44.7347\" x2=\"46.8963\" y1=\"55.2642\" y2=\"53.4424\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g><circle fill=\"#1F2937\" cx=\"33.8738\" cy=\"29.8369\" r=\"0.8858\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"36.383 27.427 57.357 27.427 57.357 35.092 14.643 35.092 14.643 27.427 27.849 27.427\"/></g></g>"
+  },
+  {
+    "id": "object.box",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "box",
+        "parcel"
+      ],
+      "fr": [
+        "boîte",
+        "carton",
+        "colis"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F4E6/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F4AA41\" d=\"m34.3223,64.1641c-.1755,0-.3479-.0462-.5-.1338l-22.6894-13.3321c-.3095-.1787-.5001-.5089-.5-.8662l-.251-27.414c0-.3573.1905-.6875.5-.8662l24.1904-14.3318c.3096-.1777.6904-.1777,1,0l22.6905,13.0818c.4784.2759.6426.8874.3666,1.3659-.0875.1517-.2133.2777-.3647.3655l-23.1923,14.0001-.2501,27.1327c-.0015.5514-.4486.9977-1,.9981Z\"/><polygon fill=\"#F4AA41\" points=\"36 64.5715 60.7589 50.4641 60.413 21.988 35.5724 36.0333 36 64.5715\"/><path fill=\"#D0CFCE\" d=\"m44.4415,37.9783c-.7769-.442-1.2545-1.2692-1.249-2.163v-4.1719l-22.8806-15.5295c.692-.4567,6.2179-3.6331,6.5605-3.7231l26.1492,13.0017c.3095.1787.5001.5089.5.8662v6.0244c-.0018,1.1714-.6264,2.2536-1.64,2.8409l-4.9444,2.8544c-.771.4505-1.7251.4505-2.4961,0h.0004Z\"/><path fill=\"#D0CFCE\" d=\"m44.8377,59.475v-3.336c.0017-1.0607.5674-2.0405,1.4853-2.5722l6.0733-3.5068c.8836-.5099,2.0133-.207,2.5232.6766.162.2808.2473.5992.2473.9234,0,0-.0232,1.6053-.3301,1.8473-2.0407,1.6093-9.9991,6.2783-9.999,5.9677Z\"/><path fill=\"#3F3F3F\" d=\"m44.4274,45.9464v.8683c0,.8266.67,1.4967,1.4967,1.4967.2628,0,.5209-.0692.7485-.2006l6.8048-3.76c.7054-.4073,1.14-1.1599,1.14-1.9745v-1.1184c0-.7976-.6466-1.4442-1.4442-1.4442-.2535,0-.5025.0667-.7221.1935l-6.7455,3.7252c-.7909.4567-1.2781,1.3006-1.2781,2.2139Z\"/><polygon fill=\"#FFFFFF\" points=\"31.083 38.917 22.785 34.264 22.785 41.706 31.083 46.359 31.083 38.917\"/></g><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"61.262 21.168 35.572 6.336 9.882 21.168 9.882 50.832 35.572 65.664 61.262 50.832 61.262 21.168\"/><line x1=\"35.5724\" x2=\"35.5724\" y1=\"36.0333\" y2=\"65.6642\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"35.6301\" x2=\"9.9401\" y1=\"36.0333\" y2=\"21.2012\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"52.5169\" x2=\"61.2624\" y1=\"26.2504\" y2=\"21.2012\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"35.5724\" x2=\"44.1879\" y1=\"36.0333\" y2=\"31.0591\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m26.884,11.4565l25.6375,14.8018v6.0248c0,.8146-.4346,1.5672-1.14,1.9745l-4.9439,2.8543c-.7158.4133-1.6312.1681-2.0446-.5477-.1314-.2276-.2006-.4857-.2006-.7485v-4.7486l-25.5689-14.8183\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"31.083 38.917 22.785 34.264 22.785 41.706 31.083 46.359 31.083 38.917\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m54.1667,54.6663v-3.0063c0-.4679-.3793-.8472-.8472-.8472-.1487,0-.2948.0391-.4236.1135l-6.073,3.5062c-.6098.3519-.9854,1.0025-.9853,1.7065v3.3361\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m44.4274,45.9464v.8683c0,.8266.67,1.4967,1.4967,1.4967.2628,0,.5209-.0692.7485-.2006l6.8048-3.76c.7054-.4073,1.14-1.1599,1.14-1.9745v-1.1184c0-.7976-.6466-1.4442-1.4442-1.4442-.2535,0-.5025.0667-.7221.1935l-6.7455,3.7252c-.7909.4567-1.2781,1.3006-1.2781,2.2139Z\"/></g></g>"
+  },
+  {
+    "id": "object.bucket",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bucket"
+      ],
+      "fr": [
+        "seau"
+      ]
+    },
+    "tags": [
+      "play",
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1FAA3/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#7EC8E3\" d=\"m44.01,60.96h-16.57c-1.9631-.0096-3.6058-1.4922-3.816-3.444l-2.695-23.7h29.83l-2.936,23.74c-.2307,1.9334-1.864,3.393-3.811,3.406l-.002-.002Z\"/><path fill=\"#4F86C6\" d=\"m45.04,33.81l-2.937,23.74c-.2307,1.9334-1.864,3.393-3.811,3.406h5.716c1.947-.013,3.5803-1.4726,3.811-3.406l2.936-23.74h-5.715Z\"/><path fill=\"#4F86C6\" d=\"m50.97,35.87h-30.02c-1.1976-.0088-2.1621-.9854-2.156-2.183v-.7919c-.015-3.0095,2.4085-5.4634,5.418-5.486h23.5c3.0095.0226,5.433,2.4765,5.418,5.486v.7919c.0061,1.1972-.9578,2.1736-2.155,2.183h-.005Z\"/><path fill=\"#FFFFFF\" d=\"m40.73,8.888v5.155h-9.552v-5.155h9.552Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m49.18,38.23l-2.374,19.19c-.1677,1.4225-1.3697,2.4967-2.802,2.504h-16.57c-1.443-.0075-2.6503-1.0973-2.805-2.532l-2.179-19.17\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m50.97,34.84c.6324-.0038,1.1419-.5196,1.138-1.152,0-.0004,0-.0007,0-.001v-.7926c.0155-2.4455-1.9544-4.4405-4.3998-4.456,0,0-.0001,0-.0002,0h-23.5c-2.4455.0154-4.4154,2.0104-4.4,4.4558,0,0,0,.0001,0,.0002v.7926c-.0039.6324.5056,1.1481,1.138,1.152h0l30.024.001Z\"/><rect x=\"31.178\" y=\"8.887\" width=\"9.552\" height=\"5.155\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m40.71,11.54c9.1249,2.4698,15.4174,10.8076,15.29,20.26\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m31.18,11.57c-9.0703,2.5087-15.3069,10.82-15.18,20.23\"/><line x1=\"16.0077\" x2=\"17.0921\" y1=\"31.8233\" y2=\"31.8233\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"54.9174\" x2=\"56.0017\" y1=\"31.8967\" y2=\"31.8967\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.broom",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "broom"
+      ],
+      "fr": [
+        "balai"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Tonia Reinhardt",
+      "url": "https://openmoji.org/library/emoji-1F9F9/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M20.6736,59.9844c1.2983-1.388,3.5826-3.6053,4.8424-4.9521-1.4537.886-4.2076,3.37-5.6142,4.2624A46.0024,46.0024,0,0,1,14.41,54.5235a23.6424,23.6424,0,0,0,9.05-4.15,29.78,29.78,0,0,1-10.084,2.9036,47.9434,47.9434,0,0,1-3.4267-5.45c7.1521,1.9446,14.9291-.92,19.73-5.92,1.2414.7174,2.835,1.59,4.1359,2.2474a3.2052,3.2052,0,0,1,1.6174,1.9094c1.7464,4.6657.728,8.7784-2.4318,12.475-1.3221,1.5467-3.2938,3.9123-5.0353,4.9607A33.9572,33.9572,0,0,1,20.6736,59.9844Z\"/><path fill=\"#A57939\" d=\"M36.41,39.1206l-2.5918-1.5c.684-1.1936,1.3464-2.3568,2.0156-3.516Q43.0888,21.5374,50.3463,8.9716c.0989-.1713.1948-.3449.3033-.51A1.4973,1.4973,0,0,1,53.234,9.9742c-.81,1.4511-1.6532,2.8832-2.484,4.3224Q44.3857,25.322,38.02,36.347C37.4975,37.2525,36.9705,38.1556,36.41,39.1206Z\"/><path fill=\"#7EC8E3\" d=\"M35.17,44.2183,30.05,41.2608c.5348-.9183,1.0216-1.82,1.5756-2.6789a.9318.9318,0,0,1,1.31-.3181q1.7127.9444,3.3875,1.9568a.9384.9384,0,0,1,.377,1.2973C36.2334,42.4269,35.696,43.3,35.17,44.2183Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M20.6736,59.9844c1.2983-1.388,3.5826-3.6053,4.8424-4.9521-1.4537.886-4.2076,3.37-5.6142,4.2624A46.0024,46.0024,0,0,1,14.41,54.5235a23.6424,23.6424,0,0,0,9.05-4.15,29.78,29.78,0,0,1-10.084,2.9036,47.9434,47.9434,0,0,1-3.4267-5.45c7.1521,1.9446,14.9291-.92,19.73-5.92,1.2414.7174,2.835,1.59,4.1359,2.2474a3.2052,3.2052,0,0,1,1.6174,1.9094c1.7464,4.6657.728,8.7784-2.4318,12.475-1.3221,1.5467-3.2938,3.9123-5.0353,4.9607A33.9572,33.9572,0,0,1,20.6736,59.9844Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M36.41,39.1206l-2.5918-1.5c.684-1.1936,1.3464-2.3568,2.0156-3.516Q43.0888,21.5374,50.3463,8.9716c.0989-.1713.1948-.3449.3033-.51A1.4973,1.4973,0,0,1,53.234,9.9742c-.81,1.4511-1.6532,2.8832-2.484,4.3224Q44.3857,25.322,38.02,36.347C37.4975,37.2525,36.9705,38.1556,36.41,39.1206Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M35.17,44.2183,30.05,41.2608c.5348-.9183,1.0216-1.82,1.5756-2.6789a.9318.9318,0,0,1,1.31-.3181q1.7127.9444,3.3875,1.9568a.9384.9384,0,0,1,.377,1.2973C36.2334,42.4269,35.696,43.3,35.17,44.2183Z\"/><circle fill=\"#1F2937\" cx=\"33.0575\" cy=\"63.3582\" r=\"1.4081\"/><circle fill=\"#1F2937\" cx=\"36.2993\" cy=\"59.2947\" r=\"1.1846\"/><circle fill=\"#1F2937\" cx=\"36.2993\" cy=\"62.2939\" r=\"0.9413\"/></g></g>"
+  },
+  {
+    "id": "object.cream",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cream",
+        "lotion"
+      ],
+      "fr": [
+        "crème"
+      ]
+    },
+    "tags": [
+      "hygiene"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Tonia Reinhardt",
+      "url": "https://openmoji.org/library/emoji-1F9F4/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#4F86C6\" d=\"M48.0312,34.43V53.1413a5.2419,5.2419,0,0,1-5.2493,5.24H29.905a5.24,5.24,0,0,1-5.24-5.24V34.43a9.5463,9.5463,0,0,1,8.7611-9.5137c.2509-.0186.5111-.0279.7712-.0279h4.3016A9.542,9.542,0,0,1,48.0312,34.43Z\"/><path fill=\"#7EC8E3\" d=\"M42.1781,34.43V53.1413a5.24,5.24,0,0,1-5.24,5.24H29.905a5.24,5.24,0,0,1-5.24-5.24V34.43a9.5463,9.5463,0,0,1,8.7611-9.5137A9.5383,9.5383,0,0,1,42.1781,34.43Z\"/><path fill=\"#E46B4A\" d=\"M36.0746,17.7765h0a3.7,3.7,0,0,1,3.7,3.7v3.1971a0,0,0,0,1,0,0h-7.4a0,0,0,0,1,0,0V21.4765A3.7,3.7,0,0,1,36.0746,17.7765Z\"/><ellipse cx=\"36.3481\" cy=\"41.6347\" rx=\"6.8339\" ry=\"10.5612\" fill=\"#E46B4A\"/></g><g data-layer=\"line\"><path fill=\"#1F2937\" d=\"M38.97,14.268H33.3872c-.1475-.1475,2.7839,4.4322,2.7916,4.42C36.1864,18.7,39.1179,14.1205,38.97,14.268Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M23.96,17.1731c.0775-.0278,5.1429-2.9513,5.1429-2.9513H42.18\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M34.9279,24.8908h2.8388A10.2649,10.2649,0,0,1,48.0316,35.1557V52.74a5.6461,5.6461,0,0,1-5.6461,5.6461H30.309A5.6461,5.6461,0,0,1,24.6629,52.74V35.1557A10.2649,10.2649,0,0,1,34.9279,24.8908Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M36.0746,17.7765h0a3.7,3.7,0,0,1,3.7,3.7v3.1971a0,0,0,0,1,0,0h-7.4a0,0,0,0,1,0,0V21.4765A3.7,3.7,0,0,1,36.0746,17.7765Z\"/><ellipse cx=\"36.3481\" cy=\"41.6347\" rx=\"6.8339\" ry=\"10.5612\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.injection",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "injection",
+        "vaccine"
+      ],
+      "fr": [
+        "piqûre",
+        "vaccin"
+      ]
+    },
+    "tags": [
+      "health"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Tonia Reinhardt",
+      "url": "https://openmoji.org/library/emoji-1F489/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path transform=\"rotate(45)\" fill=\"#FFFFFF\" fill-rule=\"evenodd\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"0.14\" d=\"m45.25-20.36h9.591v19.33h-9.591z\"/><path transform=\"rotate(45)\" fill=\"#E46B4A\" d=\"m48.52 10.64h3.608v3.691h-3.608z\"/><rect x=\"47.94\" y=\"-29.98\" width=\"4.643\" height=\"10.19\" transform=\"rotate(45)\" fill=\"#D0CFCE\"/><path fill=\"#E46B4A\" d=\"m32.77 31.37 6.738 6.681-8.252 8.252-6.782-6.782z\"/></g><g/><g/><g/><g data-layer=\"line\"><path transform=\"rotate(45)\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m45.25-20.36h9.591v31.01h-9.591z\"/><rect x=\"48.52\" y=\"10.64\" width=\"3.608\" height=\"3.691\" transform=\"rotate(45)\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m58.61 15.46-7.123 7.123-3.283-3.283 7.108-7.108\"/><line x1=\"24.95\" x2=\"12.8\" y1=\"46.21\" y2=\"58.37\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"41.07\" x2=\"43.16\" y1=\"32.29\" y2=\"34.37\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"43.93\" x2=\"47.14\" y1=\"27.18\" y2=\"30.39\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path transform=\"rotate(45)\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m45.25-1.03h9.591v11.67h-9.591z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m53.57 10.43 6.744 6.744\"/></g></g>"
+  },
+  {
+    "id": "object.wheelchair",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "wheelchair"
+      ],
+      "fr": [
+        "fauteuil roulant"
+      ]
+    },
+    "tags": [
+      "health",
+      "mobility"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Evelyn Soos",
+      "url": "https://openmoji.org/library/emoji-1F9BD/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" d=\"m26.307,29.4551s-2.6641-.6524-4.0777.5981-3.0991,10.2758-3.2622,11.2545,2.3923,3.534,2.3923,3.534l2.9903-1.1961s.2718-11.472,1.9573-14.1905Z\"/><path fill=\"#E46B4A\" d=\"m50.33,11.0293c.9038-.1443,1.4512.6169,1.2165,1.6916l-3.5293,16.16c-.2482,1.0838-1.2989,1.7857-2.3952,1.6l-21.1332-3.8018c-.6015.001-1.09-.4859-1.091-1.0874-.0005-.3166.1368-.6178.3761-.8251l.073-.0908c.8156-.9055,2.0157-1.3653,3.2275-1.2367l15.6617,2.5533c1.1146.1582,2.1753-.5295,2.4857-1.6116l2.9532-11.1557c.2783-1.0622,1.0982-1.8976,2.155-2.1958Z\"/><circle cx=\"40.8929\" cy=\"38.8172\" r=\"14.9622\" fill=\"#D0CFCE\"/><circle cx=\"22.5204\" cy=\"50.1301\" r=\"3.8971\" fill=\"#D0CFCE\"/></g><g data-layer=\"line\"><line x1=\"19.2468\" x2=\"13.9409\" y1=\"45.2892\" y2=\"45.2892\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"51.759\" x2=\"48.7419\" y1=\"11.7483\" y2=\"25.5634\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m30.35,27.3077l-5.7455-.9827c-2.2158-.1266-4.229,1.284-4.8664,3.41,0,0-4.2077,9.749-2.3324,17.2505\"/><circle cx=\"40.8929\" cy=\"38.8172\" r=\"14.9622\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><circle cx=\"22.5204\" cy=\"50.1301\" r=\"3.8971\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.16\"/><line x1=\"17.1822\" x2=\"20.2143\" y1=\"43.0317\" y2=\"46.233\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.hearing-aid",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "hearing aid"
+      ],
+      "fr": [
+        "appareil auditif"
+      ]
+    },
+    "tags": [
+      "health"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Laura Dworatschek",
+      "url": "https://openmoji.org/library/emoji-1F9BB/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#1F2937\" d=\"M46.0938,29.8141a8.0935,8.0935,0,0,0,1.231-5.1156c-.3322-8.5131-6.5889-10.9008-9.5933-13.4778,4.1911,5.4922,5.9607,10.7559,2.6157,20.8539C40.3472,32.0746,43.68,33.5811,46.0938,29.8141Z\"/></g><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M15.2237,17.3624C19.8487-.1792,51.1166,4.6141,39.8279,33.2791c-14.5919,35.7917-32.7917,24.6771-29.7292,13\"/></g><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M35.5248,33.6662c3.6637-21.8775-14.5625-17.2394-16.0056-11.6769C23.4935,6.1143,43.6107,12.3969,35.5248,33.6662Z\"/><path fill=\"#F2C14E\" d=\"M24,25.6855c4.4385,7,8.3371,13.9079,2.3371,16.6163-1.3969.5735-2.8765.4132-4.3824,1.1735-1.5343.7223-1.8192,1.3265-3.6385,3.2848-2.5625,2.0625-5.7708-1.5465-3.9583-3.6875,3.0729-3.3958,6.4479-3.9271,4.6667-7.2083-1.2187-2.2047.4957-5.0277,4.402-3.9027Z\"/></g><g data-layer=\"line\"><g><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M50.45,18.001a20.3132,20.3132,0,0,1,1.2748,9.7546,13.6741,13.6741,0,0,1-.5124,2.2184\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M54.6652,15.0123a27.8846,27.8846,0,0,1,1.6739,13.0089,18.6581,18.6581,0,0,1-.6573,2.9564\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M58.9094,13.9284a32.3379,32.3379,0,0,1,1.868,14.7126,21.5331,21.5331,0,0,1-.7184,3.3416\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M46.0938,29.8141a8.0935,8.0935,0,0,0,1.231-5.1156c-.3322-8.5131-6.5889-10.9008-9.5933-13.4778,4.1911,5.4922,5.9607,10.7559,2.6157,20.8539C40.3472,32.0746,43.68,33.5811,46.0938,29.8141Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M19.5192,21.9893c3.9744-15.875,24.8326-10.2582,15.24,11.1183\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M10.7123,47.333C7.65,59.01,24.9329,69.8018,39.5248,34.01,50.8373,5.9268,20.5873.1351,15.9623,17.6768c0,0-2.7758,9.8921,5.3911,14.0507\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M24.8373,26.0518c4.4386,7,7.5,13.5417,1.5,16.25-1.3969.5735-2.8765.4132-4.3824,1.1735-1.5343.7223-1.8192,1.3265-3.6385,3.2848-2.5625,2.0625-5.7708-1.5465-3.9583-3.6875\"/><circle cx=\"20.0281\" cy=\"35.5516\" r=\"4.0484\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g><g><circle cx=\"20.01\" cy=\"35.494\" r=\"3.0542\" fill=\"#1F2937\"/></g></g>"
+  },
+  {
+    "id": "object.crutch",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "crutch"
+      ],
+      "fr": [
+        "béquille"
+      ]
+    },
+    "tags": [
+      "health",
+      "mobility"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Niklas Kuntz",
+      "url": "https://openmoji.org/library/emoji-1FA7C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#4F86C6\" d=\"M37.8086,65.8265c0-2.3872-1.0786-4.3224-2.4092-4.3224s-2.4092,1.9352-2.4092,4.3224h4.8184Z\"/><path fill=\"#4F86C6\" d=\"M46.31,26.29c-.52,.18-1.09-.1-1.27-.63l-.27-.81-6.88,2.38-1.89,.66-.65-1.89-5.5699-16.11c-.1801-.52,.1-1.09,.62-1.27,.52-.18,1.09,.1,1.27,.62l5.57,16.1,7.83-2.71c.25-.09,.53-.07,.77,.05,.24,.12,.42,.32,.5099,.58l.59,1.77c.18,.52-.1,1.09-.63,1.2599Z\"/><path transform=\"translate(-1.5403 12.0429) rotate(-19.0221)\" fill=\"#4F86C6\" d=\"M29.3642,6.8332h7.8265c2.089,0,3.7849,1.696,3.7849,3.7849h0c0,2.089-1.696,3.7849-3.7849,3.7849h-7.8265V6.8332h0Z\"/></g><g data-layer=\"line\"><line x1=\"35.3994\" x2=\"35.3994\" y1=\"29.0981\" y2=\"61.5041\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M37.8086,65.8265c0-2.3872-1.0786-4.3224-2.4092-4.3224s-2.4092,1.9352-2.4092,4.3224h4.8184Z\"/><path transform=\"translate(-1.5403 12.0429) rotate(-19.0221)\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M29.3642,6.8332h7.8265c2.089,0,3.7849,1.696,3.7849,3.7849h0c0,2.089-1.696,3.7849-3.7849,3.7849h-7.8265V6.8332h0Z\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"45.9934 25.4401 35.4104 29.0981 28.4476 8.9541\"/></g></g>"
+  },
+  {
+    "id": "object.boots",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "boots"
+      ],
+      "fr": [
+        "bottes"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "botte"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F462/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polyline fill=\"#6B4F3A\" points=\"10.1126 50.1558 10.247 60.9497 19.8879 61.2288 21.0821 50.1763\"/><polyline fill=\"#6B4F3A\" points=\"10.3692 52.9798 11.0428 60.9583 18.8821 60.9583 19.5557 54.7243\"/><path fill=\"#A57939\" d=\"m50.3692,52.6627c5.0161.1894,5,8.2957,5,8.2957h-24.9957l-8.5938-11.0526h-11.6605c1.0244-3.1706,5.7177-8.176,6.8115-11.8457,3.613-12.1211-7.7259-27.1017-7.7259-27.1017C21.5547,1.0701,41.451,3.9709,41.6469,3.9998c.0034.0005.0025-.0015.0007.0015-.0738.1166-5.286,8.3971-6.2784,22.574-1.0161,14.5157-.0139,18.8882,3.2856,22.9289,3.2996,4.0407,6.6983,2.9692,11.7144,3.1586Z\"/><line x1=\"22.2778\" x2=\"26.0361\" y1=\"9.1397\" y2=\"25.3132\" fill=\"none\"/></g><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"10.3692 52.9798 11.0428 60.9583 18.8821 60.9583 19.5557 54.7243\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m50.3692,52.6627c5.0161.1894,5,8.2957,5,8.2957h-24.9957l-8.5938-11.0526h-11.4105c1.0244-3.1706,5.4677-8.176,6.5615-11.8457,3.613-12.1211-7.7259-27.1017-7.7259-27.1017C21.6159,1.0211,41.6484,4,41.6484,4c0,0-5.2797,8.2972-6.2792,22.5752-1.0161,14.5157-.0139,18.8882,3.2856,22.9289,3.2996,4.0407,6.6983,2.9692,11.7144,3.1586Z\"/><line x1=\"22.2778\" x2=\"26.0361\" y1=\"9.1397\" y2=\"25.3132\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.swimsuit",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "swimsuit"
+      ],
+      "fr": [
+        "maillot de bain"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1FA71/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9F86C0\" d=\"M23.1141,22.5l3.5,16.5-6.5,14.5c7.4469,3.4679,11.7477,8.9461,13.175,15.5h4.65c.5613-6.3319,5.6639-11.2823,13.175-15.5l-6.5-14.5,4.05-16.5C47.1141,28.5,26.1141,29.5,23.1141,22.5Z\"/><path fill=\"#9F86C0\" d=\"M44.8859,4.5s6.6123,18.22,2,21c-3.9956,2.4081-16.822,2.8488-22,0-5.8774-3.2336,2-21,2-21-.2888.29-2.0408,4.0444,2,12,6.1492,6.2577,8.1287,6.8691,13,0C47.0908,7.395,45.0772,4.6421,44.8859,4.5Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M23.1141,22.5l3.5,16.5-6.5,14.5c7.4469,3.4679,11.7477,8.9461,13.175,15.5h4.65c.5613-6.3319,5.6639-11.2823,13.175-15.5l-6.5-14.5,4.05-16.5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M45.1218,4.5s6.6123,18.22,2,21c-3.9956,2.4081-16.822,2.8488-22,0-5.8774-3.2336,2-21,2-21s-3.4311,4.2216,2,12c4.1942,6.0068,9.225,6.4472,13,0C47.0982,8.0009,45.1218,4.5,45.1218,4.5Z\"/></g></g>"
+  },
+  {
+    "id": "object.ambulance",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "ambulance"
+      ],
+      "fr": [
+        "ambulance"
+      ]
+    },
+    "tags": [
+      "transport",
+      "health"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F691/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g><line x1=\"57\" x2=\"57\" y1=\"32\" y2=\"38\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54.4\" x2=\"59.6\" y1=\"33.5\" y2=\"36.5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54.4\" x2=\"59.6\" y1=\"36.5\" y2=\"33.5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"32\" y=\"40\" width=\"33\" height=\"4\" fill=\"#1F2937\"/></g><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M65,28.67v21.08c0,0.55-0.45,1.9583-1,1.9583h-6.67c0-2.76-1.24-5.9583-4-5.9583c-2.76,0-4,3.1983-4,5.9583 H32.17V27.67H64C64.55,27.67,65,28.11,65,28.67z\"/><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M32.17,27.67v24.08l-11.9318-0.0176c-0.12-2.65-2.1582-5.9824-4.8382-5.9824c-2.61,0-4.76,3.01-4.97,5.57 L7,51.25c0,0,0-2.75,0-5.67c0-0.12,0-0.23,0.01-0.34c0-0.11,0.01-0.21,0.02-0.31c0.05-0.62,0.18-1.11,0.34-1.48 c0.1-0.25,0.21-0.44,0.32-0.6c0-0.01,0-0.01,0-0.01c0.06-0.07,0.11-0.14,0.16-0.2c0.04-0.06,0.09-0.11,0.14-0.15 c0.03-0.02,0.05-0.05,0.07-0.07c0.02-0.02,0.04-0.03,0.06-0.05c0.03-0.03,0.05-0.03,0.05-0.03l4.5-3.13 c0.94-1.04,1.84-1.99,2.72-2.85c0.28-0.29,0.57-0.57,0.85-0.84c0.55-0.54,1.1-1.04,1.62-1.51c0.52-0.47,1.02-0.9,1.51-1.3 c1.45-1.2,2.74-2.12,3.85-2.81c0.38-0.24,0.73-0.44,1.06-0.63c0.33-0.19,0.65-0.35,0.94-0.5c0.29-0.15,0.56-0.27,0.82-0.38 c0.18-0.08,0.36-0.15,0.53-0.22c0.08-0.03,0.16-0.06,0.24-0.09c1-0.37,1.52-0.41,1.52-0.41H32.17z\"/><circle cx=\"53.33\" cy=\"50.75\" r=\"3\" fill=\"#D0CFCE\" stroke=\"none\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M18.4,50.75c0,1.66-1.34,3-3,3s-3-1.34-3-3c0-0.13,0.01-0.26,0.03-0.39c0.18-1.47,1.44-2.61,2.97-2.61 c1.57,0,2.85,1.2,2.98,2.73C18.4,50.57,18.4,50.66,18.4,50.75z\"/><line x1=\"57\" x2=\"57\" y1=\"32\" y2=\"38\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54.4\" x2=\"59.6\" y1=\"33.5\" y2=\"36.5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54.4\" x2=\"59.6\" y1=\"36.5\" y2=\"33.5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#7EC8E3\" stroke=\"none\" d=\"M26.9434,33.1235l-0.1517,5.3559c0,0.1598-2.101,1.3501-2.2604,1.3607l-6.3812-0.0017 c-0.9195,0.0608-1.4213-1.0409-0.7717-1.6946l4.7033-5.0286c0.1877-0.1889,0.4431-0.2952,0.7094-0.2952h3.8488 C26.8075,32.82,26.9434,32.9559,26.9434,33.1235z\"/><rect x=\"32\" y=\"40\" width=\"33\" height=\"4\" fill=\"#E46B4A\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M61.5,50.75H64c0.5523,0,1-0.4477,1-1V28.6667c0-0.5523-0.4477-1-1-1H28.3333c0,0-5.5833,0.4166-15.6666,11.5416l-4.5,3.125 c0,0-1.1667,0.7292-1.1667,3.25C7,48.5,7,50.25,7,50.25h0.9167\"/><line x1=\"22.75\" x2=\"45.5833\" y1=\"50.75\" y2=\"50.75\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M53.33,45.75c-2.76,0-5,2.24-5,5s2.24,5,5,5c2.76,0,5-2.24,5-5S56.09,45.75,53.33,45.75z M53.33,53.75c-1.66,0-3-1.34-3-3 s1.34-3,3-3c1.66,0,3,1.34,3,3S54.99,53.75,53.33,53.75z\"/><path fill=\"#1F2937\" stroke=\"none\" d=\"M20.39,50.52c-0.12-2.65-2.31-4.77-4.99-4.77c-2.61,0-4.76,2.01-4.97,4.57c-0.02,0.14-0.03,0.28-0.03,0.43 c0,2.76,2.24,5,5,5s5-2.24,5-5C20.4,50.67,20.4,50.59,20.39,50.52z M15.4,53.75c-1.66,0-3-1.34-3-3c0-0.13,0.01-0.26,0.03-0.39 c0.18-1.47,1.44-2.61,2.97-2.61c1.57,0,2.85,1.2,2.98,2.73c0.02,0.09,0.02,0.18,0.02,0.27C18.4,52.41,17.06,53.75,15.4,53.75z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M26.75,33.8333v2.1459c0,1.6569-1.3431,3-3,3H18\"/><line x1=\"32.1667\" x2=\"32.1667\" y1=\"27.6667\" y2=\"50.75\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.fire-engine",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "fire engine"
+      ],
+      "fr": [
+        "camion de pompiers",
+        "pompiers"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F692/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M54.4688,53.625l4.2812-0.9167l5.9167-2.625V35l-2.4584-2.4583H20.5c0,0-7.9167,0-9.75,0.5 c-1.8333,0.5-4.5417,7.9166-3.5833,17.5833l5.9036,2h11.888v0.0833l17.073,0.9167\"/><path fill=\"#3F3F3F\" stroke=\"none\" d=\"M23.0625,36.625v4.3591c0,0.5523,0.395,1,0.8822,1l7.4991-0.6091c0.4873,0,0.8823-0.4477,0.8823-1 l0.5697-3.79c0-0.5523-0.395-1-0.8822-1l-8.0689,0.04C23.4575,35.625,23.0625,36.0727,23.0625,36.625z\"/><path fill=\"#7EC8E3\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M12.9052,32.0047c0,0-0.1443-2.0991,2.375-2.1875c2.375-0.0833,2.375,2.1875,2.375,2.1875\"/><circle cx=\"19\" cy=\"53.3333\" r=\"3\" fill=\"#9B9B9A\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#3F3F3F\" stroke=\"none\" d=\"M16.7577,35.0777h-3.1014c-1.6569,0-3,1.3432-3,3l-0.3674,2.995l5.8357-1.12L16.7577,35.0777z\"/><circle cx=\"48.2083\" cy=\"53.3333\" r=\"3\" fill=\"#9B9B9A\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#3F3F3F\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M24.0208,41.375H31.25c0.5523,0,1-0.4477,1-1v-3.75\"/><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.59\" d=\"M60.71,36.55v11.84c0,0.31-0.26,0.57-0.57,0.57h-6.3199c-0.3101,0-0.5701-0.26-0.5701-0.57v-1.22h-9.46v1.22 c0,0.31-0.26,0.57-0.57,0.57h-6.3101c-0.3198,0-0.5798-0.26-0.5798-0.57V36.55c0-0.51,0.4199-0.92,0.9299-0.92h22.52 C60.29,35.63,60.71,36.04,60.71,36.55z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M9.9241,45.4881h1.9542c0.2667,0.2828-0.5473,0.5778-0.5473,1.2905v1.4115 c0,0.7128-0.5726,1.2906-1.2788,1.2906h-0.001c-0.6614,0-1.2136-0.509-1.2735-1.1737l-0.1272-1.4116 C8.5824,46.1397,9.1721,45.4881,9.9241,45.4881z\"/></g><g/><g/><g/><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"24.7917,51.625 24.7917,52.7083 41.7917,52.7083\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M54.5833,52.7083h4l5.9167-2.625V35l-2.4583-2.4583H20.3333c0,0-7.9166,0-9.75,0.5C8.75,33.5417,6.0417,41.9583,7,51.625h5.9037\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M12.9052,32.0047c0,0-0.1443-2.0991,2.375-2.1875c2.375-0.0833,2.375,2.1875,2.375,2.1875\"/><circle cx=\"19\" cy=\"53.3333\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"48.2083\" cy=\"53.3333\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.2825,40.8835l4.3681-0.6897c0.4706-0.0743,0.8235-0.4704,0.8431-0.9465l0.1315-3.1817\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M24.0208,41.375H31.25c0.5523,0,1-0.4477,1-1v-3.75\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.59\" d=\"M60.71,36.55v11.84c0,0.31-0.26,0.57-0.57,0.57h-6.3199c-0.3101,0-0.5701-0.26-0.5701-0.57v-1.22h-9.46v1.22 c0,0.31-0.26,0.57-0.57,0.57h-6.3101c-0.3198,0-0.5798-0.26-0.5798-0.57V36.55c0-0.51,0.4199-0.92,0.9299-0.92h22.52 C60.29,35.63,60.71,36.04,60.71,36.55z\"/><line x1=\"61.25\" x2=\"21.25\" y1=\"32.5417\" y2=\"32.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"61.25\" x2=\"21.25\" y1=\"27.5417\" y2=\"27.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"26.25\" x2=\"26.25\" y1=\"32.5417\" y2=\"27.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"32.25\" x2=\"32.25\" y1=\"32.5417\" y2=\"27.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"38.25\" x2=\"38.25\" y1=\"32.5417\" y2=\"27.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"56.25\" x2=\"56.25\" y1=\"32.5417\" y2=\"27.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"50.25\" x2=\"50.25\" y1=\"32.5417\" y2=\"27.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"44.25\" x2=\"44.25\" y1=\"32.5417\" y2=\"27.5417\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.7454,46.4375v1.0938c0,0.5522-1.4477,1-2,1H9.7447\"/></g></g>"
+  },
+  {
+    "id": "object.police-car",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "police car",
+        "police"
+      ],
+      "fr": [
+        "voiture de police",
+        "police"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F693/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" d=\"M64.8,43.8l-1.1-0.6c-0.4-0.2-0.6-0.6-0.5-1c0.3-1.9,0.5-8.5-9.7-11.5c-0.2-0.1-0.4-0.1-0.6-0.1l-19.6,0.1 c-0.4,0-0.8,0.1-1.1,0.3l-10.3,6.9c-0.2,0.1-0.4,0.2-0.6,0.2c-1.9-0.1-3.7,0.1-5.6,0.4c-5.4,1.1-7.6,4-8.4,5.5 c-0.2,0.3-0.2,0.7-0.2,1c0.1,2.4-1.5,5.1,0.9,7.3l19.4-0.1l20.4-0.5l16.1-0.2c0.9-0.1,2.4-1.4,2.8-2.2C68.4,46.6,65,43.9,64.8,43.8 z\"/><path fill=\"#9B9B9A\" d=\"M17.3,46.2c-2.2,0-4,1.8-4,4s1.8,4,4,4s4-1.8,4-4S19.5,46.2,17.3,46.2z\"/><path fill=\"#9B9B9A\" d=\"M57.1,46.2c-2.2,0-4,1.8-4,4s1.8,4,4,4s4-1.8,4-4S59.3,46.2,57.1,46.2z\"/><path fill=\"#3F3F3F\" d=\"M56.1,39.1v-4.3c0-0.9-0.8-1.7-1.7-1.7l0,0H33.2c-0.1,0-0.2,0-0.2,0.1l-8,5.7c-0.2,0.1-0.2,0.4-0.1,0.6 c0.1,0.1,0.2,0.2,0.3,0.2c5.6,0,27.2-0.2,30.4-0.1C55.9,39.6,56.1,39.4,56.1,39.1C56.1,39.2,56.1,39.2,56.1,39.1z\"/><polygon fill=\"#F2C14E\" points=\"8.9,40.3 12.9,41.9 10.8,44.8 5.8,44.9\"/><path fill=\"#7EC8E3\" d=\"M34.9,29.2c0,0-0.1-2.1,2.4-2.2c2.4-0.1,2.4,2.2,2.4,2.2\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M34.9,29.2c0,0-0.1-2.1,2.4-2.2c2.4-0.1,2.4,2.2,2.4,2.2\"/><line x1=\"47.6\" x2=\"27\" y1=\"50.8\" y2=\"51.2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M8.1,51.2 c-0.9-0.2-1.7-0.5-1.8-1c-0.1-1-0.3-3.8-0.3-5.1c0-0.5,0.1-1.1,0.4-1.5c1.1-2,4.8-6.8,14.9-6.4l10.3-6.9c0.5-0.3,1.1-0.5,1.6-0.5 l19.6-0.1c0.3,0,0.6,0,0.9,0.1c2.2,0.6,11.7,4,10.4,12.6l1.1,0.6c0.5,0.2,0.9,0.7,1,1.2c0.4,1.4,0.3,2.9-0.2,4.3\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"24.9,39.7 55.1,39.5 55.1,35\"/><circle cx=\"17.3\" cy=\"50.2\" r=\"5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><circle cx=\"57.1\" cy=\"50.2\" r=\"5\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"12.3,42.7 10.5,44.9 6.8,44.8\"/><line x1=\"24.1\" x2=\"50.1\" y1=\"43.2\" y2=\"43.2\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g><line x1=\"24.1\" x2=\"50.1\" y1=\"43.2\" y2=\"43.2\" fill=\"none\" stroke=\"#4F86C6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.84\"/></g></g>"
+  },
+  {
+    "id": "object.tractor",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "tractor"
+      ],
+      "fr": [
+        "tracteur"
+      ]
+    },
+    "tags": [
+      "transport",
+      "farm"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F69C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" d=\"m38.4759,25.1614l-.248,10.5806h.8266s4.877-6.1169,8.5141-6.1996l-.0827-4.877-9.01.496Z\"/><rect x=\"26.682\" y=\"28.3643\" width=\"3.1666\" height=\"4.4166\" fill=\"#3F3F3F\"/><path fill=\"#6BAF5B\" d=\"m51.0954,20.2843s-9.8301-1.17-16.1602.58l-.5,10.5799s-18.8398,1.5901-22.5898,5.5901l1.25,13.5h40.25s1.1543-10.4774.4938-19.4245c-.3326-4.5061-1.7792-8.367-2.7438-10.8255Zm-11.2621,17.2806l-2.6789.0313.1406-12.6345c5.3893-1.8888,11.6402.0726,11.6402.0726l.0701,4.9c-7.85,2.07-9.172,7.6306-9.172,7.6306Z\"/><path fill=\"#3F3F3F\" d=\"m11.4801,42.5186s16.6362-2.6442,30.9971-3.035c0,0,4.0063-4.2064,6.0381-4.911,1.9375-.6719,4.8815-1.2129,5.2787-.875.4009.341.2324,2.6722.331,5.9151l-.7213,11.9543-41.0612-.2137-.8624-8.8347Z\"/><circle cx=\"52.98\" cy=\"46.5898\" r=\"5\" fill=\"#E46B4A\"/><circle cx=\"15.02\" cy=\"51.5898\" r=\"3\" fill=\"#E46B4A\"/><path fill=\"#F2C14E\" d=\"m14.07,41.1351h1.7578c.9668,0,1.7578-.45,1.7578-1v-2.12c-.1406.2258.3418-1-.625-1l-1.4721.3355c-.4164.0949-.7386.425-.8233.8437l-.5952,2.9408Z\"/></g><g data-layer=\"line\"><path fill=\"#1F2937\" d=\"m52.9805,35.59c-6.0654,0-11,4.9346-11,11s4.9346,11,11,11,11-4.9346,11-11-4.9346-11-11-11Zm4,11c0,2.2061-1.7939,4-4,4s-4-1.7939-4-4,1.7939-4,4-4,4,1.7939,4,4Z\"/><path fill=\"#1F2937\" d=\"m15.02,45.59c-3.3086,0-6,2.6914-6,6s2.6914,6,6,6,6-2.6914,6-6-2.6914-6-6-6Zm0,8c-1.103,0-2-.8975-2-2s.897-2,2-2,2,.8975,2,2-.897,2-2,2Z\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"26.682 32.2999 26.682 28.3643 29.8486 28.3643 29.8486 31.8513\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m26.682,32.2999c-5.1431.7998-11.7743,2.1973-14.4066,4.3368-.2664.2165-.4129.5443-.3812.8861l.6871,6.5445\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m29.8486,31.8513c-.9401.1207-2.0161.2697-3.1666.4487\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m52.8185,30.467c-.3456-3.6951-.8852-8.0548-1.7199-10.1861,0,0-10.8333-1.1666-17.1666.5834l-.5,10.5833s-1.4378.1282-3.5834.4037\"/><line x1=\"22.5153\" x2=\"40.3521\" y1=\"50.5309\" y2=\"50.5309\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m40.3521,43.4723c1.537-6.9462,8.414-11.3309,15.36-9.7939,2.792.6178,5.1703,2.0984,6.9165,4.0996\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m48.9672,23.6688s-5.919-.8771-11.669.2895l-.2845,13.4635h2.5016s2.875-4.6409,9.5223-6.8492l-.0704-6.9038Z\"/><path fill=\"#1F2937\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m28.1193,28.3643s.3381-3.5834-1.2846-3.5834\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m37.0168,37.2787h2.6602s2.7485-4.8599,9.3606-6.7061\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m17.044,38.0151v2.12c0,.55-.4501,1-1,1h-1\"/></g></g>"
+  },
+  {
+    "id": "object.truck",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "truck"
+      ],
+      "fr": [
+        "camion"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F69A/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M61.3365,52.9588c0.5526-0.0137,0.851-1.0213,0.851-1.0213s2,0.125,2.3125-1.1875 c0.0414-0.1738,0.2878-13.7904-1.529-17.571c-0.148-0.3081-0.4411-0.5118-0.7806-0.552 c-3.0415-0.3603-19.4332-1.1578-32.2529,0.3105c0,0-4.6406,1.2031-12.75,6.875c0,0-5.5,2.25-7.875,3.875S7,48.4375,7,48.4375 s0.25,3,0.75,3.9375c0.0763,0.1431,0.3975,1.2323,2.5817,1.2808\"/><path fill=\"#3F3F3F\" stroke=\"none\" d=\"M64.5334,48.9168h-9.3181v0.8025c0,1.7924,1.453,3.2454,3.2454,3.2454h3.1061 c0.985,0,1.9167-0.4473,2.5326-1.2159L65,50.625L64.5334,48.9168z\"/><polygon fill=\"#3F3F3F\" stroke=\"none\" points=\"17.4486,49.7001 8.1305,49.7001 8.1305,52.2384 10.0938,53.6558 16.0403,53.6558 17.9153,51.4851\"/><circle cx=\"17.1319\" cy=\"52.7022\" r=\"3\" fill=\"#9B9B9A\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"55.2153\" cy=\"52.7022\" r=\"3\" fill=\"#9B9B9A\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#3F3F3F\" stroke=\"none\" d=\"M33.9167,35.0833V41.75L19.75,42.1458C19.75,42.1458,26.6667,34.25,33.9167,35.0833z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M14.4147,45.7213c0,0,0.0855-1.0781-1.2895-1.2031s-3.898,1.2031-4.0386,1.5625 c-0.1406,0.3594-0.3489,1.4328,0.2812,1.625C9.998,47.8979,14.4147,45.7213,14.4147,45.7213z\"/><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M13.4649,45.6334c0,0-1.9647,1.6588-3.5765,1.9176\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M22.8341,52.6719c8.2686-0.0728,17.415-0.2643,25.3341-0.4335\"/><circle cx=\"17.1319\" cy=\"52.7022\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"55.2153\" cy=\"52.7022\" r=\"3\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"33.9167,36.0833 33.9167,41.75 20.5,42.6667\"/><line x1=\"24.0833\" x2=\"49.0833\" y1=\"49.0833\" y2=\"48.0833\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M13.4649,45.6334c0,0-1.9647,1.6588-3.5765,1.9176\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M61.3365,51.9588c0.5526-0.0137,0.851-0.0213,0.851-0.0213s2,0.125,2.3125-1.1875c0.0414-0.1738,0.2878-13.7904-1.529-17.571 c-0.148-0.3081-0.4411-0.5118-0.7806-0.552c-3.0415-0.3603-19.4332-1.1578-32.2529,0.3105c0,0-4.6406,1.2031-12.75,6.875 c0,0-5.5,2.25-7.875,3.875S7,48.4375,7,48.4375s0.25,3,0.75,3.9375c0.0763,0.1431,0.3975,0.2323,2.5817,0.2808\"/></g></g>"
+  },
+  {
+    "id": "object.helicopter",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "helicopter"
+      ],
+      "fr": [
+        "hélicoptère"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F681/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><line x1=\"55.7497\" x2=\"59.0143\" y1=\"52.259\" y2=\"51.4595\" fill=\"none\" stroke=\"#FFFFFF\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"#7EC8E3\" d=\"m60.6061,44.0399c-.1148.5893-.362,1.1122-.7238,1.5687h-20.0808c-.6443,0-1.1651-.4482-1.1651-.996v-13.404c1.474-.3485,3.0452-.5394,4.6428-.5394,8.6325,0,15.7998,5.3865,17.1768,12.4495.0618.3071.1147.6142.1501.9212Z\"/><path fill=\"#7EC8E3\" d=\"m39.4328,43.851h-3.0209c-.4984,0-.9062-.4078-.9062-.9062v-8.733c0-.4984.4078-.9062.9062-.9062h3.0209c.4984,0,.9062.4078.9062.9062v8.733c0,.4984-.4078.9062-.9062.9062Z\"/><path fill=\"#E46B4A\" d=\"m60.58,43.8498h-15.79c-.49,0-.88-.39-.88-.88v-12.4c0-.43-.4-.78-.8799-.78,0,0-1.36-.05-3.54-.1-.53,0-1.1-.01-1.72-.02-7.02-.08-19.31.03-25.68,1.6801-.41.11-.83-.07-1.02-.45l-2.31-3.75s-1.76-2.63-1.76,0l1.66,11.54c.05.44.4301.77.8701.77h.99c.48,0,.87-.4.87-.88v-1.86c0-.45.34-.82.78-.87,3.07-.35,14.25-1.29,16.28,2.9399.01.02.02.04.03.0601l-.28,3.48-.04.58-.0699.94c0,2.39,2.15,4,5.56,4.97,2.86.81,6.6,1.18,10.7,1.18,2.7401,0,5.33-.08,7.59-.34,3.69-.4301,6.53-1.34,7.85-3.17.36-.49.61-1.04.72-1.66.05-.23.08-.48.09-.73,0-.03.01-.07,0-.11-.0003-.0501-.0103-.0901-.0203-.1401Zm-20.24-.9c0,.49-.41.9-.91.9h-3.02c-.5,0-.9-.41-.9-.9v-8.74c0-.5.4-.9.9-.9h3.02c.5,0,.91.4.91.9v8.74Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m60.46,43.1198c.05.25.09.49.12.73h-15.79c-.49,0-.88-.39-.88-.88v-12.28c8.35.2399,15.2,5.5399,16.55,12.43Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m60.58,43.8498h-15.79c-.49,0-.88-.39-.88-.88v-12.4c0-.43-.4-.78-.8799-.78,0,0-1.36-.05-3.54-.1-.53,0-1.1-.01-1.72-.02-7.02-.08-19.31.03-25.68,1.6801-.41.11-.83-.07-1.02-.45l-2.31-3.75s-1.76-2.63-1.76,0l1.66,11.54c.05.44.4301.77.8701.77h.99c.48,0,.87-.4.87-.88v-1.86c0-.45.34-.82.78-.87,3.07-.35,14.25-1.29,16.28,2.9399.01.02.02.04.03.0601l-.28,3.48-.04.58-.0699.94c0,2.39,2.15,4,5.56,4.97,2.86.81,6.6,1.18,10.7,1.18,2.7401,0,5.33-.08,7.59-.34,3.69-.4301,6.53-1.34,7.85-3.17.36-.49.61-1.04.72-1.66.05-.23.08-.48.09-.73,0-.03.01-.07,0-.11-.0003-.0501-.0103-.0901-.0203-.1401Zm-20.24-.9c0,.49-.41.9-.91.9h-3.02c-.5,0-.9-.41-.9-.9v-8.74c0-.5.4-.9.9-.9h3.02c.5,0,.91.4.91.9v8.74Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m40.34,34.2098v8.74c0,.49-.41.9-.91.9h-3.02c-.5,0-.9-.41-.9-.9v-8.74c0-.5.4-.9.9-.9h3.02c.5,0,.91.4.91.9Z\"/><path fill=\"#1F2937\" d=\"m39.73,20.3298v8.73c0,.24-.09.46-.24.63-.53,0-1.1-.01-1.72-.02-.15-.17-.23-.38-.23-.61v-8.73c0-.52.42-.94.94-.94h.32c.51,0,.93.42.93.94Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m35.1212,47.3662s-2.6364.8787-2.6364,7.0303\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m50.0606,47.3662s2.6364.8787,2.6364,7.0303\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m27.2121,55.2753h28.1212s5.2728,0,6.1515-2.6364\"/><line x1=\"12.2727\" x2=\"65\" y1=\"21.5884\" y2=\"21.5884\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "object.scooter",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "scooter"
+      ],
+      "fr": [
+        "trottinette"
+      ]
+    },
+    "tags": [
+      "transport",
+      "play"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F6F4/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"18.8248\" cy=\"55.0572\" r=\"5.0001\" fill=\"#D0CFCE\"/><circle cx=\"55.3418\" cy=\"55.0572\" r=\"5.0001\" fill=\"#D0CFCE\"/><path fill=\"#E46B4A\" d=\"M27.7376,52.0572h22.6042v0.5833c0,1.6568-1.2226,3-2.7307,3H30.4683c-1.5081,0-2.7307-1.3432-2.7307-3 V52.0572z\"/><path fill=\"#D0CFCE\" d=\"M28.1981,17.3755l-1.0583-0.2316c-0.5395-0.118-0.8812-0.6511-0.7631-1.1906l0.4453-2.0352 c0.118-0.5395,0.6511-0.8812,1.1906-0.7631l1.0583,0.2315c0.5395,0.1181,0.8812,0.6511,0.7631,1.1907l-0.4453,2.0351 C29.2707,17.1519,28.7376,17.4935,28.1981,17.3755z\"/><path fill=\"#E46B4A\" d=\"M41.0482,15.8642l-0.2506,1.3235c-0.0974,0.5142-0.5977,0.8553-1.1119,0.7579l-4.132-0.7824 c-0.5141-0.0974-0.8552-0.5978-0.7578-1.1119l0.2506-1.3236c0.0974-0.5141,0.5977-0.8552,1.1119-0.7578l4.132,0.7824 C40.8046,14.8497,41.1456,15.3501,41.0482,15.8642z\"/><path fill=\"#E46B4A\" d=\"M21.548,11.9126l-0.2511,1.3257c-0.0972,0.5136-0.597,0.8542-1.1106,0.757l-4.12-0.7802 c-0.5136-0.0973-0.8542-0.597-0.7569-1.1106l0.251-1.3257c0.0972-0.5136,0.597-0.8542,1.1106-0.757l4.12,0.7802 C21.3046,10.8993,21.6452,11.399,21.548,11.9126z\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"29.9153\" x2=\"34.7793\" y1=\"14.2621\" y2=\"15.2164\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"21.9031\" x2=\"26.833\" y1=\"12.6902\" y2=\"13.6574\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"18.8248\" cy=\"55.0572\" r=\"5.0001\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"55.3418\" cy=\"55.0572\" r=\"5.0001\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"27.5292,17.3183 20.4161,48.1583 18.8249,55.0572\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.58\" d=\"M27.7376,52.0572h22.6042v0.5833c0,1.6568-1.2226,3-2.7307,3H30.4683c-1.5081,0-2.7307-1.3432-2.7307-3V52.0572z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M29.8508,14.2491c0.0123,0.1067,0.0074,0.2173-0.0168,0.3281l-0.4453,2.0351c-0.118,0.5396-0.6511,0.8812-1.1906,0.7632 l-1.0583-0.2316c-0.5395-0.118-0.8812-0.6511-0.7631-1.1906l0.4453-2.0352c0.0191-0.0875,0.0492-0.1698,0.0885-0.2458\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M26.9105,13.6723c0.2027-0.3924,0.6502-0.6162,1.1021-0.5173l1.0583,0.2315c0.4287,0.0938,0.7325,0.4497,0.7799,0.8626\"/><line x1=\"22.6543\" x2=\"27.7376\" y1=\"39.9167\" y2=\"52.0572\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.58\" d=\"M41.0482,15.8642l-0.2506,1.3235c-0.0974,0.5142-0.5977,0.8553-1.1119,0.7579l-4.132-0.7824 c-0.5141-0.0974-0.8552-0.5978-0.7578-1.1119l0.2506-1.3236c0.0974-0.5141,0.5977-0.8552,1.1119-0.7578l4.132,0.7824 C40.8046,14.8497,41.1456,15.3501,41.0482,15.8642z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.58\" d=\"M21.548,11.9126l-0.2511,1.3257c-0.0972,0.5136-0.597,0.8542-1.1106,0.757l-4.12-0.7802c-0.5136-0.0973-0.8542-0.597-0.7569-1.1106 l0.251-1.3257c0.0972-0.5136,0.597-0.8542,1.1106-0.757l4.12,0.7802C21.3046,10.8993,21.6452,11.399,21.548,11.9126z\"/></g></g>"
+  },
+  {
+    "id": "object.leaf",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "leaf",
+        "autumn"
+      ],
+      "fr": [
+        "feuille (arbre)",
+        "automne"
+      ]
+    },
+    "tags": [
+      "nature"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Ricarda Krejci",
+      "url": "https://openmoji.org/library/emoji-1F342/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#A57939\" d=\"M55.732,36.689c5.4323,6.2313,4.1316,16.317,4.1316,16.317s-9.9309-.223-15.3631-6.4543-4.1316-16.317-4.1316-16.317S50.4152,30.3037,55.732,36.689Z\"/><path fill=\"#F4AA41\" d=\"M19.7623,22.3615C26.1543,17.0075,36.05,18.5,36.05,18.5s-.47,10.065-6.7623,15.2543S13,37.6159,13,37.6159,13.37,27.7156,19.7623,22.3615Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M19.7623,22.3615C26.1543,17.0075,36.05,18.5,36.05,18.5s-.47,10.065-6.7623,15.2543S13,37.6159,13,37.6159,13.37,27.7156,19.7623,22.3615Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M55.732,36.689c5.4323,6.2313,4.1316,16.317,4.1316,16.317s-9.9309-.223-15.3631-6.4543-4.1316-16.317-4.1316-16.317S50.4152,30.3037,55.732,36.689Z\"/></g></g>"
+  },
+  {
+    "id": "place.mountain",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "mountain"
+      ],
+      "fr": [
+        "montagne"
+      ]
+    },
+    "tags": [
+      "place",
+      "nature"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-26F0/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#3F3F3F\" d=\"M52,42.2c0,0-0.2-6.2-0.3-6.8s-0.7-1.6-1-2.1L48.2,29L42,24.5l-7.2,5.4l2.6,4.5l4.9-0.4l10.2,13.3L52,42.2z\"/><polyline fill=\"#9B9B9A\" points=\"50,39 53.4,48.1 60,56 12,56 16,49 18,37 25,18 29,22 33,25 37,33 42,33 50,39\"/></g><g/><g/><g/><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"60,55 53.4,48.1 50,39\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"37,33 33,25 29,22 25,18 18,37 16,49 12,55\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"31,24 32,33 42,33 50,39 49,45 50,50 48,52 45,55\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"39,28 43,25 47,29 50,34\"/></g></g>"
+  },
+  {
+    "id": "place.sea",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "sea",
+        "wave"
+      ],
+      "fr": [
+        "mer",
+        "vague"
+      ]
+    },
+    "tags": [
+      "place",
+      "nature"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-1F30A/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#7EC8E3\" d=\"M4,28.1891C4,14.817,14.2855,3.9774,27.8365,3.9774l0,0C15,19.3437,26.25,43.7216,56.4,41.5631 c4.2563-0.3047,8.9466-1.7777,12.5933-3.7244v30.0865c0,0.5583-0.4525,1.0108-1.0108,1.0109L4,68.9578V28.1891\"/><path fill=\"#4F86C6\" d=\"M21.7843,10.0119c-3.8217,7.178-5.9507,21.1275,6.5553,33.3435c0,0,10.2391,12.649,40.6537,4.8847V37.3494 c0,0-11.1064,7.5922-27.5251,2.3384c-15.3849-4.923-19.4254-16.5267-18.9093-20.7668c0.1825-1.4994,0.7878-6.0417,0.7878-6.0417 s0.8388-3.0147,0.5454-3.801C23.5525,8.1679,22.058,9.4979,21.7843,10.0119z\"/><path fill=\"#7EC8E3\" d=\"M44.857,9.7223c1.6744,1.9066,1.5785,4.7217-0.2101,6.2925s-4.5959,1.2984-6.2703-0.6082 c0,0-2.0702-2.2858-3.0178-8.8759c0,0-0.2509-1.3199,0.9788-0.9606C42.7502,7.3608,44.857,9.7223,44.857,9.7223\"/><path fill=\"#4F86C6\" d=\"M35.4101,6.0551c4.3534-0.5992,9.1662,3.3883,9.1662,3.3883c2.1331,2.429,1.859,5.0003,0.0704,6.571 C44.6466,16.0144,43.6489,10.5723,35.4101,6.0551\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M4,27.8333 M4,67.9583 M68,47.8958v20.0625H4v-40.125C4,13.1478,13.579,4,27.8364,3.9969\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M68,37.5064C64.3533,39.4229,60.6563,40.7,56.4,41C26.25,43.125,15,19.125,27.8364,3.9969\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M68,47.8958c-4.8333,2.6875-11.25,3.3715-19.0158,2.9878C13.9911,47.6254,11.3813,14.3841,27.8364,3.9969\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.57\" d=\"M44.857,9.7223c1.6744,1.9066,1.5785,4.7217-0.2101,6.2925s-4.5959,1.2984-6.2703-0.6082c0,0-2.0702-2.2858-3.0178-8.8759 c0,0-0.2509-1.3199,0.9788-0.9606C42.7502,7.3608,44.857,9.7223,44.857,9.7223\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M63.875,63.2775c-3.4238,0-3.4238-2.055-6.8475-2.055c-3.4219,0-3.4219,2.055-6.8438,2.055c-3.4249,0-3.4249-2.055-6.8498-2.055 c-3.4272,0-3.4272,2.055-6.8545,2.055s-3.4272-2.055-6.8545-2.055\"/></g></g>"
+  },
+  {
+    "id": "idea.fire",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "fire",
+        "hot (danger)"
+      ],
+      "fr": [
+        "feu",
+        "brûlant"
+      ]
+    },
+    "tags": [
+      "danger"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Guemil Project",
+      "url": "https://openmoji.org/library/emoji-1F525/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" stroke=\"none\" d=\"M51.3344,58.3018c7.563-9.7894,4.0318-21.8721,2.4461-25.5688c-0.1799-0.4193-0.9302-0.5566-0.982-0.1006 c-0.1225,1.0797-0.4061,2.3611-2.0041,1.9736c-0.8203-0.1989-1.3479-0.556-1.3479-1.8802 c0.511-15.0494-10.5109-25.2968-14.3463-28.5356c-0.5103-0.4309-1.2668,0.0293-1.1587,0.7039 c2.456,15.3348-1.6079,14.2846-3.0986,13.8192c-0.2593-0.081-0.5408,0.0546-0.6603,0.3074 c-4.5882,9.7014-3.4112,14.2653-3.519,17.4455c0,0.2569,0,0.687,0,0.9581c0,1.746-1.4154,2.5822-2.5607,2.0714 c-2.0545-0.9163-2.4047-6.3729-2.4134-7.8235c-0.0041-0.6828-0.8094-0.8791-1.202-0.332 c-8.8048,12.267-2.3251,23.1974-0.0822,26.3171c0.6459,0.8984,0.9025,2.0748,0.5354,3.1298 c-0.0412,0.1183-0.0896,0.2352-0.1465,0.349c-0.3988,0.7981,0.6707,1.4,0.6707,1.4c1.3155,1.2339,5.4651,5.1806,14.2817,5.1805 c7.1344-0.0001,11.9478-3.0595,13.8297-4.7247c0.8829-0.7812,1.2761-0.8594,1.2732-1.6827 C50.8459,60.3243,50.8238,58.8066,51.3344,58.3018\"/><path fill=\"#F2C14E\" stroke=\"none\" d=\"M36.2938,32.5579c-0.2946,1.4609-1.3196,4.0019-4.2072,8.3499c-0.0592,0.1064-0.1172,0.2104-0.1764,0.3168 c-0.3088,0.6893-1.3555,3.3414-1.0617,7.0514c0,0.0001,0,0,0,0.0001c-0.0002,0.0018-0.573,4.337-2.977,3.9757 c-0.5095-0.0766-0.9214-0.2506-1.2541-0.4772c-0.6105-0.4159-1.4234,0.1082-1.3489,0.8525 c0.3195,3.1924,1.6034,8.0822,6.1526,11.6721c0,0,1.2832,1.0598,1.4415,1.9748c0.0052,0.0303,0.029,0.0506,0.0591,0.0506l5.2741,0 c0.1832,0,0.2083-0.024,0.2135-0.0594c0.0356-0.2402,0.3643-1.2504,3.2024-3.7732c1.9966-1.7748,3.1652-3.898,3.7424-5.3482 c0.2048-0.5145-0.101-1.1173-0.6389-1.2068c-0.3438-0.0572-0.7127-0.3603-1.0133-1.1841c-0.0003-0.001-0.0003-0.0009-0.0007-0.0019 c-0.0063-0.0235-0.2167-0.8383,0.6013-2.5595c0.3805-0.8006,0.4242-1.6645,0.36-2.3655c-0.0579-0.6322-0.7233-0.998-1.2816-0.7156 c-0.7839,0.3965-1.8694,0.5304-2.5993-1.0753c0,0-0.6584-1.5662-0.0859-5.4515c0.437-2.9656-1.0106-7.8615-2.8279-10.3747 C37.4192,31.5887,36.4459,31.8032,36.2938,32.5579z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M21.6298,61.5562c3.479,3.6108,8.6702,5.4754,13.9925,5.4754c5.0546,0,10.7077-1.9624,14.2409-5.4677\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M21.5108,57.4557c0,0-10.5321-11.2011-0.4546-25.9791c0,0,0.1969,4.0589,1.2551,6.5816c0.4834,1.0362,1.2122,1.9569,2.3487,1.9569 c1.3355,0,2.4181-0.8972,2.4181-2.5708c0-0.2599,0-0.6721,0-0.9184c0.105-3.0996-0.5251-7.6659,3.5708-17.19 c0,0,7.0365,3.7835,3.9909-14.6122c0,0,14.8798,10.4421,14.2762,28.217c0,1.2693,0.9678,2.2983,2.1617,2.2983 s2.1617-1.029,2.1617-2.2983c0.075,0.1341,6.3219,13.078-2.514,24.515\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M22.8203,22.9729c0.198-1.0358,0.7082-2.2802,1.9228-3.3185c0,0,1.9021-1.6355,1.5953-3.8305\"/></g></g>"
+  },
+  {
+    "id": "idea.star",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "star"
+      ],
+      "fr": [
+        "étoile"
+      ]
+    },
+    "tags": [
+      "nature"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-2B50/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#F2C14E\" stroke=\"none\" points=\"35.9928,10.7363 27.7913,27.3699 9.4394,30.0436 22.7245,42.9838 19.5962,61.2637 36.0084,52.6276 52.427,61.2515 49.2851,42.9739 62.5606,30.0239 44.2067,27.3638\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"35.9928,10.7363 27.7913,27.3699 9.4394,30.0436 22.7245,42.9838 19.5962,61.2637 36.0084,52.6276 52.427,61.2515 49.2851,42.9739 62.5606,30.0239 44.2067,27.3638\"/></g></g>"
+  },
+  {
+    "id": "idea.evening",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "evening",
+        "sunset"
+      ],
+      "fr": [
+        "soir",
+        "coucher de soleil"
+      ]
+    },
+    "tags": [
+      "time"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Louisa Mantsch",
+      "url": "https://openmoji.org/library/emoji-1F307/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><rect x=\"4\" y=\"4\" width=\"64.09\" height=\"64\" fill=\"#F4AA41\"/><polyline fill=\"#F4AA41\" points=\"4 31.112 25.09 36.627 24.647 41.607 4 41.035\"/><polyline fill=\"#F4AA41\" points=\"68.09 31.112 47 36.627 47.443 41.607 68.09 41.035\"/><polyline fill=\"#F4AA41\" points=\"68.09 11.879 51.09 31.879 47.09 28.879 59.927 4.008 68.09 4\"/><polyline fill=\"#F4AA41\" points=\"4 4 4.001 13.364 6.109 15.355 24.64 33.945 28.39 30.638 12.1 4\"/><polyline fill=\"#F4AA41\" points=\"32.502 4 34.438 26.255 39.421 26.666 42.692 4\"/><circle cx=\"37.09\" cy=\"35.8794\" r=\"15\" fill=\"#F2C14E\"/><polyline fill=\"#9B9B9A\" points=\"10.013 45.981 10.013 28.981 20.013 28.981 20.013 45.981\"/><rect x=\"34.0131\" y=\"32.9814\" width=\"13\" height=\"35.0186\" fill=\"#9B9B9A\"/><polyline fill=\"#D0CFCE\" points=\"51.013 68 51.013 36.981 67.013 36.981 67.013 68\"/><polyline fill=\"#D0CFCE\" points=\"5.013 68 5.013 45.981 39.013 45.981 39.013 68\"/><rect x=\"9.0131\" y=\"48.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"15.0131\" y=\"48.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"27.0131\" y=\"48.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"33.0131\" y=\"48.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"55.0131\" y=\"39.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"61.0131\" y=\"49.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"61.0131\" y=\"59.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"55.0131\" y=\"59.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"33.0131\" y=\"58.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"21.0131\" y=\"58.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/><rect x=\"9.0131\" y=\"58.9848\" width=\"2.9913\" height=\"5.9965\" fill=\"#F2C14E\"/></g><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"51.013 66.981 51.013 36.981 67.013 36.981 67.013 66.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"5.013 66.981 5.013 45.981 39.013 45.981 39.013 66.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.013 42.981 35.013 32.981 47.013 32.981 47.013 66.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"11.013 42.981 11.013 28.981 19.013 28.981 19.013 42.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"57.013 45.981 55.013 45.981 55.013 40.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"63.013 55.981 61.013 55.981 61.013 50.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"29.013 54.981 27.013 54.981 27.013 49.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.013 54.981 33.013 54.981 33.013 49.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"35.013 64.981 33.013 64.981 33.013 59.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"17.013 54.981 15.013 54.981 15.013 49.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"11.013 54.981 9.013 54.981 9.013 49.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"11.013 64.981 9.013 64.981 9.013 59.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"23.013 64.981 21.013 64.981 21.013 59.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"57.013 65.981 55.013 65.981 55.013 60.981\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"63.013 65.981 61.013 65.981 61.013 60.981\"/><line x1=\"15.0131\" x2=\"15.0131\" y1=\"31.9814\" y2=\"42.9814\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"39.0131\" x2=\"39.0131\" y1=\"35.9814\" y2=\"42.9814\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"43.0131\" x2=\"43.0131\" y1=\"35.9814\" y2=\"66.9814\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M23.8748,42.982a15.002,15.002,0,1,1,28.0916-9.0372\"/></g></g>"
+  },
+  {
+    "id": "animal.owl",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "owl"
+      ],
+      "fr": [
+        "hibou",
+        "chouette"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F989/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.43\" d=\"M30,29l-3,2c-9.5,4.375-2,30-2,30s8.75-9.25,15.875-10.125S51.75,36.75,50,32l-2-4\"/><path fill=\"#9B9B9A\" stroke=\"none\" d=\"M30,30c0,0-6.5-5.5-0.25-14.75c0,0-0.75-3.25-2.75-3.25s5-3,6,1c0,0,7-3,11,0c0,0,5.25-3.5,7.125-1.75 C51.125,11.25,47,14,49,16s4,10-1,14\"/><path fill=\"#A57939\" stroke=\"none\" d=\"M40,30c0,0-10,0-10-7.875c0-8.7341,8.1907-4.7359,9-3.125c0,0,7-6,9.125,1.5C50.1834,27.7649,40,30,40,30z\"/><path fill=\"#A57939\" stroke=\"none\" d=\"M25.0192,59c0,0-0.8782-7,1.9027-9S40,40,37,35\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.03\" d=\"M37,22c0,0,0.5-1.5-3-2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.03\" d=\"M41,22c0,0-0.5-1.5,3-2\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.03\" points=\"37.625,25.43 39.375,27 41.375,25.3438\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M38,60c0,0,1-4-5-3v-2.375\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43,57.375c0,0,1-4-5-3V52\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30,30c0,0-6.5-5.5-0.25-14.75c0,0-0.75-3.25-2.75-3.25s5-3,6,1c0,0,7-3,11,0c0,0,5.25-3.5,7.125-1.75C51.125,11.25,47,14,49,16 s4,10-1,14\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40,30c0,0-10,0-10-7.875c0-8.7341,8.1907-4.7359,9-3.125c0,0,7-6,9.125,1.5C50.1834,27.7649,40,30,40,30z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M27,31c-9.5,4.375-2,30-2,30s8.75-9.25,15.875-10.125S51.75,36.75,50,32\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M25,59c0,0-0.75-7,1.625-9S37,41,36,35\"/></g></g>"
+  },
+  {
+    "id": "animal.penguin",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "penguin"
+      ],
+      "fr": [
+        "pingouin",
+        "manchot"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F427/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#3F3F3F\" stroke=\"none\" d=\"M45,12c0.964-0.9633,4.0386-2.304,4.3591-2.9468c0.1525-0.3049-0.6522-0.8271-0.964-0.964 c-0.9577-0.4188-3.213,0-4.177-0.1606c-3.5341-1.7668-6.1043-2.0879-8.3527-1.1245c-3.5341,1.6068-4.1764,5.7826-4.1764,7.3894 c0,1.4488-0.0815,4.3556-0.3217,5.7826c-0.0971,0.5769-0.4145,1.7114-0.6422,2.2497c-0.6428,2.249-2.2497,4.4981-3.5348,6.1043 c-0.9248,1.1569-8.6744,9.9602-9.9595,12.5303c-1.1538,2.236-4.1764,7.3894-2.8913,9.3167 c1.3106,0.1879,1.6062-4.1764,8.0447-9.3167C23.9415,39.4529,26.5249,36.8275,27,36c0.2251-0.3921,0.0085,1.548,0,2 c-0.1486,7.8633,1,12,0.9931,16.6751c0.4817,2.5702,0.5028,3.4918,0,4.4981c-1.4463,2.8913-4.0164,2.8913-4.6586,4.0164 c0,0,2.9989,2.09,9.8322-2.0498 M45.3795,38.845c1.1031,1.1148,4.1969,3.2073,4.975,3.9433 c1.942,1.8358,6.5844,8.3527,7.6235,7.3888c0.349-0.3211,0.8874-1.9479,0.6954-2.5708c-0.8143-2.6416-4.3123-7.9998-7.1632-12.9309 c-2.8824-4.9856-4.9433-9.3882-4.9433-9.3882l-3.2527-3.5616 M36.7544,61.4449c5.3265,4.4657,12.0519,0.9147,12.0519,0.9147 c0-0.5748-3.9442-2.6363-8.0167-4.7347\"/><path fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M32,14c0.0291,1.3236,7.2847,6.8282,11,1c0,0-1.0451,11.0186,1,15c2.3884,4.6498-0.4794,22.871-5,29 c-1.5278,2.0714-7.151,5.2303-10-5s-2-9.8618-2-16S34.5308,19,32,14z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M32,14c0.0291,1.3236,7.2847,6.8282,11,1c0,0-1.0451,11.0186,1,15c2.3884,4.6498-0.4794,22.871-5,29 c-1.5278,2.0714-7.151,5.2303-10-5s-2-9.8618-2-16S34.5308,19,32,14z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M45,12c0.964-0.9633,4.0386-2.304,4.3591-2.9468c0.1525-0.3049-0.6522-0.8271-0.964-0.964c-0.9577-0.4188-3.213,0-4.177-0.1606 c-3.5341-1.7668-6.1043-2.0879-8.3527-1.1245c-3.5341,1.6068-4.1764,5.7826-4.1764,7.3894c0,1.4488-0.0815,4.3556-0.3217,5.7826 c-0.0971,0.5769-0.4145,1.7114-0.6422,2.2497c-0.6428,2.249-2.2497,4.4981-3.5348,6.1043 c-0.9248,1.1569-8.6744,9.9602-9.9595,12.5303c-1.1538,2.236-4.1764,7.3894-2.8913,9.3167 c1.3106,0.1879,1.6062-4.1764,8.0447-9.3167C23.9415,39.4529,26.5249,36.8275,27,36c0.2251-0.3921,0.0085,1.548,0,2 c-0.1486,7.8633,1,12,0.9931,16.6751c0.4817,2.5702,0.5028,3.4918,0,4.4981c-1.4463,2.8913-4.0164,2.8913-4.6586,4.0164 c0,0,2.9989,2.09,9.8322-2.0498 M47.9654,39.92c1.0227,1.1148,2.2772,2.1323,2.9986,2.8683 c1.8004,1.8358,6.1043,8.3527,7.0676,7.3888c0.3236-0.3211,0.8227-1.9479,0.6447-2.5708 c-1.9279-6.7465-9.0089-15.028-12.7614-21.5495 M39.8668,62.2657c4.7581,1.8332,8.5087,0.4778,8.5087,0.4778 c-0.2625-0.3716-2.9493-1.8113-4.4778-2.4\"/></g></g>"
+  },
+  {
+    "id": "animal.giraffe",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "giraffe"
+      ],
+      "fr": [
+        "girafe"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F992/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F4AA41\" stroke=\"none\" d=\"M19.8794,8.1271l0.3333,3.8333l-3,1.125l-2.875,2.875l-0.75,2.125l6.5-1c0,0,4.625,13.125,12.125,16.25 c0,0-1.625,6.375,1.625,8.875l0.75,11.375l-2.875,10.5l-2,3.2083l2.3869,0.0295c0.6228,0.0077,1.2137-0.2752,1.5982-0.7653 l1.2349-1.5739c0.1844-0.235,0.3138-0.5083,0.3787-0.7999l2.2286-10.009c0.0318-0.1427,0.0478-0.2885,0.0478-0.4347v-10.905 l1.5,1.625l3.5,9.25l1.75,10.375l-1.3333,3.1667l1.9224-0.1039c0.7177-0.0388,1.3595-0.4598,1.6809-1.1027l0.7958-1.5917 c0.2003-0.4006,0.2603-0.8569,0.1705-1.2957l-1.972-9.6281c-0.0095-0.0464-0.0206-0.0924-0.0334-0.138l-2.6059-9.3066l3.125-0.875 l3-1.25c0,0,3.625,7.375,6.5,7.875l1,13.5l-1,3.875l1.1357-0.036c0.8837-0.0281,1.6441-0.633,1.8701-1.4878l0.4863-1.8395 c0.0603-0.2282,0.0798-0.4653,0.0575-0.7002l-1.2758-13.4353c-0.0158-0.1667-0.0525-0.3308-0.1093-0.4884l-1.0396-2.8877 l-1.625-8.5l-1.125-3.625l-3.625-3.125l-7-0.5l-5.875-3.875c0,0-8.1667-0.7917-13.9167-13.5417 C23.546,13.1688,23.1294,7.2521,19.8794,8.1271z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M29.8763,66.2708l1.9375-2.3125l2.75-10.1875l-0.625-11.5c-3.5-4-1.4344-8.6627-1.4344-8.6627 c-9.875-5.25-12.0656-16.3998-12.0656-16.3998l-6.4404,0.9828c-0.8827,0-1.3296-1.0629-0.712-1.6936l2.7773-2.2892l1.1875-1.6875 l2.625-0.625l-0.0625-2.875\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.0638,40.2708c0,0-0.125,3,2.375,3.9375l3.3125,9.4375l1.75,10.1875l-1.3125,2.4375\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.2557,43.3333h3.2456c0,0,3.0625-0.5625,3.375-3.9375\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M49.1262,41.5646c0,0,0.9376,4.7688,6.3751,8.2063l0.8125,13.7895l-0.5,2.7105\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M58.1888,47.4583c-2.5713-1.8248-3.1337-5.2183-3.221-7.2951c-0.0597-1.419-0.2781-2.8221-0.6805-4.1841l-0.0985-0.3333 c-1.8959-5.3999-8.6641-4.2096-12-5.5625c-2.549-1.0338-4.8135-3.9259-5.126-3.9259c-8.0867,0-14.1746-12.301-14.1746-12.301\"/></g></g>"
+  },
+  {
+    "id": "animal.zebra",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "zebra"
+      ],
+      "fr": [
+        "zèbre"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F993/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#FFFFFF\" stroke=\"none\" d=\"M10.2544,20.6688l1.75,1.4167c0,0-7.6667,8-5.3333,13.5l4.1667-0.1667c0,0,1.8333-3.75,6.3333-4.75 l1,3.3333c0,0,4.1667,3.6667,4.3333,3.9167c0.1667,0.25,2.6667,4.1667,2.6667,4.1667l3.4167,1.6667l0.75,7.25l-1.1667,10l2.5,0.75 l1.25-0.6667l2.0833-16.5l3.75,0.3333l9.25-1.75l2.5833-3.4167l3.4167,4.75l1.9167,4.6667l-0.3333,6.25l-1.25,3.25l-0.8333,2 l1.5,0.75l1.6667-0.25l1.6667-3.5833l2.1667-9.25l-2.0833-4.3333l2.6667-4c0,0,2.3333-7.5-1.5833-11.6667s-8-3.5-8-3.5 l-7.8333,1.75c0,0-6.5833-0.0833-6.8333-0.0833s-4.9167-0.9167-4.9167-0.9167s0.5833-2.3333-1.75-4.0833 s-13.3333-4.9167-13.3333-4.9167S11.671,17.1688,10.2544,20.6688z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M49.5877,39.7521l-2.5833,3.4167l1.25,6.25l-4.5,10.6667c0,0,2.75,1.0833,3.0833,1.0833 s5.25-8.1667,5.25-8.1667s2.4167-4.8333,0.9167-8.5C51.5044,40.8355,49.5877,39.7521,49.5877,39.7521z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M13.2752,22.5855c0,0,3.4375-4.4375,17.0625,4.1667l0.5833-1.1667l-1.75-4.0833l-12.5-4.8333 c0,0-7.1149,0.8377-5.75,4.25C10.9627,21.023,13.2752,22.5855,13.2752,22.5855z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M18.1544,25.4082c0,0,1.3961,4.9702-2.513,6.0871s-4.8585,3.7416-4.8585,3.7416s-3.9092,1.8987-4.691-1.8987 s3.6858-8.3768,3.6858-8.3768l2.5689-2.5689l-1.9546-1.6754c0,0,2.8768-5.4202,8.2748-3.2422s10.6667,4.3604,10.6667,4.3604 s2.0563,1.7299,1.6654,4.1871c0,0,8.068,2.0936,17.8564-0.7505c1.3381-0.3888,2.7579-0.3941,4.1104-0.0589 c2.3706,0.5875,5.6294,2.1206,7.0727,6.1147c2.4013,6.6456-3.0156,12.6768-3.0156,12.6768l1.9546,4.6351l-1.5078,8.9911 l-1.8002,3.0923c-0.1983,0.3657-0.581,0.5935-0.997,0.5935h-1.0495c-0.8724,0-1.4182-0.9437-0.9831-1.6999l1.3675-2.3768 c1.2584-2.9501,1.3444-6.2662,0.2583-9.2841c-1.5204-4.2249-4.335-8.5601-4.335-8.5601s-3.0715,7.2894-12.7125,4.4197\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M19.0934,33.6473c0,0,0.8495,1.464,2.0882,2.5242c1.1976,1.025,2.1398,2.3157,2.8434,3.7263 c0.8153,1.6348,2.2451,3.4701,4.6282,3.8275l0.6143,7.204c0,0-0.0317,6.342-0.943,9.2166 c-0.1843,0.5813,0.237,1.1707,0.8468,1.1706l1.9491,0c0.4895,0,0.8879-0.3939,0.8935-0.8834l0.4368-9.2245l0.7312-6.6456 c0,0-0.3909-4.4118,0.7818-6.0871\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M47.1071,42.9513c0,0-0.9404,1.4675,1.153,6.7496c-0.8139,3.3558-1.8987,6.9806-4.4676,9.9404 c-0.3367,0.5956,0.2093,1.3403,0.8935,1.3403h1.3615c0.7774,0,1.4913-0.4289,1.8564-1.1152l0.8029-1.5095l2.4297-5.4235\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M62.4291,27.2511c0,0,4.9702-1.452,3.1832,14.5756\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M40.5017,26.6978c0,0,5.665,4.3043,1.9983,14.3043\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M37.0914,43.8319c0,0,2.5452-6.7005,0.4651-12.6171\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M47.4134,25.6578c0,0,3.6699,5.5943,1.0033,10.511\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M24.9876,40.8241c0,0,2.8881-8.4483,0-13.9483\"/></g></g>"
+  },
+  {
+    "id": "animal.tiger",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "tiger"
+      ],
+      "fr": [
+        "tigre"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F405/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F4AA41\" d=\"m9.5447,27.49l-.1547.1804c-.257.2996-.5227.5916-.7969.8756l-1.2493,1.2939c-1.2468,1.2914-2.032,2.9586-2.2333,4.7423l-.1322,1.1715c-.0543.4813-.0301.9682.0719,1.4417l.0183.0848c.1556.7231.5864,1.3573,1.2013,1.7684h0c.3917.2619.8774.3418,1.3323.219l5.1525-1.3902.7168-.1612c.9138-.2055,1.8064.4194,1.926,1.3483l.1459,1.1336c.1449,1.1259-.2891,2.2487-1.1535,2.9845l-1.9651,1.6725c-.1119.0953-.2323.173-.3655.235-.0036.0017-.0071.0033-.0108.005-.6513.3037-1.2319.7507-1.6706,1.3198-1.1777,1.5277-2.1307,3.415-1.962,5.2173.1252,1.3383,1.3591,2.3006,2.7016,2.234h0c.9173-.0455,1.7495-.5515,2.212-1.345l.1254-.2151c.2571-.4411.4395-.9217.5399-1.4222h0c.1777-.8863.7128-1.6603,1.4792-2.1396l4.0135-2.5101c1.7252-1.0789,3.3154-2.3599,4.7369-3.8158h0c.262-.2683.6085-.4382.981-.4811l6.216-.7154,5.6467-.5844c.761-.0788,1.51-.2479,2.2311-.5038l.5269-.187c1.3994-.4967,2.9329.2589,3.3917,1.6712l.6626,2.0398c.2213.6813.4706,1.3532.7473,2.0139l.3874.925c.592,1.4138.7743,2.9656.526,4.4781l-.3452,2.1026c-.0298.1818-.0496.3651-.0591.549h0c-.0392.7591.2566,1.4971.8092,2.019h0c.3029.2861.7038.4455,1.1205.4455h0c.6672,0,1.2672-.4061,1.5151-1.0256l1.4114-3.5266c.5129-1.2816.6053-2.6931.2637-4.0307l-.0368-.144c-.2018-.7901-.2935-1.6043-.2725-2.4195l.0062-.2394c.0674-2.6158.6479-5.1929,1.7084-7.5851l.3504-.7904c.2564-.5783.4929-1.1652.7092-1.7596l.9483-2.6062c.0578-.1588.0918-.3252.0971-.4941.0264-.837.005-3.4838-1.2158-4.9634-.9571-1.16-4.229-1.8867-6.3784-2.2508-1.1487-.1945-2.3111-.2836-3.4761-.2836h-4.5821c-1.0801,0-2.159.0703-3.23.2105l-5.55.7267-4.322.4277c-.3969.0393-.7954.0589-1.1942.0589h-.5147c-1.7415,0-3.472.2767-5.1267.8196l-1.526.5007c-.5361.1759-1.1029.2389-1.6646.1851h0c-.4718-.0452-.9321-.1725-1.36-.3762h0c-1.3997-.6661-3.0722-.3116-4.0813.8651Z\"/><path fill=\"#D0CFCE\" d=\"m23.5711,44.9608l.193,1.8716c.0072.0703.0183.1402.0331.2093l.2831,1.3229c.2226,1.0402.2544,2.1122.0939,3.1638l-.041.2686c-.1262.8269-.0152,1.6727.3203,2.439h0c.1156.264.2879.4993.5047.6892h0c.3576.3131.8168.4857,1.2921.4857h0c1.0125,0,1.9011-.6743,2.1737-1.6494l.6693-2.3945c.3163-1.1314.4766-2.3007.4766-3.4754v-2.5414c0-2.0309-1.7397-3.6258-3.7629-3.4497h0c-.7408.0645-1.4068.4771-1.7944,1.1117h0c-.3565.5837-.5116,1.2683-.4415,1.9487Z\"/><path fill=\"#F4AA41\" d=\"m50.6472,42.7287l.75.926c.9547,1.1787,2.0567,2.2299,3.2791,3.1278l.1085.0797c1.232.905,2.2792,2.0378,3.0847,3.337l.0228.0368c.6085.9814,1.0533,2.0554,1.3168,3.1797l.0373.159c.1732.7388.7533,1.3136,1.4936,1.48l.1347.0303c.7087.1593,1.4478-.0823,1.9256-.6295h0c1.2429-1.4234,1.4366-3.5434.3323-5.0768-.1207-.1675-.2512-.329-.3913-.4834l-2.2468-2.3685c-.159-.1677-.2875-.3619-.3796-.5738l-2.2454-5.1689c-.0766-.1762-.1271-.3627-.1499-.5535l-.6895-5.7587c-.1822-1.5216-.6656-2.9917-1.4221-4.3244h0c-.4005-.7056-.9027-1.3483-1.4906-1.9074h0c-.2948-.2804-.769-.8461-1.0929-.4368l-.1725,3.8388c.2473,1.3522.1794,2.7433-.1987,4.065h0c-.2931,1.0249-.6954,2.0153-1.1999,2.9544l-1.012,1.884c-.2474.4606-.3026,1.0004-.1536,1.5015h0c.0739.2486.196.4802.3592.6817Z\"/><path fill=\"#D0CFCE\" d=\"m25.5738,41.5481l5.0146-.1092c.0411-.0009.0821-.004.1229-.0094l4.7081-.6208c.0282-.0037.0562-.0085.0839-.0143l4.6458-.9737c.0495-.0104.0982-.024.1458-.0409l1.4408-.5112c.396-.1405.6811-.4894.7399-.9055l.2745-1.9437c.1292-.9146-.8268-1.5898-1.6416-1.1548-2.6884,1.4352-8.0414,3.6577-15.559,3.7684-.6192.0091-1.1251.4999-1.1275,1.1191l-.001.2636c-.0025.6344.5185,1.1461,1.1527,1.1323Z\"/><path fill=\"#D0CFCE\" d=\"m15.1212,31.9599c1.0561.2321,1.6643,1.3522,1.3616,2.3903l-.6451,2.2123h0c-.2417.7818-.9195,1.3491-1.7317,1.4493l-2.1272.2623c-.8463.1044-1.6692.3492-2.4348.7244l-.4685.2296c-.5842.2863-1.234-.2525-1.0515-.877.5589-1.9129,1.7919-5.0218,4.1126-6.1842-.0003-.0001,1.6161-.5078,2.9846-.207Z\"/><path fill=\"#D0CFCE\" d=\"m57.5464,40.7282c.1008-.1017.2721-.0717.3324.0582l1.4415,3.1063c.639,1.3771,1.5799,2.589,2.7369,3.5718.8876.7539,1.8416,1.6596,2.1074,2.2666.1993.5365.3409,1.0912.4233,1.6548.126.8615-.2472,1.7213-.9731,2.202h0c-.5552.3677-2.9707.996-3.4803.5674h0c-.6402-.5384-.8196-.929-1.0346-1.7373l-.0571-.2348c-.1727-.7101-.496-1.3669-.8717-1.9937-.0472-.0787-.0867-.1633-.1242-.2748h0c-.245-.7294-.7297-1.3543-1.3752-1.7731l-.1654-.1073c-.7171-.4653-1.4011-.9799-2.0469-1.5401h0c-.5934-.5147-.659-1.4123-.1466-2.0078l3.2336-3.7581Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m12.1118,37.5052l-2.4246,1.5916c-.419.275-.9092.4215-1.4104.4215h-.8551c-.7039-.0001-1.3769-.2891-1.8617-.7994h0c-.567-.5968-.8136-1.4291-.6633-2.2384l.7202-3.8778c.1099-.5916.4343-1.1219.911-1.4892l2.5175-1.9396s1.363-5.2538,4.7676-2.6374c3.8838,2.9846-1.7758,5.2236-1.7758,5.2236\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m14.8519,27.6188s5.5681-2.7151,9.0881-2.2188c1.4273.1718,2.8731.1086,4.28-.1869,5.3712-1.018,16.7957-2.6465,22.5624.5368,0,0,8.7736,2.5188,9.787,17.6594.0731,1.3611.6901,2.6358,1.7123,3.5375,1.2438,1.058,4.3018,1.8859,5.0518-2.1974\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m24.2555,37.3332s.9081,5.3808-1.5889,6.9168c-2.7974,1.7208-8.7769,5.4861-8.7769,5.4861,0,0,.6949,5.7817-3.7587,3.5413\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m16.7957,33.277s-2.0215,2.6553-.6317,8.7261l-4.414,4.33\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m24.629,42.0031s12.571-.9207,14.9086-2.0142,3.0907-.9552,3.0907-.9552\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m42.7736,34.5s-1.784,5.1542,3.4593,14.2605l-1.2,5.202c-.2309,1.001.3933,1.9996,1.3943,2.2305.1371.0316.2774.0476.4181.0476h.0024c.7907,0,1.4949-.4999,1.7558-1.2463l2.1789-6.2338s-2.6532-4.9632.0632-9.7268,1.9879-7.45,1.9879-7.45\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m49.8724,41.5141s4.0648,5.2765,7.1008,6.7766c2.11,1.0426,1.9436,4.4593,1.9436,4.4593v.173c0,1.1046.8954,2,2,2,.029,0,.058-.0006.087-.0019l.75-.0326c1.0697-.0466,1.913-.9274,1.913-1.9981v-.1088\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m24.629,46.7007c.3673,2.1041.3673,4.2559,0,6.36h0c-.4371.8095-.1351,1.8201.6744,2.2572.2432.1313.5152.2.7915.2h.41c.7563,0,1.4177-.5095,1.6107-1.2408l1.0516-4.61-.3853-8.0173\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m26.7967,25.4963s4.0366,3.3371,2.37,12.67\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m33.3883,41.1571s2.2784-6.5738.6227-11.74\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m37.1262,24.0725s2.091,2.5109,2.1744,8.0942\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m43.1546,23.9437s2.3454,1.723,2.1787,6.0563\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m21.5,32.6622c.1446-2.4026-.441-4.7927-1.68-6.8562\"/></g></g>"
+  },
+  {
+    "id": "animal.bee",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "bee"
+      ],
+      "fr": [
+        "abeille"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F41D/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#7EC8E3\" d=\"m38.5518,28.0684c-.5098.3583-.9704.7819-1.37,1.26l-.02.02c-.0212-.0021-.0418-.0089-.06-.02-.56-.23-1.11-.55-1.74-.79-5.29-2.31-13.82-5.62-20.37-6.37-.5-2.19-.39-3.73.12-4.64.66-1.13,1.88-1.42,3.52-1.12,5.44.89,15.0799,7.9,19.92,11.66Z\"/><path fill=\"#F2C14E\" d=\"m57.6893,31.9455c.0086,1.927-.6968,3.7888-1.98,5.2264h0l-.0792.0792h0l-.0792.0792c-.3898.4581-.8431.8581-1.3462,1.1879-.9706.7342-2.118,1.1986-3.326,1.3462-.4189.0658-.8431.0923-1.267.0792-.2665.0171-.534-.0097-.7919-.0792l-.2376.2376c-.44.4126-.9172.7837-1.4254,1.1086h0c-.1583.0792-.2375.1584-.3959.2376h0c-.5722.3186-1.1848.5583-1.8213.7126-.1584,0-.396.0792-.5544.0792-.3923.0658-.7902.0923-1.1878.0792-.2926.013-.5856-.0136-.8711-.0792h-.7127c-.4762.0797-.9175.3004-1.267.6335l-.1584.1584c-.0792.0792-.0792.1584-.1584.2376-.7899,1.0695-1.8209,1.9376-3.0092,2.534h0c-.1583.1584-.3167.2376-.4751.396-.0792,0-.0792.0792-.1584.0792h0c-.7127.5543-1.4254,1.1086-2.1381,1.5838h0c-.9601.6519-1.9656,1.2341-3.009,1.7421-3.228,1.6848-6.229,2.7513-10.3776,3.2323,0,0-.4154-.0564-.6295-.0647-2.1655.0216-3.9384-1.7164-3.96-3.8818-.0003-.0259-.0003-.0518,0-.0777-.013-.2664.0137-.5332.0792-.7918h0v-.0792c1.0496-4.5214,3.42-8.6286,6.81-11.7992.6606-.6423,1.3763-1.2254,2.1389-1.7425.2717-.2125.5635-.3982.8711-.5543.0763-.0979.1926-.1561.3167-.1584.766-.4692,1.5593-.8923,2.3757-1.267h0c1.3664-1.0362,3.0364-1.5929,4.7513-1.5838h.6335c.5112.0048,1.0197-.0755,1.5046-.2376.4719-.1692.8846-.4717,1.1878-.871.0804-.1503.1878-.2845.3168-.396.6607-.782,1.4677-1.4276,2.3757-1.9005.9618-.4916,2.0114-.7877,3.0883-.8711h1.3463c1.4998-1.6552,3.6264-2.6036,5.86-2.6132.3976-.0131.7955.0134,1.1879.0792h0c3.8045.7253,6.5607,4.0462,6.5726,7.9192Z\"/><path fill=\"#3F3F3F\" d=\"m36.4667,46.3579c-.0792,0-.0792.0792-.1584.0792h0c-.7127.5543-1.4254,1.1086-2.1381,1.5838h0c-.9602.6518-1.9658,1.234-3.0092,1.7421-.4936-.3168-.9694-.6605-1.4254-1.0294-3.6953-2.9364-5.9461-7.3226-6.1767-12.0368-.1584-.0792-.3168-.0792-.4752-.1584l.4752-.4751c.7942-.7705,1.6409-1.4849,2.534-2.1381.8343-.6071,1.7382-1.1122,2.6924-1.5046l.7127-.2375c.2828.1865.5479.3985.7919.6335.4752.3959,1.03.871,1.4254,1.267,3.1659,3.2886,4.8779,7.7112,4.7514,12.2743Z\"/><path fill=\"#7EC8E3\" d=\"m37.1,29.3322c-.5544-.2375-1.1088-.5543-1.7422-.7919-6.3351-2.7716-17.3424-6.9686-23.9942-6.4935-3.0092.2376-5.1473,1.4255-5.5432,4.1179-.7919,5.7016,6.0975,8.394,13.3036,9.5819,1.2671.2375,2.6132.3959,3.88.5543,3.7618.3845,7.5432.5432,11.324.4751l6.0976-5.86s-.6839-.3417-1.8241-.8963c-.436-.1982-.9352-.4262-1.5015-.6875Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m15.0017,22.1684c-.5-2.27-.41-3.76.11-4.66.65-1.06,1.87-1.35,3.52-1.12,5.45.88,15.1,7.92,19.94,11.67\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m57.67,30.66l.89-.14c.961-.2262,1.9581-.2535,2.93-.08l2.3.32,2.45.39\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m38.3672,42.7944l.95,3.0883c.0911.3091.1443.6281.1584.95v2.4549c.0066.7721-.2442,1.5244-.7127,2.1381l-1.6629,2.1384\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m48.1866,40.102l.6335,1.8213c.1701.564.224,1.1567.1584,1.7422l-.3959,2.6924\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m35.5164,43.27l.1584,5.1473c.0128.2142-.014.429-.0792.6335l-.5544,3.3259c-.1426.8649-.628,1.6357-1.3462,2.1382l-1.5838,1.1878\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m44.6231,40.7355l.95,2.0589c.4753.9746.2253,2.1137-.25,3.0883l-.7127,1.5046\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m52.78,29.8074l1.1086-1.1087c1.3219-1.3951,3.0326-2.3607,4.91-2.7716l6.3351-1.4254\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m23,36.3c-3.3868,3.1735-5.7566,7.2799-6.81,11.8v.08c-.0656.2579-.0926.5242-.08.79-.0195,2.1675,1.7218,3.9405,3.8893,3.96.0236.0002.0471.0002.0707,0,.2163.0083,2.1726-.2467,2.93-.39\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m54.28,38.52c.5049-.3297.9595-.7305,1.35-1.19l.08-.08.08-.08v-.08c1.2936-1.4287,2.0007-3.2928,1.98-5.22.0023-.4055-.0311-.8104-.1-1.21-.1986-1.3496-.7506-2.6226-1.6-3.69-.07-.1-.16-.2-.24-.3-1.2277-1.4268-2.928-2.364-4.79-2.64-.393-.0661-.7917-.0929-1.19-.08-2.2339.0053-4.3618.9531-5.86,2.61h-1.35c-1.4702.1097-2.8802.6294-4.07,1.5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m40.4217,30.8384s-1.24-.55-3.26-1.49c-.0212-.0021-.0418-.0089-.06-.02-.56-.23-1.11-.55-1.74-.79-5.29-2.31-13.82-5.62-20.37-6.37-1.2037-.1517-2.4189-.1919-3.63-.12-3.01.24-5.15,1.42-5.54,4.12-.79,5.7,6.1,8.39,13.3,9.58,1.27.24,2.62.39,3.88.55,3.7635.3885,7.5471.5488,11.33.48\"/></g></g>"
+  },
+  {
+    "id": "animal.ant",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "ant"
+      ],
+      "fr": [
+        "fourmi"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F41C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><ellipse cx=\"36\" cy=\"29.7632\" rx=\"6.2632\" ry=\"4.0263\" fill=\"#6B4F3A\"/><ellipse cx=\"36\" cy=\"36.9211\" rx=\"4.4737\" ry=\"2.8759\" fill=\"#6B4F3A\"/><ellipse cx=\"36\" cy=\"50.3421\" rx=\"6.2632\" ry=\"10.2895\" fill=\"#6B4F3A\"/></g><g data-layer=\"line\"><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"31.5263 34.6842 23.4737 31.1053 20.7895 23.9474\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"40.4737 34.6842 48.5263 31.1053 51.2105 23.9474\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"40.4737 38.2632 50.3158 38.2632 53 35.5789\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"31.5263 38.2632 21.6842 38.2632 19 35.5789\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"32.4211 40.1579 22.5789 49.1053 23.4737 56.2632\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"39.5789 40.1579 50.3158 49.1053 49.4211 56.2632\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"33.8377 25.7368 32.6711 22.1579 33.5658 20.3684\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"37.7895 25.7368 38.9561 22.1579 38.0614 20.3684\"/><ellipse cx=\"36\" cy=\"29.7632\" rx=\"6.2632\" ry=\"4.0263\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><ellipse cx=\"36\" cy=\"36.9211\" rx=\"4.4737\" ry=\"2.8759\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><ellipse cx=\"36\" cy=\"50.3421\" rx=\"6.2632\" ry=\"10.2895\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "animal.spider",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "spider"
+      ],
+      "fr": [
+        "araignée"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F577/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><ellipse cx=\"36.22\" cy=\"29.93\" rx=\"8.644\" ry=\"11.3\" fill=\"#9B9B9A\" stroke-width=\"1.8\"/><circle cx=\"36.22\" cy=\"45.89\" r=\"4.654\" fill=\"#9B9B9A\" stroke-width=\"1.8\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m25.98 8.278s-14.61 29.22 9.296 33.2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m36.61 41.48c26.56-3.984 10.62-33.2 10.62-33.2\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m61.4 21.34s-3.541 22.13-23.46 19.81\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m10.6 21.45s5.201 21.36 23.57 20.03\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m33.29 41.48s-12.62 9.668-5.976 18.59\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m31.3 40.7s-18.59 7.415-13.28 22.02\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m38.93 41.04s13.61 8.411 6.972 19.03\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m42.03 40.92s18.7 7.857 12.62 22.8\"/><ellipse cx=\"35.94\" cy=\"30.19\" rx=\"8.632\" ry=\"11.29\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"35.94\" cy=\"46.13\" r=\"4.648\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "animal.dinosaur",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "dinosaur"
+      ],
+      "fr": [
+        "dinosaure"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F995/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#A57939\" stroke=\"none\" d=\"M5,52c0,0,15-3,17-10s14.6667-11.1667,20.8333-8.5833c0,0,6.3333,0.5833,8.25-7.4167C53,18,55,9,62,10 s6.1667,6.3333,4.0833,7.1667C64,18,61,18,60,19.5s-2.1667,16.1667-6.5833,19.8333c0,0-4.9167,6.5-4.6667,9.5833 C49,52,50.5833,61.25,47,61c-3.6293-0.2532-3-7-3-8s-8-3-11-1s-2.1667,8-4.5833,8.5S23.5,60.8333,22.75,59.9167 C22,59,23.3494,53.229,22.25,51.25\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M5,52c0,0,15-3,17-10 s14.6667-11.1667,20.8333-8.5833c0,0,6.3333,0.5833,8.25-7.4167C53,18,55,9,62,10s6.1667,6.3333,4.0833,7.1667C64,18,61,18,60,19.5 s-2.1667,16.1667-6.5833,19.8333c0,0-4.9167,6.5-4.6667,9.5833C49,52,50.5833,61.25,47,61c-3.6293-0.2532-3-7-3-8s-8-3-11-1 s-2.1667,8-4.5833,8.5S23.5,60.8333,22.75,59.9167C22,59,23.3494,53.229,22.25,51.25\"/></g></g>"
+  },
+  {
+    "id": "animal.octopus",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "octopus"
+      ],
+      "fr": [
+        "pieuvre",
+        "poulpe"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F419/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M60,30.3783c2-6.1193-3-6.1193-3-6.1193c-7,1.0199-2,7.1391-2,7.1391s6,11.2186-4.5833,10.8251 S43,31.3982,43,31.3982c6.0698-5.1987,4-11.2186,4-11.2186c-3-10.1988-11-9.1789-11-9.1789s-8-1.0199-11,8.159 c0,0-3,9.1789,4,12.2385c0,0,4,11.2186-8,11.2186c0,0-10,0-4-13.2584c0,0,2-7.1391-4-5.0994c0,0-3,1.0199-2,6.1193 c0,0-5,21.4174,14,16.318c0,0,16-3.0596,22,0c6,3.0596,14,1.0199,14-9.1789L60,30.3783z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M33,32c0,0,4,11.4491-7,14.5715c0,0-7-1.0408-7,5.2041s4,6.2449,6,5.2041c2-1.0408,3-4.1633,3-4.1633 S28,49.8775,24,53s-3-3.306,4-4.3468C35,47.6124,38,36.1633,36,32H33z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M19.1157,45c0,0-2,1-4-1s-4-1-4-1s-4,1-1,5c0,0,1,2,4,1c0,0,1.8843-1-0.1157-2s-4-2-2-2 S18.2314,50,19.1157,45z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M38.6082,32c0,0-4,11.4491,7,14.5715c0,0,7-1.0408,7,5.2041s-4,6.2449-6,5.2041 c-2-1.0408-3-4.1633-3-4.1633S44,49.8775,48,53s2.6082-3.306-4.3918-4.3468c-7-1.0408-10-12.4899-8-16.6532H38.6082z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M54,45c0,0,2,1,4-1s4-1,4-1s4,1,1,5c0,0-1,2-4,1c0,0-1.8843-1,0.1157-2s4-2,2-2S54.8843,50,54,45z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M60,30c2-6-3-6-3-6c-7,1-2,7-2,7s6,11-4.5833,10.6142C39.8333,41.2284,43,31,43,31c6.0698-5.0974,4-11,4-11c-3-10-11-9-11-9 s-8-1-11,8c0,0-3,9,4,12c0,0,4,11-8,11c0,0-10,0-4-13c0,0,2-7-4-5c0,0-3,1-2,6\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33,33c0,0,4,11-7,14c0,0-7-1-7,5s4,6,6,5s3-4,3-4\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M38.7091,33c0,0-4,11,7,14c0,0,7-1,7,5s-4,6-6,5s-3-4-3-4\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M19.1157,45c0,0-2,1-4-1s-4-1-4-1s-4,1-1,5c0,0,1,2,4,1\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M54,45c0,0,2,1,4-1s4-1,4-1s4,1,1,5c0,0-1,2-4,1\"/></g></g>"
+  },
+  {
+    "id": "animal.crab",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "crab"
+      ],
+      "fr": [
+        "crabe"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F980/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" d=\"M36.4416,31.0781s5.3372-1.1983,9.6068,4.7934c1.8117,2.5424,3.0945,2.5525,3.9162,3.3951.2268.2326,1.3914,1.8713,1.5586,2.0189,1.2509,1.1039,1.0841,2.6158,1.1856,4.2657.0492.799-.1324,3.2126-1.0058,3.63-1.5679.7495-1.9749,2.2278-5.6546,3.4671,0,0-6.4046,1.1983-9.6068-2.3967,0,0-3.2022,4.7934-11.7417,1.1983a7.4677,7.4677,0,0,1-4.0159-3.291C19.95,46.6762,19.163,44.84,20.18,42.84a5.8506,5.8506,0,0,1,1.0169-2c1.41-1.5834,4.5741-4.4271,5.0844-5C28.4159,33.4434,32.1719,29.88,36.4416,31.0781Z\"/><path fill=\"#E46B4A\" d=\"M17.2077,34.6889c-.1709,0-.3418-.0049-.5117-.0127a4.0515,4.0515,0,0,1-1.9805-.5283,1.0014,1.0014,0,0,1-.3574-1.3018l3.7177-7.2724a1.0067,1.0067,0,0,1,.5245-.4756,7.9385,7.9385,0,0,0,4.6738-5.2373.9995.9995,0,0,1,1.6767-.4444,8.8185,8.8185,0,0,1,1.1065,10.4395A10.4147,10.4147,0,0,1,17.2077,34.6889Z\"/><path fill=\"#E46B4A\" d=\"M21.7309,44.231c-6.0292,5.4359-12.6013-9.0188-7-10.0005,0,.0005,4,.0005,4,2.0005s-1.6667,5,2.6667,6.5Z\"/><path fill=\"#E46B4A\" d=\"M13.4921,33.043s-8.3114-8.2415,3.4967-16.0242c0,0,4.522-2.1335,6.7065.153,0,0-6.3308,2.9869-5.955,6.1268s2.9869,6.3307.7,8.5152A13.3807,13.3807,0,0,1,13.4921,33.043Z\"/><path fill=\"#E46B4A\" d=\"M45.9427,29.8559a8.8185,8.8185,0,0,1,1.1065-10.4395.9995.9995,0,0,1,1.6767.4444A7.9385,7.9385,0,0,0,53.4,25.0981a1.0067,1.0067,0,0,1,.5245.4756l3.7177,7.2724a1.0014,1.0014,0,0,1-.3574,1.3018,4.0515,4.0515,0,0,1-1.98.5283c-.17.0078-.3408.0127-.5117.0127A10.4147,10.4147,0,0,1,45.9427,29.8559Z\"/><path fill=\"#E46B4A\" d=\"M50.6024,42.731c4.3334-1.5,2.6667-4.5,2.6667-6.5s4-2,4-2.0005c5.601.9817-.9711,15.4364-7,10.0005Z\"/><path fill=\"#E46B4A\" d=\"M53.5593,31.8138c-2.2865-2.1845.3247-5.3753.7-8.5152s-5.955-6.1268-5.955-6.1268c2.1845-2.2865,6.7065-.153,6.7065-.153,11.8081,7.7827,3.4967,16.0242,3.4967,16.0242A13.3807,13.3807,0,0,1,53.5593,31.8138Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M51.38,48.0367c-.7015,1.3785-2.3662,2.7692-5.8135,3.8034,0,0-6,1-9-2,0,0-3,4-11,1a6.968,6.968,0,0,1-3.7623-2.7463\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M23.6494,39.7568,27.5661,35.84c2-2,5-5,9-4,0,0,5-1,9,4A36.4889,36.4889,0,0,0,49.19,39.8862\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M25.5661,50.84a3.699,3.699,0,0,0-2,3\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M29.6494,51.9234A3.8823,3.8823,0,0,0,28.5661,54.84\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M44.5661,51.9234A3.8823,3.8823,0,0,1,45.6494,54.84\"/><ellipse fill=\"#1F2937\" cx=\"32.5661\" cy=\"27.3401\" rx=\"1\" ry=\"2.5\"/><ellipse fill=\"#1F2937\" cx=\"40.5661\" cy=\"27.3401\" rx=\"1\" ry=\"2.5\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.9014,50.5918s1.7184,1.2213,1.3293,2.4966\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M21.7309,44.231s-5,4-8-3,1-7,1-7,4,0,4,2-1.6667,5,2.6667,6.5Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M13.4921,33.043s-8.3114-8.2415,3.4967-16.0242c0,0,4.522-2.1335,6.7065.153C9.6737,22.8554,27.6909,31.7886,13.4921,33.043Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M18.9663,26.0289A8.9447,8.9447,0,0,0,24.24,20.12a7.817,7.817,0,0,1,.9574,9.2267,9.3849,9.3849,0,0,1-8.4513,4.3305,3.077,3.077,0,0,1-1.4973-.3754\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M50.6024,42.731c4.3334-1.5,2.6667-4.5,2.6667-6.5s4-2,4-2,4,0,1,7-8,3-8,3Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M48.3047,17.1718c2.1845-2.2865,6.7065-.153,6.7065-.153,11.8081,7.7827,3.4967,16.0242,3.4967,16.0242C44.3091,31.7886,62.3263,22.8554,48.3047,17.1718Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M53.0337,26.0289A8.9447,8.9447,0,0,1,47.76,20.12a7.817,7.817,0,0,0-.9574,9.2267,9.3849,9.3849,0,0,0,8.4513,4.3305,3.077,3.077,0,0,0,1.4973-.3754\"/></g></g>"
+  },
+  {
+    "id": "animal.hedgehog",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "hedgehog"
+      ],
+      "fr": [
+        "hérisson"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F994/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#9B9B9A\" stroke=\"none\" d=\"M13.5877,35.5855c0,0-4.1667,5.1667-3.6667,8.3333l-2.8333,2.5v1.5c0,0,6.8333,2.8333,13.3333,0.8333v2.5 l0.1667,2.5l3.3333,1.3333c0,0,3.8333-0.6667,4.8333-6c0,0,4,1.5,5.6667,5.8333l4.6667-0.3333c0,0,0.6667-2.5-0.1667-4.1667 l20.5-0.3333l2,1.8333v2l1,1.1667h2.1667l1.6667-1.8333l-1.8333-6.5l1.5-4.6667c0,0-17.3333,10.5-41.3333-3.1667l-1.8333-3.8333 c0,0-3.8333,0.6667-3.6667,1.6667C19.0877,36.7521,18.2544,34.0855,13.5877,35.5855z\"/><path fill=\"#6B4F3A\" stroke=\"none\" d=\"M18.5877,30.5021l-3.5,5.5c0,0,4.0833,0.1667,4,1.5833c-0.0833,1.4167,2.5,2.4167-0.4167,6.5833l2.1667,1 l1.4167-1.0833l1.5833-3.5l0.75-1.6667c0,0,19.0833,14.4167,41.3333,3.1667l1.5833-3l-5-5l-0.5833-2.1667l-0.6667-2.8333 l-3.9167-0.75l-3.5-4l-7.9167-1.3333l-4.25-1.5833l-3.8333,2.75l-3.8333-0.9167l-4.1667,2.9167l-1.9167,0.0833l-3.4167-0.3333 l-2.25,4.8333l-2.3333,0.0833L18.5877,30.5021z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M24.4626,26.6384c-0.856,2.25-1.8321,3.2941-2.6133,4.0861c-0.5593,0.567-1.4467,0.6356-2.0742,0.1451l-1.1842-0.9257 l-3.4235,5.054c-0.4522,0.6675-1.2059,1.0673-2.0121,1.0673h0c0,0-2.6719,3.2711-3.6021,6.8056 c-0.2609,0.9913-0.8825,1.8494-1.7039,2.4625l-0.3813,0.2847c0,0-2.3508,1.9617,0.455,2.8147c0,0,9.623,3.0391,14.9564-1.2109\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41.3785,22.3051c0,0-1.8239,1.2266-3.1987,1.4888c-0.591,0.1127-1.1626,0.2298-1.7154,0.3508l-3.1685-0.6729 c-1.5711,1.7948-3.7536,2.6499-5.291,3.3242\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M59.9626,28.8051c-1.9853,0-2.5489-0.1535-3.6695-1.0568c-0.8687-0.7003-1.6041-1.5463-2.172-2.5068l-0.4085-0.6909 c-2.6409,0-5.4664-0.3191-8.0477-0.7441\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M66.2544,38.5007c-3.0964-1.1547-3.5341-4.4159-4.5581-5.7359\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M20.8181,51.7455l-0.2275,0.4726c-0.639,1.3278,0.3286,2.8673,1.8022,2.8673h1.6275c0.7345,0,1.41-0.4027,1.7593-1.0488 l2.8454-5.2629c0,0,3.5011,1.4508,4.7542,5.0364c0.2731,0.7814,1.0483,1.2753,1.876,1.2753l2.0227,0 c1.1869,0,2.121-1.028,1.9899-2.2077c-0.1031-0.9279-0.2908-1.8895-0.633-2.3128c0,0,15.1566,0.4371,20.0075-0.6121 c1.0237-0.2214,2.0438,0.3984,2.2698,1.4212c0.1096,0.4959,0.1747,1.0522,0.1418,1.6371 c-0.0641,1.1392,0.8536,2.0744,1.9946,2.0744h0.3886c1.1246,0,2.0006-0.7999,2.0742-1.842 c0.1232-1.7442-0.0146-4.3923-1.5486-6.4315c0,0,1.1334-0.9919,1.1126-4.0873\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M19.2107,37.2177c0,0,2.1233-3.3264,4.0191-0.3412c1.2792,2.0143-0.3073,5.0412-1.4745,6.797 c-0.5543,0.8338-1.618,1.1557-2.5445,0.7763h0\"/><line x1=\"27.4209\" x2=\"32.4209\" y1=\"34.5968\" y2=\"30.4718\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"31.5459\" x2=\"37.5459\" y1=\"40.1202\" y2=\"38.0618\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"36.9209\" x2=\"42.9681\" y1=\"32.7648\" y2=\"29.9718\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"39.9445\" x2=\"46.7959\" y1=\"43.4718\" y2=\"42.7247\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"48.7959\" x2=\"55.6709\" y1=\"36.6327\" y2=\"37.8655\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"46.9444\" x2=\"52.3975\" y1=\"32.4901\" y2=\"29.9873\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"53.0404\" x2=\"59.3015\" y1=\"43.7689\" y2=\"45.4464\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "animal.goat",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "goat"
+      ],
+      "fr": [
+        "chèvre"
+      ]
+    },
+    "tags": [
+      "animal",
+      "farm"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F410/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#A57939\" d=\"m14.9052,16.5687s-4.0263-2.1683-5.1407-.4195l1.6065,2.5221-4.0225,3.9723-.7365,2.2816.9757,1.7853,1.8769-.1152c.6259-.0384,1.236.2068,1.6611.6678h0c.277.3003.4081.7071.3587,1.1126l-.4904,4.0222s4.5938.25,2.7188-6.6493h2.2324l.1963,2.1493.6417,3.4545s.8915,3.8863,1.5478,3.7955,3.1319,2.4,3.1319,2.4l.684,3.9778,3.161,3.4406s3.4359,11.6563,2.4673,14.5658c-.9687,2.9096-.7567,3.3723-.7567,3.3723l2.5692.681,2.1608-4.4433-.8899-14.8962s6.9504,5.9571,15.246,1.3046c0,0,.5321,5.4073,2.4139,6.3462l-1.1489,6.8721-1.9903,3.5042,1.396.9868,1.8119-.3503,3.0314-6.0352,1.1038-10.9629,1.178-2.5774,5.3749-7.1527s.2703-2.5759-1.3092-4.0424c-.6279-.583-1.7969-1.3117-2.9777-1.9783-2.1882-1.2352-4.6398-1.9293-7.1494-2.0551l-6.7474-.3382c-1.5826-.0793-3.1691-.015-4.7401.1922l-7.3223.9656c-1.0298.1358-2.0438-.3436-2.5924-1.2257l-5.474-8.8013-2.6317-2.125s-2.7959-.5961-3.4259-.2044Z\"/><path fill=\"#6B4F3A\" d=\"m59.2752,36.1811s-1.7636,7.4875-2.3125,10.3392c-.3333,1.7317-.6959,3.819-.6959,3.819l1.1475,1.996-4.25,11.6875s-3.8266.5271-4.3891-.7632l3.1059-4.6743.4566-5.5625.4375-7.6875,1.1251-2.0016,5.3749-7.1526Z\"/><path fill=\"#6B4F3A\" d=\"m14.5877,17.9605l3.3466-3.9634,5.2479-.5321,4.2805,3.7455s-6.75-4.375-9.1317,1.4375l-3.7433-.6875Z\"/><polygon fill=\"#6B4F3A\" points=\"26.4002 48.5855 31.0252 49.273 31.8377 57.7105 29.8416 63.0633 26.4002 63.0633 28.1502 58.3355 26.4002 48.5855\"/><polygon fill=\"#6B4F3A\" points=\"52.3377 53.023 48.4002 53.523 46.9159 59.5674 45.3792 62.273 45.7934 63.0633 48.1502 63.5855 50.8997 59.059 52.3377 53.023\"/><path fill=\"#6B4F3A\" d=\"m64.9627,26.5021s1.9578,10.3429-5.8128,10.2131c0,0-.0556-3.1065-1.1839-4.5765l2.4679-2.5651s1.7521-2.2515,1.8614-2.3229,2.6674-.7486,2.6674-.7486Z\"/></g><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m10.9522,31.3524c2.1772-4.1292-.8258-4.955-.8258-4.955-1.7268.8258-2.7778-.3003-2.7778-.3003-1.8018-1.7267,0-3.4535,0-3.4535,4.0541-2.8529,4.0225-3.9723,4.0225-3.9723l-1.7276-2.7122s2.4349-2.3246,4.9124,1.0538c0,0,5.931-8.4085,12.4626-.6006\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m13.9559,25.7358s3.9033.4364,3.9784-3.7678\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m18.3309,17.7091s2.2921.3123,3.875,3.875c.7891,1.7761,4.4163,7.4998,4.8126,7.7292,0,0,25.5259-5.6186,30.556,2.7899,0,0,1.7267.5255,2.7778-2.3274,1.0511-2.8529,3.6037-3.2283,3.6037-3.2283\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m46.4012,45.3935c-8.9341,4.8799-15.5538-1.3532-15.5538-1.3532l.4836,8.8965.5,6.0223-1.672,3.7114c-.1616.3586-.5184.5892-.9117.5892h-1.4643c-.7366,0-1.2204-.7694-.9013-1.4333l1.1632-2.9869s-.0504-1.736-.5009-5.4147-2.3274-8.7088-2.3274-8.7088c-4.5046-2.5526-3.7538-7.168-3.7538-7.168-5.7057-4.1514-5.3158-12.316-5.3158-12.316\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m48.678,39.1979s-5.0582,6.4486-.1595,12.6987c0,0,.1019,5.4161-1.8125,8.0625l-1.1586,1.7482c-.4405.6647.0361,1.5524.8336,1.5524h1.4454c.2941,0,.5696-.1269.7608-.3503.9164-1.0706,3.4939-4.5506,3.4939-9.8253,0-5.2399,1.0453-9.0438,1.0453-9.0438,5.0676-4.4483,5.2568-7.8591,5.2568-7.8591\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m56.0393,46.5204s-1.065,3.2324,1.375,5.3345l-4.25,11.2083\"/></g></g>"
+  },
+  {
+    "id": "place.park",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "park"
+      ],
+      "fr": [
+        "parc",
+        "jardin public"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3DE/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><line x1=\"45\" x2=\"45\" y1=\"56.4349\" y2=\"52\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"58\" x2=\"58\" y1=\"53.4349\" y2=\"49\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><polyline fill=\"#9B9B9A\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.22\" points=\"37.9219,35.1094 40.3905,41.6746 45.75,47.2247 10.25,47.125 14.0417,42.25 15.6667,34.0781 20.4306,21.1476 23.1528,23.8698 25.875,25.9115 28.5972,31.3559 32,31.3559 37.4444,35.4392\"/><path fill=\"#7EC8E3\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.57\" d=\"M37,52c-2.6985-2.7727-4.6708-3.179-6-3c-3.0049,0.4046-4.3383,4.0176-8,4c-0.3861-0.0019-1.3036-0.0068-2.3333-0.4544 C18.0565,51.411,17.6107,48.5751,14,49c-4.0531,0.477-4.909,4.5912-8,4h29.6875\"/><path fill=\"#6BAF5B\" stroke=\"#6BAF5B\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.57\" d=\"M66.28,39.6464 c0-1.586-1.6295-2.8743-3.6396-2.8743c-0.1679,0.0014-0.3356,0.012-0.5025,0.0318C61.2867,35.1493,59.4384,34,57.2891,34 c-2.9556,0-5.3514,2.1685-5.3514,4.8432c0.0005,0.1768,0.0116,0.3535,0.0332,0.5288c-1.3211,0.4311-2.2509,1.4576-2.2509,2.6564 c0,1.5861,1.6295,2.8743,3.6396,2.8743c0.764,0.0066,1.5164-0.1926,2.1825-0.578c0.8599,0.7071,2.2359,1.1677,3.7918,1.1677 c2.6069,0,4.7201-1.2869,4.7201-2.8743c-0.0004-0.1049-0.0101-0.2096-0.029-0.3128C65.348,41.8736,66.28,40.8465,66.28,39.6464z\"/><path fill=\"#6BAF5B\" stroke=\"none\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.57\" d=\"M52.898,42.9002 c0-1.586-1.6295-2.8743-3.6396-2.8743c-0.1679,0.0014-0.3356,0.012-0.5025,0.0318c-0.8512-1.6546-2.6995-2.8039-4.8488-2.8039 c-2.9556,0-5.3514,2.1685-5.3514,4.8432c0.0005,0.1768,0.0116,0.3535,0.0332,0.5288c-1.3211,0.4311-2.2509,1.4576-2.2509,2.6564 c0,1.5861,1.6295,2.8743,3.6396,2.8743c0.764,0.0066,1.5164-0.1926,2.1825-0.578c0.8599,0.7071,2.2359,1.1677,3.7918,1.1677 c2.6069,0,4.7201-1.2869,4.7201-2.8743c-0.0004-0.1049-0.0101-0.2096-0.029-0.3128C51.966,45.1274,52.898,44.1003,52.898,42.9002z\"/></g><g/><g/><g/><g data-layer=\"line\"><line x1=\"45\" x2=\"45\" y1=\"56.4349\" y2=\"52\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"58\" x2=\"58\" y1=\"53.4349\" y2=\"49\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"28.6757,31.1351 25.973,25.7297 23.2703,23.7027 20.5676,21 15.8378,33.8378 14.4865,41.9459 11.7838,46\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"24.6216,25.0541 25.2973,31.1351 32.0541,31.1351 37.4595,35.1892\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"32.0541,31.1351 34.0811,35.1892 34.7568,39.2432 32.0541,43.2999 28,46\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M55.5421,44.3247 c0.8599,0.7071,2.2359,1.1677,3.7918,1.1677c2.6069,0,4.7201-1.287,4.7201-2.8743c-0.0004-0.1049-0.0101-0.2096-0.029-0.3128 c1.323-0.4317,2.255-1.4588,2.255-2.6589c0-1.586-1.6295-2.8743-3.6396-2.8743c-0.1679,0.0014-0.3356,0.012-0.5025,0.0318 C61.2867,35.1493,59.4384,34,57.2891,34c-2.5086,0-4.6139,1.5621-5.1934,3.6701\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.57\" d=\"M52.898,42.9002 c0-1.586-1.6295-2.8743-3.6396-2.8743c-0.1679,0.0014-0.3356,0.012-0.5025,0.0318c-0.8512-1.6546-2.6995-2.8039-4.8488-2.8039 c-2.9556,0-5.3514,2.1685-5.3514,4.8432c0.0005,0.1768,0.0116,0.3535,0.0332,0.5288c-1.3211,0.4311-2.2509,1.4576-2.2509,2.6564 c0,1.5861,1.6295,2.8743,3.6396,2.8743c0.764,0.0066,1.5164-0.1926,2.1825-0.578c0.8599,0.7071,2.2359,1.1677,3.7918,1.1677 c2.6069,0,4.7201-1.2869,4.7201-2.8743c-0.0004-0.1049-0.0101-0.2096-0.029-0.3128C51.966,45.1274,52.898,44.1003,52.898,42.9002z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M6,53c3.091,0.5912,3.9469-3.523,8-4c3.6107-0.4249,4.0565,2.411,6.6667,3.5456C21.6964,52.9932,22.6139,52.9981,23,53 c3.6617,0.0176,4.9951-3.5954,8-4c1.3292-0.179,3.3015,0.2273,6,3\"/></g></g>"
+  },
+  {
+    "id": "place.restaurant",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "restaurant",
+        "canteen",
+        "lunch"
+      ],
+      "fr": [
+        "restaurant",
+        "cantine",
+        "déjeuner"
+      ]
+    },
+    "tags": [
+      "place",
+      "meal"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F37D/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" stroke=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M66.1204,26.2961 C66.1204,20.353,61,14.1351,61,16s0.9471,26.6324,0.9471,26.6324L61,58.8287c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.5289-16.2893 C64.4711,42.5394,66.1204,32.2392,66.1204,26.2961z\"/><path fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.4211,16.7398c0,0,0.1115,4.158,0.1115,8.1058c0,2.9609-0.8993,4.8203-2.1809,5.565l0,0l0.0285,28.4181c0,1.1046-0.8954,2-2,2 s-2-0.8954-2-2L6.191,30.4165l0,0C4.904,29.6757,4,27.8142,4,24.8456c0-3.9478,0.1115-8.1058,0.1115-8.1058\"/><line x1=\"7.7663\" x2=\"7.7663\" y1=\"16.7398\" y2=\"26.3247\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"36\" cy=\"35.9583\" r=\"19.9583\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"36.0042\" cy=\"36\" r=\"12.1495\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M66.1204,26.2961 C66.1204,20.353,61,14.1351,61,16s0.9471,26.6324,0.9471,26.6324L61,58.8287c0,1.1046,0.8954,2,2,2s2-0.8954,2-2l-0.5289-16.2893 C64.4711,42.5394,66.1204,32.2392,66.1204,26.2961z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M11.4211,16.7398c0,0,0.1115,4.158,0.1115,8.1058c0,2.9609-0.8993,4.8203-2.1809,5.565l0,0l0.0285,28.4181c0,1.1046-0.8954,2-2,2 s-2-0.8954-2-2L6.191,30.4165l0,0C4.904,29.6757,4,27.8142,4,24.8456c0-3.9478,0.1115-8.1058,0.1115-8.1058\"/><line x1=\"7.7663\" x2=\"7.7663\" y1=\"16.7398\" y2=\"26.3247\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"36\" cy=\"35.9583\" r=\"19.9583\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"36.0042\" cy=\"36\" r=\"12.1495\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "place.circus",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "circus",
+        "show"
+      ],
+      "fr": [
+        "cirque",
+        "spectacle"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3AA/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><rect x=\"11.5\" y=\"39\" width=\"49\" height=\"16\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,25 11.5,39 60.5,39\"/><polygon fill=\"#E46B4A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,25 20.5,39 51.5,39\"/><polygon fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,25 30.5,39 41.5,39\"/><rect x=\"21\" y=\"39\" width=\"30\" height=\"16\" fill=\"#E46B4A\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"30.5\" y=\"39\" width=\"11\" height=\"16\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"36\" y=\"44\" width=\"0\" height=\"11\" fill=\"#FFFFFF\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"#3F3F3F\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,44 33,55 39,55\"/></g><g/><g/><g/><g data-layer=\"line\"><rect x=\"11.5\" y=\"39\" width=\"49\" height=\"16\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,25 11.5,39 60.5,39\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,25 20.5,39 51.5,39\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,25 30.5,39 41.5,39\"/><rect x=\"21\" y=\"39\" width=\"30\" height=\"16\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"30.5\" y=\"39\" width=\"11\" height=\"16\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"36\" y=\"44\" width=\"0\" height=\"11\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,44 33,55 39,55\"/></g></g>"
+  },
+  {
+    "id": "place.fair",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "fair",
+        "funfair"
+      ],
+      "fr": [
+        "fête foraine",
+        "manège"
+      ]
+    },
+    "tags": [
+      "place",
+      "play"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Louisa Mantsch",
+      "url": "https://openmoji.org/library/emoji-1F3A1/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#4F86C6\" points=\"33.636 37.325 17.31 66.846 30.098 66.846 33.636 37.325\"/><polygon fill=\"#4F86C6\" points=\"36.386 37.606 52.647 66.846 39.859 66.846 36.386 37.606\"/><polyline fill=\"#7EC8E3\" points=\"46.53 55.464 38.967 41.393 37.759 42.092 45.968 66.846 52.647 66.846 47.205 56.719\"/><polygon fill=\"#7EC8E3\" points=\"31.703 42.584 24.001 66.24 30.183 66.24 33.487 42.816 31.703 42.584\"/><line x1=\"38.3273\" x2=\"50.5986\" y1=\"29.9608\" y2=\"17.6895\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"19.2672\" x2=\"32.3598\" y1=\"49.0486\" y2=\"35.9559\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"56.9179\" x2=\"38.9011\" y1=\"32.9266\" y2=\"32.9266\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"50.6124\" x2=\"37.6298\" y1=\"48.6764\" y2=\"35.6937\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"31.1489\" x2=\"12.589\" y1=\"32.9462\" y2=\"32.9462\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"32.2074\" x2=\"19.2534\" y1=\"30.299\" y2=\"17.345\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"35.532\" x2=\"35.532\" y1=\"29.0506\" y2=\"10.4918\" fill=\"none\" stroke=\"#9B9B9A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><circle cx=\"34.7342\" cy=\"33.0663\" r=\"24.8551\" fill=\"none\" stroke=\"#9B9B9A\" stroke-miterlimit=\"10\"/><circle cx=\"11.6821\" cy=\"20.7852\" r=\"4.5885\" fill=\"#F4AA41\"/><circle cx=\"42.1211\" cy=\"9.4185\" r=\"4.5885\" fill=\"#F4AA41\"/><circle cx=\"60.9159\" cy=\"32.2058\" r=\"4.6397\" fill=\"#F4AA41\"/><circle cx=\"47.9095\" cy=\"55.4635\" r=\"4.6397\" fill=\"#F4AA41\"/><circle cx=\"13.141\" cy=\"47.1319\" r=\"4.5885\" fill=\"#F4AA41\"/></g><g data-layer=\"line\"><line x1=\"31.9528\" x2=\"33.1762\" y1=\"55.4635\" y2=\"37.3246\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"30.692 62.634 30.098 66.846 17.31 66.846 22.578 57.044\"/><line x1=\"32.6762\" x2=\"23.7467\" y1=\"37.3246\" y2=\"52.9734\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"38.0038\" x2=\"36.0921\" y1=\"55.4635\" y2=\"37.0927\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" points=\"39.289 62.804 39.859 66.846 52.647 66.846 48.929 60\"/><line x1=\"36.0921\" x2=\"44.2765\" y1=\"37.0927\" y2=\"51.3867\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m60.6462,36.8379c-.8781,6.0565-3.8539,11.6127-8.4087,15.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m47.2811,10.0812c6.636,3.6279,11.3827,9.944,13.0219,17.3271\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m14.4392,16.5242c4.9676-6.1062,12.4233-9.6476,20.295-9.64.894-.0001,1.7875.045,2.6769.1352\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m10.4568,42.8873c-2.2471-5.5798-2.5139-11.7612-.7559-17.5139\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m43.7629,57.65c-9.864,3.6119-20.9316.9869-28.1229-6.67\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m37.1632,36.16c-1.7857,1.181-4.1906.6907-5.3716-1.095-1.181-1.7857-.6907-4.1906,1.095-5.3716,1.7857-1.181,4.1906-.6907,5.3716,1.095.4194.6342.6431,1.3777.6431,2.138\"/><line x1=\"37.9689\" x2=\"50.2403\" y1=\"29.6025\" y2=\"17.3312\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"18.9089\" x2=\"32.0015\" y1=\"48.6902\" y2=\"35.5976\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"31.8491\" x2=\"18.895\" y1=\"30.6574\" y2=\"17.7033\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"50.2541\" x2=\"37.2714\" y1=\"49.0347\" y2=\"36.0521\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"31.1489\" x2=\"12.589\" y1=\"33.453\" y2=\"33.453\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"56.2762\" x2=\"38.9008\" y1=\"33.4334\" y2=\"33.4334\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><line x1=\"35.0253\" x2=\"35.0253\" y1=\"29.0506\" y2=\"10.4918\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\"/><circle cx=\"11.6821\" cy=\"20.7851\" r=\"4.5885\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><circle cx=\"42.1211\" cy=\"9.4185\" r=\"4.5885\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m65.5556,32.2058c0,2.5626-2.0774,4.64-4.64,4.64-.0908,0-.1808-.0026-.27-.0077-2.5583-.1491-4.5113-2.3439-4.3621-4.9021s2.3439-4.5113,4.9021-4.3621c2.4536.143,4.3701,2.1745,4.37,4.6323v-.0003Z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"m52.5492,55.4635c0,2.5626-2.0774,4.64-4.64,4.64s-4.64-2.0774-4.64-4.64,2.0774-4.64,4.64-4.64h0c2.5623.0008,4.6392,2.0777,4.64,4.64Z\"/><circle cx=\"13.141\" cy=\"47.1319\" r=\"4.5885\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "place.camping",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "camping",
+        "tent"
+      ],
+      "fr": [
+        "camping",
+        "tente"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-26FA/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><polygon fill=\"#F2C14E\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,18 14.54,55 57.46,55\"/><polygon fill=\"#F2C14E\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,18 14.54,55 36,55\"/><path fill=\"#9F86C0\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M36,46.12c-1.48,0-4.44,1.48-7.4,1.48c-4.087,0-7.4,3.3131-7.4,7.4H36V46.12z\"/></g><g/><g/><g/><g data-layer=\"line\"><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,18 14.54,55 57.46,55\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"36,18 14.54,55 36,55\"/><line x1=\"36\" x2=\"36\" y1=\"55\" y2=\"18\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M36,46.12c-1.48,0-4.44,1.48-7.4,1.48c-4.087,0-7.4,3.3131-7.4,7.4H36V46.12z\"/><line x1=\"36\" x2=\"36\" y1=\"55\" y2=\"18\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "place.work",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "work",
+        "office"
+      ],
+      "fr": [
+        "travail",
+        "bureau"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3E2/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><rect x=\"8.5\" y=\"19\" width=\"55\" height=\"35\" fill=\"#D0CFCE\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"29.5\" y=\"44\" width=\"13\" height=\"10\" fill=\"#7EC8E3\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"22\" y=\"44\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"14\" y=\"44\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"22\" y=\"34\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"14\" y=\"34\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"22\" y=\"24\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"14\" y=\"24\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"39\" y=\"34\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"31\" y=\"34\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"39\" y=\"24\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"31\" y=\"24\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"56\" y=\"44\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"48\" y=\"44\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"56\" y=\"34\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"48\" y=\"34\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"56\" y=\"24\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"48\" y=\"24\" width=\"2\" height=\"5\" fill=\"none\" stroke=\"#7EC8E3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g/><g/><g/><g data-layer=\"line\"><rect x=\"8.5\" y=\"19\" width=\"55\" height=\"35\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><rect x=\"29.5\" y=\"44\" width=\"13\" height=\"10\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"36\" x2=\"36\" y1=\"54\" y2=\"44\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"16,29 14,29 14,24\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"24,49 22,49 22,44\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"16,49 14,49 14,44\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"24,39 22,39 22,34\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"16,39 14,39 14,34\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"24,29 22,29 22,24\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"41,39 39,39 39,34\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"33,39 31,39 31,34\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"41,29 39,29 39,24\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"33,29 31,29 31,24\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"58,49 56,49 56,44\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"50,49 48,49 48,44\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"58,39 56,39 56,34\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"50,39 48,39 48,34\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"58,29 56,29 56,24\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"50,29 48,29 48,24\"/></g></g>"
+  },
+  {
+    "id": "feeling.bored",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "bored"
+      ],
+      "fr": [
+        "ennuyé",
+        "je m'ennuie"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "ennui",
+        "ennuyée"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Mariella Steeb",
+      "url": "https://openmoji.org/library/emoji-1F611/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M36,13c-12.6823,0-23,10.3177-23,23c0,12.6822,10.3177,23,23,23c12.6822,0,23-10.3178,23-23 C59,23.3177,48.6822,13,36,13z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"27\" x2=\"45\" y1=\"43\" y2=\"43\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"25\" x2=\"30\" y1=\"31\" y2=\"31\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"43\" x2=\"48\" y1=\"31\" y2=\"31\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "feeling.shy",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "shy",
+        "embarrassed"
+      ],
+      "fr": [
+        "timide",
+        "gêné"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "gênée"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Mariella Steeb",
+      "url": "https://openmoji.org/library/emoji-1F633/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g><line x1=\"18\" x2=\"20\" y1=\"39.8839\" y2=\"37.8839\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"20\" x2=\"24\" y1=\"43.8839\" y2=\"39.8839\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54\" x2=\"52\" y1=\"39.8839\" y2=\"37.8839\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"52\" x2=\"48\" y1=\"43.8839\" y2=\"39.8839\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M36,13c-12.68,0-23,10.32-23,23s10.32,23,23,23s23-10.32,23-23S48.68,13,36,13z\"/><path fill=\"#FFFFFF\" d=\"M33.5,32.31c0,3.59-2.914,6.5-6.5,6.5s-6.5-2.91-6.5-6.5c0-3.586,2.914-6.5,6.5-6.5S33.5,28.724,33.5,32.31\"/><path fill=\"#FFFFFF\" d=\"M51.5,32.31c0,3.59-2.914,6.5-6.5,6.5s-6.5-2.91-6.5-6.5c0-3.586,2.914-6.5,6.5-6.5S51.5,28.724,51.5,32.31\"/><line x1=\"18\" x2=\"20\" y1=\"42.5532\" y2=\"40.5532\" fill=\"none\" stroke=\"#E46B4A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"20\" x2=\"24\" y1=\"46.5532\" y2=\"42.5532\" fill=\"none\" stroke=\"#E46B4A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"54\" x2=\"52\" y1=\"42.5532\" y2=\"40.5532\" fill=\"none\" stroke=\"#E46B4A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><line x1=\"52\" x2=\"48\" y1=\"46.5532\" y2=\"42.5532\" fill=\"none\" stroke=\"#E46B4A\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"#1F2937\" d=\"M29.56,32.43c0,1.411-1.146,2.556-2.556,2.556s-2.556-1.144-2.556-2.556c0-1.41,1.146-2.556,2.556-2.556 S29.56,31.02,29.56,32.43\"/><path fill=\"#1F2937\" d=\"M47.56,32.43c0,1.411-1.146,2.556-2.556,2.556s-2.556-1.144-2.556-2.556c0-1.41,1.146-2.556,2.556-2.556 S47.56,31.02,47.56,32.43\"/><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M33.5,32.43c0,3.59-2.914,6.5-6.5,6.5 s-6.5-2.91-6.5-6.5c0-3.586,2.914-6.5,6.5-6.5S33.5,28.844,33.5,32.43\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M51.5,32.43c0,3.59-2.914,6.5-6.5,6.5 s-6.5-2.91-6.5-6.5c0-3.586,2.914-6.5,6.5-6.5S51.5,28.844,51.5,32.43\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M21.69,22.44c0.3525-0.406,1.928-2.129,4.582-2.405c2.153-0.2232,3.761,0.6367,4.301,0.9572\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M41.43,20.97c0.464-0.2717,2.509-1.4,5.111-0.8103c2.111,0.4781,3.359,1.808,3.768,2.284\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M42.5,46.5c-1.2841,0.6376-11.8318,0.5835-13,0\"/></g></g>"
+  },
+  {
+    "id": "feeling.excited",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "excited",
+        "great"
+      ],
+      "fr": [
+        "super",
+        "génial"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F929/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"36.0001\" cy=\"36\" r=\"24\" fill=\"#F2C14E\"/><polygon fill=\"#F2C14E\" points=\"25.0424,21.2371 33.0285,20.0364 29.1238,27.1056 32.7335,34.3298 24.8037,32.8007 19.0485,38.4662 18.0524,30.452 10.8857,26.7292 18.1999,23.3052 19.5258,15.3389\"/><polygon fill=\"#F2C14E\" points=\"46.8821,21.2371 38.896,20.0364 42.8007,27.1056 39.191,34.3298 47.1208,32.8007 52.876,38.4662 53.8721,30.452 61.0388,26.7292 53.7246,23.3052 52.3987,15.3389\"/><path fill=\"#E46B4A\" d=\"M49.7371,46.356c-1.79,4.27-6.35,7.23-13.7,7.23c-7.41,0-12.03-3.03-13.8-7.36 C24.2671,46.686,37.2171,49.3959,49.7371,46.356z\"/><path fill=\"#FFFFFF\" d=\"M50.6071,41.866c0,1.6-0.29,3.11-0.87,4.49c-12.52,3.04-25.47,0.33-27.5-0.13 c-0.55-1.35-0.83-2.82-0.83-4.36h0.11c0,0,14.81,3.59,28.89,0.07L50.6071,41.866z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M50.6071,41.866c0,1.6-0.29,3.11-0.87,4.49c-12.52,3.04-25.47,0.33-27.5-0.13c-0.55-1.35-0.83-2.82-0.83-4.36h0.11 c0,0,14.81,3.59,28.89,0.07L50.6071,41.866z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M49.7371,46.356 c-1.79,4.27-6.35,7.23-13.7,7.23c-7.41,0-12.03-3.03-13.8-7.36C24.2671,46.686,37.2171,49.3959,49.7371,46.356z\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M50.2271,46.236 c-0.16,0.04-0.33,0.08-0.49,0.12\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M22.2371,46.226 c-0.19-0.05-0.28-0.07-0.28-0.07\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M46.5542,15.5591C43.3932,13.9237,39.8045,13,36,13c-3.9546,0-7.676,0.9979-10.9261,2.7556 c-0.0502,0.0271-0.1002,0.0544-0.1501,0.0819\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M13.1945,32.9954c-0.1283,0.9833-0.1944,1.9862-0.1944,3.0046c0,12.7022,10.2969,23,23,23c12.7022,0,23-10.2978,23-23 c0-1.0073-0.0648-1.9995-0.1903-2.9726\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"25.1179,21.2371 33.104,20.0364 29.1993,27.1056 32.809,34.3298 24.8792,32.8007 19.124,38.4662 18.1279,30.452 10.9612,26.7292 18.2754,23.3052 19.6013,15.3389\"/><polygon fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"46.8821,21.2371 38.896,20.0364 42.8007,27.1056 39.191,34.3298 47.1208,32.8007 52.876,38.4662 53.8721,30.452 61.0388,26.7292 53.7246,23.3052 52.3987,15.3389\"/></g></g>"
+  },
+  {
+    "id": "feeling.confused",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "confused",
+        "don't understand"
+      ],
+      "fr": [
+        "perdu",
+        "je ne comprends pas"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "perdue"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Mariella Steeb",
+      "url": "https://openmoji.org/library/emoji-1F615/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#F2C14E\" d=\"M36.2002,13.3163c-12.5719,0-22.7998,10.2279-22.7998,22.7998c0,12.5718,10.2279,22.7998,22.7998,22.7998 C48.772,58.9159,59,48.6879,59,36.1161C59,23.5442,48.772,13.3163,36.2002,13.3163z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"36\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"m44.7 43.92c-6.328-1.736-11.41-0.906-17.4 1.902\"/><path fill=\"#1F2937\" d=\"M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31\"/><path fill=\"#1F2937\" d=\"M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31\"/></g></g>"
+  },
+  {
+    "id": "feeling.disgusted",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "disgusted",
+        "yuck"
+      ],
+      "fr": [
+        "beurk",
+        "dégoûté"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "dégoûtée"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F922/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><circle cx=\"36.0027\" cy=\"36\" r=\"23\" fill=\"#6BAF5B\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M27.2671,22.3665c-0.2383,1.5436-1.039,2.9427-2.2496,3.9289c-1.1065,1.1138-2.5889,1.7724-4.156,1.8514\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M44.7329,22.3665c0.2383,1.5436,1.039,2.9427,2.2496,3.9289c1.1065,1.1138,2.5889,1.7724,4.156,1.8514\"/><circle cx=\"36.0027\" cy=\"36\" r=\"23\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M30.0432,46.0186c1.2832-0.8191,3.8698-1.0381,5.9568-1.0381s4.6737,0.219,5.9568,1.0381\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M28.669,42.8384c1.8323,1.6694,1.8323,4.2345,0,5.9854\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M43.3308,42.8384c-1.8323,1.6694-1.8323,4.2345,0,5.9854\"/><path fill=\"#1F2937\" d=\"M30,33c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,30,30,31.3448,30,33\"/><path fill=\"#1F2937\" d=\"M48,33c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,31.3448,48,33\"/></g></g>"
+  },
+  {
+    "id": "object.paintbrush",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "paintbrush",
+        "brush"
+      ],
+      "fr": [
+        "pinceau"
+      ]
+    },
+    "tags": [
+      "school",
+      "play"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Rana Cakir",
+      "url": "https://openmoji.org/library/emoji-1F58C/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#A57939\" stroke=\"#A57939\" stroke-miterlimit=\"10\" stroke-width=\"2.82\" d=\"M27.4213,52.1412 c-1.1308,3.0553-2.6697,4.5942-5.6852,6.1955s-11.2248-0.0889-9.5042-1.8095c2.3084-2.3084,3.6596-3.1597,3.2026-6.031 c-0.5824-3.6603,4.2087-6.1331,4.2087-6.1331s2.0935-1.1422,4.1931-0.8545c2.2812,0.3125,4.9498,4.9497,4.9498,4.9497 L27.4213,52.1412z\"/><path fill=\"#7EC8E3\" stroke=\"none\" d=\"M45.8565,36.851c-7.0488,6.5155-12.4768,10.4313-15.8703,12.6073l-7.6389-7.6751 c2.1789-3.3949,6.0918-8.8147,12.5932-15.8482c4.7694-5.1598,9.7635-9.9137,13.8015-12.4485 c2.9438-1.8479,6.597-1.5717,8.8659,0.6971l0,0c2.2688,2.2688,2.5449,5.9222,0.697,8.8659 C55.7702,27.0875,51.0162,32.0816,45.8565,36.851\"/><polygon fill=\"#4F86C6\" stroke=\"none\" points=\"26.8108,35.5092 36.0461,44.7445 30.2121,48.8995 22.9382,41.5646\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M45.8565,36.851c-7.0488,6.5155-12.4768,10.4313-15.8703,12.6073l-7.6389-7.6751c2.1789-3.3949,6.0918-8.8147,12.5932-15.8482 c4.7694-5.1598,9.7635-9.9137,13.8015-12.4485c2.9438-1.8479,6.597-1.5717,8.8659,0.6971l0,0 c2.2688,2.2688,2.5449,5.9222,0.697,8.8659C55.7702,27.0875,51.0162,32.0816,45.8565,36.851\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" d=\"M19.6432,44.3631c0,0-4.7911,2.4728-4.2087,6.1331c0.457,2.8713-0.8942,3.7226-3.2026,6.031 c-1.7206,1.7206,6.4887,3.4108,9.5042,1.8095s4.5544-3.1402,5.6852-6.1955\"/><line x1=\"27.4304\" x2=\"36.5691\" y1=\"35.2569\" y2=\"44.3958\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/></g></g>"
+  },
+  {
+    "id": "person.someone",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "someone",
+        "person"
+      ],
+      "fr": [
+        "quelqu'un",
+        "personne"
+      ]
+    },
+    "tags": [
+      "person"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Johanna Wellnitz",
+      "url": "https://openmoji.org/library/emoji-1F464/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M58,61c0,0,0-3-1-7c-1.2109-4.8457-4-8-10-8c-5,0-15,0-22,0c-6,0-8.7891,3.1543-10,8c-1,4-1,7-1,7H58z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M26,26c0,3.7246,0.5391,7.8086,2,10c1.8613,2.793,5.0176,4,8,4c3.0957,0,6.1367-1.207,8-4 c1.46-2.1914,2-6.2754,2-10c0-2.7935-1-12-10-12S26,21.3442,26,26z\"/></g><g/><g/><g/><g data-layer=\"line\"><path fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M58,60c0,0,0-2-1-6 c-1.2109-4.8457-4-8-10-8c-5,0-15,0-22,0c-6,0-8.7891,3.1543-10,8c-1,4-1,6-1,6\"/><path fill=\"none\" stroke=\"#1F2937\" stroke-linejoin=\"round\" stroke-width=\"2.7\" d=\"M26,26c0,3.7246,0.5391,7.8086,2,10 c1.8613,2.793,5.0176,4,8,4c3.0957,0,6.1367-1.207,8-4c1.46-2.1914,2-6.2754,2-10c0-2.7935-1-12-10-12S26,21.3442,26,26z\"/></g></g>"
+  },
+  {
+    "id": "place.map-pin",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "place",
+        "location"
+      ],
+      "fr": [
+        "endroit",
+        "lieu"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "modified": true,
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F4CD/",
+      "license": "CC-BY-SA-4.0"
+    },
+    "svg": "<g transform=\"scale(1.3889)\"><g data-layer=\"color\"><path fill=\"#E46B4A\" stroke=\"none\" d=\"M35.9717,9.7197c-6.4217,0-11.6459,5.2242-11.6459,11.6459S29.55,33.0115,35.9717,33.0115 c6.4216,0,11.6459-5.2242,11.6459-11.6459S42.3933,9.7197,35.9717,9.7197z\"/><path fill=\"#E46B4A\" stroke=\"none\" d=\"M39.1689,32.3818c1.7258-0.6456,3.289-0.8166,4.8143-2.212c2.1013-1.9223,3.9035-5.3398,3.9035-8.0238 c0-2.4449-0.578-5.3031-2.3421-7.6335c-1.6276-2.15-4.3608-3.8416-6.3757-4.554c0,0,3.5175,5.6512,3.5175,11.3739 S39.1689,32.3818,39.1689,32.3818z\"/><path fill=\"#D0CFCE\" stroke=\"none\" d=\"M35.837,63.4888l2.8467-7.6704c0,0-0.8248-19.5768-0.3788-19.6775h-5.1693 c0.4459,0.1007-0.2244,19.5589-0.2244,19.5589L35.837,63.4888z\"/><path fill=\"#9B9B9A\" stroke=\"none\" d=\"M35.9556,62.7376l2.649-7.0773c0,0,0.1045-19.0577,0.0622-19.5266l-2.9331,0.0072L35.9556,62.7376z\"/></g><g/><g/><g/><g data-layer=\"line\"><circle cx=\"35.9715\" cy=\"21.3656\" r=\"11.8084\" fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\"/><polyline fill=\"none\" stroke=\"#1F2937\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2.7\" points=\"38.5196,37.0981 38.5196,55.7135 35.9356,64.2191 32.9209,55.7135 32.9209,37.0981\"/></g></g>"
   },
   {
     "id": "person.baby",

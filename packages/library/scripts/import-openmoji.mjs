@@ -33,7 +33,10 @@ const COLORS = {
   "#9b9b9a": "#9B9B9A", // gray
   "#3f3f3f": "#3F3F3F", // dark gray
 };
-const STROKE_FACTOR = 1.35; // OpenMoji lines are thinner than Parlomino's
+const STROKE_FACTOR = 1.35;
+// A few OpenMoji drawings touch the edge of the canvas: shrink them around the center.
+const SHRINK = { "object.money": 0.88, "object.glasses": 0.9 };
+const transform = (id) => (SHRINK[id] ? `translate(${50 * (1 - SHRINK[id])} ${50 * (1 - SHRINK[id])}) scale(${((100 / 72) * SHRINK[id]).toFixed(4)})` : `scale(${(100 / 72).toFixed(4)})`); // OpenMoji lines are thinner than Parlomino's
 const SCALE = 100 / 72;
 
 function hex6(c) {
@@ -41,12 +44,34 @@ function hex6(c) {
   return h.length === 4 ? `#${h[1]}${h[1]}${h[2]}${h[2]}${h[3]}${h[3]}` : h;
 }
 
+/**
+ * Moves a group's fill onto the shapes inside it that have none, so that every shape declares its
+ * own color (and only truly uncolored shapes get the default ink below).
+ */
+function inheritGroupFills(svg) {
+  const open = /<g\b([^>]*?)\sfill="([^"]+)"([^>]*)>/;
+  for (let m = open.exec(svg); m; m = open.exec(svg)) {
+    let depth = 0;
+    const tags = /<g\b[^>]*?(\/?)>|<\/g>/g;
+    tags.lastIndex = m.index;
+    let end = svg.length;
+    for (let t = tags.exec(svg); t; t = tags.exec(svg)) {
+      if (t[0] === "</g>") depth--;
+      else if (!t[1]) depth++;
+      if (depth === 0) { end = t.index; break; }
+    }
+    const start = m.index + m[0].length;
+    const body = svg.slice(start, end).replace(/<(path|circle|ellipse|rect|polygon|polyline)\b(?![^>]*\bfill=)/g, `<$1 fill="${m[2]}"`);
+    svg = svg.slice(0, m.index) + `<g${m[1]}${m[3]}>` + body + svg.slice(end);
+  }
+  return svg;
+}
+
 function adapt(svg, file) {
   const inner = svg.match(/<svg\b[^>]*>([\s\S]*)<\/svg>/)?.[1];
   if (!inner) throw new Error(`${file}: no <svg> root`);
   if (/style=|<image|<text|url\(/.test(inner)) throw new Error(`${file}: unsupported markup`);
-  if (/<g\b[^>]*\bfill=/.test(inner)) throw new Error(`${file}: fill inherited from a group`);
-  return inner
+  return inheritGroupFills(inner)
     // Fill layers (color, skin, hair and their shadows) sit under the line layer.
     .replace(/<g id="(color|skin|skin-shadow|hair|hair-shadow)">/g, '<g data-layer="color">')
     .replace(/<g id="line">/g, '<g data-layer="line">')
@@ -78,7 +103,7 @@ for (const [id, annotation, en, fr, tags, forms] of OPENMOJI) {
   mkdirSync(join(root, "elements", prefix), { recursive: true });
   writeFileSync(
     join(root, "elements", prefix, `${name}.svg`),
-    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">\n  <!-- Adapted from OpenMoji "${annotation}" (${entry.hexcode}) by ${entry.openmoji_author}, CC BY-SA 4.0 -->\n  <g transform="scale(${SCALE.toFixed(4)})">${body}</g>\n</svg>\n`,
+    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">\n  <!-- Adapted from OpenMoji "${annotation}" (${entry.hexcode}) by ${entry.openmoji_author}, CC BY-SA 4.0 -->\n  <g transform="${transform(id)}">${body}</g>\n</svg>\n`,
   );
   manifest.push({
     id,
