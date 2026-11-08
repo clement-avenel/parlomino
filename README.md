@@ -71,6 +71,7 @@ Adding a language means adding its labels, and optionally its rules in `packages
 ```sh
 npm install
 npm test           # regenerates the library and runs the tests
+npm run draw       # redraws the character poses and re-imports OpenMoji symbols
 npm run site       # documentation site (Astro Starlight) in website/dist, deployed to GitHub Pages
 npm run site:dev   # the same, with live reload
 npm run bench      # checks the performance budget
@@ -98,3 +99,6 @@ Services built around it (application, sync, hosted API and MCP) are offered by 
 ## License
 
 Code: [Apache-2.0](LICENSE). Pictograms: [CC BY-SA 4.0](packages/library/LICENSE).
+Many pictograms are adapted from [OpenMoji](https://openmoji.org) (CC BY-SA 4.0), with modified colors and outlines.
+Every composed result includes its `credits`, so that apps can display the required attribution.
+All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

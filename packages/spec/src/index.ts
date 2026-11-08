@@ -9,7 +9,7 @@ export const SPEC_VERSION = 1;
  * Categories of concepts. A concept id is `<category>.<name>`, e.g. `person.child`.
  * `idea` holds abstract concepts (care, school…), often used as badges.
  */
-export const CATEGORIES = ["person", "action", "feeling", "object", "place", "idea"] as const;
+export const CATEGORIES = ["person", "action", "feeling", "body", "object", "animal", "place", "color", "idea"] as const;
 export const Category = z.enum(CATEGORIES);
 export type Category = z.infer<typeof Category>;
 

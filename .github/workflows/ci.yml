@@ -12,8 +12,8 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
-      - name: Generated library is up to date
-        run: git diff --exit-code packages/library/src/generated.ts
+      - name: Drawings and generated library are up to date
+        run: npm run draw && git diff --exit-code packages/library
       - name: Performance budget
         run: npm run bench
       - name: Documentation site builds

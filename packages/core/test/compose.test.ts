@@ -36,13 +36,12 @@ describe("composePicto", () => {
 
   it("draws the concept inside a frame", () => {
     const { svg, label } = picto({ concept: "action.eat", frame: "frame.place" });
-    expect(groups(svg)).toBe(2);
     expect(svg).toContain("translate(24 44) scale(0.46)"); // frame.place inner box
     expect(label).toBe("place : eat");
   });
 
   it("doubles the concept for a plural", () => {
-    expect(groups(picto({ concept: "object.ball", modifiers: ["plural"] }).svg)).toBe(2);
+    expect(groups(picto({ concept: "object.apple", modifiers: ["plural"] }).svg)).toBe(2);
   });
 
   it("draws one disc per used corner zone", () => {
@@ -55,7 +54,7 @@ describe("composePicto", () => {
     ["big", true],
     ["small", false],
   ] as const)("compares the concept with a dashed copy of itself for %s", (modifier, solidIsLarger) => {
-    const { svg } = picto({ concept: "object.ball", modifiers: [modifier] });
+    const { svg } = picto({ concept: "object.apple", modifiers: [modifier] });
     expect(svg).toContain('stroke-dasharray="7 6"');
     expect(discs(svg)).toBe(0);
     // Two copies: [solid, ghost] for big, [ghost, solid] for small; compare their scales.
@@ -80,7 +79,7 @@ describe("composePicto", () => {
   });
 
   it("scales strokes", () => {
-    expect(picto({ concept: "object.ball" }, { strokeScale: 2 }).svg).toContain('stroke-width="8"');
+    expect(picto({ concept: "object.apple" }, { strokeScale: 2 }).svg).toContain('stroke-width="8"');
   });
 
   it("is deterministic", () => {
@@ -134,5 +133,19 @@ describe("compose", () => {
   it("dispatches on the presence of a phrase", () => {
     expect(compose({ concept: "object.apple" })).toMatchObject({ ok: true, label: "apple" });
     expect(compose({ phrase: [{ concept: "object.apple" }] })).toMatchObject({ ok: true, pictos: [{ label: "apple" }] });
+  });
+});
+
+describe("credits", () => {
+  it("lists the source of every drawing used, once", () => {
+    const r = composePhrase({ phrase: [{ concept: "animal.dog" }, { concept: "animal.dog", modifiers: ["plural"] }, { concept: "lex.kitchen" }] });
+    if (!r.ok) throw new Error();
+    expect(r.credits.map((c) => c.id)).toEqual(["animal.dog", "frame.place", "action.eat"]);
+    expect(r.credits[0]?.source).toMatchObject({ name: "OpenMoji", license: "CC-BY-SA-4.0", modified: true });
+  });
+
+  it("credits badges too", () => {
+    const r = composePicto({ concept: "person.adult", badge: "object.toothbrush" });
+    expect(r.ok && r.credits.map((c) => c.id)).toEqual(["person.adult", "object.toothbrush"]);
   });
 });

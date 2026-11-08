@@ -56,7 +56,7 @@ export default defineConfig({
         {
           label: "Project",
           translations: { fr: "Projet" },
-          items: [{ slug: "about" }],
+          items: [{ slug: "about" }, { slug: "credits" }],
         },
       ],
     }),

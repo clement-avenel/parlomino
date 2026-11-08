@@ -1,0 +1,1005 @@
+[
+  {
+    "id": "person.child",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "child",
+        "kid"
+      ],
+      "fr": [
+        "enfant"
+      ]
+    },
+    "forms": {
+      "en": [
+        "children",
+        "kids"
+      ],
+      "fr": [
+        "enfants"
+      ]
+    },
+    "tags": [
+      "person"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.adult",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "adult"
+      ],
+      "fr": [
+        "adulte"
+      ]
+    },
+    "forms": {
+      "en": [
+        "adults",
+        "grown-up"
+      ],
+      "fr": [
+        "adultes",
+        "grand"
+      ]
+    },
+    "tags": [
+      "person"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.boy",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "boy"
+      ],
+      "fr": [
+        "garçon"
+      ]
+    },
+    "forms": {
+      "en": [
+        "boys"
+      ],
+      "fr": [
+        "garçons"
+      ]
+    },
+    "tags": [
+      "person"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.girl",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "girl"
+      ],
+      "fr": [
+        "fille"
+      ]
+    },
+    "forms": {
+      "en": [
+        "girls"
+      ],
+      "fr": [
+        "filles"
+      ]
+    },
+    "tags": [
+      "person"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.mother",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "mother",
+        "mom",
+        "mum"
+      ],
+      "fr": [
+        "maman",
+        "mère"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.father",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "father",
+        "dad"
+      ],
+      "fr": [
+        "papa",
+        "père"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.me",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "me",
+        "I"
+      ],
+      "fr": [
+        "moi",
+        "je"
+      ]
+    },
+    "forms": {
+      "en": [
+        "my",
+        "mine",
+        "myself"
+      ],
+      "fr": [
+        "mon",
+        "ma",
+        "mes",
+        "m"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.you",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "you"
+      ],
+      "fr": [
+        "toi",
+        "tu"
+      ]
+    },
+    "forms": {
+      "en": [
+        "your",
+        "yours",
+        "yourself"
+      ],
+      "fr": [
+        "ton",
+        "ta",
+        "tes",
+        "te",
+        "t"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.friend",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "friend",
+        "friends"
+      ],
+      "fr": [
+        "ami",
+        "copain",
+        "copine"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "amie",
+        "amis",
+        "copains",
+        "copines"
+      ]
+    },
+    "tags": [
+      "person"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.family",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "family"
+      ],
+      "fr": [
+        "famille"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "familles"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.eat",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "eat"
+      ],
+      "fr": [
+        "manger"
+      ]
+    },
+    "forms": {
+      "en": [
+        "eats",
+        "ate",
+        "eaten",
+        "eating"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.drink",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "drink"
+      ],
+      "fr": [
+        "boire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "drinks",
+        "drank",
+        "drunk",
+        "drinking"
+      ],
+      "fr": [
+        "bois",
+        "boit",
+        "buvons",
+        "buvez",
+        "boivent",
+        "bu",
+        "buvait",
+        "buvant"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.brush-teeth",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "brush teeth"
+      ],
+      "fr": [
+        "se brosser les dents",
+        "brosser les dents"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "brosse",
+        "brosser"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.listen",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "listen",
+        "hear"
+      ],
+      "fr": [
+        "écouter",
+        "entendre"
+      ]
+    },
+    "forms": {
+      "en": [
+        "heard"
+      ],
+      "fr": [
+        "entends",
+        "entend",
+        "entendu"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.look",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "look",
+        "see",
+        "watch"
+      ],
+      "fr": [
+        "regarder",
+        "voir"
+      ]
+    },
+    "forms": {
+      "en": [
+        "saw",
+        "seen",
+        "sees"
+      ],
+      "fr": [
+        "vois",
+        "voit",
+        "voyons",
+        "voient",
+        "vu"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.talk",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "talk",
+        "speak",
+        "say"
+      ],
+      "fr": [
+        "parler",
+        "dire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "said",
+        "says"
+      ],
+      "fr": [
+        "dis",
+        "dit",
+        "disons",
+        "dites",
+        "disent"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.sing",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "sing"
+      ],
+      "fr": [
+        "chanter"
+      ]
+    },
+    "forms": {
+      "en": [
+        "sang",
+        "sung",
+        "sings"
+      ]
+    },
+    "tags": [
+      "music"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.read",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "read"
+      ],
+      "fr": [
+        "lire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "reads",
+        "reading"
+      ],
+      "fr": [
+        "lis",
+        "lit",
+        "lisons",
+        "lisez",
+        "lisent",
+        "lu"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.write",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "write"
+      ],
+      "fr": [
+        "écrire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "wrote",
+        "written",
+        "writes"
+      ],
+      "fr": [
+        "écris",
+        "écrit",
+        "écrivons",
+        "écrivent"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.draw",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "draw",
+        "paint"
+      ],
+      "fr": [
+        "dessiner",
+        "peindre"
+      ]
+    },
+    "forms": {
+      "en": [
+        "drew",
+        "drawn",
+        "draws",
+        "drawing"
+      ],
+      "fr": [
+        "dessin"
+      ]
+    },
+    "tags": [
+      "school",
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.play",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "play"
+      ],
+      "fr": [
+        "jouer"
+      ]
+    },
+    "forms": {
+      "en": [
+        "plays",
+        "playing"
+      ],
+      "fr": [
+        "joue",
+        "joues",
+        "jouons",
+        "jouent"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.give",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "give"
+      ],
+      "fr": [
+        "donner"
+      ]
+    },
+    "forms": {
+      "en": [
+        "gives",
+        "gave",
+        "given",
+        "giving"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.take",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "take",
+        "get"
+      ],
+      "fr": [
+        "prendre",
+        "attraper"
+      ]
+    },
+    "forms": {
+      "en": [
+        "took",
+        "taken",
+        "takes",
+        "got"
+      ],
+      "fr": [
+        "prends",
+        "prend",
+        "prenons",
+        "pris"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.help",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "help"
+      ],
+      "fr": [
+        "aider",
+        "aide"
+      ]
+    },
+    "tags": [
+      "core",
+      "need"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.wave",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "hello",
+        "goodbye",
+        "wave"
+      ],
+      "fr": [
+        "bonjour",
+        "salut",
+        "au revoir",
+        "coucou"
+      ]
+    },
+    "forms": {
+      "en": [
+        "hi",
+        "bye"
+      ]
+    },
+    "tags": [
+      "core",
+      "social"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.go",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "go",
+        "walk"
+      ],
+      "fr": [
+        "aller",
+        "marcher"
+      ]
+    },
+    "forms": {
+      "en": [
+        "goes",
+        "went",
+        "gone",
+        "going",
+        "walks",
+        "walked"
+      ],
+      "fr": [
+        "vais",
+        "vas",
+        "va",
+        "allons",
+        "allez",
+        "vont",
+        "allé",
+        "allée",
+        "marche"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.jump",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "jump"
+      ],
+      "fr": [
+        "sauter"
+      ]
+    },
+    "forms": {
+      "en": [
+        "jumps",
+        "jumped",
+        "jumping"
+      ],
+      "fr": [
+        "saute",
+        "sautes",
+        "sautons",
+        "sautent"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.dance",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "dance"
+      ],
+      "fr": [
+        "danser"
+      ]
+    },
+    "forms": {
+      "en": [
+        "dances",
+        "danced",
+        "dancing"
+      ],
+      "fr": [
+        "danse",
+        "danses",
+        "dansons",
+        "dansent"
+      ]
+    },
+    "tags": [
+      "play",
+      "music"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.sit",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "sit"
+      ],
+      "fr": [
+        "s'asseoir",
+        "assis"
+      ]
+    },
+    "forms": {
+      "en": [
+        "sits",
+        "sat",
+        "sitting"
+      ],
+      "fr": [
+        "assieds",
+        "assied",
+        "assise"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.wait",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "wait"
+      ],
+      "fr": [
+        "attendre"
+      ]
+    },
+    "forms": {
+      "en": [
+        "waits",
+        "waited",
+        "waiting"
+      ],
+      "fr": [
+        "attends",
+        "attend",
+        "attendu"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.dress",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "get dressed",
+        "dress"
+      ],
+      "fr": [
+        "s'habiller",
+        "habiller"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "habille",
+        "habilles"
+      ]
+    },
+    "tags": [
+      "clothes",
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.sleep",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "sleep"
+      ],
+      "fr": [
+        "dormir"
+      ]
+    },
+    "forms": {
+      "en": [
+        "sleeps",
+        "slept",
+        "sleeping",
+        "asleep"
+      ],
+      "fr": [
+        "dors",
+        "dort",
+        "dormons",
+        "dorment",
+        "dormi"
+      ]
+    },
+    "tags": [
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+---
+// Every drawing adapted from another project, with its author and a link to the original.
+// Generated from the library, so it is always complete.
+import { defaultLibrary } from "@parlomino/library";
+import { label, pageLang, picto } from "../lib/parlomino";
+
+interface Props { headers: { pictogram: string; original: string; author: string } }
+const { headers } = Astro.props;
+const lang = pageLang(Astro.locals);
+const adapted = defaultLibrary.elements.filter((e) => e.source.name !== "Parlomino");
+---
+<table class="pm-credits">
+  <thead><tr><th>{headers.pictogram}</th><th>{headers.original}</th><th>{headers.author}</th></tr></thead>
+  <tbody>
+    {adapted.map((e) => (
+      <tr>
+        <td><span class="pm-credits__thumb" set:html={picto({ concept: e.id }, lang).svg} />{label(e.id, lang)} <code>{e.id}</code></td>
+        <td><a href={e.source.url}>{e.source.name}</a></td>
+        <td>{e.source.author}</td>
+      </tr>
+    ))}
+  </tbody>
+</table>

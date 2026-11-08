@@ -6,8 +6,19 @@ Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 Required attribution: "Parlomino pictograms (parlomino.org), CC BY-SA 4.0".
-Elements adapted from other projects keep their own attribution, listed in the
-"source" field of each element in elements.json.
+
+Many pictograms are adapted from OpenMoji (https://openmoji.org), the open-source
+emoji and icon project, licensed under CC BY-SA 4.0: colors were mapped to the
+Parlomino palette and outlines thickened. They are listed in elements.openmoji.json,
+with the author and the original symbol of each one. Changes: colors mapped to the
+Parlomino palette, outlines thickened, body parts recolored in skin tone. This does
+not imply any endorsement by the OpenMoji project. When sharing them, please include
+OpenMoji's suggested attribution:
+"All emojis designed by OpenMoji – the open-source emoji and icon project.
+License: CC BY-SA 4.0" (https://openmoji.org).
+
+Apps using @parlomino/core get the credits of every composed pictogram in the
+`credits` field of the result.
 
 The code in this package (src/index.ts, scripts/) is licensed under Apache-2.0,
 see the LICENSE file at the root of the repository.

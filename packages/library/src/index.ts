@@ -15,6 +15,13 @@ export const palette = {
   red: "#E46B4A",
   yellow: "#F2C14E",
   water: "#7EC8E3",
+  orange: "#F4AA41",
+  pink: "#F7A8C0",
+  purple: "#9F86C0",
+  brown: "#A57939",
+  lightGray: "#D0CFCE",
+  gray: "#9B9B9A",
+  darkGray: "#3F3F3F",
 } as const;
 export type PaletteColor = keyof typeof palette;
 

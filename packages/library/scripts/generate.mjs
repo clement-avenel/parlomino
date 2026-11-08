@@ -1,14 +1,19 @@
 // Builds src/generated.ts from elements.json, lexicon.json and elements/<prefix>/<name>.svg.
 // Illustrators edit plain SVG files; the engine consumes a plain TS module,
 // so it runs anywhere (browser, Node, mobile WebView) without file access.
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const readJson = (name) => JSON.parse(readFileSync(join(root, name), "utf8"));
 
-const elements = readJson("elements.json").map((entry) => {
+const manifests = readdirSync(root).filter((f) => /^elements(\.[a-z-]+)?\.json$/.test(f)).sort();
+const entries = manifests.flatMap((f) => readJson(f));
+const duplicates = entries.map((e) => e.id).filter((id, i, all) => all.indexOf(id) !== i);
+if (duplicates.length) throw new Error(`ids defined in several manifests: ${duplicates.join(", ")}`);
+
+const elements = entries.map((entry) => {
   const [prefix, name] = entry.id.split(".");
   const expected = entry.kind === "concept" ? entry.category : entry.kind;
   if (prefix !== expected) throw new Error(`${entry.id}: id must start with "${expected}."`);
@@ -19,7 +24,7 @@ const elements = readJson("elements.json").map((entry) => {
   const match = source.match(/<svg\b([^>]*)>([\s\S]*)<\/svg>/);
   if (!match) throw new Error(`${file}: no <svg> root found`);
   if (!/viewBox="0 0 100 100"/.test(match[1])) throw new Error(`${file}: viewBox must be "0 0 100 100"`);
-  const svg = match[2].replace(/\s*\n\s*/g, "").trim();
+  const svg = match[2].replace(/<!--[\s\S]*?-->/g, "").replace(/\s*\n\s*/g, "").trim();
   return { ...entry, tags: entry.tags ?? [], source: { modified: false, ...entry.source }, svg };
 });
 
@@ -33,4 +38,4 @@ export const elements: ElementDef[] = ${JSON.stringify(elements, null, 2)};
 export const lexicon: LexiconEntry[] = ${JSON.stringify(lexicon, null, 2)};
 `;
 writeFileSync(join(root, "src", "generated.ts"), out);
-console.log(`library: ${elements.length} elements, ${lexicon.length} lexicon entries generated`);
+console.log(`library: ${elements.length} elements from ${manifests.join(", ")}, ${lexicon.length} lexicon entries generated`);

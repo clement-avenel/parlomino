@@ -10,7 +10,22 @@
       "default": "./dist/index.js"
     }
   },
-  "files": ["dist"],
-  "dependencies": { "@parlomino/spec": "0.1.0" },
-  "repository": { "type": "git", "url": "https://github.com/clement-avenel/parlomino", "directory": "packages/library" }
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@parlomino/spec": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clement-avenel/parlomino",
+    "directory": "packages/library"
+  },
+  "devDependencies": {
+    "openmoji": "^17.0.0"
+  },
+  "scripts": {
+    "import:openmoji": "node scripts/import-openmoji.mjs",
+    "draw:characters": "node scripts/draw-characters.mjs"
+  }
 }

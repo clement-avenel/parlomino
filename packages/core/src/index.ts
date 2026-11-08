@@ -6,6 +6,7 @@ export {
   type ComposeResult,
   type PictoResult,
   type PhraseResult,
+  type Credit,
 } from "./compose.ts";
 export {
   validate,

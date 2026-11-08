@@ -15,7 +15,9 @@
     "test": "npm run generate && vitest run",
     "bench": "npm run generate && node --conditions=source scripts/bench.ts",
     "site": "npm run generate && node --conditions=source website/scripts/hero.ts && npm run build -w @parlomino/website",
-    "site:dev": "npm run generate && node --conditions=source website/scripts/hero.ts && npm run dev -w @parlomino/website"
+    "site:dev": "npm run generate && node --conditions=source website/scripts/hero.ts && npm run dev -w @parlomino/website",
+    "import:openmoji": "npm run import:openmoji -w @parlomino/library",
+    "draw": "npm run import:openmoji -w @parlomino/library && npm run draw:characters -w @parlomino/library && npm run generate"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",

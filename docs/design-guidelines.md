@@ -1,13 +1,34 @@
 # Design guidelines
 
-Each element is an SVG file in `packages/library/elements/<prefix>/<name>.svg`,
-declared in `packages/library/elements.json`. Tests check these rules automatically.
+Each element is an SVG file in `packages/library/elements/<prefix>/<name>.svg`, declared in a manifest.
+Tests check these rules automatically.
+
+## Where drawings come from
+
+| Source | Manifest | How to change it |
+|---|---|---|
+| The Parlomino character (people and actions) | `elements.characters.json` | Edit the pose in `scripts/draw-characters.mjs`, then `npm run draw` |
+| Adapted from [OpenMoji](https://openmoji.org) (objects, food, animals, places, body, colors…) | `elements.openmoji.json` | Edit the list in `sources/openmoji.mjs`, then `npm run draw` |
+| Drawn by hand (frames, marks, a few concepts) | `elements.json` | Edit the SVG file |
+
+## What makes a pictogram understandable
+
+These principles come from the best-known AAC symbol sets, which have been tested with users for decades:
+
+1. **Show a person doing the action.** "Drink" is a child bringing a cup to the mouth, not a cup.
+   A cup alone is read as "cup".
+2. **One consistent character** in every pose, so that the person is never what changes.
+3. **Close-ups for the face and hands.** Eating, drinking, listening or reading are framed on the upper body,
+   so the mouth, the hands and the object are big enough to see.
+4. **Real shapes, simplified.** A shoe looks like a shoe, a dog like a dog: recognizable silhouettes,
+   flat colors and a dark outline, not geometric abstractions.
+5. **Context when needed.** A table for writing, a chair for sitting, a bed for sleeping.
 
 ## Three kinds of elements
 
 | Kind | Id | Role |
 |---|---|---|
-| Concept | `<category>.<name>` (`person`, `action`, `feeling`, `object`, `place`, `idea`) | Base drawing, also usable as a badge |
+| Concept | `<category>.<name>` (`person`, `action`, `feeling`, `body`, `object`, `animal`, `place`, `color`, `idea`) | Base drawing, also usable as a badge |
 | Frame | `frame.<name>` | Outline changing the category. Declares an `inner` box where the concept is drawn |
 | Mark | `mark.<modifier>` | Small sign of a modifier (very, a little), shown in a corner disc |
 
@@ -16,7 +37,9 @@ declared in `packages/library/elements.json`. Tests check these rules automatica
 1. **Canvas**: `viewBox="0 0 100 100"`, centered drawing, margin of about 6 units.
 2. **Palette only**: only the colors of `palette` (`packages/library/src/index.ts`) are allowed.
    This is what lets themes (high contrast, etc.) recolor the drawing.
-3. **Always outlined**: every shape has a `stroke` (ink `#1F2937`). Without it, a shape disappears in high contrast.
+3. **Always outlined**: every shape has a `stroke` (ink `#1F2937`), or is filled with ink. Without it, a shape disappears
+   in high contrast. Imported drawings may have flat fills without outlines in a `color` layer, as long as a `line`
+   layer draws every shape on top.
 4. **Never color alone**: the shape must be enough to recognize the element.
 5. **Readable when small**: a concept may be shown at 2 cm, or as a badge at a few millimeters.
    No gradients, shadows, text, `id`, `<script>` or links.
@@ -38,8 +61,8 @@ intellectual disabilities. When a rule below conflicts with aesthetics, the rule
 - **Show, don't symbolize**: when a meaning can be shown with the concept itself, do it.
   Big and small compare the concept with a dashed copy of itself instead of using an abstract mark.
 - **No computer conventions**: no resize arrows, crosshairs, cursors or interface icons.
-- **Few strokes, few colors**: enforced by a simplicity budget in the tests
-  (strokes, colors and minimal stroke width per kind of element).
+- **No clutter**: a simplicity budget in the tests sets a ceiling on strokes and colors, and a minimal outline width.
+  It catches outliers; it does not prove that a drawing is understood.
 - **Modifiers are learned**: "very", "a little", "big", "small"… cannot be fully obvious.
   Keep their marks as simple as possible, and expect them to be taught.
 
@@ -70,10 +93,10 @@ Each element declares its source in `elements.json`:
 "source": { "name": "OpenMoji", "author": "…", "url": "…", "license": "CC-BY-SA-4.0", "modified": true }
 ```
 
-Accepted licenses (checked in CI): `CC-BY-SA-4.0`, `CC-BY-4.0`, `CC0-1.0`.
+Accepted licenses (checked in CI): `CC-BY-SA-4.0`, `CC-BY-4.0`, `CC0-1.0`. OpenMoji is CC BY-SA 4.0.
 Forbidden: ARASAAC, Sclera and any non-commercial (`NC`) symbol set, including as a model to redraw.
 
-## Adding an element
+## Adding a hand-drawn element
 
 1. Draw the SVG following the rules above.
 2. Add it to `elements.json` with its `en` and `fr` labels and its source.

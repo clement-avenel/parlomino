@@ -226,3 +226,22 @@
     font-size: 1.125rem;
   }
 }
+
+/* ─── Credits ─────────────────────────────────────────────────────────────── */
+
+.pm-credits td {
+  vertical-align: middle;
+}
+.pm-credits__thumb {
+  display: inline-block;
+  width: 2.25rem;
+  margin-inline-end: 0.5rem;
+  vertical-align: middle;
+  background: #fff;
+  border-radius: 0.375rem;
+}
+.pm-credits__thumb svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}

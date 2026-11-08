@@ -1,0 +1,3583 @@
+[
+  {
+    "id": "object.grapes",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "grapes"
+      ],
+      "fr": [
+        "raisin",
+        "raisins"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Hend Hourani",
+      "url": "https://openmoji.org/library/emoji-1F347/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.strawberry",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "strawberry"
+      ],
+      "fr": [
+        "fraise"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F353/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.orange",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "orange"
+      ],
+      "fr": [
+        "orange"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F34A/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.pear",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "pear"
+      ],
+      "fr": [
+        "poire"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F350/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.cherries",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cherries",
+        "cherry"
+      ],
+      "fr": [
+        "cerises",
+        "cerise"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F352/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.watermelon",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "watermelon"
+      ],
+      "fr": [
+        "pastèque"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F349/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.carrot",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "carrot"
+      ],
+      "fr": [
+        "carotte"
+      ]
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F955/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.tomato",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "tomato"
+      ],
+      "fr": [
+        "tomate"
+      ]
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F345/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.potato",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "potato"
+      ],
+      "fr": [
+        "pomme de terre",
+        "patate"
+      ]
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F954/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.broccoli",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "broccoli"
+      ],
+      "fr": [
+        "brocoli"
+      ]
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F966/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.corn",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "corn"
+      ],
+      "fr": [
+        "maïs"
+      ]
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F33D/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.cheese",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cheese"
+      ],
+      "fr": [
+        "fromage"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F9C0/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.egg",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "egg"
+      ],
+      "fr": [
+        "œuf",
+        "oeuf"
+      ]
+    },
+    "forms": {
+      "en": [
+        "eggs"
+      ],
+      "fr": [
+        "œufs",
+        "oeufs"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Niklas Kuntz",
+      "url": "https://openmoji.org/library/emoji-1F95A/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.rice",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "rice"
+      ],
+      "fr": [
+        "riz"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F35A/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.pasta",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "pasta",
+        "spaghetti"
+      ],
+      "fr": [
+        "pâtes",
+        "spaghettis"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F35D/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.pizza",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "pizza"
+      ],
+      "fr": [
+        "pizza"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F355/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.burger",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "burger",
+        "hamburger"
+      ],
+      "fr": [
+        "hamburger"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F354/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.fries",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "fries",
+        "chips"
+      ],
+      "fr": [
+        "frites"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F35F/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.sandwich",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "sandwich"
+      ],
+      "fr": [
+        "sandwich"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F96A/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.soup",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "soup"
+      ],
+      "fr": [
+        "soupe"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F372/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.cookie",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cookie",
+        "biscuit"
+      ],
+      "fr": [
+        "biscuit",
+        "gâteau sec"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F36A/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.cake",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cake"
+      ],
+      "fr": [
+        "gâteau"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F370/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.birthday-cake",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "birthday cake",
+        "birthday"
+      ],
+      "fr": [
+        "gâteau d'anniversaire",
+        "anniversaire"
+      ]
+    },
+    "tags": [
+      "food",
+      "party"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F382/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.candy",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "sweet",
+        "candy",
+        "lollipop"
+      ],
+      "fr": [
+        "bonbon",
+        "sucette"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Carlin MacKenzie",
+      "url": "https://openmoji.org/library/emoji-1F36D/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.ice-cream",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "ice cream"
+      ],
+      "fr": [
+        "glace"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F366/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.chocolate",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "chocolate"
+      ],
+      "fr": [
+        "chocolat"
+      ]
+    },
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F36B/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.croissant",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "croissant"
+      ],
+      "fr": [
+        "croissant"
+      ]
+    },
+    "tags": [
+      "food"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Miriam Vollmeier",
+      "url": "https://openmoji.org/library/emoji-1F950/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.milk",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "milk"
+      ],
+      "fr": [
+        "lait"
+      ]
+    },
+    "tags": [
+      "drink"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-1F95B/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.juice",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "juice"
+      ],
+      "fr": [
+        "jus",
+        "jus de fruit"
+      ]
+    },
+    "tags": [
+      "drink"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Evelyn Soos",
+      "url": "https://openmoji.org/library/emoji-1F9C3/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.baby-bottle",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "baby bottle",
+        "bottle"
+      ],
+      "fr": [
+        "biberon"
+      ]
+    },
+    "tags": [
+      "drink",
+      "baby"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-1F37C/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.cup",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cup"
+      ],
+      "fr": [
+        "gobelet",
+        "verre"
+      ]
+    },
+    "tags": [
+      "drink",
+      "meal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-1F964/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.bowl",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bowl"
+      ],
+      "fr": [
+        "bol"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F963/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.spoon",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "spoon"
+      ],
+      "fr": [
+        "cuillère"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F944/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.cutlery",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cutlery",
+        "fork",
+        "knife"
+      ],
+      "fr": [
+        "couverts",
+        "fourchette",
+        "couteau"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F374/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.dog",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "dog"
+      ],
+      "fr": [
+        "chien"
+      ]
+    },
+    "forms": {
+      "en": [
+        "dogs",
+        "puppy"
+      ],
+      "fr": [
+        "chiens",
+        "chienne",
+        "chiot"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F415/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.cat",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "cat"
+      ],
+      "fr": [
+        "chat"
+      ]
+    },
+    "forms": {
+      "en": [
+        "cats",
+        "kitten"
+      ],
+      "fr": [
+        "chats",
+        "chatte",
+        "chaton"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F408/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.horse",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "horse"
+      ],
+      "fr": [
+        "cheval"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "chevaux"
+      ]
+    },
+    "tags": [
+      "animal",
+      "farm"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F40E/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.cow",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "cow"
+      ],
+      "fr": [
+        "vache"
+      ]
+    },
+    "tags": [
+      "animal",
+      "farm"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F404/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.pig",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "pig"
+      ],
+      "fr": [
+        "cochon"
+      ]
+    },
+    "tags": [
+      "animal",
+      "farm"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F416/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.sheep",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "sheep"
+      ],
+      "fr": [
+        "mouton",
+        "brebis"
+      ]
+    },
+    "tags": [
+      "animal",
+      "farm"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F411/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.chicken",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "chicken",
+        "hen"
+      ],
+      "fr": [
+        "poule"
+      ]
+    },
+    "tags": [
+      "animal",
+      "farm"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F414/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.bird",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "bird"
+      ],
+      "fr": [
+        "oiseau"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "oiseaux"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F426/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.duck",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "duck"
+      ],
+      "fr": [
+        "canard"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F986/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.fish",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "fish"
+      ],
+      "fr": [
+        "poisson"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F41F/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.rabbit",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "rabbit",
+        "bunny"
+      ],
+      "fr": [
+        "lapin"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F407/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.mouse",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "mouse"
+      ],
+      "fr": [
+        "souris"
+      ]
+    },
+    "forms": {
+      "en": [
+        "mice"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F401/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.bear",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "bear"
+      ],
+      "fr": [
+        "ours"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F43B/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.lion",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "lion"
+      ],
+      "fr": [
+        "lion"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F981/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.elephant",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "elephant"
+      ],
+      "fr": [
+        "éléphant"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F418/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.monkey",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "monkey"
+      ],
+      "fr": [
+        "singe"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sofie Ascherl",
+      "url": "https://openmoji.org/library/emoji-1F412/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.frog",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "frog"
+      ],
+      "fr": [
+        "grenouille"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F438/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.turtle",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "turtle",
+        "tortoise"
+      ],
+      "fr": [
+        "tortue"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Robert Winslow",
+      "url": "https://openmoji.org/library/emoji-1F422/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.butterfly",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "butterfly"
+      ],
+      "fr": [
+        "papillon"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Robert Winslow",
+      "url": "https://openmoji.org/library/emoji-1F98B/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "animal.snail",
+    "kind": "concept",
+    "category": "animal",
+    "labels": {
+      "en": [
+        "snail"
+      ],
+      "fr": [
+        "escargot"
+      ]
+    },
+    "tags": [
+      "animal"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Selina Bauder",
+      "url": "https://openmoji.org/library/emoji-1F40C/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.ball",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "ball"
+      ],
+      "fr": [
+        "ballon",
+        "balle"
+      ]
+    },
+    "tags": [
+      "play",
+      "toy"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-26BD/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.teddy",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "teddy bear",
+        "cuddly toy"
+      ],
+      "fr": [
+        "doudou",
+        "nounours",
+        "peluche"
+      ]
+    },
+    "tags": [
+      "play",
+      "toy"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F9F8/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.kite",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "kite"
+      ],
+      "fr": [
+        "cerf-volant"
+      ]
+    },
+    "tags": [
+      "play",
+      "toy"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Evelyn Soos",
+      "url": "https://openmoji.org/library/emoji-1FA81/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.balloon",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "balloon"
+      ],
+      "fr": [
+        "ballon de baudruche"
+      ]
+    },
+    "tags": [
+      "play",
+      "party"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-1F388/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.puzzle",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "puzzle"
+      ],
+      "fr": [
+        "puzzle",
+        "casse-tête"
+      ]
+    },
+    "tags": [
+      "play",
+      "toy"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Nicole Kornhaas",
+      "url": "https://openmoji.org/library/emoji-1F9E9/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.video-game",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "video game",
+        "console"
+      ],
+      "fr": [
+        "jeu vidéo",
+        "console"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F3AE/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.gift",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "present",
+        "gift"
+      ],
+      "fr": [
+        "cadeau"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "cadeaux"
+      ]
+    },
+    "tags": [
+      "party"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-1F381/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.car",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "car"
+      ],
+      "fr": [
+        "voiture"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F697/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.bus",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bus"
+      ],
+      "fr": [
+        "bus",
+        "car scolaire"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F68C/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.train",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "train"
+      ],
+      "fr": [
+        "train"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F682/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.plane",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "plane",
+        "airplane"
+      ],
+      "fr": [
+        "avion"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-2708/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.bike",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bike",
+        "bicycle"
+      ],
+      "fr": [
+        "vélo"
+      ]
+    },
+    "tags": [
+      "transport",
+      "play"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-1F6B2/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.boat",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "boat"
+      ],
+      "fr": [
+        "bateau"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "bateaux"
+      ]
+    },
+    "tags": [
+      "transport"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ronja Bäurlen",
+      "url": "https://openmoji.org/library/emoji-26F5/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.pencil",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "pencil"
+      ],
+      "fr": [
+        "crayon"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Rana Cakir",
+      "url": "https://openmoji.org/library/emoji-270F/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.crayon",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "crayon",
+        "colored pencil"
+      ],
+      "fr": [
+        "crayon de couleur",
+        "feutre"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Rana Cakir",
+      "url": "https://openmoji.org/library/emoji-1F58D/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.scissors",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "scissors"
+      ],
+      "fr": [
+        "ciseaux"
+      ]
+    },
+    "tags": [
+      "school"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-2702/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.paint",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "paint",
+        "painting"
+      ],
+      "fr": [
+        "peinture"
+      ]
+    },
+    "tags": [
+      "school",
+      "play"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3A8/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.guitar",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "guitar"
+      ],
+      "fr": [
+        "guitare"
+      ]
+    },
+    "tags": [
+      "music"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F3B8/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.drum",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "drum"
+      ],
+      "fr": [
+        "tambour"
+      ]
+    },
+    "tags": [
+      "music"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F941/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.music",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "music"
+      ],
+      "fr": [
+        "musique"
+      ]
+    },
+    "tags": [
+      "music"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F3B5/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.tv",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "television",
+        "TV"
+      ],
+      "fr": [
+        "télévision",
+        "télé"
+      ]
+    },
+    "tags": [
+      "screen"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F4FA/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.phone",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "phone",
+        "mobile phone"
+      ],
+      "fr": [
+        "téléphone",
+        "portable"
+      ]
+    },
+    "tags": [
+      "screen"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F4F1/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.computer",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "computer",
+        "laptop"
+      ],
+      "fr": [
+        "ordinateur"
+      ]
+    },
+    "tags": [
+      "screen"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F4BB/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.headphones",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "headphones"
+      ],
+      "fr": [
+        "casque"
+      ]
+    },
+    "tags": [
+      "music",
+      "screen"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sina Schulz",
+      "url": "https://openmoji.org/library/emoji-1F3A7/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.key",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "key"
+      ],
+      "fr": [
+        "clé",
+        "clef"
+      ]
+    },
+    "tags": [
+      "home"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F511/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.bed",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bed"
+      ],
+      "fr": [
+        "lit"
+      ]
+    },
+    "tags": [
+      "home",
+      "routine"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F6CF/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.bath",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "bath",
+        "bathtub"
+      ],
+      "fr": [
+        "bain",
+        "baignoire"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F6C1/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.shower",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "shower"
+      ],
+      "fr": [
+        "douche"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Lisa Schulz",
+      "url": "https://openmoji.org/library/emoji-1F6BF/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.soap",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "soap"
+      ],
+      "fr": [
+        "savon"
+      ]
+    },
+    "tags": [
+      "hygiene"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Tonia Reinhardt",
+      "url": "https://openmoji.org/library/emoji-1F9FC/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.toilet-paper",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "toilet paper"
+      ],
+      "fr": [
+        "papier toilette"
+      ]
+    },
+    "tags": [
+      "hygiene"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Tonia Reinhardt",
+      "url": "https://openmoji.org/library/emoji-1F9FB/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.sponge",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "sponge"
+      ],
+      "fr": [
+        "éponge"
+      ]
+    },
+    "tags": [
+      "hygiene"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Tonia Reinhardt",
+      "url": "https://openmoji.org/library/emoji-1F9FD/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.toothbrush",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "toothbrush"
+      ],
+      "fr": [
+        "brosse à dents"
+      ]
+    },
+    "tags": [
+      "hygiene",
+      "routine"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1FAA5/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.medicine",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "medicine",
+        "pill"
+      ],
+      "fr": [
+        "médicament"
+      ]
+    },
+    "tags": [
+      "health"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F48A/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.thermometer",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "thermometer"
+      ],
+      "fr": [
+        "thermomètre"
+      ]
+    },
+    "tags": [
+      "health"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-1F321/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.umbrella",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "umbrella"
+      ],
+      "fr": [
+        "parapluie"
+      ]
+    },
+    "tags": [
+      "weather"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-2602/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.glasses",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "glasses"
+      ],
+      "fr": [
+        "lunettes"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F453/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.cap",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "cap",
+        "hat"
+      ],
+      "fr": [
+        "casquette",
+        "chapeau"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Jennifer Pätzold",
+      "url": "https://openmoji.org/library/emoji-1F9E2/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.coat",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "coat",
+        "jacket"
+      ],
+      "fr": [
+        "manteau",
+        "veste"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Daniel Quiros",
+      "url": "https://openmoji.org/library/emoji-1F9E5/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.dress",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "dress"
+      ],
+      "fr": [
+        "robe"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F457/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.trousers",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "trousers",
+        "pants"
+      ],
+      "fr": [
+        "pantalon"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Jonas Roßner",
+      "url": "https://openmoji.org/library/emoji-1F456/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.socks",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "socks"
+      ],
+      "fr": [
+        "chaussettes"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "chaussette"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Schießer",
+      "url": "https://openmoji.org/library/emoji-1F9E6/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.gloves",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "gloves"
+      ],
+      "fr": [
+        "gants"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "gant"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Schießer",
+      "url": "https://openmoji.org/library/emoji-1F9E4/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.scarf",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "scarf"
+      ],
+      "fr": [
+        "écharpe"
+      ]
+    },
+    "tags": [
+      "clothes"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Schießer",
+      "url": "https://openmoji.org/library/emoji-1F9E3/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "place.school",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "school (building)"
+      ],
+      "fr": [
+        "école (bâtiment)"
+      ]
+    },
+    "tags": [
+      "place",
+      "school"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Niklas Kuntz",
+      "url": "https://openmoji.org/library/emoji-1F3EB/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "place.hospital",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "hospital"
+      ],
+      "fr": [
+        "hôpital"
+      ]
+    },
+    "tags": [
+      "place",
+      "health"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3E5/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "place.shop",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "shop",
+        "store"
+      ],
+      "fr": [
+        "magasin",
+        "boutique"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3EA/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "place.supermarket",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "supermarket",
+        "shopping"
+      ],
+      "fr": [
+        "supermarché",
+        "courses"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Marius Schnabel",
+      "url": "https://openmoji.org/library/emoji-1F6D2/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "place.beach",
+    "kind": "concept",
+    "category": "place",
+    "labels": {
+      "en": [
+        "beach"
+      ],
+      "fr": [
+        "plage"
+      ]
+    },
+    "tags": [
+      "place"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Martin Wehl",
+      "url": "https://openmoji.org/library/emoji-1F3D6/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.cloud",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "cloud",
+        "cloudy"
+      ],
+      "fr": [
+        "nuage",
+        "nuageux"
+      ]
+    },
+    "tags": [
+      "weather"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-2601/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.rain",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "rain"
+      ],
+      "fr": [
+        "pluie"
+      ]
+    },
+    "forms": {
+      "en": [
+        "raining",
+        "rainy"
+      ],
+      "fr": [
+        "pleut",
+        "pleuvoir"
+      ]
+    },
+    "tags": [
+      "weather"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-1F327/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.snow",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "snow"
+      ],
+      "fr": [
+        "neige"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "neiger",
+        "neige"
+      ]
+    },
+    "tags": [
+      "weather"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Vanessa Boutzikoudi",
+      "url": "https://openmoji.org/library/emoji-2744/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "object.flower",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "flower"
+      ],
+      "fr": [
+        "fleur"
+      ]
+    },
+    "tags": [
+      "nature"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Hilda Kalyoncu",
+      "url": "https://openmoji.org/library/emoji-1F337/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.eyes",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "eyes",
+        "eye"
+      ],
+      "fr": [
+        "yeux",
+        "œil"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F440/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.ear",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "ear"
+      ],
+      "fr": [
+        "oreille"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F442/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.nose",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "nose"
+      ],
+      "fr": [
+        "nez"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F443/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.mouth",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "mouth"
+      ],
+      "fr": [
+        "bouche"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F444/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.tooth",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "tooth",
+        "teeth"
+      ],
+      "fr": [
+        "dent",
+        "dents"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Schießer",
+      "url": "https://openmoji.org/library/emoji-1F9B7/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.tongue",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "tongue"
+      ],
+      "fr": [
+        "langue"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F445/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.hand",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "hand"
+      ],
+      "fr": [
+        "main"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-270B/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.foot",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "foot"
+      ],
+      "fr": [
+        "pied"
+      ]
+    },
+    "forms": {
+      "en": [
+        "feet"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Daniel Utz",
+      "url": "https://openmoji.org/library/emoji-1F9B6/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.leg",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "leg"
+      ],
+      "fr": [
+        "jambe"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Schießer",
+      "url": "https://openmoji.org/library/emoji-1F9B5/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "body.arm",
+    "kind": "concept",
+    "category": "body",
+    "labels": {
+      "en": [
+        "arm"
+      ],
+      "fr": [
+        "bras"
+      ]
+    },
+    "tags": [
+      "body"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F4AA/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.surprised",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "surprised"
+      ],
+      "fr": [
+        "surpris"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "surprise"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F632/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.sick",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "sick",
+        "ill"
+      ],
+      "fr": [
+        "malade"
+      ]
+    },
+    "tags": [
+      "feeling",
+      "health"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F912/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.love",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "love",
+        "in love"
+      ],
+      "fr": [
+        "amoureux",
+        "j'adore"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "amoureuse",
+        "adorer"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F60D/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.laugh",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "laugh",
+        "funny"
+      ],
+      "fr": [
+        "rire",
+        "drôle"
+      ]
+    },
+    "forms": {
+      "en": [
+        "laughing"
+      ],
+      "fr": [
+        "rigoler",
+        "rit"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Emily Jäger",
+      "url": "https://openmoji.org/library/emoji-1F606/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.cry",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "cry"
+      ],
+      "fr": [
+        "pleurer"
+      ]
+    },
+    "forms": {
+      "en": [
+        "crying",
+        "cried"
+      ],
+      "fr": [
+        "pleure",
+        "pleures"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Carlin MacKenzie",
+      "url": "https://openmoji.org/library/emoji-1F62D/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.cold",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "cold"
+      ],
+      "fr": [
+        "froid"
+      ]
+    },
+    "tags": [
+      "feeling",
+      "weather"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Antonia Wagner",
+      "url": "https://openmoji.org/library/emoji-1F976/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.hot",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "hot"
+      ],
+      "fr": [
+        "chaud"
+      ]
+    },
+    "tags": [
+      "feeling",
+      "weather"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Antonia Wagner",
+      "url": "https://openmoji.org/library/emoji-1F975/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.calm",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "calm",
+        "relieved"
+      ],
+      "fr": [
+        "calme",
+        "soulagé"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Mariella Steeb",
+      "url": "https://openmoji.org/library/emoji-1F60C/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "feeling.worried",
+    "kind": "concept",
+    "category": "feeling",
+    "labels": {
+      "en": [
+        "worried"
+      ],
+      "fr": [
+        "inquiet"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "inquiète"
+      ]
+    },
+    "tags": [
+      "feeling"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Mariella Steeb",
+      "url": "https://openmoji.org/library/emoji-1F61F/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.red",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "red"
+      ],
+      "fr": [
+        "rouge"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ricarda Krejci",
+      "url": "https://openmoji.org/library/emoji-1F534/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.orange",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "orange"
+      ],
+      "fr": [
+        "orange"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1F7E0/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.yellow",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "yellow"
+      ],
+      "fr": [
+        "jaune"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1F7E1/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.green",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "green"
+      ],
+      "fr": [
+        "vert"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "verte"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1F7E2/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.blue",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "blue"
+      ],
+      "fr": [
+        "bleu"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "bleue"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ricarda Krejci",
+      "url": "https://openmoji.org/library/emoji-1F535/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.purple",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "purple"
+      ],
+      "fr": [
+        "violet"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "violette"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1F7E3/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.brown",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "brown"
+      ],
+      "fr": [
+        "marron"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Sam Eckert",
+      "url": "https://openmoji.org/library/emoji-1F7E4/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.black",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "black"
+      ],
+      "fr": [
+        "noir"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "noire"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ricarda Krejci",
+      "url": "https://openmoji.org/library/emoji-26AB/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "color.white",
+    "kind": "concept",
+    "category": "color",
+    "labels": {
+      "en": [
+        "white"
+      ],
+      "fr": [
+        "blanc"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "blanche"
+      ]
+    },
+    "tags": [
+      "color"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Ricarda Krejci",
+      "url": "https://openmoji.org/library/emoji-26AA/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "action.point",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "point",
+        "show"
+      ],
+      "fr": [
+        "montrer",
+        "désigner"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F448/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.like",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "like",
+        "love"
+      ],
+      "fr": [
+        "aimer",
+        "j'aime"
+      ]
+    },
+    "forms": {
+      "fr": [
+        "aime",
+        "aimes"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-2764/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.good",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "good",
+        "OK"
+      ],
+      "fr": [
+        "bien",
+        "d'accord"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F44D/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.bad",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "bad",
+        "not good"
+      ],
+      "fr": [
+        "pas bien",
+        "mauvais"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Julian Grüneberg",
+      "url": "https://openmoji.org/library/emoji-1F44E/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.party",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "party"
+      ],
+      "fr": [
+        "fête"
+      ]
+    },
+    "tags": [
+      "party"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Laura Humpfer",
+      "url": "https://openmoji.org/library/emoji-1F389/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "idea.wait",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "wait"
+      ],
+      "fr": [
+        "attendre"
+      ]
+    },
+    "forms": {
+      "en": [
+        "waiting"
+      ],
+      "fr": [
+        "attends",
+        "attend"
+      ]
+    },
+    "tags": [
+      "core"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Rana Cakir",
+      "url": "https://openmoji.org/library/emoji-23F3/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "person.baby",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "baby"
+      ],
+      "fr": [
+        "bébé"
+      ]
+    },
+    "forms": {
+      "en": [
+        "babies"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Johanna Wellnitz",
+      "url": "https://openmoji.org/library/emoji-1F476/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "person.grandmother",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "grandmother",
+        "grandma"
+      ],
+      "fr": [
+        "mamie",
+        "grand-mère"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Johanna Wellnitz",
+      "url": "https://openmoji.org/library/emoji-1F475/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  },
+  {
+    "id": "person.grandfather",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "grandfather",
+        "grandpa"
+      ],
+      "fr": [
+        "papi",
+        "grand-père"
+      ]
+    },
+    "tags": [
+      "family"
+    ],
+    "source": {
+      "name": "OpenMoji",
+      "author": "Liz Bravo",
+      "url": "https://openmoji.org/library/emoji-1F474/",
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  }
+]

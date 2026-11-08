@@ -10,31 +10,26 @@ interface Props { theme?: ThemeName; show: "pictos" | "phrases"; }
 const { theme = "default", show } = Astro.props;
 
 const pictos: PictoInput[] = [
+  { concept: "action.eat" },
+  { concept: "action.drink" },
+  { concept: "action.brush-teeth" },
+  { concept: "action.read" },
+  { concept: "action.help" },
+  { concept: "action.sleep" },
   { concept: "lex.doctor" },
-  { concept: "lex.doctor", modifiers: ["plural"] },
-  { concept: "lex.pupil" },
   { concept: "lex.kitchen" },
-  { concept: "lex.bedroom" },
-  { concept: "lex.mealtime" },
-  { concept: "object.ball", modifiers: ["small"] },
-  { concept: "object.apple", modifiers: ["very", "big"] },
-  { concept: "action.sleep", modifiers: ["negation"] },
-  { concept: "object.water", modifiers: ["little"] },
+  { concept: "animal.dog", modifiers: ["plural"] },
+  { concept: "object.cake", modifiers: ["big"] },
+  { concept: "action.jump", modifiers: ["negation"] },
   { concept: "feeling.tired", modifiers: ["very"] },
-  { concept: "lex.dentist" },
-  { concept: "lex.playtime" },
-  { concept: "place.toilet" },
 ];
 const phrases: PhraseInput[] = [
   { phrase: [{ concept: "person.child" }, { concept: "action.eat", modifiers: ["negation"] }, { concept: "object.apple", modifiers: ["plural"] }], tense: "past" },
-  { phrase: [{ concept: "person.me" }, { concept: "object.ball" }] },
-  { phrase: [{ concept: "person.you" }, { concept: "object.ball", modifiers: ["small"] }] },
-  { phrase: [{ concept: "action.drink" }, { concept: "object.water" }], question: true },
-  { phrase: [{ concept: "person.me" }, { concept: "feeling.hurt" }] },
-  { phrase: [{ concept: "action.help" }, { concept: "person.me" }] },
+  { phrase: [{ concept: "person.me" }, { concept: "action.drink" }, { concept: "object.milk" }] },
   { phrase: [{ concept: "action.go" }, { concept: "place.toilet" }], question: true },
-  { phrase: [{ concept: "person.mother" }, { concept: "action.go" }, { concept: "place.home" }], tense: "future" },
-  { phrase: [{ concept: "lex.doctor" }, { concept: "action.sleep" }, { concept: "lex.bedroom" }], tense: "future" },
+  { phrase: [{ concept: "person.mother" }, { concept: "action.read" }, { concept: "object.book" }] },
+  { phrase: [{ concept: "person.me" }, { concept: "feeling.hurt" }, { concept: "body.tooth" }] },
+  { phrase: [{ concept: "person.friend" }, { concept: "action.play" }, { concept: "place.outside" }], tense: "future" },
 ];
 ---
 {show === "pictos" ? (

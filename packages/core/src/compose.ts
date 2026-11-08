@@ -1,4 +1,4 @@
-import { MODIFIERS, type Box, type ElementDef, type Modifier, type Phrase, type Picto } from "@parlomino/spec";
+import { MODIFIERS, type Box, type ElementDef, type Modifier, type Phrase, type Picto, type Source } from "@parlomino/spec";
 import { defaultLibrary, palette, type Library, type PaletteColor } from "@parlomino/library";
 import { themes, type Theme, type ThemeName } from "./themes.ts";
 import { isPhrase, validatePhrase, validatePicto, type ResolvedPicto, type ValidationIssue } from "./validate.ts";
@@ -14,12 +14,22 @@ export interface ComposeOptions {
   lang?: string;
 }
 
+/**
+ * Who to credit for a drawing used in a result. The pictograms are under CC BY-SA 4.0, and some are
+ * adapted from other projects (OpenMoji…): an app showing them must credit these sources.
+ */
+export interface Credit {
+  /** Element id, e.g. `animal.dog`. */
+  id: string;
+  source: Source;
+}
+
 export type PictoResult =
-  | { ok: true; svg: string; label: string; picto: Picto }
+  | { ok: true; svg: string; label: string; picto: Picto; credits: Credit[] }
   | { ok: false; issues: ValidationIssue[] };
 
 export type PhraseResult =
-  | { ok: true; svg: string; label: string; phrase: Phrase; pictos: { svg: string; label: string }[] }
+  | { ok: true; svg: string; label: string; phrase: Phrase; pictos: { svg: string; label: string }[]; credits: Credit[] }
   | { ok: false; issues: ValidationIssue[] };
 
 // ─── Geometry (100×100 box). See the zone diagram in @parlomino/spec. ────────
@@ -50,7 +60,7 @@ export function composePicto(input: unknown, options: ComposeOptions = {}): Pict
   if (!result.ok) return result;
   const label = pictoLabel(result.resolved, ctx.lang);
   const body = `<rect width="100" height="100" fill="${ctx.theme.background}"/>${pictoBody(result.resolved, ctx)}`;
-  return { ok: true, svg: svgRoot(100, 100, options.size, label, body), label, picto: result.picto };
+  return { ok: true, svg: svgRoot(100, 100, options.size, label, body), label, picto: result.picto, credits: credits([result.resolved]) };
 }
 
 export function composePhrase(input: unknown, options: ComposeOptions = {}): PhraseResult {
@@ -86,7 +96,7 @@ export function composePhrase(input: unknown, options: ComposeOptions = {}): Phr
   const label = phraseLabel(phrase, pictos.map((p) => p.label), ctx.lang);
   const height = options.size;
   const svg = svgRoot(width, 100, height && (height * width) / 100, label, parts.join(""), height);
-  return { ok: true, svg, label, phrase, pictos };
+  return { ok: true, svg, label, phrase, pictos, credits: credits(resolved) };
 }
 
 export type ComposeResult = PictoResult | PhraseResult;
@@ -161,6 +171,15 @@ function questionMark(theme: Theme, strokeScale: number): string {
     mark("M11 36 Q11 22 20 22 Q30 22 30 32 Q30 40 20 46 V56", theme, strokeScale) +
     `<circle cx="20" cy="68" r="${r(4 * strokeScale)}" fill="${theme.mark}"/>`
   );
+}
+
+/** Every drawing used, once, with its source (marks drawn by the engine itself are not listed). */
+function credits(pictos: ResolvedPicto[]): Credit[] {
+  const seen = new Map<string, Credit>();
+  for (const p of pictos) {
+    for (const e of [p.frame, p.concept, p.badge]) if (e && !seen.has(e.id)) seen.set(e.id, { id: e.id, source: e.source });
+  }
+  return [...seen.values()];
 }
 
 // ─── Labels ──────────────────────────────────────────────────────────────────
