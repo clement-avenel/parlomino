@@ -1,0 +1,128 @@
+[
+  {
+    "id": "lex.doctor",
+    "labels": {
+      "en": [
+        "doctor"
+      ],
+      "fr": [
+        "médecin",
+        "docteur"
+      ]
+    },
+    "picto": {
+      "concept": "person.adult",
+      "badge": "idea.care"
+    }
+  },
+  {
+    "id": "lex.teacher",
+    "labels": {
+      "en": [
+        "teacher"
+      ],
+      "fr": [
+        "enseignant",
+        "maîtresse",
+        "maître"
+      ]
+    },
+    "picto": {
+      "concept": "person.adult",
+      "badge": "idea.school"
+    }
+  },
+  {
+    "id": "lex.pupil",
+    "labels": {
+      "en": [
+        "pupil",
+        "student"
+      ],
+      "fr": [
+        "élève"
+      ]
+    },
+    "picto": {
+      "concept": "person.child",
+      "badge": "idea.school"
+    }
+  },
+  {
+    "id": "lex.kitchen",
+    "labels": {
+      "en": [
+        "kitchen"
+      ],
+      "fr": [
+        "cuisine"
+      ]
+    },
+    "picto": {
+      "concept": "action.eat",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.bedroom",
+    "labels": {
+      "en": [
+        "bedroom"
+      ],
+      "fr": [
+        "chambre"
+      ]
+    },
+    "picto": {
+      "concept": "action.sleep",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.school",
+    "labels": {
+      "en": [
+        "school (place)"
+      ],
+      "fr": [
+        "école (lieu)"
+      ]
+    },
+    "picto": {
+      "concept": "idea.school",
+      "frame": "frame.place"
+    }
+  },
+  {
+    "id": "lex.mealtime",
+    "labels": {
+      "en": [
+        "mealtime"
+      ],
+      "fr": [
+        "repas",
+        "heure du repas"
+      ]
+    },
+    "picto": {
+      "concept": "action.eat",
+      "frame": "frame.moment"
+    }
+  },
+  {
+    "id": "lex.bedtime",
+    "labels": {
+      "en": [
+        "bedtime"
+      ],
+      "fr": [
+        "coucher",
+        "heure du coucher"
+      ]
+    },
+    "picto": {
+      "concept": "action.sleep",
+      "frame": "frame.moment"
+    }
+  }
+]

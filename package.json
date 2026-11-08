@@ -1,0 +1,26 @@
+{
+  "name": "parlomino-monorepo",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/spec",
+    "packages/library",
+    "packages/core"
+  ],
+  "scripts": {
+    "generate": "node packages/library/scripts/generate.mjs",
+    "build": "npm run generate && tsc -b packages/core",
+    "typecheck": "npm run generate && tsc -b packages/core",
+    "test": "npm run generate && vitest run",
+    "bench": "npm run generate && node --conditions=source scripts/bench.ts",
+    "examples": "npm run generate && node --conditions=source scripts/render-examples.ts && node --conditions=source scripts/render-catalog.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}

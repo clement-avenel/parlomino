@@ -1,0 +1,13 @@
+Parlomino pictograms (elements/**/*.svg, elements.json, lexicon.json, src/generated.ts)
+Copyright (c) 2026 Clément Avenel and the Parlomino contributors
+
+These drawings are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Required attribution: "Parlomino pictograms (parlomino.org), CC BY-SA 4.0".
+Elements adapted from other projects keep their own attribution, listed in the
+"source" field of each element in elements.json.
+
+The code in this package (src/index.ts, scripts/) is licensed under Apache-2.0,
+see the LICENSE file at the root of the repository.

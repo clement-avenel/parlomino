@@ -1,0 +1,363 @@
+[
+  {
+    "id": "person.child",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "child"
+      ],
+      "fr": [
+        "enfant"
+      ]
+    },
+    "forms": {
+      "en": [
+        "children",
+        "kid",
+        "kids"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "person.adult",
+    "kind": "concept",
+    "category": "person",
+    "labels": {
+      "en": [
+        "adult"
+      ],
+      "fr": [
+        "adulte"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.eat",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "eat"
+      ],
+      "fr": [
+        "manger"
+      ]
+    },
+    "forms": {
+      "en": [
+        "eats",
+        "ate",
+        "eaten",
+        "eating"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.drink",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "drink"
+      ],
+      "fr": [
+        "boire"
+      ]
+    },
+    "forms": {
+      "en": [
+        "drinks",
+        "drank",
+        "drunk",
+        "drinking"
+      ],
+      "fr": [
+        "bois",
+        "boit",
+        "buvons",
+        "buvez",
+        "boivent",
+        "bu",
+        "buvait",
+        "buvant"
+      ]
+    },
+    "tags": [
+      "meal"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "action.sleep",
+    "kind": "concept",
+    "category": "action",
+    "labels": {
+      "en": [
+        "sleep"
+      ],
+      "fr": [
+        "dormir"
+      ]
+    },
+    "forms": {
+      "en": [
+        "sleeps",
+        "slept",
+        "sleeping",
+        "asleep"
+      ],
+      "fr": [
+        "dors",
+        "dort",
+        "dormons",
+        "dormez",
+        "dorment",
+        "dormi",
+        "dormait",
+        "dormant"
+      ]
+    },
+    "tags": [
+      "routine"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.apple",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "apple"
+      ],
+      "fr": [
+        "pomme"
+      ]
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.water",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "water"
+      ],
+      "fr": [
+        "eau"
+      ]
+    },
+    "tags": [
+      "drink"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "object.ball",
+    "kind": "concept",
+    "category": "object",
+    "labels": {
+      "en": [
+        "ball"
+      ],
+      "fr": [
+        "ballon",
+        "balle"
+      ]
+    },
+    "tags": [
+      "play"
+    ],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.care",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "care",
+        "health"
+      ],
+      "fr": [
+        "soin",
+        "santé"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "idea.school",
+    "kind": "concept",
+    "category": "idea",
+    "labels": {
+      "en": [
+        "school",
+        "learn"
+      ],
+      "fr": [
+        "école",
+        "apprendre"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "frame.place",
+    "kind": "frame",
+    "labels": {
+      "en": [
+        "place"
+      ],
+      "fr": [
+        "lieu"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "inner": {
+      "x": 24,
+      "y": 44,
+      "size": 46
+    }
+  },
+  {
+    "id": "frame.moment",
+    "kind": "frame",
+    "labels": {
+      "en": [
+        "time"
+      ],
+      "fr": [
+        "moment"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    },
+    "inner": {
+      "x": 24,
+      "y": 29,
+      "size": 52
+    }
+  },
+  {
+    "id": "mark.very",
+    "kind": "mark",
+    "labels": {
+      "en": [
+        "very"
+      ],
+      "fr": [
+        "très"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "mark.little",
+    "kind": "mark",
+    "labels": {
+      "en": [
+        "a little"
+      ],
+      "fr": [
+        "un peu"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "mark.big",
+    "kind": "mark",
+    "labels": {
+      "en": [
+        "big"
+      ],
+      "fr": [
+        "grand"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  {
+    "id": "mark.small",
+    "kind": "mark",
+    "labels": {
+      "en": [
+        "small"
+      ],
+      "fr": [
+        "petit"
+      ]
+    },
+    "tags": [],
+    "source": {
+      "name": "Parlomino",
+      "license": "CC-BY-SA-4.0"
+    }
+  }
+]
