@@ -13,7 +13,7 @@
     "typecheck": "npm run generate && tsc -b packages/core",
     "test": "npm run generate && vitest run",
     "bench": "npm run generate && node --conditions=source scripts/bench.ts",
-    "examples": "npm run generate && node --conditions=source scripts/render-examples.ts && node --conditions=source scripts/render-catalog.ts"
+    "site": "npm run generate && node --conditions=source scripts/site/build.ts"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",

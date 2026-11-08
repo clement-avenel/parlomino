@@ -30,6 +30,7 @@ search("médecin", { lang: "fr" });  // → same result, in French
 ```
 
 The whole grammar fits on one page: [docs/grammar.md](docs/grammar.md).
+Documentation site, in English and French: **https://clement-avenel.github.io/parlomino/**
 
 Parlomino is not a therapy method: it is a **pictographic code and tools**, designed to serve
 existing AAC approaches (picture exchange, communication books, core vocabulary, visual schedules…).
@@ -69,7 +70,7 @@ Adding a language means adding its labels, and optionally its rules in `packages
 ```sh
 npm install
 npm test           # regenerates the library and runs the tests
-npm run examples   # gallery and catalog, one per language: examples/index.html, examples/catalog.html…
+npm run site       # documentation site in site/, one version per language (deployed to GitHub Pages)
 npm run bench      # checks the performance budget
 npm run build      # compiles to packages/*/dist
 ```
